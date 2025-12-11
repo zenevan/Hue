@@ -1,0 +1,527 @@
+Log session starting at 11:15:31 on Friday, 5 December 2025.
+
+11:15:31.094 < 678h/639H 155v/155V |fr +| |3|3|3|3|2| P: std >     
+11:15:31.094 [Spellqueue cleared.]
+11:15:31.262 You will no longer see the mini-map when moving.
+
+11:15:31.309 < 678h/639H 155v/155V |fr +| |3|3|3|3|2| P: std >     
+11:15:31.511 You will now see the classic prompt.
+
+11:15:31.559 < 678h/639H 155v/155V |sot +|bc +| |3|3|3|3|2| >
+11:15:31.765 < P: std > 
+11:15:31.765  Prompt Command Usage:
+11:15:31.766   prompt                             - Display this help
+11:15:31.766   prompt layout                      - List available layouts
+11:15:31.767   prompt layout <layout>             - Set your layout
+11:15:31.768   prompt fields                      - List available fields
+11:15:31.768   prompt add <field>                 - Add a field to your current layout
+11:15:31.792   prompt remove <field>              - Remove a field from your current layout
+11:15:31.793   prompt options                     - Show a list of prompt option flags
+11:15:31.794   prompt options <flag>              - Toggle a prompt option
+11:15:31.795   prompt power <power> <slot>        - Add a power to a prompt slot
+11:15:31.796   prompt power auto                  - Set the default suggested power prompts
+11:15:31.797   prompt power clear <power, all>    - Clear a power from the prompt
+11:15:31.798   prompt color                       - List available prompt power colors
+11:15:31.799   prompt color <power, slot> <color> - Set the ready power color for a specific power or slot
+11:15:31.801   prompt color <type> <color>        - Set color for: <ready, cooldown, special, default, combo>
+11:15:31.802   prompt color <type> <clear>        - Clear color for <ready, cooldown, special, default, combo> 
+11:15:31.804   prompt color reset                 - Reset all prompt colors to default
+11:15:31.805   prompt help                        - Display this help
+
+11:15:31.847 To use the prompt command, first toggle on NEWPROMPT.
+
+11:15:31.848 < 678h/639H 155v/155V |sot +|bc +| |3|3|3|3|2| >
+11:15:32.012 < P: std > 
+11:15:32.092 Smartprompt toggled on.
+
+11:15:32.094 < 678h/639H 155v/155V |sot +|bc +| |3|3|3|3|2| >
+11:15:32.264 < P: std > 
+11:15:32.353 There are no sub-classes currently available to your class.
+
+11:15:32.354 < 678h/639H 155v/155V |sot +|bc +| |3|3|3|3|2| >
+11:15:32.514 < P: std > 
+
+11:15:32.602           Character attributes for Kazgabope
+
+11:15:32.603 Level: 50   Race: Duergar   Class: Blackguard  
+11:15:32.625 Size: Medium
+11:15:32.626 STR: 100  AGI: 100  DEX: 100  CON:  83
+11:15:32.626 POW:  70  INT:  70  WIS:  70  CHA:  71
+11:15:32.626 Armor Class: 100  (100 to -100)  Agility Bonus: -15
+11:15:32.627 Magic Resistance: 0 percent
+11:15:32.627 Hitroll: 6   Damroll: 7
+11:15:32.627 Alignment: Lawful Evil
+11:15:32.628 Saving Throws: PAR[0]  ROD[0]  PET[0]  BRE[0]  SPE[0]
+11:15:32.628    Wimpy: not set
+11:15:32.628 Load carried: What load?
+11:15:32.629 Damage Resistance:
+11:15:32.629 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+11:15:32.630 Spells:    0% Fire  :    0% Cold  :    0% Elect :    0% Acid  :    0% 
+11:15:32.630 Sonic :    0% Poison:    0% Pos   :    0% Neg   :    0% Psi   :    0% 
+11:15:32.631 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+11:15:32.632 Force :    0% 
+
+11:15:32.632 < 678h/639H 155v/155V |sot +|bc +| |3|3|3|3|2| >
+11:15:32.764 < P: std > 
+
+11:15:32.848           Score information for Kazgabope
+
+11:15:32.849 Level: 50   Race: Duergar   Class: Blackguard  
+11:15:32.855 Hit points: 678(639)  Moves: 155(155)
+11:15:32.855 Experience Progress: 1036 % 
+11:15:32.856 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+11:15:32.856 Coins in bank: 2403 platinum  3288 gold     3 silver     0 copper
+11:15:32.857 Prestige: 6600   Acheron Kill Count: 0
+11:15:32.858 Name status: Pending
+11:15:32.858 Citizen of:   Gloomhaven
+11:15:32.858 Outcast from: Griffon's Nest
+11:15:32.859 Playing time: 3 days / 13 hours / 2 minutes
+11:15:32.859 Title: 
+11:15:32.859 Status:  Standing.
+11:15:32.859 Detecting:       Good
+11:15:32.860 Enchantments:    Ultravision
+
+11:15:32.860 < 678h/639H 155v/155V |sot +|bc +| |3|3|3|3|2| >
+11:15:33.016 < P: std > 
+11:15:33.094 You are hungry.
+11:15:33.094 You are thirsty.
+11:15:33.095 You aren't wearing anything!
+
+11:15:33.113 < 678h/639H 155v/155V |sot +|bc +| |3|3|3|3|2| >
+11:15:33.264 < P: std > 
+11:15:33.350 < 678h/639H 155v/155V |sot +|bc +| |3|3|3|3|2| >
+11:15:33.514 < P: std > 
+11:15:33.610 < 678h/639H 155v/155V |sot +|bc +| |3|3|3|3|2| >
+11:15:33.765 < P: std > 
+11:15:33.858 You are 0 XP (0.00%) away from your next level.
+
+11:15:33.859 < 678h/639H 155v/155V |sot +|bc +| |3|3|3|3|2| >
+11:15:34.014 < P: std > 
+11:15:34.102 You haven't consented to anyone.
+
+11:15:34.103 Kazgabope is consenting you.
+
+11:15:34.103 < 678h/639H 155v/155V |sot +|bc +| |3|3|3|3|2| >
+11:15:34.266 < P: std > 
+11:15:34.349 You will now see the mini-map when moving.
+
+11:15:34.350 < 678h/639H 155v/155V |sot +|bc +| |3|3|3|3|2| >
+11:15:34.516 < P: std > 
+11:15:34.597 You will now see the new prompt.
+
+11:15:34.598 < 678h/639H 155v/155V |fr +| |3|3|3|3|2| P: std >     
+11:15:34.768 Smartprompt toggled off.
+
+11:15:34.860 < 678h/639H 155v/155V |fr +| |3|3|3|3|2| P: std >     
+11:15:35.017 The Upstairs of the Wayward House Inn
+11:15:34.860 < 678h/639H 155v/155V |fr +| |3|3|3|3|2| P: std >     
+11:15:35.097 [Setting statname to unset]
+11:15:35.103 [Setting rescuetype to basic]
+11:15:35.108 [All train triggers disabled]
+11:15:35.108 < 678h/639H 155v/155V |fr +| |3|3|3|3|2| P: std >     
+11:15:35.268 Prompt option newline disabled.
+
+11:15:35.518 < 678h/639H 155v/155V |fr +| |3|3|3|3|2| P: std >Prompt option newline enabled.
+
+11:15:35.603 < 678h/639H 155v/155V |fr +| |3|3|3|3|2| P: std >     
+
+11:15:35.616 [Searching... Match found: Silverymoon, Gem of the North : The Upstairs of the Wayward House Inn : 48604]
+
+11:15:40.048 You gain access to Suhu's storage cache.  
+11:15:40.049 In order to use your own cache again, you must first close this cache by entering: 'storage access close'.
+
+11:15:40.127 < 677h/639H 155v/155V |fr +| |3|3|3|3|2| P: std >     
+11:15:42.786 You retrieve a stout dragonhide pack from Suhu's storage cache.
+11:15:42.787 Autosaving...
+
+11:15:42.834 < 676h/639H 155v/155V |fr +| |3|3|3|3|2| P: std >     
+11:15:43.031 It is 7pm, on the Day of the Moon
+11:15:43.031 The 14th Day of the Month of Horthos (of the Abandoned), Year 1300.
+11:15:43.032 Time elapsed since boot-up: 12:44:02
+11:15:43.033 Current time is: Fri Dec  5 11:38:17 2025
+
+11:15:43.112 < 676h/639H 155v/155V |fr +| |3|3|3|3|2| P: std >     
+11:15:43.822                
+
+11:15:43.911 Wayward House Inn (Shadowed)
+11:15:43.911    This elegant wood building has been constructed on the stone
+11:15:43.912 foundation of the Inn of Wayward Sages.  Charring can still be seen on
+11:15:43.913 the stone from when the original building burned down.  Originally an
+11:15:43.913 inn with less then reputable clientele the inn has become more classy
+11:15:43.914 with a well stocked wine cellar.  A number of tables and chairs lie
+11:15:43.915 about the room casually and a long oak counter fills one end of the
+11:15:43.916 room.
+11:15:43.916 Exits: - North - Up     [48603] 
+11:15:43.917 A gaping hole in the ground leads into darkness. 
+11:15:43.918 Siyooni  (AFK) (Moon Elf) stands here.(Gold Aura)
+11:15:43.918 Smirn - Fuzzybottom of the Valkurian Blades (RP) (Halfling) stands here.
+11:15:43.919 Ynndchiarhlizz - The Nexus (Illithid) sits resting.
+11:15:43.920 Havorr Merendil stands behind the counter ready to serve.
+11:15:43.921 A showy merchant sits here looking smug. (x3)
+11:15:43.923 A dapper noble is here socializing. (x3)
+
+11:15:43.924 < 676h/639H 154v/155V |fr +| |3|3|3|3|2| P: std >     
+
+11:15:44.783           Score information for Kazgabope
+
+11:15:44.783 Level: 50   Race: Duergar   Class: Blackguard  
+11:15:44.788 Hit points: 676(639)  Moves: 154(155)
+11:15:44.789 Experience Progress: 1036 % 
+11:15:44.789 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+11:15:44.867 Coins in bank: 2403 platinum  3288 gold     3 silver     0 copper
+11:15:44.868 Prestige: 6600   Acheron Kill Count: 0
+11:15:44.868 Name status: Pending
+11:15:44.868 Citizen of:   Gloomhaven
+11:15:44.869 Outcast from: Griffon's Nest
+11:15:44.869 Playing time: 3 days / 13 hours / 2 minutes
+11:15:44.869 Title: 
+11:15:44.869 Status:  Standing.
+11:15:44.870 Detecting:       Good
+11:15:44.870 Enchantments:    Ultravision
+
+11:15:44.870 < 676h/639H 154v/155V |fr +| |3|3|3|3|2| P: std >     
+
+11:15:49.971 [Issue speedwalk to smBank at 84203]
+11:15:50.049 [Path: .nesw]
+------------ 
+11:15:50.294                
+
+11:15:50.377 Ghostwalk
+11:15:50.377    The Ghostwalk is a wide cobbled stone street running from one side
+11:15:50.378 of the old city to the other bisecting it.  Flagstone side walks run in
+11:15:50.380 front of the stone homes and shops found here, most dating back
+11:15:50.380 centuries.  Many buildings have balconies overlooking the street that
+11:15:50.381 shelter the sidewalk below from rain and snow.  To the south is the
+11:15:50.382 Wayward House Inn.
+11:15:50.383 Exits: - North - East  - South - West                  [48602] 
+
+11:15:50.384 < 675h/639H 154v/155V |fr +| |3|3|3|3|2| P: std >     
+11:15:50.544                
+
+11:15:50.628 At Moonway and Ghostwalk
+11:15:50.629    Running from western Helmer's Wall to eastern Helmer's Wall
+11:15:50.629 Ghostwalk runs the length of old Silverymoon.  A wide street it is
+11:15:50.630 paved in cobbled stones, ruts run along each side of the street where
+11:15:50.632 wagons have left their mark over the years.  Raised flagstone sidewalks
+11:15:50.633 line the street keeping pedestrians out of traffic's way.  Duskwood
+11:15:50.634 trees in near by parks and garden can be seen rising to sixty feet in
+11:15:50.635 the air with their straight black barked trunks.  To the north and south
+11:15:50.637 runs Moonway.
+11:15:50.637 Exits: - North - East  - South - West                  [48577] 
+11:15:50.637 A stone fountain bubbles here. 
+11:15:50.638 A half-elven boy runs down the street.
+11:15:50.638 Gwen Silversong stands here singing.(Gold Aura)
+
+11:15:50.639 < 675h/639H 153v/155V |fr +| |3|3|3|3|2| P: std >     
+11:15:50.794                
+
+11:15:50.878 Moonway
+11:15:50.878    Moonway bisects old Silverymoon runs across the Moonbridge and cuts
+11:15:50.880 across the south bank of the city.  Its paved with cobbled stones and
+11:15:50.881 is wide enough for two wagons to pass each other.  Sidewalks paved with
+11:15:50.882 flagstones run up and down both sides of the street.  Here in the
+11:15:50.883 commercial hub of Silverymoon merchants and craftsmen are frequently
+11:15:50.884 found making their way purposefully down the street.  To the west is
+11:15:50.885 the Bank of Silverymoon.  To the east lies a park.
+11:15:50.886 Exits: - North - East  - South - West                  [48578] 
+11:15:50.886 A ruby-throated humming bird hovers here feeding.
+
+11:15:50.887 < 675h/639H 152v/155V |fr +| |3|3|3|3|2| P: std >     
+11:15:51.044                
+
+11:15:51.143 The Bank of Silverymoon
+11:15:51.143    This large marble building is built in classical style, enormous
+11:15:51.144 fluted columns hold up the high stone ceiling creating a vast foyer
+11:15:51.146 where citizen's of Silverymoon and visiting merchants can gather to
+11:15:51.147 conduct financial transactions.  The bank will store coins for patrons
+11:15:51.148 and convert it to different denominations, for a fee.  Integral to
+11:15:51.148 Silverymoon's economy the building has been carefully warded to protect
+11:15:51.149 the building and its contents.
+11:15:51.150 Exits: - East          [84203] 
+11:15:51.150 A large wooden counter is here, with a sign posted on it. 
+11:15:51.151 Aureliel stands here overseeing the bank.(Gold Aura)
+
+11:15:51.152 < 674h/639H 151v/155V |fr +| |3|3|3|3|2| P: std >     
+
+11:15:53.045           Score information for Kazgabope
+
+11:15:53.046 Level: 50   Race: Duergar   Class: Blackguard  
+11:15:53.051 Hit points: 674(639)  Moves: 153(155)
+11:15:53.051 Experience Progress: 1036 % 
+11:15:53.051 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+11:15:53.129 Coins in bank: 2403 platinum  3288 gold     3 silver     0 copper
+11:15:53.130 Prestige: 6600   Acheron Kill Count: 0
+11:15:53.131 Name status: Pending
+11:15:53.131 Citizen of:   Gloomhaven
+11:15:53.131 Outcast from: Griffon's Nest
+11:15:53.131 Playing time: 3 days / 13 hours / 2 minutes
+11:15:53.132 Title: 
+11:15:53.132 Status:  Standing.
+11:15:53.132 Detecting:       Good
+11:15:53.132 Enchantments:    Ultravision
+
+11:15:53.133 < 674h/639H 153v/155V |fr +| |3|3|3|3|2| P: std >     
+11:15:58.552 Your account contains:
+11:15:58.553     0 platinum, 3288 gold, 3 silver, 0 copper coins.
+
+11:15:58.640 < 673h/639H 155v/155V |fr +| |3|3|3|3|2| P: std >     
+11:16:04.822 Your account contains:
+11:16:04.823     0 platinum, 0 gold, 3 silver, 0 copper coins.
+
+11:16:04.899 < 672h/639H 155v/155V |fr +| |3|3|3|3|2| P: std >     
+
+11:16:08.818           Score information for Kazgabope
+
+11:16:08.818 Level: 50   Race: Duergar   Class: Blackguard  
+11:16:08.823 Hit points: 671(639)  Moves: 155(155)
+11:16:08.823 Experience Progress: 1036 % 
+11:16:08.823 Coins carried: 2403 platinum  3288 gold     0 silver     0 copper
+11:16:08.906 Coins in bank:    0 platinum     0 gold     3 silver     0 copper
+11:16:08.907 Prestige: 6600   Acheron Kill Count: 0
+11:16:08.907 Name status: Pending
+11:16:08.908 Citizen of:   Gloomhaven
+11:16:08.908 Outcast from: Griffon's Nest
+11:16:08.908 Playing time: 3 days / 13 hours / 3 minutes
+11:16:08.909 Title: 
+11:16:08.909 Status:  Standing.
+11:16:08.909 Detecting:       Good
+11:16:08.909 Enchantments:    Ultravision
+
+11:16:08.909 < 671h/639H 155v/155V |fr +| |3|3|3|3|2| P: std >     
+11:16:22.350 You exchange 3276 gold coins for 234 platinum coins.
+
+11:16:22.431 < 669h/639H 155v/155V |fr +| |3|3|3|3|2| P: std >     
+
+11:16:24.600           Score information for Kazgabope
+
+11:16:24.600 Level: 50   Race: Duergar   Class: Blackguard  
+11:16:24.605 Hit points: 669(639)  Moves: 155(155)
+11:16:24.605 Experience Progress: 1036 % 
+11:16:24.605 Coins carried: 2637 platinum    12 gold     0 silver     0 copper
+11:16:24.686 Coins in bank:    0 platinum     0 gold     3 silver     0 copper
+11:16:24.688 Prestige: 6600   Acheron Kill Count: 0
+11:16:24.688 Name status: Pending
+11:16:24.689 Citizen of:   Gloomhaven
+11:16:24.689 Outcast from: Griffon's Nest
+11:16:24.689 Playing time: 3 days / 13 hours / 3 minutes
+11:16:24.689 Title: 
+11:16:24.690 Status:  Standing.
+11:16:24.690 Detecting:       Good
+11:16:24.690 Enchantments:    Ultravision
+
+11:16:24.690 < 669h/639H 155v/155V |fr +| |3|3|3|3|2| P: std >     
+11:16:29.107 Your account contains:
+11:16:29.107     137 platinum, 0 gold, 3 silver, 0 copper coins.
+
+11:16:29.185 < 668h/639H 155v/155V |fr +| |3|3|3|3|2| P: std >     
+
+11:16:34.090 [Issue speedwalk to smInn at 48603]
+11:16:34.090 [Path: .enws]
+------------ 
+11:16:34.364                
+
+11:16:34.456 Moonway
+11:16:34.456    Moonway bisects old Silverymoon runs across the Moonbridge and cuts
+11:16:34.457 across the south bank of the city.  Its paved with cobbled stones and
+11:16:34.458 is wide enough for two wagons to pass each other.  Sidewalks paved with
+11:16:34.459 flagstones run up and down both sides of the street.  Here in the
+11:16:34.460 commercial hub of Silverymoon merchants and craftsmen are frequently
+11:16:34.461 found making their way purposefully down the street.  To the west is
+11:16:34.463 the Bank of Silverymoon.  To the east lies a park.
+11:16:34.463 Exits: - North - East  - South - West                  [48578] 
+11:16:34.464 A ruby-throated humming bird hovers here feeding.
+
+11:16:34.465 < 667h/639H 154v/155V |fr +| |3|3|3|3|2| P: std >     
+11:16:34.614                
+
+11:16:34.702 At Moonway and Ghostwalk
+11:16:34.702    Running from western Helmer's Wall to eastern Helmer's Wall
+11:16:34.703 Ghostwalk runs the length of old Silverymoon.  A wide street it is
+11:16:34.704 paved in cobbled stones, ruts run along each side of the street where
+11:16:34.705 wagons have left their mark over the years.  Raised flagstone sidewalks
+11:16:34.706 line the street keeping pedestrians out of traffic's way.  Duskwood
+11:16:34.707 trees in near by parks and garden can be seen rising to sixty feet in
+11:16:34.708 the air with their straight black barked trunks.  To the north and south
+11:16:34.709 runs Moonway.
+11:16:34.709 Exits: - North - East  - South - West                  [48577] 
+11:16:34.710 A stone fountain bubbles here. 
+11:16:34.710 A half-elven boy runs down the street.
+11:16:34.711 Gwen Silversong stands here singing.(Gold Aura)
+
+11:16:34.712 < 667h/639H 153v/155V |fr +| |3|3|3|3|2| P: std >     
+11:16:34.863                
+
+11:16:34.949 Ghostwalk
+11:16:34.949    The Ghostwalk is a wide cobbled stone street running from one side
+11:16:34.950 of the old city to the other bisecting it.  Flagstone side walks run in
+11:16:34.951 front of the stone homes and shops found here, most dating back
+11:16:34.953 centuries.  Many buildings have balconies overlooking the street that
+11:16:34.954 shelter the sidewalk below from rain and snow.  To the south is the
+11:16:34.955 Wayward House Inn.
+11:16:34.955 Exits: - North - East  - South - West                  [48602] 
+
+11:16:34.956 < 667h/639H 152v/155V |fr +| |3|3|3|3|2| P: std >     
+11:16:35.115                
+
+11:16:35.199 Wayward House Inn
+11:16:35.199    This elegant wood building has been constructed on the stone
+11:16:35.200 foundation of the Inn of Wayward Sages.  Charring can still be seen on
+11:16:35.201 the stone from when the original building burned down.  Originally an
+11:16:35.202 inn with less then reputable clientele the inn has become more classy
+11:16:35.203 with a well stocked wine cellar.  A number of tables and chairs lie
+11:16:35.204 about the room casually and a long oak counter fills one end of the
+11:16:35.205 room.
+11:16:35.205 Exits: - North - Up     [48603] 
+11:16:35.206 Siyooni  (AFK) (Moon Elf) stands here.(Gold Aura)
+11:16:35.206 Smirn - Fuzzybottom of the Valkurian Blades (RP) (Halfling) stands here.
+11:16:35.207 Ynndchiarhlizz - The Nexus (Illithid) sits resting.
+11:16:35.208 Havorr Merendil stands behind the counter ready to serve.
+11:16:35.210 A showy merchant sits here looking smug. (x3)
+11:16:35.211 A dapper noble is here socializing. (x3)
+
+11:16:35.211 < 667h/639H 151v/155V |fr +| |3|3|3|3|2| P: std >     
+11:16:36.366                
+
+11:16:36.453 The Upstairs of the Wayward House Inn
+11:16:36.454    Like most of the building the upstairs is made of maple, a rich wood
+11:16:36.455 that gives the inn a warm feel.  The boards have been well carved and
+11:16:36.456 fit closely together, only admitting light through the shuttered
+11:16:36.457 windows.  This floor consists of several rooms available for rent.
+11:16:36.458 Each room has its own lock on the door to ensure privacy.
+11:16:36.458 Exits: - Down          [48604] 
+11:16:36.459 Grxx - Einherjar - Riders of Faerun (AFK) (RP) (Troll) stands here.
+11:16:36.460 Ixehixxih  (Illithid) stands here.
+11:16:36.460 Sylvana  (Half-Elf) stands here.(Gold Aura)
+11:16:36.461 Jhalessa Shorncrown stands here tidying up.
+
+11:16:36.461 < 667h/639H 151v/155V |fr +| |3|3|3|3|2| P: std >     
+11:16:39.669 Ok.
+11:16:39.670 You put some coins into a stout dragonhide pack.
+
+11:16:39.841 < 667h/639H 154v/155V |fr +| |3|3|3|3|2| P: std >     
+11:16:42.881 You store a stout dragonhide pack in Suhu's storage cache.
+11:16:42.883 Autosaving...
+
+11:16:42.958 < 667h/639H 155v/155V |fr +| |3|3|3|3|2| P: std >     
+11:16:43.128 It is 8pm, on the Day of the Moon
+11:16:43.128 The 14th Day of the Month of Horthos (of the Abandoned), Year 1300.
+11:16:43.129 Time elapsed since boot-up: 12:45:02
+11:16:43.130 Current time is: Fri Dec  5 11:39:17 2025
+
+11:16:43.283 < 667h/639H 155v/155V |fr +| |3|3|3|3|2| P: std >     
+11:16:44.369 Jhalessa Shorncrown tells you 'It will cost you nothing to rent.'
+11:16:44.446 Jhalessa Shorncrown stores your stuff in the safe, and shows you to your room.
+
+11:16:44.448 Characters:
+11:16:44.448 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+11:16:44.539   1) Rufa                      Level 16 Warrior (Troll)
+11:16:44.540   2) Sedesee                   Level 18 Necromancer (Drow Elf)
+11:16:44.541   3) Zaba                      Level  1 Shaman (Ogre)
+11:16:44.541   4) Pukadito                  Level  1 Cleric (Duergar)
+11:16:44.541   5) Fibba                     Level  1 Battlechanter (Orc)
+11:16:44.542   6) Zissato                   Level  1 Sorcerer (Yuan-Ti)
+11:16:44.543   7) Sesesa                    Level  1 Invoker (Drow Elf)
+11:16:44.544   8) Cillicissin               Level  1 Psionicist (Illithid)
+11:16:44.544   9) Sulonwuka                 Level  1 Hexblade (Duergar)
+11:16:44.545  10) Tusso                     Level  1 Elementalist (Yuan-Ti)
+11:16:44.546  11) Milore                    Level 19 Rogue (Human)
+11:16:44.546  12) Unamimo                   Level  1 Ranger (Moon Elf)
+11:16:44.547  13) Cameshu                   Level  1 Druid (Moon Elf)
+11:16:44.548  14) Lirayu                    Level  1 Enchanter (Moon Elf)
+11:16:44.548  15) Tahane                    Level  1 Wizard (Moon Elf)
+11:16:44.549  16) Bonya                     Level  1 Wizard (Human)
+11:16:44.550  17) Belele                    Level  1 Paladin (Halfling)
+11:16:44.550  18) Oneba                     Level  1 Blackguard (Drow Elf)
+11:16:44.551  19) Elbama                    Level  1 Bard (Moon Elf)
+11:16:44.552  20) Noleamca                  Level  1 Paladin (Moon Elf)
+11:16:44.553  21) Tiku                      Level  1 Battlechanter (Orc)
+11:16:44.554  22) Hivo                      Level  5 Blackguard (Half-Orc)
+11:16:44.554  23) Dapo                      Level 16 Hexblade (Orc)
+11:16:44.555  24) Bitule                    Level  1 Ranger (Halfling)
+11:16:44.556  25) Moge                      Level  1 Shaman (Orc)
+11:16:44.556  26) Ssamo                     Level  7 Cleric (Yuan-Ti)
+11:16:44.557  27) Inapa                     Level  1 Ranger (Half-Orc)
+11:16:44.558  28) Cudu                      Level  1 Shaman (Troll)
+11:16:44.558  29) Hufu                      Level 19 Warrior (Troll)
+11:16:44.558  30) Elsesa                    Level  1 Warrior (Drow Elf)
+11:16:44.559  31) Zanga                     Level 19 Warrior (Ogre)
+11:16:44.560  32) Sibbi                     Level 19 Hexblade (Orc)
+11:16:44.560  33) Rupi                      Level  1 Paladin (Shield Dwarf)
+11:16:44.561  34) Asli                      Level 19 Rogue (Human)
+11:16:44.561  35) Ageka                     Level  8 Rogue (Half-Orc)
+11:16:44.563  36) Juja                      Level 15 Warrior (Orc)
+11:16:44.563  37) Puwa                      Level  7 Shaman (Troll)
+11:16:44.564  38) Kazgabope                 Level 50 Blackguard (Duergar)
+11:16:44.565  39) Renelay                   Level  1 Bard (Half-Elf)
+11:16:44.565  40) Yuneme                    Level  1 Bard (Human)
+11:16:44.566  41) Atase                     Level  1 Bard (Human)
+11:16:44.567  42) Nefe                      Level 18 Rogue (Human)
+11:16:44.567  43) Rassa                     Level  1 Sorcerer (Human)
+11:16:44.568  44) Medo                      Level  5 Elementalist (Human)
+11:16:44.568  45) Tafla                     Level 19 Bard (Half-Orc)
+11:16:44.569  46) Biha                      Level 50 Rogue (Human)
+11:16:44.570  47) Suhu                      Level 50 Warrior (Troll)
+11:16:44.570  48) Newotee                   Level 32 Hexblade (Drow Elf)
+11:16:44.571  49) Tararotuta                Level  1 Wizard (Duergar)
+11:16:44.571  50) Bobaroru                  Level  9 Elementalist (Duergar)
+11:16:44.572  51) Yazassa                   Level 50 Cleric (Yuan-Ti)
+11:16:44.573  52) Meliya                    Level  1 Paladin (Moon Elf)
+11:16:44.573  53) Giwa                      Level 39 Battlechanter (Orc)
+11:16:44.574  54) Mivo                      Level 46 Shaman (Orc)
+11:16:44.575  55) Farda                     Level  8 Bard (Shield Dwarf)
+11:16:44.575  56) Elbana                    Level  1 Paladin (Half-Orc)
+11:16:44.576  57) Pagmixa                   Level  1 Sorcerer (Drow Elf)
+11:16:44.577  58) Nusu                      Level 50 Warrior (Ogre)
+11:16:44.577  59) Eqasebee                  Level  1 Enchanter (Drow Elf)
+11:16:44.578  60) Firumokag                 Level 15 Warrior (Duergar)
+11:16:44.579  61) Bopinbolil                Level 38 Enchanter (Gnome)
+11:16:44.579  62) Wonpopolidle              Level 12 Paladin (Gnome)
+11:16:44.580 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+11:16:44.580 Type the # or name of a character above to login or choose an action below.
+11:16:44.581 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+11:16:44.581 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+11:16:44.583 (E)nter description    | (D)elete character | (C)hange password
+11:16:44.584 (M)odify email address | (Q)uit
+11:16:44.584 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+11:16:44.584 Account email: zenevan420@gmail.com
+11:16:44.585 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+11:16:44.893 Your choice: 
+11:16:48.558 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+11:16:48.558                            Wizards
+11:16:48.558 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+11:16:48.559 The new Wizard class has arrived, with Illusionist as the first subclass. For
+11:16:48.560 more details on this update, please see the news link below.
+
+11:16:48.561 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+11:16:48.561 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+11:16:48.561 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+11:16:48.561 - http://www.torilmud.com/news/arcane-companions/
+
+11:16:48.562 Resources
+
+11:16:48.562 Discord    : https://discord.gg/t7edjzM
+11:16:48.562 Web Client : http://www.torilmud.com/login
+11:16:48.563 News       : http://news.torilmud.com/
+11:16:48.563 Issues     : https://github.com/torilmud/issues
+
+11:16:48.644 Retrieving rented items from storage...
+
+11:16:48.645         Welcome to TorilMUD
+
+11:16:48.645                
+
+11:16:48.649 The Upstairs of the Wayward House Inn
+11:16:48.650    Like most of the building the upstairs is made of maple, a rich wood
+11:16:48.651 that gives the inn a warm feel.  The boards have been well carved and
+11:16:48.651 fit closely together, only admitting light through the shuttered
+11:16:48.652 windows.  This floor consists of several rooms available for rent.
+11:16:48.653 Each room has its own lock on the door to ensure privacy.
+11:16:48.654 Exits: - Down          [48604] 
+11:16:48.654 Grxx - Einherjar - Riders of Faerun (AFK) (RP) (Troll) stands here.
+11:16:48.655 Ixehixxih  (Illithid) stands here.
+11:16:48.655 Sylvana  (Half-Elf) stands here.(Gold Aura)
+11:16:48.656 Jhalessa Shorncrown stands here tidying up.
+
+Log session ending at 11:16:48 on Friday, 5 December 2025.

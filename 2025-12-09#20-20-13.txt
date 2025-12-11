@@ -1,0 +1,102 @@
+Log session starting at 20:20:13 on Tuesday, 9 December 2025.
+20:20:14.076 [  OK  ]  - Mudlet-lua API & Geyser Layout manager loaded.
+------------ 
+------------ 
+------------ 
+20:20:14.097 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TOTHE 
+------------ WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THEAUTHORS OR 
+------------ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,TORT OR 
+------------ OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS INTHE SOFTWARE.
+------------ 
+------------ 
+20:20:14.097 [Initializing NyyLIB...]
+------------ 
+20:20:23.812 Script version: 6/27/2023 NyyLIB013dev https://github.com/Nyyrazzilyss/NyyLIB
+20:20:23.949 [Loaded charData]
+20:20:24.076 [Consumable database cached: Potions, Scrolls, Poisons]
+20:20:24.076 [Initializing chat windows...]
+20:20:24.140 [Chat containers created]
+20:20:24.143 "map loaded from @map init"
+20:20:24.143 [Creating mapper window and loading mudlet saved data]
+20:20:24.161 [ INFO ]  - Reading map. Format version: 20. File:
+20:20:24.161             "C:/Users/zenev/.config/mudlet/profiles/Torilmud/map/2025-12-09#18-53-28map.dat",
+20:20:24.161             please wait...
+20:20:24.374 [ INFO ]  - Successfully read the map file (0.22s), checking some
+20:20:24.374             consistency details...
+20:20:24.374 [ INFO ]  - Map audit starting...
+20:20:24.547 [  OK  ]  - Auditing of map completed (0.17s). Enjoy your game...
+20:20:24.547 [  OK  ]  - Map loaded successfully (0.39s).
+------------ 
+20:20:24.581 [Resetting stats counters.]
+20:20:24.582 [NyyLIB initialized.]
+20:20:24.595 [ INFO ]  - Reading map. Format version: 20. File:
+20:20:24.595             "C:/Users/zenev/.config/mudlet/profiles/Torilmud/map/2025-12-09#18-53-28map.dat",
+20:20:24.595             please wait...
+20:20:24.745 [ INFO ]  - Successfully read the map file (0.15s), checking some
+20:20:24.745             consistency details...
+20:20:24.745 [ INFO ]  - Map audit starting...
+20:20:24.907 [  OK  ]  - Auditing of map completed (0.16s). Enjoy your game...
+20:20:24.907 [  OK  ]  - Map loaded successfully (0.31s).
+20:20:24.908 [ INFO ]  - Looking up the IP address of server: torilmud.org:9999 ...
+20:20:24.979 [ INFO ]  - The IP address of torilmud.org has been found. It is: 104.236.2.214
+20:20:24.979 [ INFO ]  - Trying to connect to 104.236.2.214:9999 ...
+20:20:25.019 [ INFO ]  - A connection has been established successfully.
+20:20:25.019                 
+20:20:25.019                 
+20:20:25.019 [Autoroller disabled.]
+
+20:20:25.563                            .,:7I::,.
+20:20:25.563                            :cTKKWWWWUOWm
+20:20:25.563                        .2ZWWWWWWWWWWWWAI        ,,..
+20:20:25.564                     .:mAWWWWW: 7..   .        2W2
+20:20:25.565                     7WWWAWG                  ,WWWBEAEAmGmUoII;..
+20:20:25.565                     NWEmAG                .cWWWEEBWBANEWWWWWWWWWWO.
+20:20:25.566                     pWBANp7;;.        .7SWWWWAKAmDDDmmOUOOSGGKmOSWWm:
+20:20:25.567       7Gm        .:.mWKmKmAWWWWWWWWWWWWWWWWApSGNpSOU2DKD2U222OKAD2DEWWt
+20:20:25.567       ,2B       ;2I,IWADKBAAEBEBBEEEWBEANKGpSDmKpSODDZSAD22ZZZCOKG2UmWWWI
+20:20:25.568       .,IU:..;CKBW7.;GAApKpKAAEEAANNAAANKKKKKNNKGGDODOUKK222CCTCTmKSK0TEWW
+20:20:25.568     ,.17;oGGpmmDGD:,.IWESUpKKKNBBEEBWWWWWWAKKAEKAANANKpKKGGGSmmmpUKWo    SW.
+20:20:25.569    ,,.o7I000ZTTCDO;.:.IWBmmNGGGmEWWWZZSKEWWWBAWWWWWWWBAABBWWNO22ONWWW     ,A
+20:20:25.570   .,,,tIco00T0ZUmBO.,::UKWKNNW7  ;0T       7AWK7,..:tKWEWWD.      .UW:     ;
+20:20:25.571   ,::,c0IctCTOKNpZO2:.,,0BEEEKN             Zp        7WW:          WW
+20:20:25.572  .;7;;;ZottZKS;    GN;.,II12BWW7 WWK.       .          AW           ;W
+20:20:25.573 ..;oot7722DS,       SAI7;.;IItZWWWWWW;.                WT           I.
+20:20:25.574  .;12C2CcWW          oWp:.;:t1;;77SKWWWZG.:.           0
+20:20:25.574   ;;TUT  .G;          ;0,;;IWWWp1,   ;ICUSWpo2Ao,.;
+20:20:25.575   ;;;G:    .         .c0:7KWK72WWWWASZIt117IZU2OmmANSKK7,7.
+20:20:25.575   .1tt2              ,KcUWW.      :12DKKEABWWWWWWWWWWWWWWWWKmO,.
+20:20:25.576    Im,W1              7KDAU;0.                ...:;7tZOKNWWWWWWWWO2;
+20:20:25.577    17:;W:              ,;T2DWW:                            .:7ZGEWWWAA;.
+20:20:25.578    .W   0;                  cWW7                                  ,I2EWWpI,
+20:20:25.579     :S.                      .IEBC1.                                  .1SNWG:
+20:20:25.580       ;                        7Wt                                        7OKG
+20:20:25.581                                 KWWc.                                       :SW
+20:20:25.582                                  OSc,                                         KS
+20:20:25.583                                                                               .E
+20:20:25.584                                                                               ,E
+20:20:25.585                                                                               T
+
+20:20:25.587    |''||''|  ..|''||   '||''|.   '||' '||'      '||    ||' '||'  '|' '||''|.
+20:20:25.588       ||    .|'    ||   ||   ||   ||   ||        |||  |||   ||    |   ||   ||
+20:20:25.589       ||    ||      ||  ||''|'    ||   ||        |'|..'||   ||    |   ||    ||
+20:20:25.590       ||    '|.     ||  ||   |.   ||   ||        | '|' ||   ||    |   ||    ||
+20:20:25.591      .||.    ''|...|'  .||.  '|' .||. .||.....| .|. | .||.   '|..'   .||...|'
+
+20:20:25.599                Original Diku Base: Hans Henrik, Katja Nyboe,
+20:20:25.600              Tom Madsen, Michael Seifert, and Sebastian Hammer.
+
+20:20:25.601                 Join us on Discord: https://discord.gg/t7edjzM
+20:20:25.601 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+20:20:25.602           Enter your account name or "new" to create a new account
+20:20:25.602   Existing players: Create a new account OR login with your primary character
+20:20:25.603   to get started. You can then link all of your characters to your new account.
+20:20:25.604 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+20:20:25.910 Account name: 
+
+20:20:26.086 [Saved CharData table]
+------------ 
+20:20:26.650 [Saved map: C:/Users/zenev/.config/mudlet/profiles/Torilmud/toril.map]
+20:20:26.999 "disconnectevent"
+20:20:26.999 [DisconnectEvent was just called]
+20:20:26.999 [Reconnect is not enabled. Type @set reconnect charnumber to enable]

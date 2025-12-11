@@ -1,0 +1,941 @@
+Log session starting at 23:55:15 on Tuesday, 9 December 2025.
+
+23:55:15.216 < 269h/261H 183v/160V P: std >     
+23:55:15.216 [Spellqueue cleared.]
+23:55:15.391 You will no longer see the mini-map when moving.
+
+23:55:15.438 < 269h/261H 183v/160V P: std >     
+23:55:15.641 You will now see the classic prompt.
+
+23:55:15.892 < 269h/261H 183v/160V P: std > 
+23:55:15.892  Prompt Command Usage:
+23:55:15.893   prompt                             - Display this help
+23:55:15.893   prompt layout                      - List available layouts
+23:55:15.894   prompt layout <layout>             - Set your layout
+23:55:15.895   prompt fields                      - List available fields
+23:55:15.895   prompt add <field>                 - Add a field to your current layout
+23:55:15.897   prompt remove <field>              - Remove a field from your current layout
+23:55:15.899   prompt options                     - Show a list of prompt option flags
+23:55:15.900   prompt options <flag>              - Toggle a prompt option
+23:55:15.901   prompt power <power> <slot>        - Add a power to a prompt slot
+23:55:15.901   prompt power auto                  - Set the default suggested power prompts
+23:55:15.903   prompt power clear <power, all>    - Clear a power from the prompt
+23:55:15.904   prompt color                       - List available prompt power colors
+23:55:15.905   prompt color <power, slot> <color> - Set the ready power color for a specific power or slot
+23:55:15.906   prompt color <type> <color>        - Set color for: <ready, cooldown, special, default, combo>
+23:55:15.908   prompt color <type> <clear>        - Clear color for <ready, cooldown, special, default, combo> 
+23:55:15.909   prompt color reset                 - Reset all prompt colors to default
+23:55:15.910   prompt help                        - Display this help
+
+23:55:15.975 To use the prompt command, first toggle on NEWPROMPT.
+
+23:55:16.142 < 269h/261H 183v/160V P: std > 
+23:55:16.221 Smartprompt toggled on.
+
+23:55:16.395 < 269h/261H 183v/160V P: std > 
+23:55:16.483 There are no sub-classes currently available to your class.
+
+23:55:16.643 < 269h/261H 183v/160V P: std > 
+
+23:55:16.735           Character attributes for Mattah
+
+23:55:16.736 Level: 50   Race: Human   Class: Necromancer 
+23:55:16.769 Size: Medium
+23:55:16.769 STR:  68  AGI:  70  DEX:  52  CON:  75
+23:55:16.769 POW:  52  INT:  75  WIS:  52  CHA:  52
+23:55:16.770 Armor Class: 100  (100 to -100)  Agility Bonus: -2
+23:55:16.770 Magic Resistance: 0 percent
+23:55:16.770 Hitroll: 1   Damroll: 3   Undead Points: 0/60
+23:55:16.771 Alignment: Chaotic Evil
+23:55:16.771 Saving Throws: PAR[0]  ROD[0]  PET[0]  BRE[0]  SPE[0]
+23:55:16.772    Wimpy: not set
+23:55:16.772 Load carried: What load?
+23:55:16.772 Damage Resistance:
+23:55:16.772 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+23:55:16.773 Spells:    0% Fire  :    0% Cold  :    0% Elect :    0% Acid  :    0% 
+23:55:16.774 Sonic :    0% Poison:    0% Pos   :    0% Neg   :    0% Psi   :    0% 
+23:55:16.776 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+23:55:16.777 Force :    0% 
+
+23:55:16.893 < 269h/261H 183v/160V P: std > 
+
+23:55:16.986           Score information for Mattah
+
+23:55:16.986 Level: 50   Race: Human   Class: Necromancer 
+23:55:16.987 Hit points: 269(261)  Moves: 183(160)
+23:55:16.987 Experience Progress: 514 % 
+23:55:16.987 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+23:55:16.988 Coins in bank:  185 platinum   602 gold    16 silver    11 copper
+23:55:16.989 Prestige: 6029   Acheron Kill Count: 0
+23:55:16.989 Name status: Approved
+23:55:16.990 Citizen of:   Baldur's Gate
+23:55:16.990 Outcast from: Leuthilspar
+23:55:16.990 Playing time: 54 days / 6 hours / 29 minutes
+23:55:16.991 Title: 
+23:55:16.991 Status:  Standing.
+23:55:16.991          Resurrection Fatigue
+
+23:55:17.144 < 269h/261H 183v/160V P: std > 
+23:55:17.233 You aren't wearing anything!
+
+23:55:17.394 < 269h/261H 183v/160V P: std > 
+
+23:55:17.644 < 269h/261H 183v/160V P: std > 
+
+23:55:17.894 < 269h/261H 183v/160V P: std > 
+23:55:17.981 You are 0 XP (0.00%) away from your next level.
+
+23:55:18.145 < 269h/261H 183v/160V P: std > 
+23:55:18.229 You haven't consented to anyone.
+
+23:55:18.230 Mattah is consenting you.
+
+23:55:18.395 < 269h/261H 183v/160V P: std > 
+23:55:18.478 You will now see the mini-map when moving.
+
+23:55:18.645 < 269h/261H 183v/160V P: std > 
+23:55:18.726 You will now see the new prompt.
+
+23:55:18.727 < 269h/261H 183v/160V P: std >     
+23:55:18.905 Smartprompt toggled off.
+
+23:55:18.989 < 269h/261H 183v/160V P: std >     
+23:55:19.145 The Upstairs of the Wayward House Inn
+23:55:18.989 < 269h/261H 183v/160V P: std >     
+23:55:19.218 [Setting statname to unset]
+23:55:19.225 [All train triggers disabled]
+23:55:19.242 < 269h/261H 183v/160V P: std >     
+23:55:19.396 You are carrying:
+23:55:19.397 Nothing.
+
+23:55:19.484 < 269h/261H 183v/160V P: std >     
+23:55:19.649 Prompt option newline disabled.
+
+
+23:55:19.746 [Searching... Match found: Silverymoon, Gem of the North : The Upstairs of the Wayward House Inn : 48604]
+23:55:19.900 < 269h/261H 183v/160V P: std >Prompt option newline enabled.
+
+23:55:19.984 < 269h/261H 183v/160V P: std >     
+
+23:55:25.301 You gain access to Afu's storage cache.  
+23:55:25.302 In order to use your own cache again, you must first close this cache by entering: 'storage access close'.
+
+23:55:25.380 < 269h/261H 183v/160V P: std >     
+23:55:29.065 Afu's storage cache contains:
+23:55:29.065 [18] a slender scroll of identification 
+23:55:29.065 [2] a huge black sword 
+23:55:29.067 a heavy iron axe 
+23:55:29.067 Detrez's storage cube 
+
+23:55:29.158 < 269h/261H 183v/160V P: std >     
+23:55:33.574 You retrieve Detrez's storage cube from Afu's storage cache.
+23:55:33.576 Autosaving...
+
+23:55:33.622 < 269h/261H 183v/160V P: std >     
+23:55:33.821 It is 11am, on the Day of the Sun
+23:55:33.822 The 6th Day of the Month of Kythorn (the Time of Flowers), Year 1301.
+23:55:33.823 Time elapsed since boot-up: 6:30:46
+23:55:33.824 Current time is: Wed Dec 10 00:18:04 2025
+
+23:55:33.905 < 269h/261H 183v/160V P: std >     
+23:55:44.842 You retrieve a slender scroll of identification from Afu's storage cache.
+23:55:44.844 Autosaving...
+
+23:55:44.892 < 269h/261H 183v/160V P: std >     
+23:55:45.085 You put a slender scroll of identification into Detrez's storage cube on your person.
+
+23:55:45.175 < 269h/261H 183v/160V P: std >     
+23:55:45.334 It is 11am, on the Day of the Sun
+23:55:45.335 The 6th Day of the Month of Kythorn (the Time of Flowers), Year 1301.
+23:55:45.337 Time elapsed since boot-up: 6:30:57
+23:55:45.337 Current time is: Wed Dec 10 00:18:15 2025
+
+23:55:45.419 < 269h/261H 182v/160V P: std >     
+23:55:46.091 You retrieve a slender scroll of identification from Afu's storage cache.
+23:55:46.093 Autosaving...
+
+23:55:46.139 < 268h/261H 182v/160V P: std >     
+23:55:46.338 You put a slender scroll of identification into Detrez's storage cube on your person.
+
+23:55:46.425 < 268h/261H 182v/160V P: std >     
+23:55:46.616 It is 11am, on the Day of the Sun
+23:55:46.617 The 6th Day of the Month of Kythorn (the Time of Flowers), Year 1301.
+23:55:46.618 Time elapsed since boot-up: 6:30:59
+23:55:46.618 Current time is: Wed Dec 10 00:18:17 2025
+
+23:55:46.701 < 268h/261H 182v/160V P: std >     
+23:55:47.091 You retrieve a slender scroll of identification from Afu's storage cache.
+23:55:47.093 Autosaving...
+
+23:55:47.152 < 268h/261H 182v/160V P: std >     
+23:55:47.338 You put a slender scroll of identification into Detrez's storage cube on your person.
+
+23:55:47.426 < 268h/261H 182v/160V P: std >     
+23:55:47.597 It is 11am, on the Day of the Sun
+23:55:47.598 The 6th Day of the Month of Kythorn (the Time of Flowers), Year 1301.
+23:55:47.599 Time elapsed since boot-up: 6:31:00
+23:55:47.600 Current time is: Wed Dec 10 00:18:18 2025
+
+23:55:47.687 < 268h/261H 182v/160V P: std >     
+23:55:47.843 You retrieve a slender scroll of identification from Afu's storage cache.
+23:55:47.845 Autosaving...
+
+23:55:47.891 < 268h/261H 182v/160V P: std >     
+23:55:48.089 You put a slender scroll of identification into Detrez's storage cube on your person.
+
+23:55:48.182 < 268h/261H 182v/160V P: std >     
+23:55:48.339 It is 11am, on the Day of the Sun
+23:55:48.339 The 6th Day of the Month of Kythorn (the Time of Flowers), Year 1301.
+23:55:48.340 Time elapsed since boot-up: 6:31:00
+23:55:48.341 Current time is: Wed Dec 10 00:18:18 2025
+
+23:55:48.431 < 268h/261H 182v/160V P: std >     
+23:55:48.595 You retrieve a slender scroll of identification from Afu's storage cache.
+23:55:48.596 Autosaving...
+
+23:55:48.643 < 268h/261H 182v/160V P: std >     
+23:55:48.840 You put a slender scroll of identification into Detrez's storage cube on your person.
+
+23:55:48.933 < 268h/261H 182v/160V P: std >     
+23:55:49.091 It is 11am, on the Day of the Sun
+23:55:49.091 The 6th Day of the Month of Kythorn (the Time of Flowers), Year 1301.
+23:55:49.093 Time elapsed since boot-up: 6:31:01
+23:55:49.093 Current time is: Wed Dec 10 00:18:19 2025
+
+23:55:49.182 < 268h/261H 182v/160V P: std >     
+23:55:49.345 You retrieve a slender scroll of identification from Afu's storage cache.
+23:55:49.347 Autosaving...
+
+23:55:49.396 < 268h/261H 182v/160V P: std >     
+23:55:49.591 You put a slender scroll of identification into Detrez's storage cube on your person.
+
+23:55:49.680 < 268h/261H 182v/160V P: std >     
+23:55:49.847 You retrieve a slender scroll of identification from Afu's storage cache.
+23:55:49.849 Autosaving...
+
+23:55:49.895 < 268h/261H 182v/160V P: std >     
+23:55:50.091 You put a slender scroll of identification into Detrez's storage cube on your person.
+
+23:55:50.175 < 268h/261H 182v/160V P: std >     
+23:55:50.347 You retrieve a slender scroll of identification from Afu's storage cache.
+23:55:50.348 Autosaving...
+
+23:55:50.394 < 268h/261H 182v/160V P: std >     
+23:55:50.592 You put a slender scroll of identification into Detrez's storage cube on your person.
+
+23:55:50.670 < 268h/261H 182v/160V P: std >     
+23:55:50.843 It is 11am, on the Day of the Sun
+23:55:50.843 The 6th Day of the Month of Kythorn (the Time of Flowers), Year 1301.
+23:55:50.845 Time elapsed since boot-up: 6:31:03
+23:55:50.845 Current time is: Wed Dec 10 00:18:21 2025
+
+23:55:50.931 < 268h/261H 182v/160V P: std >     
+23:55:51.097 You retrieve a slender scroll of identification from Afu's storage cache.
+23:55:51.099 Autosaving...
+
+23:55:51.145 < 268h/261H 182v/160V P: std >     
+23:55:51.349 You put a slender scroll of identification into Detrez's storage cube on your person.
+
+23:55:51.440 < 268h/261H 182v/160V P: std >     
+23:55:51.597 You retrieve a slender scroll of identification from Afu's storage cache.
+23:55:51.600 Autosaving...
+
+23:55:51.646 < 268h/261H 182v/160V P: std >     
+23:55:51.844 You put a slender scroll of identification into Detrez's storage cube on your person.
+
+23:55:51.924 < 268h/261H 182v/160V P: std >     
+23:55:52.094 It is 11am, on the Day of the Sun
+23:55:52.095 The 6th Day of the Month of Kythorn (the Time of Flowers), Year 1301.
+23:55:52.095 Time elapsed since boot-up: 6:31:04
+23:55:52.096 Current time is: Wed Dec 10 00:18:22 2025
+
+23:55:52.185 < 268h/261H 182v/160V P: std >     
+23:55:52.350 You retrieve a slender scroll of identification from Afu's storage cache.
+23:55:52.352 Autosaving...
+
+23:55:52.398 < 268h/261H 182v/160V P: std >     
+23:55:52.594 You put a slender scroll of identification into Detrez's storage cube on your person.
+
+23:55:52.681 < 268h/261H 182v/160V P: std >     
+23:55:52.845 It is 11am, on the Day of the Sun
+23:55:52.845 The 6th Day of the Month of Kythorn (the Time of Flowers), Year 1301.
+23:55:52.846 Time elapsed since boot-up: 6:31:05
+23:55:52.846 Current time is: Wed Dec 10 00:18:23 2025
+
+23:55:52.926 < 268h/261H 182v/160V P: std >     
+23:55:53.095 It is 11am, on the Day of the Sun
+23:55:53.096 The 6th Day of the Month of Kythorn (the Time of Flowers), Year 1301.
+23:55:53.097 Time elapsed since boot-up: 6:31:05
+23:55:53.098 Current time is: Wed Dec 10 00:18:23 2025
+
+23:55:53.176 < 268h/261H 182v/160V P: std >     
+23:55:53.347 It is 11am, on the Day of the Sun
+23:55:53.347 The 6th Day of the Month of Kythorn (the Time of Flowers), Year 1301.
+23:55:53.349 Time elapsed since boot-up: 6:31:05
+23:55:53.349 Current time is: Wed Dec 10 00:18:23 2025
+
+23:55:53.424 < 268h/261H 182v/160V P: std >     
+23:55:53.598 It is 11am, on the Day of the Sun
+23:55:53.598 The 6th Day of the Month of Kythorn (the Time of Flowers), Year 1301.
+23:55:53.600 Time elapsed since boot-up: 6:31:06
+23:55:53.601 Current time is: Wed Dec 10 00:18:24 2025
+
+23:55:53.687 < 268h/261H 182v/160V P: std >     
+23:55:58.357 You retrieve a slender scroll of identification from Afu's storage cache.
+23:55:58.359 Autosaving...
+
+23:55:58.405 < 268h/261H 182v/160V P: std >     
+23:55:58.603 You put a slender scroll of identification into Detrez's storage cube on your person.
+
+23:55:58.682 < 268h/261H 182v/160V P: std >     
+23:55:58.853 It is 11am, on the Day of the Sun
+23:55:58.854 The 6th Day of the Month of Kythorn (the Time of Flowers), Year 1301.
+23:55:58.855 Time elapsed since boot-up: 6:31:11
+23:55:58.855 Current time is: Wed Dec 10 00:18:29 2025
+
+23:55:58.947 < 268h/261H 182v/160V P: std >     
+23:55:59.611 You retrieve a slender scroll of identification from Afu's storage cache.
+23:55:59.613 Autosaving...
+
+23:55:59.659 < 268h/261H 182v/160V P: std >     
+23:55:59.855 You put a slender scroll of identification into Detrez's storage cube on your person.
+
+23:55:59.936 < 268h/261H 182v/160V P: std >     
+23:56:00.105 It is 11am, on the Day of the Sun
+23:56:00.105 The 6th Day of the Month of Kythorn (the Time of Flowers), Year 1301.
+23:56:00.106 Time elapsed since boot-up: 6:31:12
+23:56:00.107 Current time is: Wed Dec 10 00:18:30 2025
+
+23:56:00.185 < 268h/261H 182v/160V P: std >     
+23:56:00.362 You retrieve a slender scroll of identification from Afu's storage cache.
+23:56:00.363 Autosaving...
+
+23:56:00.412 < 268h/261H 182v/160V P: std >     
+23:56:00.605 You put a slender scroll of identification into Detrez's storage cube on your person.
+
+23:56:00.655 < 268h/261H 182v/160V P: std >     
+23:56:00.861 You retrieve a slender scroll of identification from Afu's storage cache.
+23:56:00.862 Autosaving...
+
+23:56:00.910 < 268h/261H 182v/160V P: std >     
+23:56:01.131 You put a slender scroll of identification into Detrez's storage cube on your person.
+
+23:56:01.203 < 268h/261H 182v/160V P: std >     
+23:56:01.371 You retrieve a slender scroll of identification from Afu's storage cache.
+23:56:01.372 Autosaving...
+
+23:56:01.418 < 268h/261H 182v/160V P: std >     
+23:56:01.607 You put a slender scroll of identification into Detrez's storage cube on your person.
+
+23:56:01.693 < 268h/261H 182v/160V P: std >     
+23:56:01.858 It is 11am, on the Day of the Sun
+23:56:01.858 The 6th Day of the Month of Kythorn (the Time of Flowers), Year 1301.
+23:56:01.860 Time elapsed since boot-up: 6:31:14
+23:56:01.860 Current time is: Wed Dec 10 00:18:32 2025
+
+23:56:01.943 < 268h/261H 182v/160V P: std >     
+23:56:02.114 You retrieve a slender scroll of identification from Afu's storage cache.
+23:56:02.116 Autosaving...
+
+23:56:02.168 < 268h/261H 182v/160V P: std >     
+23:56:02.357 You put a slender scroll of identification into Detrez's storage cube on your person.
+
+23:56:02.443 < 268h/261H 182v/160V P: std >     
+23:56:02.610 It is 11am, on the Day of the Sun
+23:56:02.611 The 6th Day of the Month of Kythorn (the Time of Flowers), Year 1301.
+23:56:02.612 Time elapsed since boot-up: 6:31:15
+23:56:02.612 Current time is: Wed Dec 10 00:18:33 2025
+
+23:56:02.692 < 268h/261H 182v/160V P: std >     
+23:56:02.862 You retrieve a slender scroll of identification from Afu's storage cache.
+23:56:02.864 Autosaving...
+
+23:56:02.910 < 268h/261H 182v/160V P: std >     
+23:56:03.109 You are hungry.
+23:56:03.109 You are thirsty.
+23:56:03.109 You put a slender scroll of identification into Detrez's storage cube on your person.
+
+23:56:03.189 < 268h/261H 182v/160V P: std >     
+23:56:03.358 Your cache doesn't have the scroll.
+
+23:56:03.436 < 268h/261H 182v/160V P: std >     
+23:56:03.611 You don't have the scroll.
+
+23:56:03.704 < 268h/261H 182v/160V P: std >     
+23:56:03.860 It is 12pm, on the Day of the Sun
+23:56:03.861 The 6th Day of the Month of Kythorn (the Time of Flowers), Year 1301.
+23:56:03.862 Time elapsed since boot-up: 6:31:16
+23:56:03.862 Current time is: Wed Dec 10 00:18:34 2025
+
+23:56:03.950 < 268h/261H 182v/160V P: std >     
+23:56:04.110 Your cache doesn't have the scroll.
+
+23:56:04.198 < 268h/261H 182v/160V P: std >     
+23:56:04.360 You don't have the scroll.
+
+23:56:04.447 < 268h/261H 182v/160V P: std >     
+23:56:04.612 It is 12pm, on the Day of the Sun
+23:56:04.613 The 6th Day of the Month of Kythorn (the Time of Flowers), Year 1301.
+23:56:04.614 Time elapsed since boot-up: 6:31:17
+23:56:04.615 Current time is: Wed Dec 10 00:18:35 2025
+
+23:56:04.695 < 268h/261H 182v/160V P: std >     
+23:56:04.861 It is 12pm, on the Day of the Sun
+23:56:04.862 The 6th Day of the Month of Kythorn (the Time of Flowers), Year 1301.
+23:56:04.863 Time elapsed since boot-up: 6:31:17
+23:56:04.863 Current time is: Wed Dec 10 00:18:35 2025
+
+23:56:04.964 < 268h/261H 182v/160V P: std >     
+23:56:06.863 You are carrying:
+23:56:06.863 Detrez's storage cube 
+
+23:56:06.953 < 268h/261H 182v/160V P: std >     
+23:56:13.388 Afu's storage cache contains:
+23:56:13.389 [2] a huge black sword 
+23:56:13.389 a heavy iron axe 
+
+23:56:13.471 < 268h/261H 182v/160V P: std >     
+23:56:17.393  Listing of the Staff
+23:56:17.394 -=-=-=-=-=-=-=-=-=-=-
+23:56:17.394 [ FORGER CODER  ] Shevarash -The Black Archer, Vengeful Hunter of Drow
+
+23:56:17.394 There are 1 visible staff member(s) on.
+
+23:56:17.396  Listing of the Mortals!
+23:56:17.396 -=-=-=-=-=-=-=-=-=-=-=-=-
+23:56:17.396 [50 Wiz] Danikibble  (Gnome)
+23:56:17.400 [50 Ran] Aelleriaell Faoiltiarna, the Moonwolf of Scoia'tael (Moon Elf) (AFK) (RP)
+23:56:17.404 [50 Nec] Mattah  (Human)
+23:56:17.404 [50 Hex] Jazar  (Barbarian) (AFK)
+23:56:17.407 [50 Pal] Gerupar  (Half-Orc)
+23:56:17.411 [50 Wiz] Tolfanywil  (Gnome) (AFK)
+23:56:17.414 [50 Pal] Riloesa  (Moon Elf)
+23:56:17.419 [50 War] Agrow  (Troll)
+23:56:17.420 [48 Ctr] Tabmur  (Orc)
+23:56:17.424 [50 Sor] Teyolalil  (Gnome)
+23:56:17.427 [50 Psi] Nyyrazzilyss - Head Jailer of the Valkurian Blades (Illithid) (AFK)
+23:56:17.428 [50 Enc] Fokle Fuzzybottom (Halfling) (RP)
+23:56:17.433 [50 Ran] Sylvana  (Half-Elf)
+23:56:17.436 [50 War] Grxx Krush Skul Einherjar Riders of Faerun (Troll) (RP)
+23:56:17.437 [50 Sor] Pilple  (Halfling)
+23:56:17.440 [50 Bar] Kegor  (Human)
+23:56:17.440 [50 Psi] Ynndchiarhlizz - The Nexus (Illithid)
+23:56:17.441 [ 1 Bar] Katumi  (Half-Elf)
+
+23:56:17.442 There are 18 mortal(s) on.
+
+23:56:17.442 Total players online: 19.
+23:56:17.442 Record number of players on this boot:  20.
+
+23:56:17.486 < 267h/261H 181v/160V P: std >     
+23:56:19.644 You aren't wearing anything!
+
+23:56:19.740 < 267h/261H 181v/160V P: std >     
+
+23:56:22.727 < 267h/261H 181v/160V P: std >     
+23:56:24.402 The Upstairs of the Wayward House Inn
+23:56:24.404 Exits: - Down          [48604] 
+23:56:24.405 A sword with a peculiar looking blade lies here. 
+23:56:24.405 A small silver key lies here. 
+23:56:24.405 Jazar  (AFK) (Barbarian) stands here.
+23:56:24.488 Lilithelle - Valkyrie - Shadows of Imphras (AFK) (Moon Elf) %% stands here.
+23:56:24.489 Sylvana  (Half-Elf) stands here.
+23:56:24.489 Jhalessa Shorncrown stands here tidying up.
+
+23:56:24.491 < 267h/261H 181v/160V P: std >     
+23:57:08.964 You are carrying:
+23:57:08.964 Detrez's storage cube 
+
+23:57:09.057 < 266h/261H 181v/160V P: std >     
+23:57:13.221 The Upstairs of the Wayward House Inn
+23:57:13.222 Exits: - Down          [48604] 
+23:57:13.222 A sword with a peculiar looking blade lies here. 
+23:57:13.223 A small silver key lies here. 
+23:57:13.223 Jazar  (AFK) (Barbarian) stands here.
+23:57:13.315 Lilithelle - Valkyrie - Shadows of Imphras (AFK) (Moon Elf) %% stands here.
+23:57:13.317 Sylvana  (Half-Elf) stands here.
+23:57:13.317 Jhalessa Shorncrown stands here tidying up.
+
+23:57:13.318 < 266h/261H 181v/160V P: std >     
+23:57:14.723                
+
+23:57:14.816 Wayward House Inn
+23:57:14.816    This elegant wood building has been constructed on the stone
+23:57:14.817 foundation of the Inn of Wayward Sages.  Charring can still be seen on
+23:57:14.818 the stone from when the original building burned down.  Originally an
+23:57:14.819 inn with less then reputable clientele the inn has become more classy
+23:57:14.820 with a well stocked wine cellar.  A number of tables and chairs lie
+23:57:14.821 about the room casually and a long oak counter fills one end of the
+23:57:14.822 room.
+23:57:14.822 Exits: - North - Up     [48603] 
+23:57:14.822 Danikibble  (Gnome) stands here.
+23:57:14.823 Aelleriaell Faoiltiarna, the Moonwolf of Scoia'tael (AFK) (RP) (Moon Elf) stands here.
+23:57:14.824 Pilple  (Halfling) stands here.
+23:57:14.824 Grxx Krush Skul Einherjar Riders of Faerun (AFK) (RP) (Troll) stands here.
+23:57:14.825 Teyolalil  (Gnome) stands here.
+23:57:14.825 Fokle Fuzzybottom (RP) (Halfling) stands here.
+23:57:14.826 Ynndchiarhlizz - The Nexus (Illithid) sits resting.
+23:57:14.827 Havorr Merendil stands behind the counter ready to serve.
+23:57:14.828 A showy merchant sits here looking smug. (x3)
+23:57:14.830 A dapper noble is here socializing. (x3)
+
+23:57:14.830 < 266h/261H 180v/160V P: std >     
+23:57:22.232  Listing of the Staff
+23:57:22.233 -=-=-=-=-=-=-=-=-=-=-
+23:57:22.233 [ FORGER CODER  ] Shevarash -The Black Archer, Vengeful Hunter of Drow
+
+23:57:22.234 There are 1 visible staff member(s) on.
+
+23:57:22.234  Listing of the Mortals!
+23:57:22.235 -=-=-=-=-=-=-=-=-=-=-=-=-
+23:57:22.235 [50 Wiz] Danikibble  (Gnome)
+23:57:22.239 [50 Ran] Aelleriaell Faoiltiarna, the Moonwolf of Scoia'tael (Moon Elf) (AFK) (RP)
+23:57:22.243 [50 Nec] Mattah  (Human)
+23:57:22.243 [50 Hex] Jazar  (Barbarian) (AFK)
+23:57:22.246 [50 Pal] Gerupar  (Half-Orc)
+23:57:22.250 [50 Wiz] Tolfanywil  (Gnome) (AFK)
+23:57:22.254 [50 Pal] Riloesa  (Moon Elf)
+23:57:22.259 [50 War] Agrow  (Troll)
+23:57:22.259 [48 Ctr] Tabmur  (Orc)
+23:57:22.263 [50 Sor] Teyolalil  (Gnome)
+23:57:22.266 [50 Psi] Nyyrazzilyss - Head Jailer of the Valkurian Blades (Illithid) (AFK)
+23:57:22.268 [50 Enc] Fokle Fuzzybottom (Halfling) (RP)
+23:57:22.272 [50 Ran] Sylvana  (Half-Elf)
+23:57:22.274 [50 War] Grxx Krush Skul Einherjar Riders of Faerun (Troll) (AFK) (RP)
+23:57:22.275 [50 Sor] Pilple  (Halfling)
+23:57:22.278 [50 Bar] Kegor  (Human)
+23:57:22.279 [50 Psi] Ynndchiarhlizz - The Nexus (Illithid)
+23:57:22.280 [ 1 Bar] Katumi  (Half-Elf)
+
+23:57:22.280 There are 18 mortal(s) on.
+
+23:57:22.280 Total players online: 19.
+23:57:22.281 Record number of players on this boot:  20.
+
+23:57:22.317 < 266h/261H 179v/160V P: std >     
+
+23:58:05.871 Havorr polishes the bar while waiting for the next order.
+
+23:58:05.872 < 265h/261H 179v/160V P: std >     
+23:58:08.545 You tell Ynndchiarhlizz 'hole Nyyrazzilyss'
+
+23:58:08.631 < 265h/261H 179v/160V P: std >     
+
+23:58:08.904 The area darkens and the air shimmers slightly as a wormhole opens before Ynndchiarhlizz.
+
+23:58:08.907 < 265h/261H 179v/160V P: std >     
+23:58:12.050 You enter something and reappear elsewhere...
+23:58:12.051                
+
+23:58:12.133 The Gentle Moon - Common Area (Shadowed)
+23:58:12.133    The inn has seen better days, once polished hard wood now looks
+23:58:12.134 bedraggled.  The walls are beginning to warp from the moist air, and
+23:58:12.135 small gaps admit marine air.  An old bar rest in the center of the room
+23:58:12.136 surrounded by tables.  People still come here to eat, and sometimes
+23:58:12.137 lodge.  Some come for the friendly atmosphere, some come to try to catch
+23:58:12.138 a glimpse of the fabled ghost said to haunt the premises.
+23:58:12.139 Exits: - North - East   [48603] 
+23:58:12.139 A gaping hole in the ground leads into darkness. 
+23:58:12.140 Nyyrazzilyss - Head Jailer of the Valkurian Blades (AFK) (Illithid) sits resting in mid-air.
+23:58:12.142 A tradesperson rests here with a drink in hand. (x3)
+23:58:12.142 A scantily-dressed server moves about the room looking awkward.
+23:58:12.143 The innkeeper stands behind the counter renting out rooms.
+
+23:58:12.145 < 265h/261H 179v/160V P: std >     
+
+23:58:13.552 [Searching... Match found: Westgate : The Gentle Moon - Common Area : 327]
+23:58:14.551 You are carrying:
+23:58:14.551 Detrez's storage cube 
+
+23:58:14.633 < 265h/261H 179v/160V P: std >     
+
+23:58:27.093 You gain access to Afu's storage cache.  
+23:58:27.094 In order to use your own cache again, you must first close this cache by entering: 'storage access close'.
+
+23:58:27.180 < 265h/261H 178v/160V P: std >     
+23:58:32.174 You store Detrez's storage cube in Afu's storage cache.
+23:58:32.175 Autosaving...
+
+23:58:32.226 < 265h/261H 178v/160V P: std >     
+23:58:32.329 It is 2pm, on the Day of the Sun
+23:58:32.330 The 6th Day of the Month of Kythorn (the Time of Flowers), Year 1301.
+23:58:32.331 Time elapsed since boot-up: 6:33:44
+23:58:32.332 Current time is: Wed Dec 10 00:21:02 2025
+
+23:58:32.413 < 265h/261H 178v/160V P: std >     
+
+23:58:33.830           Score information for Mattah
+
+23:58:33.830 Level: 50   Race: Human   Class: Necromancer 
+23:58:33.831 Hit points: 265(261)  Moves: 178(160)
+23:58:33.832 Experience Progress: 514 % 
+23:58:33.832 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+23:58:33.909 Coins in bank:  185 platinum   602 gold    16 silver    11 copper
+23:58:33.910 Prestige: 6029   Acheron Kill Count: 0
+23:58:33.910 Name status: Approved
+23:58:33.910 Citizen of:   Baldur's Gate
+23:58:33.911 Outcast from: Leuthilspar
+23:58:33.911 Playing time: 54 days / 6 hours / 32 minutes
+23:58:33.911 Title: 
+23:58:33.912 Status:  Standing.
+23:58:33.912          Resurrection Fatigue
+
+23:58:33.912 < 265h/261H 178v/160V P: std >     
+23:58:36.043 The innkeeper tells you 'It will cost you nothing to rent.'
+23:58:36.054 The innkeeper stores your stuff in the safe, and shows you to your room.
+
+23:58:36.055 Characters:
+23:58:36.055 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:58:36.066   1) Afu                       Level 50 Warrior (Troll)
+23:58:36.067   2) Deabnue                   Level 50 Invoker (Human)
+23:58:36.068   3) Gizep                     Level 50 Enchanter (Drow Elf)
+23:58:36.068   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+23:58:36.069   5) Newple                    Level 50 Rogue (Halfling)
+23:58:36.070   6) Mattah                    Level 50 Necromancer (Human)
+23:58:36.070   7) Rafi                      Level 50 Blackguard (Human)
+23:58:36.071   8) Digun                     Level 50 Warrior (Shield Dwarf)
+23:58:36.072   9) Risor                     Level 50 Rogue (Human)
+23:58:36.072  10) Islala                    Level 50 Bard (Moon Elf)
+23:58:36.074  11) Minolai                   Level 50 Ranger (Moon Elf)
+23:58:36.075  12) Poppibble                 Level 50 Ranger (Halfling)
+23:58:36.075  13) Simasel                   Level 50 Cleric (Moon Elf)
+23:58:36.076  14) Giru                      Level 50 Hexblade (Orc)
+23:58:36.077  15) Xaniver                   Level 50 Ranger (Half-Orc)
+23:58:36.078  16) Waf                       Level 49 Shaman (Barbarian)
+23:58:36.078  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+23:58:36.079  18) Gomble                    Level 50 Paladin (Halfling)
+23:58:36.080  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+23:58:36.080  20) Siho                      Level 50 Paladin (Half-Orc)
+23:58:36.081  21) Nidipizil                 Level 50 Paladin (Gnome)
+23:58:36.082  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+23:58:36.083  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+23:58:36.083  24) Naleni                    Level 50 Warrior (Moon Elf)
+23:58:36.084  25) Gukonata                  Level 50 Blackguard (Duergar)
+23:58:36.084  26) Uspi                      Level 50 Blackguard (Half-Orc)
+23:58:36.085  27) Tonga                     Level 50 Warrior (Ogre)
+23:58:36.086  28) Popebople                 Level 48 Enchanter (Gnome)
+23:58:36.087  29) Bago                      Level 50 Shaman (Ogre)
+23:58:36.087  30) Loyol                     Level 50 Bard (Halfling)
+23:58:36.088  31) Irsen                     Level 50 Druid (Human)
+23:58:36.089  32) Fanal                     Level 50 Rogue (Orc)
+23:58:36.089  33) Poromople                 Level 50 Invoker (Gnome)
+23:58:36.090  34) Coruduwat                 Level 43 Elementalist (Duergar)
+23:58:36.091  35) Luso                      Level 41 Paladin (Human)
+23:58:36.091  36) Ssassur                   Level 44 Wizard (Yuan-Ti)
+23:58:36.092  37) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+23:58:36.092  38) Gorkl                     Level 29 Warrior (Ogre)
+23:58:36.094  39) Gapa                      Level 28 Battlechanter (Orc)
+23:58:36.095  40) Sehe                      Level 50 Rogue (Human)
+23:58:36.095  41) Tazfap                    Level  1 Warrior (Drow Elf)
+23:58:36.096  42) Pipippaple                Level 50 Ranger (Gnome)
+23:58:36.097  43) Igunnokio                 Level 16 Ranger (Moon Elf)
+23:58:36.098  44) Tihep                     Level  6 Rogue (Drow Elf)
+23:58:36.098  45) Dobokin                   Level  1 Paladin (Half-Orc)
+23:58:36.099  46) Tamad                     Level  7 Paladin (Human)
+23:58:36.100  47) Pilferos                  Level  6 Rogue (Human)
+23:58:36.100  48) Tubor                     Level  1 Warrior (Ogre)
+23:58:36.101  49) Zorrax                    Level 13 Warrior (Troll)
+23:58:36.102  50) Muwede                    Level  1 Illusionist (Drow Elf)
+23:58:36.103  51) Woso                      Level 16 Druid (Half-Orc)
+23:58:36.103  52) Anisa                     Level 15 Blackguard (Half-Orc)
+23:58:36.104  53) Vodbadadva                Level 18 Rogue (Duergar)
+23:58:36.104  54) Lahla                     Level  1 Bard (Half-Orc)
+23:58:36.105  55) Lewo                      Level  8 Bard (Half-Orc)
+23:58:36.106  56) Dedad                     Level 11 Warrior (Drow Elf)
+23:58:36.106  57) Pige                      Level  1 Blackguard (Human)
+23:58:36.107  58) Bowo                      Level  1 Ranger (Half-Orc)
+23:58:36.108  59) Susu                      Level  7 Warrior (Ogre)
+23:58:36.108  60) Ohu                       Level 18 Warrior (Troll)
+23:58:36.109  61) Docuh                     Level  8 Warrior (Ogre)
+23:58:36.110  62) Simeramma                 Level 13 Ranger (Moon Elf)
+23:58:36.110  63) Efera                     Level  5 Necromancer (Drow Elf)
+23:58:36.111  64) Haxu                      Level 12 Shaman (Troll)
+23:58:36.112  65) Lolele                    Level 20 Warrior (Halfling)
+23:58:36.112  66) Ssississa                 Level 17 Invoker (Yuan-Ti)
+23:58:36.114  67) Rifu                      Level 18 Hexblade (Half-Orc)
+23:58:36.115  68) Ginxa                     Level 14 Rogue (Half-Orc)
+23:58:36.115  69) Dogga                     Level 12 Warrior (Ogre)
+23:58:36.116  70) Ibo                       Level 12 Warrior (Barbarian)
+23:58:36.117  71) Cometa                    Level 11 Hexblade (Half-Orc)
+23:58:36.118  72) Amamal                    Level 18 Paladin (Moon Elf)
+23:58:36.118  73) Samile                    Level 14 Invoker (Drow Elf)
+23:58:36.119  74) Xulu                      Level 17 Shaman (Troll)
+23:58:36.120  75) Enyema                    Level 10 Invoker (Drow Elf)
+23:58:36.120  76) Nino                      Level  8 Shaman (Half-Orc)
+23:58:36.121  77) Upraeleolno               Level  1 Ranger (Moon Elf)
+23:58:36.122  78) Atesa                     Level 17 Necromancer (Drow Elf)
+23:58:36.123  79) Zic                       Level 12 Warrior (Barbarian)
+23:58:36.123  80) Eyata                     Level 12 Warrior (Drow Elf)
+23:58:36.124  81) Wowidomble                Level  3 Illusionist (Gnome)
+23:58:36.124  82) Hatra                     Level 10 Shaman (Half-Orc)
+23:58:36.125  83) Gobra                     Level 35 Shaman (Half-Orc)
+23:58:36.125  84) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+23:58:36.126  85) Legil                     Level  1 Invoker (Halfling)
+23:58:36.127  86) Onre                      Level  5 Rogue (Human)
+23:58:36.128  87) Krainor                   Level 17 Paladin (Human)
+23:58:36.128  88) Sijita                    Level 12 Necromancer (Drow Elf)
+23:58:36.129  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+23:58:36.146  90) Sewothe                   Level 20 Rogue (Drow Elf)
+23:58:36.147  91) Ixap                      Level 41 Hexblade (Half-Orc)
+23:58:36.148 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:58:36.148 Type the # or name of a character above to login or choose an action below.
+23:58:36.149 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:58:36.149 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+23:58:36.150 (E)nter description    | (D)elete character | (C)hange password
+23:58:36.151 (M)odify email address | (Q)uit
+23:58:36.152 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+23:58:36.458 Your choice: 
+23:59:04.924 What character would you like to reorder? 
+23:59:07.173 Enter new position number: 
+
+23:59:09.475 Pipippaple moved to position #34.
+
+23:59:09.476 Characters:
+23:59:09.476 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:59:09.519   1) Afu                       Level 50 Warrior (Troll)
+23:59:09.520   2) Deabnue                   Level 50 Invoker (Human)
+23:59:09.520   3) Gizep                     Level 50 Enchanter (Drow Elf)
+23:59:09.521   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+23:59:09.522   5) Newple                    Level 50 Rogue (Halfling)
+23:59:09.522   6) Mattah                    Level 50 Necromancer (Human)
+23:59:09.523   7) Rafi                      Level 50 Blackguard (Human)
+23:59:09.524   8) Digun                     Level 50 Warrior (Shield Dwarf)
+23:59:09.524   9) Risor                     Level 50 Rogue (Human)
+23:59:09.525  10) Islala                    Level 50 Bard (Moon Elf)
+23:59:09.525  11) Minolai                   Level 50 Ranger (Moon Elf)
+23:59:09.526  12) Poppibble                 Level 50 Ranger (Halfling)
+23:59:09.527  13) Simasel                   Level 50 Cleric (Moon Elf)
+23:59:09.527  14) Giru                      Level 50 Hexblade (Orc)
+23:59:09.528  15) Xaniver                   Level 50 Ranger (Half-Orc)
+23:59:09.529  16) Waf                       Level 49 Shaman (Barbarian)
+23:59:09.529  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+23:59:09.530  18) Gomble                    Level 50 Paladin (Halfling)
+23:59:09.531  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+23:59:09.532  20) Siho                      Level 50 Paladin (Half-Orc)
+23:59:09.532  21) Nidipizil                 Level 50 Paladin (Gnome)
+23:59:09.533  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+23:59:09.534  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+23:59:09.535  24) Naleni                    Level 50 Warrior (Moon Elf)
+23:59:09.536  25) Gukonata                  Level 50 Blackguard (Duergar)
+23:59:09.536  26) Uspi                      Level 50 Blackguard (Half-Orc)
+23:59:09.537  27) Tonga                     Level 50 Warrior (Ogre)
+23:59:09.538  28) Popebople                 Level 48 Enchanter (Gnome)
+23:59:09.538  29) Bago                      Level 50 Shaman (Ogre)
+23:59:09.539  30) Loyol                     Level 50 Bard (Halfling)
+23:59:09.539  31) Irsen                     Level 50 Druid (Human)
+23:59:09.540  32) Fanal                     Level 50 Rogue (Orc)
+23:59:09.541  33) Poromople                 Level 50 Invoker (Gnome)
+23:59:09.541  34) Pipippaple                Level 50 Ranger (Gnome)
+23:59:09.542  35) Coruduwat                 Level 43 Elementalist (Duergar)
+23:59:09.542  36) Luso                      Level 41 Paladin (Human)
+23:59:09.543  37) Ssassur                   Level 44 Wizard (Yuan-Ti)
+23:59:09.544  38) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+23:59:09.544  39) Gorkl                     Level 29 Warrior (Ogre)
+23:59:09.545  40) Gapa                      Level 28 Battlechanter (Orc)
+23:59:09.546  41) Sehe                      Level 50 Rogue (Human)
+23:59:09.546  42) Tazfap                    Level  1 Warrior (Drow Elf)
+23:59:09.547  43) Igunnokio                 Level 16 Ranger (Moon Elf)
+23:59:09.548  44) Tihep                     Level  6 Rogue (Drow Elf)
+23:59:09.548  45) Dobokin                   Level  1 Paladin (Half-Orc)
+23:59:09.549  46) Tamad                     Level  7 Paladin (Human)
+23:59:09.550  47) Pilferos                  Level  6 Rogue (Human)
+23:59:09.550  48) Tubor                     Level  1 Warrior (Ogre)
+23:59:09.551  49) Zorrax                    Level 13 Warrior (Troll)
+23:59:09.552  50) Muwede                    Level  1 Illusionist (Drow Elf)
+23:59:09.552  51) Woso                      Level 16 Druid (Half-Orc)
+23:59:09.553  52) Anisa                     Level 15 Blackguard (Half-Orc)
+23:59:09.554  53) Vodbadadva                Level 18 Rogue (Duergar)
+23:59:09.555  54) Lahla                     Level  1 Bard (Half-Orc)
+23:59:09.555  55) Lewo                      Level  8 Bard (Half-Orc)
+23:59:09.556  56) Dedad                     Level 11 Warrior (Drow Elf)
+23:59:09.557  57) Pige                      Level  1 Blackguard (Human)
+23:59:09.557  58) Bowo                      Level  1 Ranger (Half-Orc)
+23:59:09.558  59) Susu                      Level  7 Warrior (Ogre)
+23:59:09.559  60) Ohu                       Level 18 Warrior (Troll)
+23:59:09.559  61) Docuh                     Level  8 Warrior (Ogre)
+23:59:09.560  62) Simeramma                 Level 13 Ranger (Moon Elf)
+23:59:09.561  63) Efera                     Level  5 Necromancer (Drow Elf)
+23:59:09.561  64) Haxu                      Level 12 Shaman (Troll)
+23:59:09.562  65) Lolele                    Level 20 Warrior (Halfling)
+23:59:09.562  66) Ssississa                 Level 17 Invoker (Yuan-Ti)
+23:59:09.563  67) Rifu                      Level 18 Hexblade (Half-Orc)
+23:59:09.563  68) Ginxa                     Level 14 Rogue (Half-Orc)
+23:59:09.564  69) Dogga                     Level 12 Warrior (Ogre)
+23:59:09.565  70) Ibo                       Level 12 Warrior (Barbarian)
+23:59:09.565  71) Cometa                    Level 11 Hexblade (Half-Orc)
+23:59:09.566  72) Amamal                    Level 18 Paladin (Moon Elf)
+23:59:09.567  73) Samile                    Level 14 Invoker (Drow Elf)
+23:59:09.567  74) Xulu                      Level 17 Shaman (Troll)
+23:59:09.568  75) Enyema                    Level 10 Invoker (Drow Elf)
+23:59:09.569  76) Nino                      Level  8 Shaman (Half-Orc)
+23:59:09.569  77) Upraeleolno               Level  1 Ranger (Moon Elf)
+23:59:09.570  78) Atesa                     Level 17 Necromancer (Drow Elf)
+23:59:09.571  79) Zic                       Level 12 Warrior (Barbarian)
+23:59:09.571  80) Eyata                     Level 12 Warrior (Drow Elf)
+23:59:09.572  81) Wowidomble                Level  3 Illusionist (Gnome)
+23:59:09.573  82) Hatra                     Level 10 Shaman (Half-Orc)
+23:59:09.574  83) Gobra                     Level 35 Shaman (Half-Orc)
+23:59:09.574  84) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+23:59:09.575  85) Legil                     Level  1 Invoker (Halfling)
+23:59:09.576  86) Onre                      Level  5 Rogue (Human)
+23:59:09.576  87) Krainor                   Level 17 Paladin (Human)
+23:59:09.577  88) Sijita                    Level 12 Necromancer (Drow Elf)
+23:59:09.578  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+23:59:09.578  90) Sewothe                   Level 20 Rogue (Drow Elf)
+23:59:09.579  91) Ixap                      Level 41 Hexblade (Half-Orc)
+23:59:09.580 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:59:09.580 Type the # or name of a character above to login or choose an action below.
+23:59:09.581 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:59:09.581 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+23:59:09.582 (E)nter description    | (D)elete character | (C)hange password
+23:59:09.584 (M)odify email address | (Q)uit
+23:59:09.584 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+23:59:09.898 Your choice: 
+23:59:34.096 What character would you like to reorder? 
+23:59:37.848 Enter new position number: 
+
+23:59:49.499 Sehe moved to position #35.
+
+23:59:49.500 Characters:
+23:59:49.500 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:59:49.541   1) Afu                       Level 50 Warrior (Troll)
+23:59:49.542   2) Deabnue                   Level 50 Invoker (Human)
+23:59:49.542   3) Gizep                     Level 50 Enchanter (Drow Elf)
+23:59:49.543   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+23:59:49.544   5) Newple                    Level 50 Rogue (Halfling)
+23:59:49.544   6) Mattah                    Level 50 Necromancer (Human)
+23:59:49.545   7) Rafi                      Level 50 Blackguard (Human)
+23:59:49.546   8) Digun                     Level 50 Warrior (Shield Dwarf)
+23:59:49.546   9) Risor                     Level 50 Rogue (Human)
+23:59:49.547  10) Islala                    Level 50 Bard (Moon Elf)
+23:59:49.548  11) Minolai                   Level 50 Ranger (Moon Elf)
+23:59:49.548  12) Poppibble                 Level 50 Ranger (Halfling)
+23:59:49.549  13) Simasel                   Level 50 Cleric (Moon Elf)
+23:59:49.550  14) Giru                      Level 50 Hexblade (Orc)
+23:59:49.550  15) Xaniver                   Level 50 Ranger (Half-Orc)
+23:59:49.551  16) Waf                       Level 49 Shaman (Barbarian)
+23:59:49.552  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+23:59:49.552  18) Gomble                    Level 50 Paladin (Halfling)
+23:59:49.553  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+23:59:49.553  20) Siho                      Level 50 Paladin (Half-Orc)
+23:59:49.554  21) Nidipizil                 Level 50 Paladin (Gnome)
+23:59:49.555  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+23:59:49.555  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+23:59:49.556  24) Naleni                    Level 50 Warrior (Moon Elf)
+23:59:49.557  25) Gukonata                  Level 50 Blackguard (Duergar)
+23:59:49.558  26) Uspi                      Level 50 Blackguard (Half-Orc)
+23:59:49.558  27) Tonga                     Level 50 Warrior (Ogre)
+23:59:49.559  28) Popebople                 Level 48 Enchanter (Gnome)
+23:59:49.560  29) Bago                      Level 50 Shaman (Ogre)
+23:59:49.560  30) Loyol                     Level 50 Bard (Halfling)
+23:59:49.561  31) Irsen                     Level 50 Druid (Human)
+23:59:49.561  32) Fanal                     Level 50 Rogue (Orc)
+23:59:49.563  33) Poromople                 Level 50 Invoker (Gnome)
+23:59:49.563  34) Pipippaple                Level 50 Ranger (Gnome)
+23:59:49.563  35) Sehe                      Level 50 Rogue (Human)
+23:59:49.565  36) Coruduwat                 Level 43 Elementalist (Duergar)
+23:59:49.566  37) Luso                      Level 41 Paladin (Human)
+23:59:49.566  38) Ssassur                   Level 44 Wizard (Yuan-Ti)
+23:59:49.567  39) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+23:59:49.568  40) Gorkl                     Level 29 Warrior (Ogre)
+23:59:49.568  41) Gapa                      Level 28 Battlechanter (Orc)
+23:59:49.569  42) Tazfap                    Level  1 Warrior (Drow Elf)
+23:59:49.570  43) Igunnokio                 Level 16 Ranger (Moon Elf)
+23:59:49.570  44) Tihep                     Level  6 Rogue (Drow Elf)
+23:59:49.571  45) Dobokin                   Level  1 Paladin (Half-Orc)
+23:59:49.572  46) Tamad                     Level  7 Paladin (Human)
+23:59:49.572  47) Pilferos                  Level  6 Rogue (Human)
+23:59:49.573  48) Tubor                     Level  1 Warrior (Ogre)
+23:59:49.573  49) Zorrax                    Level 13 Warrior (Troll)
+23:59:49.574  50) Muwede                    Level  1 Illusionist (Drow Elf)
+23:59:49.574  51) Woso                      Level 16 Druid (Half-Orc)
+23:59:49.575  52) Anisa                     Level 15 Blackguard (Half-Orc)
+23:59:49.576  53) Vodbadadva                Level 18 Rogue (Duergar)
+23:59:49.576  54) Lahla                     Level  1 Bard (Half-Orc)
+23:59:49.577  55) Lewo                      Level  8 Bard (Half-Orc)
+23:59:49.578  56) Dedad                     Level 11 Warrior (Drow Elf)
+23:59:49.578  57) Pige                      Level  1 Blackguard (Human)
+23:59:49.579  58) Bowo                      Level  1 Ranger (Half-Orc)
+23:59:49.580  59) Susu                      Level  7 Warrior (Ogre)
+23:59:49.580  60) Ohu                       Level 18 Warrior (Troll)
+23:59:49.581  61) Docuh                     Level  8 Warrior (Ogre)
+23:59:49.581  62) Simeramma                 Level 13 Ranger (Moon Elf)
+23:59:49.583  63) Efera                     Level  5 Necromancer (Drow Elf)
+23:59:49.584  64) Haxu                      Level 12 Shaman (Troll)
+23:59:49.584  65) Lolele                    Level 20 Warrior (Halfling)
+23:59:49.585  66) Ssississa                 Level 17 Invoker (Yuan-Ti)
+23:59:49.585  67) Rifu                      Level 18 Hexblade (Half-Orc)
+23:59:49.586  68) Ginxa                     Level 14 Rogue (Half-Orc)
+23:59:49.587  69) Dogga                     Level 12 Warrior (Ogre)
+23:59:49.587  70) Ibo                       Level 12 Warrior (Barbarian)
+23:59:49.588  71) Cometa                    Level 11 Hexblade (Half-Orc)
+23:59:49.589  72) Amamal                    Level 18 Paladin (Moon Elf)
+23:59:49.589  73) Samile                    Level 14 Invoker (Drow Elf)
+23:59:49.590  74) Xulu                      Level 17 Shaman (Troll)
+23:59:49.591  75) Enyema                    Level 10 Invoker (Drow Elf)
+23:59:49.591  76) Nino                      Level  8 Shaman (Half-Orc)
+23:59:49.592  77) Upraeleolno               Level  1 Ranger (Moon Elf)
+23:59:49.593  78) Atesa                     Level 17 Necromancer (Drow Elf)
+23:59:49.593  79) Zic                       Level 12 Warrior (Barbarian)
+23:59:49.594  80) Eyata                     Level 12 Warrior (Drow Elf)
+23:59:49.595  81) Wowidomble                Level  3 Illusionist (Gnome)
+23:59:49.595  82) Hatra                     Level 10 Shaman (Half-Orc)
+23:59:49.596  83) Gobra                     Level 35 Shaman (Half-Orc)
+23:59:49.597  84) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+23:59:49.597  85) Legil                     Level  1 Invoker (Halfling)
+23:59:49.598  86) Onre                      Level  5 Rogue (Human)
+23:59:49.599  87) Krainor                   Level 17 Paladin (Human)
+23:59:49.599  88) Sijita                    Level 12 Necromancer (Drow Elf)
+23:59:49.600  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+23:59:49.601  90) Sewothe                   Level 20 Rogue (Drow Elf)
+23:59:49.601  91) Ixap                      Level 41 Hexblade (Half-Orc)
+23:59:49.602 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:59:49.602 Type the # or name of a character above to login or choose an action below.
+23:59:49.603 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:59:49.603 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+23:59:49.604 (E)nter description    | (D)elete character | (C)hange password
+23:59:49.605 (M)odify email address | (Q)uit
+23:59:49.605 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+23:59:49.909 Your choice: 
+23:59:59.666 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+23:59:59.666                            Wizards
+23:59:59.667 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+23:59:59.667 The new Wizard class has arrived, with Illusionist as the first subclass. For
+23:59:59.668 more details on this update, please see the news link below.
+
+23:59:59.669 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+23:59:59.670 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+23:59:59.670 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+23:59:59.670 - http://www.torilmud.com/news/arcane-companions/
+
+23:59:59.670 Resources
+
+23:59:59.671 Discord    : https://discord.gg/t7edjzM
+23:59:59.671 Web Client : http://www.torilmud.com/login
+23:59:59.671 News       : http://news.torilmud.com/
+23:59:59.672 Issues     : https://github.com/torilmud/issues
+
+23:59:59.752 Retrieving rented items from storage...
+
+23:59:59.754         Welcome to TorilMUD
+
+23:59:59.755                
+
+23:59:59.759 The Gentle Moon - Common Area
+23:59:59.759    The inn has seen better days, once polished hard wood now looks
+23:59:59.760 bedraggled.  The walls are beginning to warp from the moist air, and
+23:59:59.761 small gaps admit marine air.  An old bar rest in the center of the room
+23:59:59.762 surrounded by tables.  People still come here to eat, and sometimes
+23:59:59.763 lodge.  Some come for the friendly atmosphere, some come to try to catch
+23:59:59.764 a glimpse of the fabled ghost said to haunt the premises.
+23:59:59.765 Exits: - North - East   [327] 
+23:59:59.765 Nyyrazzilyss - Head Jailer of the Valkurian Blades (AFK) (Illithid) sits resting in mid-air.
+23:59:59.767 A tradesperson rests here with a drink in hand. (x3)
+23:59:59.767 A scantily-dressed server moves about the room looking awkward.
+23:59:59.768 The innkeeper stands behind the counter renting out rooms.
+
+Log session ending at 23:59:59 on Tuesday, 9 December 2025.

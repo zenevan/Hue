@@ -1,0 +1,486 @@
+Log session starting at 16:13:25 on Tuesday, 9 December 2025.
+
+16:13:25.049 < 311h/261H 160v/160V P: std >     
+16:13:25.049 [Spellqueue cleared.]
+16:13:25.253 You will no longer see the mini-map when moving.
+
+16:13:25.292 < 311h/261H 160v/160V P: std >     
+16:13:25.502 You will now see the classic prompt.
+
+16:13:25.755 < 311h/261H 160v/160V P: std > 
+16:13:25.755  Prompt Command Usage:
+16:13:25.755   prompt                             - Display this help
+16:13:25.756   prompt layout                      - List available layouts
+16:13:25.757   prompt layout <layout>             - Set your layout
+16:13:25.757   prompt fields                      - List available fields
+16:13:25.758   prompt add <field>                 - Add a field to your current layout
+16:13:25.759   prompt remove <field>              - Remove a field from your current layout
+16:13:25.761   prompt options                     - Show a list of prompt option flags
+16:13:25.762   prompt options <flag>              - Toggle a prompt option
+16:13:25.762   prompt power <power> <slot>        - Add a power to a prompt slot
+16:13:25.763   prompt power auto                  - Set the default suggested power prompts
+16:13:25.764   prompt power clear <power, all>    - Clear a power from the prompt
+16:13:25.765   prompt color                       - List available prompt power colors
+16:13:25.767   prompt color <power, slot> <color> - Set the ready power color for a specific power or slot
+16:13:25.768   prompt color <type> <color>        - Set color for: <ready, cooldown, special, default, combo>
+16:13:25.770   prompt color <type> <clear>        - Clear color for <ready, cooldown, special, default, combo> 
+16:13:25.772   prompt color reset                 - Reset all prompt colors to default
+16:13:25.773   prompt help                        - Display this help
+
+16:13:25.836 To use the prompt command, first toggle on NEWPROMPT.
+
+16:13:26.001 < 311h/261H 160v/160V P: std > 
+16:13:26.088 Smartprompt toggled on.
+
+16:13:26.254 < 311h/261H 160v/160V P: std > 
+16:13:26.337 There are no sub-classes currently available to your class.
+
+16:13:26.504 < 311h/261H 160v/160V P: std > 
+
+16:13:26.592           Character attributes for Mattah
+
+16:13:26.593 Level: 50   Race: Human   Class: Necromancer 
+16:13:26.625 Size: Medium
+16:13:26.626 STR:  91  AGI:  94  DEX:  70  CON: 100
+16:13:26.626 POW:  70  INT: 100  WIS:  70  CHA:  70
+16:13:26.626 Armor Class: 100  (100 to -100)  Agility Bonus: -15
+16:13:26.627 Magic Resistance: 0 percent
+16:13:26.627 Hitroll: 3   Damroll: 4   Undead Points: 0/60
+16:13:26.628 Alignment: Chaotic Evil
+16:13:26.628 Saving Throws: PAR[0]  ROD[0]  PET[0]  BRE[0]  SPE[0]
+16:13:26.628    Wimpy: not set
+16:13:26.628 Load carried: What load?
+16:13:26.629 Damage Resistance:
+16:13:26.629 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+16:13:26.630 Spells:    0% Fire  :    0% Cold  :    0% Elect :    0% Acid  :    0% 
+16:13:26.631 Sonic :    0% Poison:    0% Pos   :    0% Neg   :    0% Psi   :    0% 
+16:13:26.632 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+16:13:26.632 Force :    0% 
+
+16:13:26.755 < 311h/261H 160v/160V P: std > 
+
+16:13:26.837           Score information for Mattah
+
+16:13:26.838 Level: 50   Race: Human   Class: Necromancer 
+16:13:26.839 Hit points: 311(261)  Moves: 160(160)
+16:13:26.839 Experience Progress: 508 % 
+16:13:26.839 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+16:13:26.840 Coins in bank:  500 platinum    29 gold    10 silver     3 copper
+16:13:26.841 Prestige: 6023   Acheron Kill Count: 0
+16:13:26.842 Name status: Approved
+16:13:26.842 Citizen of:   Baldur's Gate
+16:13:26.842 Outcast from: Leuthilspar
+16:13:26.842 Playing time: 54 days / 1 hours / 54 minutes
+16:13:26.843 Title: 
+16:13:26.843 Status:  Standing.
+
+16:13:27.005 < 311h/261H 160v/160V P: std > 
+16:13:27.086 You aren't wearing anything!
+
+16:13:27.255 < 311h/261H 160v/160V P: std > 
+
+16:13:27.505 < 311h/261H 160v/160V P: std > 
+
+16:13:27.756 < 311h/261H 160v/160V P: std > 
+16:13:27.845 You are 0 XP (0.00%) away from your next level.
+
+16:13:28.006 < 311h/261H 160v/160V P: std > 
+16:13:28.093 You haven't consented to anyone.
+
+16:13:28.093 Mattah is consenting you.
+
+16:13:28.257 < 311h/261H 160v/160V P: std > 
+16:13:28.343 You will now see the mini-map when moving.
+
+16:13:28.511 < 311h/261H 160v/160V P: std > 
+16:13:28.593 You will now see the new prompt.
+
+16:13:28.593 < 311h/261H 160v/160V P: std >     
+16:13:28.758 Smartprompt toggled off.
+
+16:13:28.841 < 310h/261H 160v/160V P: std >     
+16:13:29.012 The Gentle Moon - Common Area
+16:13:28.841 < 310h/261H 160v/160V P: std >     
+16:13:29.051 [Setting statname to unset]
+16:13:29.060 [All train triggers disabled]
+16:13:29.095 < 310h/261H 160v/160V P: std >     
+16:13:29.258 Prompt option newline disabled.
+
+16:13:29.509 < 310h/261H 160v/160V P: std >Prompt option newline enabled.
+
+16:13:29.589 < 310h/261H 160v/160V P: std >     
+
+16:13:29.602 [Searching... Match found: Westgate : The Gentle Moon - Common Area : 327]
+
+16:14:22.163 You are hungry.
+16:14:22.164 You are thirsty.
+
+16:14:22.164 < 298h/261H 160v/160V P: std >     
+16:16:14.559 Usage: @set key value Example: @set loot off - turns off autoloot
+16:16:14.559 ------------
+16:16:14.559           [sound] on                    off|limited|on  play sounds
+16:16:14.559             [tts] 0                                  #  speak mud text
+16:16:14.559             [map] on                            on|off  display map
+16:16:14.559        [maperror] false                     true|false  suppress map room errors
+16:16:14.559      [roomwindow] false                     true|false  display room window
+16:16:14.559        [winGroup] true                      true|false  display group window
+16:16:14.559         [winChat] true                      true|false  display chat window
+16:16:14.559          [winMap] true                      true|false  display map window
+16:16:14.559      [winMinimap] true                      true|false  display minimap window
+16:16:14.559      [winIconbar] true                      true|false  display iconbar window
+16:16:14.559         [swedish] false                     true|false  translate acc/etc to swedish
+16:16:14.559           [style] true                      true|false  use Qt icon stylesheet
+16:16:14.559       [hideequip] true                      true|false  hide left equip icon bar
+16:16:14.559          [border] default                            *  file, default, or colour
+16:16:14.559        [numcolor] orange                             *  color of numbers on buttons
+16:16:14.559      [numcolcool] red                                *  color of numbers on buttons in cooldown
+16:16:14.559    [colbuttonoff] #ff815a                            *  color of button when off
+16:16:14.559     [colbuttonon] white                              *  color of button when on
+16:16:14.559            [font] AvQest                             *  font to use for buttons
+16:16:14.559        [statname] unset                              *  
+16:16:14.559        [autoopen] false                     true|false  auto-open doors
+16:16:14.559      [autoportal] false                     true|false  auto enter rifts/portals/etc
+16:16:14.559      [movebuffer] 10                                 #  maximum movements to send before buffering
+16:16:14.559       [priospell] vt                                 *  Prioritize this spell when memming
+16:16:14.559       [condensed]
+16:16:14.559              misc       true | combat     true | spells     true | dragon     true |
+16:16:14.559              spellout   true | duplicate  true | debug     false | echosend  false |
+16:16:14.559              items      true | arrows     true |
+16:16:14.560            [vnum] true                      true|false  display room vnum
+16:16:14.560    [chatfontsize] auto                          auto|#  fontsize to use for the chat window
+16:16:14.560     [grpfontsize] 14                            auto|#  fontsize to use for the group window
+16:16:14.560       [reconnect] false                        false|#  auto login this char number
+16:16:14.560        [endspell] vit             vit|dsp|pwt|fly|grp|pfu|hst|dop|cbm  
+16:16:14.560            [gcmd] false                     true|false  use gcmd instead of gsay
+16:16:14.560           [group] true                      true|false  updated group display
+16:16:14.560       [assocchar]                                    *  connect to association chat, storage
+16:16:14.560         [blurout] /\o_O/\ Blur Out /\O_o/\                    *  
+16:16:14.560     [displaceout] /\o_O/\ Displace Out /\O_o/\                    *  
+16:16:14.560        [globeout] /\o_O/\ Globe Out /\O_o/\                    *  
+16:16:14.560        [hasteout] /\o_O/\ Haste Out /\O_o/\                    *  
+16:16:14.560        [scaleout] /\o_O/\ Scale Out /\O_o/\                    *  
+16:16:14.560        [stoneout] /\o_O/\ Stone Out /\O_o/\                    *  
+16:16:14.560          [vitout] /\o_O/\ Vit Out /\O_o/\                    *  
+16:16:14.560         [barkout] /\o_O/\ Bark Out /\O_o/\                    *  
+16:16:14.560 --------------
+16:16:14.560      [autoweapon] auto            auto|Bow|Dual|TwoHand|Shield|None  weapon setup
+16:16:14.560        [autoproc] false                     true|false  autoproc equipment
+16:16:14.560       [container]                                    *  set the name of your main container
+16:16:14.560            [food]                                    *  food name to eat
+16:16:14.560         [canteen]                                    *  name of water container
+16:16:14.560        [autoloot] off                    off|coins|all  
+16:16:14.560            [flee] on                on|off|dragon|lich  
+16:16:14.560      [autoassist] true                      true|false  assist people in combat
+16:16:14.560       [petrescue] ME                       NONE|ALL|ME  
+16:16:14.560 --------------
+16:16:14.560        [autocast] false                     true|false  cast/mem spells automatically
+16:16:14.560       [pokehaste] false                     true|false  cast haste when poked
+16:16:14.560       [autoglobe] false             true|false|hitters  who to globe
+16:16:14.560      [turnundead] false                     true|false  damage undead automatically
+16:16:14.561            [wuss]                                    *  always rescue and spell wuss
+16:16:14.561        [autoarea] false                     true|false  cast 1-6th circle area combat spells
+16:16:14.561     [automissile] false                     true|false  cast 1-6th circle combat spells
+16:16:14.561   [autohlmissile] false                     true|false  cast 7th+ circle combat spells
+16:16:14.561      [autohlarea] false                     true|false  cast 7th circle+ area combat spells
+16:16:14.561         [autopfu] false                     true|false  cast protection from undead
+16:16:14.561        [autowail] false                     true|false  use banshee wail
+16:16:14.561      [autovcurse] false                     true|false  use vampiric curse
+16:16:54.861 But you are a member of no group?!
+
+16:16:54.948 < 278h/261H 160v/160V P: std >     
+16:17:05.130 You tell Tabmur '@set reconnect 2'
+
+16:17:05.219 < 277h/261H 160v/160V P: std >     
+16:17:29.927 You have memorized the following spells:
+16:17:29.928 (10th circle)  4 - Boneshatter
+16:17:29.928 ( 9th circle)  4 - Abi Dalzims Horrid Wilting
+16:17:29.929                1 - Animate Ghost
+16:17:29.929 ( 8th circle)  5 - Animate Spectre
+16:17:29.929 ( 7th circle)  1 - Dimension Door
+16:17:29.930                2 - Beltyns Burning Blood
+16:17:29.930                1 - Animate Wraith
+16:17:29.930                1 - Protect Undead
+16:17:29.931                1 - Haste
+16:17:29.931 ( 6th circle)  7 - Rejuvenate Major
+16:17:29.931 ( 5th circle)  7 - Heal Undead
+16:17:29.932                1 - Coldshield
+16:17:29.933 ( 4th circle)  8 - Spectral Hand
+16:17:29.934                1 - Animate Shadow
+16:17:29.934 ( 3rd circle)  9 - Soul Bind
+16:17:29.935 ( 2nd circle)  6 - Invisibility
+16:17:29.935                4 - Minor Creation
+16:17:29.935 ( 1st circle) 10 - Preserve
+16:17:29.935                1 - Detect Invisibility
+
+16:17:29.936 You can memorize no more spells.
+
+16:17:30.010 < 275h/261H 160v/160V P: std >     
+16:17:31.682 The Gentle Moon - Common Area
+16:17:31.682 Exits: - North - East   [327] 
+16:17:31.682 Nyyrazzilyss - Head Jailer of the Valkurian Blades (AFK) (Illithid) sits resting in mid-air.
+16:17:31.761 A tradesperson rests here with a drink in hand. (x3)
+16:17:31.761 A scantily-dressed server moves about the room looking awkward.
+16:17:31.762 The innkeeper stands behind the counter renting out rooms.
+
+16:17:31.763 < 275h/261H 160v/160V P: std >     
+16:17:32.432 You are carrying:
+16:17:32.432 a bone pencil 
+
+16:17:32.520 < 275h/261H 160v/160V P: std >     
+16:17:34.433 Alas, you cannot go that way. . . .
+
+16:17:34.525 < 275h/261H 160v/160V P: std >     
+16:17:37.443 The Gentle Moon - Common Area
+16:17:37.444 Exits: - North - East   [327] 
+16:17:37.445 Nyyrazzilyss - Head Jailer of the Valkurian Blades (AFK) (Illithid) sits resting in mid-air.
+16:17:37.544 A tradesperson rests here with a drink in hand. (x3)
+16:17:37.545 A scantily-dressed server moves about the room looking awkward.
+16:17:37.546 The innkeeper stands behind the counter renting out rooms.
+
+16:17:37.547 < 274h/261H 160v/160V P: std >     
+16:17:42.452 You aren't wearing anything!
+
+16:17:42.542 < 274h/261H 160v/160V P: std >     
+16:17:47.458 You tell Ynndchiarhlizz 'hole me'
+
+16:17:47.548 < 274h/261H 160v/160V P: std >     
+
+16:17:47.812 The area darkens and the air shimmers slightly as a wormhole opens here.
+
+16:17:47.813 < 274h/261H 160v/160V P: std >     
+16:17:50.466 You enter something and reappear elsewhere...
+16:17:50.467                
+
+16:17:50.564 Wayward House Inn (Shadowed)
+16:17:50.565    This elegant wood building has been constructed on the stone
+16:17:50.566 foundation of the Inn of Wayward Sages.  Charring can still be seen on
+16:17:50.567 the stone from when the original building burned down.  Originally an
+16:17:50.568 inn with less then reputable clientele the inn has become more classy
+16:17:50.569 with a well stocked wine cellar.  A number of tables and chairs lie
+16:17:50.570 about the room casually and a long oak counter fills one end of the
+16:17:50.571 room.
+16:17:50.571 Exits: - North - Up     [327] 
+16:17:50.571 A gaping hole in the ground leads into darkness. 
+16:17:50.572 Mizes - Fuzzybottom of the Valkurian Blades (Yuan-Ti) stands in mid-air here.
+16:17:50.573 Lorle - Captain of the Valkurian Blades (AFK) (Human) stands here.
+16:17:50.574 Teyolalil  (Gnome) stands here.
+16:17:50.574 Heroh  (Halfling) stands here.
+16:17:50.575 Fokle Fuzzybottom (RP) (Halfling) stands here.
+16:17:50.575 Grxx Krush Skul Einherjar Riders of Faerun (RP) (Troll) stands here.
+16:17:50.576 Nonale  (Halfling) stands here.
+16:17:50.578 A showy merchant sits here looking smug. (x3)
+16:17:50.579 A dapper noble is here socializing. (x3)
+16:17:50.579 Ynndchiarhlizz - The Nexus (Illithid) sits resting.
+16:17:50.580 Havorr Merendil stands behind the counter ready to serve.
+
+16:17:50.581 < 274h/261H 160v/160V P: std >     
+
+16:17:51.214           Score information for Mattah
+
+16:17:51.214 Level: 50   Race: Human   Class: Necromancer 
+16:17:51.215 Hit points: 273(261)  Moves: 160(160)
+16:17:51.216 Experience Progress: 508 % 
+16:17:51.216 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+16:17:51.304 Coins in bank:  500 platinum    29 gold    10 silver     3 copper
+16:17:51.306 Prestige: 6023   Acheron Kill Count: 0
+16:17:51.306 Name status: Approved
+16:17:51.306 Citizen of:   Baldur's Gate
+16:17:51.307 Outcast from: Leuthilspar
+16:17:51.307 Playing time: 54 days / 1 hours / 59 minutes
+16:17:51.308 Title: 
+16:17:51.308 Status:  Standing.
+
+16:17:51.308 < 273h/261H 160v/160V P: std >     
+
+16:17:51.967 [Searching... Match found: Silverymoon, Gem of the North : Wayward House Inn : 48603]
+16:17:53.218 Alas, you cannot go that way. . . .
+
+16:17:53.304 < 273h/261H 160v/160V P: std >     
+16:17:55.720 Wayward House Inn (Shadowed)
+16:17:55.722 Exits: - North - Up     [48603] 
+16:17:55.722 A gaping hole in the ground leads into darkness. 
+16:17:55.723 Mizes - Fuzzybottom of the Valkurian Blades (Yuan-Ti) stands in mid-air here.
+16:17:55.803 Lorle - Captain of the Valkurian Blades (AFK) (Human) stands here.
+16:17:55.804 Teyolalil  (Gnome) stands here.
+16:17:55.805 Heroh  (Halfling) stands here.
+16:17:55.805 Fokle Fuzzybottom (RP) (Halfling) stands here.
+16:17:55.806 Grxx Krush Skul Einherjar Riders of Faerun (RP) (Troll) stands here.
+16:17:55.807 Nonale  (Halfling) stands here.
+16:17:55.808 A showy merchant sits here looking smug. (x3)
+16:17:55.809 A dapper noble is here socializing. (x3)
+16:17:55.810 Ynndchiarhlizz - The Nexus (Illithid) sits resting.
+16:17:55.810 Havorr Merendil stands behind the counter ready to serve.
+
+16:17:55.811 < 273h/261H 160v/160V P: std >     
+16:17:57.723                
+
+16:17:57.827 The Upstairs of the Wayward House Inn
+16:17:57.828    Like most of the building the upstairs is made of maple, a rich wood
+16:17:57.829 that gives the inn a warm feel.  The boards have been well carved and
+16:17:57.830 fit closely together, only admitting light through the shuttered
+16:17:57.831 windows.  This floor consists of several rooms available for rent.
+16:17:57.832 Each room has its own lock on the door to ensure privacy.
+16:17:57.832 Exits: - Down          [48604] 
+16:17:57.832 A steel longsword lies on the ground. 
+16:17:57.833 An elaborately decorated key lies here. 
+16:17:57.833 Sylvana  (Half-Elf) stands here.
+16:17:57.834 Jhalessa Shorncrown stands here tidying up.
+
+16:17:57.834 < 273h/261H 159v/160V P: std >     
+
+16:17:58.815 Jhalessa Shorncrown says, 'Rent is free for adventurers, stay as long as you like.'
+
+16:17:58.817 < 273h/261H 159v/160V P: std >     
+16:17:58.975 Order who to do what?
+
+16:17:59.068 < 273h/261H 159v/160V P: std >     
+16:18:00.226 You are carrying:
+16:18:00.226 a bone pencil 
+
+16:18:00.307 < 273h/261H 160v/160V P: std >     
+16:18:02.230 Alas, you cannot go that way. . . .
+
+16:18:02.316 < 273h/261H 160v/160V P: std >     
+16:18:05.521 Jhalessa Shorncrown tells you 'It will cost you nothing to rent.'
+16:18:05.532 Jhalessa Shorncrown stores your stuff in the safe, and shows you to your room.
+
+16:18:05.534 Characters:
+16:18:05.534 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+16:18:05.545   1) Afu                       Level 50 Warrior (Troll)
+16:18:05.546   2) Deabnue                   Level 50 Invoker (Human)
+16:18:05.547   3) Gizep                     Level 50 Enchanter (Drow Elf)
+16:18:05.548   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+16:18:05.548   5) Newple                    Level 50 Rogue (Halfling)
+16:18:05.549   6) Mattah                    Level 50 Necromancer (Human)
+16:18:05.550   7) Rafi                      Level 50 Blackguard (Human)
+16:18:05.550   8) Digun                     Level 50 Warrior (Shield Dwarf)
+16:18:05.551   9) Risor                     Level 50 Rogue (Human)
+16:18:05.552  10) Islala                    Level 50 Bard (Moon Elf)
+16:18:05.552  11) Minolai                   Level 50 Ranger (Moon Elf)
+16:18:05.552  12) Poppibble                 Level 50 Ranger (Halfling)
+16:18:05.554  13) Simasel                   Level 50 Cleric (Moon Elf)
+16:18:05.554  14) Giru                      Level 50 Hexblade (Orc)
+16:18:05.555  15) Xaniver                   Level 50 Ranger (Half-Orc)
+16:18:05.556  16) Waf                       Level 49 Shaman (Barbarian)
+16:18:05.556  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+16:18:05.557  18) Gomble                    Level 50 Paladin (Halfling)
+16:18:05.558  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+16:18:05.559  20) Siho                      Level 50 Paladin (Half-Orc)
+16:18:05.559  21) Nidipizil                 Level 50 Paladin (Gnome)
+16:18:05.560  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+16:18:05.561  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+16:18:05.562  24) Naleni                    Level 50 Warrior (Moon Elf)
+16:18:05.562  25) Gukonata                  Level 50 Blackguard (Duergar)
+16:18:05.562  26) Uspi                      Level 50 Blackguard (Half-Orc)
+16:18:05.563  27) Tonga                     Level 50 Warrior (Ogre)
+16:18:05.564  28) Popebople                 Level 48 Enchanter (Gnome)
+16:18:05.565  29) Bago                      Level 50 Shaman (Ogre)
+16:18:05.565  30) Loyol                     Level 50 Bard (Halfling)
+16:18:05.566  31) Irsen                     Level 50 Druid (Human)
+16:18:05.566  32) Fanal                     Level 50 Rogue (Orc)
+16:18:05.567  33) Poromople                 Level 50 Invoker (Gnome)
+16:18:05.568  34) Coruduwat                 Level 43 Elementalist (Duergar)
+16:18:05.569  35) Luso                      Level 41 Paladin (Human)
+16:18:05.569  36) Ssassur                   Level 44 Wizard (Yuan-Ti)
+16:18:05.570  37) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+16:18:05.570  38) Gorkl                     Level 29 Warrior (Ogre)
+16:18:05.572  39) Gapa                      Level 28 Battlechanter (Orc)
+16:18:05.572  40) Tazfap                    Level  1 Warrior (Drow Elf)
+16:18:05.573  41) Igunnokio                 Level 16 Ranger (Moon Elf)
+16:18:05.574  42) Tihep                     Level  6 Rogue (Drow Elf)
+16:18:05.575  43) Dobokin                   Level  1 Paladin (Half-Orc)
+16:18:05.575  44) Tamad                     Level  7 Paladin (Human)
+16:18:05.576  45) Pilferos                  Level  6 Rogue (Human)
+16:18:05.577  46) Tubor                     Level  1 Warrior (Ogre)
+16:18:05.577  47) Zorrax                    Level 13 Warrior (Troll)
+16:18:05.578  48) Muwede                    Level  1 Illusionist (Drow Elf)
+16:18:05.579  49) Woso                      Level 16 Druid (Half-Orc)
+16:18:05.579  50) Anisa                     Level 15 Blackguard (Half-Orc)
+16:18:05.580  51) Vodbadadva                Level 18 Rogue (Duergar)
+16:18:05.581  52) Lahla                     Level  1 Bard (Half-Orc)
+16:18:05.581  53) Lewo                      Level  8 Bard (Half-Orc)
+16:18:05.582  54) Dedad                     Level 11 Warrior (Drow Elf)
+16:18:05.582  55) Pige                      Level  1 Blackguard (Human)
+16:18:05.583  56) Bowo                      Level  1 Ranger (Half-Orc)
+16:18:05.583  57) Susu                      Level  7 Warrior (Ogre)
+16:18:05.584  58) Ohu                       Level 18 Warrior (Troll)
+16:18:05.585  59) Docuh                     Level  8 Warrior (Ogre)
+16:18:05.585  60) Simeramma                 Level 13 Ranger (Moon Elf)
+16:18:05.586  61) Efera                     Level  5 Necromancer (Drow Elf)
+16:18:05.587  62) Sehe                      Level 50 Rogue (Human)
+16:18:05.588  63) Haxu                      Level 12 Shaman (Troll)
+16:18:05.588  64) Lolele                    Level 20 Warrior (Halfling)
+16:18:05.589  65) Ssississa                 Level 17 Invoker (Yuan-Ti)
+16:18:05.590  66) Rifu                      Level 18 Hexblade (Half-Orc)
+16:18:05.590  67) Ginxa                     Level 14 Rogue (Half-Orc)
+16:18:05.590  68) Dogga                     Level 12 Warrior (Ogre)
+16:18:05.592  69) Ibo                       Level 12 Warrior (Barbarian)
+16:18:05.593  70) Cometa                    Level 11 Hexblade (Half-Orc)
+16:18:05.593  71) Amamal                    Level 18 Paladin (Moon Elf)
+16:18:05.594  72) Samile                    Level 14 Invoker (Drow Elf)
+16:18:05.595  73) Xulu                      Level 17 Shaman (Troll)
+16:18:05.595  74) Enyema                    Level 10 Invoker (Drow Elf)
+16:18:05.596  75) Nino                      Level  8 Shaman (Half-Orc)
+16:18:05.597  76) Upraeleolno               Level  1 Ranger (Moon Elf)
+16:18:05.598  77) Atesa                     Level 17 Necromancer (Drow Elf)
+16:18:05.598  78) Zic                       Level 12 Warrior (Barbarian)
+16:18:05.599  79) Eyata                     Level 12 Warrior (Drow Elf)
+16:18:05.600  80) Wowidomble                Level  3 Illusionist (Gnome)
+16:18:05.600  81) Hatra                     Level 10 Shaman (Half-Orc)
+16:18:05.601  82) Gobra                     Level 35 Shaman (Half-Orc)
+16:18:05.602  83) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+16:18:05.602  84) Legil                     Level  1 Invoker (Halfling)
+16:18:05.603  85) Onre                      Level  5 Rogue (Human)
+16:18:05.603  86) Krainor                   Level 17 Paladin (Human)
+16:18:05.605  87) Pipippaple                Level 50 Ranger (Gnome)
+16:18:05.605  88) Sijita                    Level 12 Necromancer (Drow Elf)
+16:18:05.606  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+16:18:05.607  90) Sewothe                   Level 20 Rogue (Drow Elf)
+16:18:05.608  91) Ixap                      Level 41 Hexblade (Half-Orc)
+16:18:05.608 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+16:18:05.608 Type the # or name of a character above to login or choose an action below.
+16:18:05.610 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+16:18:05.610 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+16:18:05.610 (E)nter description    | (D)elete character | (C)hange password
+16:18:05.612 (M)odify email address | (Q)uit
+16:18:05.613 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+16:18:05.925 Your choice: 
+16:18:29.570 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+16:18:29.570                            Wizards
+16:18:29.571 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+16:18:29.571 The new Wizard class has arrived, with Illusionist as the first subclass. For
+16:18:29.572 more details on this update, please see the news link below.
+
+16:18:29.573 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+16:18:29.574 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+16:18:29.574 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+16:18:29.574 - http://www.torilmud.com/news/arcane-companions/
+
+16:18:29.575 Resources
+
+16:18:29.575 Discord    : https://discord.gg/t7edjzM
+16:18:29.575 Web Client : http://www.torilmud.com/login
+16:18:29.576 News       : http://news.torilmud.com/
+16:18:29.576 Issues     : https://github.com/torilmud/issues
+
+16:18:29.654 You break camp and get ready to move on...
+
+16:18:29.655         Welcome to TorilMUD
+
+16:18:29.656                
+
+16:18:29.660 The Crow's Nest of the Spirit Raven
+16:18:29.661    The crow's nest is located at the top of the ship's single mast,
+16:18:29.662 almost forty feet from the deck.  As one would expect, the crow's nest
+16:18:29.663 is very cramped and very unsteady.  Even the slightest breeze sends the
+16:18:29.664 small platform wobbling.  From here one can see far in every direction,
+16:18:29.665 even farther with the help of a looking glass.  A rope ladder leads
+16:18:29.666 down onto the deck.
+16:18:29.667 Exits: - Down  [Error: mud 'The Crow's Nest of the Spirit Raven' doesn't match mapper 'The Upstairs of the Wayward House
+16:18:29.667  Inn' at '48604']          [48604] 
+16:18:29.667 A seven dragons tabbard lies here. 
+16:18:29.667 A lookout is posted here, scanning the seas.
+
+Log session ending at 16:18:29 on Tuesday, 9 December 2025.

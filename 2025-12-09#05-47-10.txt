@@ -1,0 +1,466 @@
+Log session starting at 05:47:10 on Tuesday, 9 December 2025.
+
+05:47:10.472 < 803h/742H 174v/180V P: std >     
+05:47:10.472 [Spellqueue cleared.]
+05:47:10.680 You will no longer see the mini-map when moving.
+
+05:47:10.727 < 803h/742H 174v/180V P: std >     
+05:47:10.929 You will now see the classic prompt.
+
+05:47:11.180 < 803h/742H 174v/180V P: std > 
+05:47:11.180  Prompt Command Usage:
+05:47:11.182   prompt                             - Display this help
+05:47:11.182   prompt layout                      - List available layouts
+05:47:11.183   prompt layout <layout>             - Set your layout
+05:47:11.184   prompt fields                      - List available fields
+05:47:11.185   prompt add <field>                 - Add a field to your current layout
+05:47:11.186   prompt remove <field>              - Remove a field from your current layout
+05:47:11.187   prompt options                     - Show a list of prompt option flags
+05:47:11.188   prompt options <flag>              - Toggle a prompt option
+05:47:11.189   prompt power <power> <slot>        - Add a power to a prompt slot
+05:47:11.190   prompt power auto                  - Set the default suggested power prompts
+05:47:11.191   prompt power clear <power, all>    - Clear a power from the prompt
+05:47:11.191   prompt color                       - List available prompt power colors
+05:47:11.192   prompt color <power, slot> <color> - Set the ready power color for a specific power or slot
+05:47:11.194   prompt color <type> <color>        - Set color for: <ready, cooldown, special, default, combo>
+05:47:11.196   prompt color <type> <clear>        - Clear color for <ready, cooldown, special, default, combo> 
+05:47:11.197   prompt color reset                 - Reset all prompt colors to default
+05:47:11.198   prompt help                        - Display this help
+
+05:47:11.263 To use the prompt command, first toggle on NEWPROMPT.
+
+05:47:11.429 < 803h/742H 174v/180V P: std > 
+05:47:11.512 Smartprompt toggled on.
+
+05:47:11.682 < 803h/742H 175v/180V P: std > 
+05:47:11.764 There are no sub-classes currently available to your class.
+
+05:47:11.928 < 803h/742H 175v/180V P: std > 
+
+05:47:12.012           Character attributes for Afu
+
+05:47:12.012 Level: 50   Race: Troll   Class: Warrior     
+05:47:12.029 Size: Medium
+05:47:12.030 STR: 100  AGI: 100  DEX:  83  CON: 100
+05:47:12.030 POW:  70  INT:  71  WIS:  70  CHA:  70
+05:47:12.030 Armor Class: 100  (100 to -100)  Agility Bonus: -22
+05:47:12.031 Magic Resistance: 0 percent
+05:47:12.032 Hitroll: 4   Damroll: 6
+05:47:12.032 Alignment: Chaotic Evil
+05:47:12.032 Saving Throws: PAR[0]  ROD[0]  PET[0]  BRE[0]  SPE[0]
+05:47:12.032    Wimpy: not set
+05:47:12.033 Load carried: What load?
+05:47:12.033 Damage Resistance:
+05:47:12.033 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+05:47:12.034 Spells:    0% Fire  : -100% Cold  :    0% Elect :    0% Acid  :    0% 
+05:47:12.035 Sonic :    0% Poison:    0% Pos   :    0% Neg   :    0% Psi   :    0% 
+05:47:12.036 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+05:47:12.037 Force :    0% 
+
+05:47:12.182 < 803h/742H 175v/180V P: std > 
+
+05:47:12.262           Score information for Afu
+
+05:47:12.262 Level: 50   Race: Troll   Class: Warrior     
+05:47:12.263 Hit points: 803(742)  Moves: 175(180)
+05:47:12.263 Experience Progress: 5719 % 
+05:47:12.264 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+05:47:12.265 Coins in bank: 56333 platinum  1742 gold  3722 silver  2076 copper
+05:47:12.265 Prestige: 12353   Acheron Kill Count: 1
+05:47:12.266 Name status: Approved
+05:47:12.266 Citizen of:   Ghore
+05:47:12.266 Outcast from: Griffon's Nest
+05:47:12.267 Playing time: 147 days / 8 hours / 30 minutes
+05:47:12.267 Title: Eat Babies
+05:47:12.267 Status:  Standing.
+05:47:12.267 Detecting:       Heat
+
+05:47:12.436 < 803h/742H 175v/180V P: std > 
+05:47:12.532 You aren't wearing anything!
+
+05:47:12.681 < 803h/742H 175v/180V P: std > 
+05:47:12.931 < 803h/742H 176v/180V P: std > 
+
+05:47:13.182 < 803h/742H 176v/180V P: std > 
+05:47:13.269 You are 0 XP (0.00%) away from your next level.
+
+05:47:13.432 < 803h/742H 176v/180V P: std > 
+05:47:13.521 You haven't consented to anyone.
+
+05:47:13.522 Afu is consenting you.
+
+05:47:13.683 < 803h/742H 176v/180V P: std > 
+05:47:13.770 You will now see the mini-map when moving.
+
+05:47:13.933 < 802h/742H 177v/180V P: std > 
+05:47:14.019 You will now see the new prompt.
+
+05:47:14.020 < 802h/742H 177v/180V P: std >     
+05:47:14.182 Smartprompt toggled off.
+
+05:47:14.268 < 802h/742H 177v/180V P: std >     
+05:47:14.433 The Gentle Moon - Common Area (Shadowed)
+05:47:14.268 < 802h/742H 177v/180V P: std >     
+05:47:14.473 [Setting statname to unset]
+05:47:14.478 [Setting rescuetype to basic]
+05:47:14.482 [Setting warbh to false]
+05:47:14.486 [Setting warkc to false]
+05:47:14.490 [All train triggers disabled]
+05:47:14.524 < 802h/742H 177v/180V P: std >     
+05:47:14.683 Prompt option newline disabled.
+
+05:47:14.934 < 802h/742H 178v/180V P: std >Prompt option newline enabled.
+
+05:47:15.014 < 802h/742H 178v/180V P: std >     
+
+05:47:15.022 [Searching... Match found: Westgate : The Gentle Moon - Common Area : 327]
+05:47:16.191 You retrieve a fine silk haversack stitched with platinum thread from your storage cache.
+05:47:16.193 Autosaving...
+
+05:47:16.239 < 802h/742H 179v/180V P: std >     
+05:47:16.436 It is 4pm, on the Day of the Deception
+05:47:16.436 The 30th Day of the Month of Mirtul (the Melting), Year 1301.
+05:47:16.437 Time elapsed since boot-up: 77:17:08
+05:47:16.438 Current time is: Tue Dec  9 06:09:47 2025
+
+05:47:16.514 < 802h/742H 179v/180V P: std >     
+
+05:47:23.662 [Issue speedwalk to wgBank at 825]
+05:47:23.743 [Path: .nw2s3ese]
+------------ 
+05:47:23.947                
+
+05:47:24.032 Sword Lane - Outside The Gentle Moon
+05:47:24.032 Exits: -E -S -W        [326] 
+05:47:24.033 A black-billed magpie hops about, foraging.
+05:47:24.033 A shadowy figure loiters just beyond reach.
+05:47:24.034 A gaunt prostitute is here, selling her services.
+
+05:47:24.034 < 799h/742H 179v/180V P: std >     
+05:47:24.199                
+
+05:47:24.295 Intersection of Sword Lane and Wagonwheel Ride
+05:47:24.295 Exits: -N -E -S        [325] 
+05:47:24.296 A branch from a field maple tree litters the ground. 
+05:47:24.297 A field maple tree shades the intersection. 
+05:47:24.297 A mixed-breed dog guards its territory.
+05:47:24.298 A strange man beckons you over.
+
+05:47:24.298 < 799h/742H 178v/180V P: std >     
+05:47:24.447                
+
+05:47:24.531 Intersection of King's March and Wagonwheel Ride
+05:47:24.532 Exits: -N -S -W        [279] 
+05:47:24.532 A red brick fountain occupies the center of the intersection. 
+
+05:47:24.533 < 799h/742H 177v/180V P: std >     
+05:47:24.698                
+
+05:47:24.797 Intersection of Brew House Lane and Wagonwheel Ride
+05:47:24.797 Exits: -N -E -S        [324] 
+05:47:24.798 A branch from a red larch tree has fallen here. 
+05:47:24.798 A red larch tree stands in an island in the middle of the road. 
+05:47:24.799 A shadowy figure loiters just beyond reach.
+
+05:47:24.800 < 799h/742H 176v/180V P: std >     
+05:47:24.948                
+
+05:47:25.044 Brew House Lane - Beside The Gentle Moon
+05:47:25.044 Exits: -E -W           [808] 
+
+05:47:25.045 < 799h/742H 175v/180V P: std >     
+05:47:25.199                
+
+05:47:25.291 Brew House Lane - Beside Derrem's Fine Meats
+05:47:25.291 Exits: -E -W           [809] 
+05:47:25.292 A shifty-eyed man walks by.
+
+05:47:25.292 < 799h/742H 175v/180V P: std >     
+05:47:25.449                
+
+05:47:25.540 Intersection of Brew House Lane and Westgate Market Street
+05:47:25.541 Exits: -N -E -S -W     [810] 
+05:47:25.541 A branch from a field maple tree litters the ground. 
+05:47:25.542 A field maple tree shades the intersection. 
+05:47:25.543 A dwarven priest lumbers down the road.
+
+05:47:25.543 < 799h/742H 174v/180V P: std >     
+05:47:25.701                
+
+05:47:25.793 Westgate Market Street - Outside the Bank
+05:47:25.794 Exits: -N -E -S        [824] 
+05:47:25.794 A shifty-eyed man walks by.
+
+05:47:25.794 < 799h/742H 173v/180V P: std >     
+05:47:25.951                
+
+05:47:26.037 Westgate Bank - Service Counter
+05:47:26.037 Exits: -W              [825] 
+05:47:26.037 A large wooden counter is here, with a sign posted on it. 
+05:47:26.038 A banker stands here eying you cautiously.
+
+05:47:26.039 < 799h/742H 172v/180V P: std >     
+05:47:26.209 You get a large pile of coins from your fine silk haversack stitched with platinum thread.
+05:47:26.212 There were: 17113 platinum coins.
+
+05:47:26.299 < 798h/742H 173v/180V P: std >     
+05:47:26.449 Your account contains:
+05:47:26.450     73446 platinum, 1742 gold, 3722 silver, 2076 copper coins.
+
+05:47:26.530 < 798h/742H 173v/180V P: std >     
+
+05:47:26.700           Score information for Afu
+
+05:47:26.701 Level: 50   Race: Troll   Class: Warrior     
+05:47:26.702 Hit points: 798(742)  Moves: 173(180)
+05:47:26.702 Experience Progress: 5719 % 
+05:47:26.702 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+05:47:26.782 Coins in bank: 73446 platinum  1742 gold  3722 silver  2076 copper
+05:47:26.783 Prestige: 12353   Acheron Kill Count: 1
+05:47:26.783 Name status: Approved
+05:47:26.784 Citizen of:   Ghore
+05:47:26.784 Outcast from: Griffon's Nest
+05:47:26.784 Playing time: 147 days / 8 hours / 31 minutes
+05:47:26.785 Title: Eat Babies
+05:47:26.785 Status:  Standing.
+05:47:26.785 Detecting:       Heat
+
+05:47:26.785 < 798h/742H 173v/180V P: std >     
+
+05:47:32.182 [Issue speedwalk to wgInn at 327]
+05:47:32.183 [Path: .wn3w2nes]
+------------ 
+05:47:32.458                
+
+05:47:32.545 Westgate Market Street - Outside the Bank
+05:47:32.546 Exits: -N -E -S        [824] 
+05:47:32.546 A shifty-eyed man walks by.
+
+05:47:32.547 < 797h/742H 177v/180V P: std >     
+05:47:32.708                
+
+05:47:32.796 Intersection of Brew House Lane and Westgate Market Street
+05:47:32.797 Exits: -N -E -S -W     [810] 
+05:47:32.797 A branch from a field maple tree litters the ground. 
+05:47:32.798 A field maple tree shades the intersection. 
+05:47:32.798 A dwarven priest lumbers down the road.
+
+05:47:32.799 < 797h/742H 176v/180V P: std >     
+05:47:32.958                
+
+05:47:33.045 Brew House Lane - Beside Derrem's Fine Meats
+05:47:33.046 Exits: -E -W           [809] 
+05:47:33.046 A shifty-eyed man walks by.
+
+05:47:33.047 < 796h/742H 176v/180V P: std >     
+05:47:33.209                
+
+05:47:33.292 Brew House Lane - Beside The Gentle Moon
+05:47:33.293 Exits: -E -W           [808] 
+
+05:47:33.293 < 796h/742H 175v/180V P: std >     
+05:47:33.459                
+
+05:47:33.542 Intersection of Brew House Lane and Wagonwheel Ride
+05:47:33.543 Exits: -N -E -S        [324] 
+05:47:33.543 A branch from a red larch tree has fallen here. 
+05:47:33.544 A red larch tree stands in an island in the middle of the road. 
+05:47:33.545 A shadowy figure loiters just beyond reach.
+
+05:47:33.546 < 796h/742H 174v/180V P: std >     
+05:47:33.709                
+
+05:47:33.806 Intersection of King's March and Wagonwheel Ride
+05:47:33.806 Exits: -N -S -W        [279] 
+05:47:33.807 A red brick fountain occupies the center of the intersection. 
+
+05:47:33.808 < 796h/742H 173v/180V P: std >     
+05:47:33.960                
+
+05:47:34.052 Intersection of Sword Lane and Wagonwheel Ride
+05:47:34.052 Exits: -N -E -S        [325] 
+05:47:34.053 A branch from a field maple tree litters the ground. 
+05:47:34.053 A field maple tree shades the intersection. 
+05:47:34.054 A mixed-breed dog guards its territory.
+05:47:34.054 A strange man beckons you over.
+
+05:47:34.055 < 796h/742H 173v/180V P: std >     
+05:47:34.211                
+
+05:47:34.302 Sword Lane - Outside The Gentle Moon
+05:47:34.302 Exits: -E -S -W        [326] 
+05:47:34.303 A black-billed magpie hops about, foraging.
+05:47:34.303 A shadowy figure loiters just beyond reach.
+05:47:34.304 A gaunt prostitute is here, selling her services.
+
+05:47:34.305 < 796h/742H 172v/180V P: std >     
+05:47:34.460                
+
+05:47:34.551 The Gentle Moon - Common Area (Shadowed)
+05:47:34.551 Exits: -N -E           [327] 
+05:47:34.551 A gaping hole in the ground leads into darkness. 
+05:47:34.552 Mizes - Fuzzybottom of the Valkurian Blades (Yuan-Ti) stands in mid-air here.
+05:47:34.553 Riloesa  (Moon Elf) stands here.
+05:47:34.554 A tradesperson rests here with a drink in hand. (x3)
+05:47:34.555 A scantily-dressed server moves about the room looking awkward.
+05:47:34.556 The innkeeper stands behind the counter renting out rooms.
+
+05:47:34.557 < 796h/742H 171v/180V P: std >     
+
+05:47:35.045 A wormhole crumbles to dust and blows away.
+05:47:35.046 The sky's light begins shining in from above, dissipating the dark shadow above!
+
+05:47:35.047 < 796h/742H 172v/180V P: std >     
+05:47:38.721 You store a fine silk haversack stitched with platinum thread in your storage cache.
+05:47:38.723 Autosaving...
+
+05:47:38.762 < 795h/742H 175v/180V P: std >     
+05:47:38.964 It is 4pm, on the Day of the Deception
+05:47:38.965 The 30th Day of the Month of Mirtul (the Melting), Year 1301.
+05:47:38.967 Time elapsed since boot-up: 77:17:30
+05:47:38.967 Current time is: Tue Dec  9 06:10:09 2025
+
+05:47:39.047 < 795h/742H 175v/180V P: std >     
+05:47:39.969 The innkeeper tells you 'It will cost you nothing to rent.'
+05:47:39.981 The innkeeper stores your stuff in the safe, and shows you to your room.
+
+05:47:39.982 Characters:
+05:47:39.982 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+05:47:39.993   1) Afu                       Level 50 Warrior (Troll)
+05:47:39.994   2) Deabnue                   Level 50 Invoker (Human)
+05:47:39.995   3) Gizep                     Level 50 Enchanter (Drow Elf)
+05:47:39.996   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+05:47:39.996   5) Newple                    Level 50 Rogue (Halfling)
+05:47:39.997   6) Mattah                    Level 50 Necromancer (Human)
+05:47:39.998   7) Rafi                      Level 50 Blackguard (Human)
+05:47:39.998   8) Digun                     Level 50 Warrior (Shield Dwarf)
+05:47:39.999   9) Risor                     Level 50 Rogue (Human)
+05:47:40.000  10) Islala                    Level 50 Bard (Moon Elf)
+05:47:40.001  11) Minolai                   Level 50 Ranger (Moon Elf)
+05:47:40.001  12) Poppibble                 Level 50 Ranger (Halfling)
+05:47:40.002  13) Simasel                   Level 50 Cleric (Moon Elf)
+05:47:40.002  14) Giru                      Level 50 Hexblade (Orc)
+05:47:40.003  15) Xaniver                   Level 50 Ranger (Half-Orc)
+05:47:40.004  16) Waf                       Level 49 Shaman (Barbarian)
+05:47:40.005  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+05:47:40.005  18) Gomble                    Level 50 Paladin (Halfling)
+05:47:40.006  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+05:47:40.007  20) Siho                      Level 50 Paladin (Half-Orc)
+05:47:40.007  21) Nidipizil                 Level 50 Paladin (Gnome)
+05:47:40.008  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+05:47:40.009  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+05:47:40.011  24) Naleni                    Level 50 Warrior (Moon Elf)
+05:47:40.012  25) Gukonata                  Level 50 Blackguard (Duergar)
+05:47:40.012  26) Uspi                      Level 50 Blackguard (Half-Orc)
+05:47:40.013  27) Tonga                     Level 50 Warrior (Ogre)
+05:47:40.014  28) Popebople                 Level 48 Enchanter (Gnome)
+05:47:40.014  29) Bago                      Level 50 Shaman (Ogre)
+05:47:40.015  30) Loyol                     Level 50 Bard (Halfling)
+05:47:40.016  31) Irsen                     Level 50 Druid (Human)
+05:47:40.016  32) Fanal                     Level 50 Rogue (Orc)
+05:47:40.017  33) Poromople                 Level 49 Invoker (Gnome)
+05:47:40.018  34) Coruduwat                 Level 43 Elementalist (Duergar)
+05:47:40.019  35) Luso                      Level 41 Paladin (Human)
+05:47:40.019  36) Ssassur                   Level 44 Wizard (Yuan-Ti)
+05:47:40.020  37) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+05:47:40.021  38) Gorkl                     Level 29 Warrior (Ogre)
+05:47:40.021  39) Gapa                      Level 28 Battlechanter (Orc)
+05:47:40.022  40) Tazfap                    Level  1 Warrior (Drow Elf)
+05:47:40.023  41) Igunnokio                 Level 16 Ranger (Moon Elf)
+05:47:40.023  42) Tihep                     Level  6 Rogue (Drow Elf)
+05:47:40.024  43) Dobokin                   Level  1 Paladin (Half-Orc)
+05:47:40.025  44) Tamad                     Level  7 Paladin (Human)
+05:47:40.026  45) Pilferos                  Level  6 Rogue (Human)
+05:47:40.026  46) Tubor                     Level  1 Warrior (Ogre)
+05:47:40.027  47) Zorrax                    Level 13 Warrior (Troll)
+05:47:40.028  48) Muwede                    Level  1 Illusionist (Drow Elf)
+05:47:40.029  49) Woso                      Level 16 Druid (Half-Orc)
+05:47:40.029  50) Anisa                     Level 15 Blackguard (Half-Orc)
+05:47:40.031  51) Vodbadadva                Level 18 Rogue (Duergar)
+05:47:40.031  52) Lahla                     Level  1 Bard (Half-Orc)
+05:47:40.032  53) Lewo                      Level  8 Bard (Half-Orc)
+05:47:40.033  54) Dedad                     Level 11 Warrior (Drow Elf)
+05:47:40.034  55) Pige                      Level  1 Blackguard (Human)
+05:47:40.034  56) Bowo                      Level  1 Ranger (Half-Orc)
+05:47:40.035  57) Susu                      Level  7 Warrior (Ogre)
+05:47:40.036  58) Ohu                       Level 18 Warrior (Troll)
+05:47:40.036  59) Docuh                     Level  8 Warrior (Ogre)
+05:47:40.037  60) Simeramma                 Level 13 Ranger (Moon Elf)
+05:47:40.038  61) Efera                     Level  5 Necromancer (Drow Elf)
+05:47:40.038  62) Sehe                      Level 50 Rogue (Human)
+05:47:40.039  63) Haxu                      Level 12 Shaman (Troll)
+05:47:40.040  64) Lolele                    Level 20 Warrior (Halfling)
+05:47:40.041  65) Ssississa                 Level 17 Invoker (Yuan-Ti)
+05:47:40.041  66) Rifu                      Level 18 Hexblade (Half-Orc)
+05:47:40.041  67) Ginxa                     Level 14 Rogue (Half-Orc)
+05:47:40.042  68) Dogga                     Level 12 Warrior (Ogre)
+05:47:40.043  69) Ibo                       Level 12 Warrior (Barbarian)
+05:47:40.044  70) Cometa                    Level 11 Hexblade (Half-Orc)
+05:47:40.044  71) Amamal                    Level 18 Paladin (Moon Elf)
+05:47:40.045  72) Samile                    Level 14 Invoker (Drow Elf)
+05:47:40.046  73) Xulu                      Level 17 Shaman (Troll)
+05:47:40.046  74) Enyema                    Level 10 Invoker (Drow Elf)
+05:47:40.047  75) Nino                      Level  8 Shaman (Half-Orc)
+05:47:40.048  76) Upraeleolno               Level  1 Ranger (Moon Elf)
+05:47:40.048  77) Atesa                     Level 17 Necromancer (Drow Elf)
+05:47:40.049  78) Zic                       Level 12 Warrior (Barbarian)
+05:47:40.051  79) Eyata                     Level 12 Warrior (Drow Elf)
+05:47:40.051  80) Wowidomble                Level  3 Illusionist (Gnome)
+05:47:40.052  81) Hatra                     Level 10 Shaman (Half-Orc)
+05:47:40.053  82) Gobra                     Level 35 Shaman (Half-Orc)
+05:47:40.053  83) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+05:47:40.054  84) Legil                     Level  1 Invoker (Halfling)
+05:47:40.056  85) Onre                      Level  5 Rogue (Human)
+05:47:40.056  86) Krainor                   Level 17 Paladin (Human)
+05:47:40.057  87) Pipippaple                Level 50 Ranger (Gnome)
+05:47:40.058  88) Sijita                    Level 12 Necromancer (Drow Elf)
+05:47:40.058  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+05:47:40.059  90) Sewothe                   Level 20 Rogue (Drow Elf)
+05:47:40.060  91) Ixap                      Level 41 Hexblade (Half-Orc)
+05:47:40.061 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+05:47:40.061 Type the # or name of a character above to login or choose an action below.
+05:47:40.062 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+05:47:40.062 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+05:47:40.063 (E)nter description    | (D)elete character | (C)hange password
+05:47:40.064 (M)odify email address | (Q)uit
+05:47:40.064 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+05:47:40.381 Your choice: 
+05:49:08.081 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+05:49:08.082                            Wizards
+05:49:08.082 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+05:49:08.082 The new Wizard class has arrived, with Illusionist as the first subclass. For
+05:49:08.083 more details on this update, please see the news link below.
+
+05:49:08.084 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+05:49:08.085 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+05:49:08.085 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+05:49:08.085 - http://www.torilmud.com/news/arcane-companions/
+
+05:49:08.085 Resources
+
+05:49:08.086 Discord    : https://discord.gg/t7edjzM
+05:49:08.086 Web Client : http://www.torilmud.com/login
+05:49:08.086 News       : http://news.torilmud.com/
+05:49:08.087 Issues     : https://github.com/torilmud/issues
+
+05:49:08.163 Retrieving rented items from storage...
+
+05:49:08.164         Welcome to TorilMUD
+
+05:49:08.164                
+
+05:49:08.169 The Upstairs of the Wayward House Inn
+05:49:08.169    Like most of the building the upstairs is made of maple, a rich wood
+05:49:08.170 that gives the inn a warm feel.  The boards have been well carved and
+05:49:08.171 fit closely together, only admitting light through the shuttered
+05:49:08.172 windows.  This floor consists of several rooms available for rent.
+05:49:08.173 Each room has its own lock on the door to ensure privacy.
+05:49:08.173 Exits: - Down  [Error: mud 'The Upstairs of the Wayward House Inn' doesn't match mapper 'The Gentle Moon - Common Area'
+05:49:08.173  at '327']          [327] 
+05:49:08.174 An elaborately decorated key lies here. 
+05:49:08.174 Sylvana  (Half-Elf) stands here.
+05:49:08.175 Jhalessa Shorncrown stands here tidying up.
+
+Log session ending at 05:49:08 on Tuesday, 9 December 2025.

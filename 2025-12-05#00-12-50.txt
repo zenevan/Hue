@@ -1,0 +1,236 @@
+Log session starting at 00:12:50 on Friday, 5 December 2025.
+
+00:12:50.131 < 460h/416H 196v/160V P: std >     
+00:12:50.131 [Spellqueue cleared.]
+00:12:50.347 You will no longer see the mini-map when moving.
+
+00:12:50.395 < 460h/416H 196v/160V P: std >     
+00:12:50.599 You will now see the classic prompt.
+
+00:12:50.647 < 460h/416H 196v/160V >
+00:12:50.852 < P: std > 
+00:12:50.852  Prompt Command Usage:
+00:12:50.853   prompt                             - Display this help
+00:12:50.854   prompt layout                      - List available layouts
+00:12:50.854   prompt layout <layout>             - Set your layout
+00:12:50.855   prompt fields                      - List available fields
+00:12:50.856   prompt add <field>                 - Add a field to your current layout
+00:12:50.857   prompt remove <field>              - Remove a field from your current layout
+00:12:50.858   prompt options                     - Show a list of prompt option flags
+00:12:50.859   prompt options <flag>              - Toggle a prompt option
+00:12:50.860   prompt power <power> <slot>        - Add a power to a prompt slot
+00:12:50.861   prompt power auto                  - Set the default suggested power prompts
+00:12:50.862   prompt power clear <power, all>    - Clear a power from the prompt
+00:12:50.863   prompt color                       - List available prompt power colors
+00:12:50.864   prompt color <power, slot> <color> - Set the ready power color for a specific power or slot
+00:12:50.865   prompt color <type> <color>        - Set color for: <ready, cooldown, special, default, combo>
+00:12:50.867   prompt color <type> <clear>        - Clear color for <ready, cooldown, special, default, combo> 
+00:12:50.869   prompt color reset                 - Reset all prompt colors to default
+00:12:50.870   prompt help                        - Display this help
+
+00:12:50.931 To use the prompt command, first toggle on NEWPROMPT.
+
+00:12:50.932 < 460h/416H 196v/160V >
+00:12:51.097 < P: std > 
+00:12:51.186 Smartprompt toggled on.
+
+00:12:51.187 < 460h/416H 196v/160V >
+00:12:51.349 < P: std > 
+00:12:51.426 There are no sub-classes currently available to your class.
+
+00:12:51.428 < 460h/416H 196v/160V >
+00:12:51.599 < P: std > 
+
+00:12:51.674           Character attributes for Biha
+
+00:12:51.674 Level: 50   Race: Human   Class: Rogue       
+00:12:51.693 Size: Medium
+00:12:51.693 STR: 100  AGI: 100  DEX: 100  CON:  83
+00:12:51.693 POW:  70  INT:  70  WIS:  70  CHA:  70
+00:12:51.694 Armor Class: 100  (100 to -100)  Agility Bonus: -15
+00:12:51.694 Magic Resistance: 0 percent
+00:12:51.694 Hitroll: 6   Damroll: 5
+00:12:51.695 Alignment: Chaotic Evil
+00:12:51.695 Saving Throws: PAR[0]  ROD[0]  PET[0]  BRE[0]  SPE[0]
+00:12:51.695    Wimpy: not set
+00:12:51.696 Load carried: What load?
+00:12:51.696 Damage Resistance:
+00:12:51.696 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+00:12:51.697 Spells:    0% Fire  :    0% Cold  :    0% Elect :    0% Acid  :    0% 
+00:12:51.697 Sonic :    0% Poison:    0% Pos   :    0% Neg   :    0% Psi   :    0% 
+00:12:51.698 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+00:12:51.699 Force :    0% 
+
+00:12:51.699 < 460h/416H 196v/160V >
+00:12:51.849 < P: std > 
+
+00:12:51.929           Score information for Biha
+
+00:12:51.929 Level: 50   Race: Human   Class: Rogue       
+00:12:51.934 Hit points: 460(416)  Moves: 196(160)
+00:12:51.934 Experience Progress: 125 % 
+00:12:51.934 Coins carried:   13 platinum     1 gold     7 silver     2 copper
+00:12:51.935 Coins in bank:    0 platinum   160 gold  1321 silver  1586 copper
+00:12:51.936 Prestige: 5827   Acheron Kill Count: 0
+00:12:51.936 Name status: Pending
+00:12:51.936 Citizen of:   Baldur's Gate
+00:12:51.937 Outcast from: Leuthilspar
+00:12:51.937 Playing time: 2 days / 9 hours / 0 minutes
+00:12:51.937 Title: 
+00:12:51.938 Status:  Standing.
+
+00:12:51.938 < 460h/416H 196v/160V >
+00:12:52.099 < P: std > 
+00:12:52.178 You aren't wearing anything!
+
+00:12:52.193 < 460h/416H 196v/160V >
+00:12:52.350 < P: std > 
+00:12:52.449 < 460h/416H 196v/160V >
+00:12:52.601 < P: std > 
+00:12:52.693 < 460h/416H 196v/160V >
+00:12:52.850 < P: std > 
+00:12:52.940 You are 0 XP (0.00%) away from your next level.
+
+00:12:52.942 < 460h/416H 196v/160V >
+00:12:53.101 < P: std > 
+00:12:53.191 You haven't consented to anyone.
+
+00:12:53.192 Biha is consenting you.
+
+00:12:53.192 < 460h/416H 196v/160V >
+00:12:53.351 < P: std > 
+00:12:53.439 You will now see the mini-map when moving.
+
+00:12:53.440 < 460h/416H 196v/160V >
+00:12:53.602 < P: std > 
+00:12:53.687 You will now see the new prompt.
+
+00:12:53.688 < 460h/416H 196v/160V P: std >     
+00:12:53.850 Smartprompt toggled off.
+
+00:12:53.937 < 460h/416H 196v/160V P: std >     
+00:12:54.103 The Upstairs of the Wayward House Inn
+00:12:53.937 < 460h/416H 196v/160V P: std >     
+00:12:54.134 [Setting statname to unset]
+00:12:54.140 [All train triggers disabled]
+00:12:54.185 < 460h/416H 196v/160V P: std >     
+00:12:54.352 Prompt option newline disabled.
+
+00:12:54.603 < 460h/416H 196v/160V P: std >Prompt option newline enabled.
+00:12:54.685 < 459h/416H 196v/160V P: std >     
+
+00:12:54.686 [Searching... Match found: Silverymoon, Gem of the North : The Upstairs of the Wayward House Inn : 48604]
+00:12:55.767 Jhalessa Shorncrown says, 'Rent is free for adventurers, stay as long as you like.'
+00:12:55.770 Jhalessa Shorncrown tells you 'It will cost you nothing to rent.'
+00:12:55.782 Jhalessa Shorncrown stores your stuff in the safe, and shows you to your room.
+
+00:12:55.834 Characters:
+00:12:55.834 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+00:12:55.834   1) Rufa                      Level 16 Warrior (Troll)
+00:12:55.835   2) Sedesee                   Level 18 Necromancer (Drow Elf)
+00:12:55.836   3) Zaba                      Level  1 Shaman (Ogre)
+00:12:55.837   4) Pukadito                  Level  1 Cleric (Duergar)
+00:12:55.837   5) Fibba                     Level  1 Battlechanter (Orc)
+00:12:55.838   6) Zissato                   Level  1 Sorcerer (Yuan-Ti)
+00:12:55.839   7) Sesesa                    Level  1 Invoker (Drow Elf)
+00:12:55.840   8) Cillicissin               Level  1 Psionicist (Illithid)
+00:12:55.840   9) Sulonwuka                 Level  1 Hexblade (Duergar)
+00:12:55.841  10) Tusso                     Level  1 Elementalist (Yuan-Ti)
+00:12:55.842  11) Milore                    Level 19 Rogue (Human)
+00:12:55.843  12) Unamimo                   Level  1 Ranger (Moon Elf)
+00:12:55.843  13) Cameshu                   Level  1 Druid (Moon Elf)
+00:12:55.844  14) Lirayu                    Level  1 Enchanter (Moon Elf)
+00:12:55.845  15) Tahane                    Level  1 Wizard (Moon Elf)
+00:12:55.845  16) Bonya                     Level  1 Wizard (Human)
+00:12:55.847  17) Belele                    Level  1 Paladin (Halfling)
+00:12:55.847  18) Oneba                     Level  1 Blackguard (Drow Elf)
+00:12:55.848  19) Elbama                    Level  1 Bard (Moon Elf)
+00:12:55.849  20) Noleamca                  Level  1 Paladin (Moon Elf)
+00:12:55.849  21) Tiku                      Level  1 Battlechanter (Orc)
+00:12:55.850  22) Hivo                      Level  5 Blackguard (Half-Orc)
+00:12:55.851  23) Dapo                      Level 16 Hexblade (Orc)
+00:12:55.852  24) Bitule                    Level  1 Ranger (Halfling)
+00:12:55.852  25) Moge                      Level  1 Shaman (Orc)
+00:12:55.853  26) Ssamo                     Level  7 Cleric (Yuan-Ti)
+00:12:55.854  27) Inapa                     Level  1 Ranger (Half-Orc)
+00:12:55.854  28) Cudu                      Level  1 Shaman (Troll)
+00:12:55.855  29) Hufu                      Level 19 Warrior (Troll)
+00:12:55.855  30) Elsesa                    Level  1 Warrior (Drow Elf)
+00:12:55.856  31) Zanga                     Level 19 Warrior (Ogre)
+00:12:55.857  32) Sibbi                     Level 19 Hexblade (Orc)
+00:12:55.857  33) Rupi                      Level  1 Paladin (Shield Dwarf)
+00:12:55.858  34) Asli                      Level 19 Rogue (Human)
+00:12:55.858  35) Ageka                     Level  8 Rogue (Half-Orc)
+00:12:55.859  36) Juja                      Level 15 Warrior (Orc)
+00:12:55.859  37) Puwa                      Level  7 Shaman (Troll)
+00:12:55.860  38) Kazgabope                 Level 50 Blackguard (Duergar)
+00:12:55.861  39) Renelay                   Level  1 Bard (Half-Elf)
+00:12:55.862  40) Yuneme                    Level  1 Bard (Human)
+00:12:55.862  41) Atase                     Level  1 Bard (Human)
+00:12:55.863  42) Nefe                      Level 18 Rogue (Human)
+00:12:55.863  43) Rassa                     Level  1 Sorcerer (Human)
+00:12:55.864  44) Medo                      Level  5 Elementalist (Human)
+00:12:55.865  45) Tafla                     Level 19 Bard (Half-Orc)
+00:12:55.865  46) Biha                      Level 50 Rogue (Human)
+00:12:55.865  47) Suhu                      Level 50 Warrior (Troll)
+00:12:55.867  48) Newotee                   Level 32 Hexblade (Drow Elf)
+00:12:55.868  49) Tararotuta                Level  1 Wizard (Duergar)
+00:12:55.868  50) Bobaroru                  Level  9 Elementalist (Duergar)
+00:12:55.869  51) Yazassa                   Level 50 Cleric (Yuan-Ti)
+00:12:55.869  52) Meliya                    Level  1 Paladin (Moon Elf)
+00:12:55.870  53) Giwa                      Level 39 Battlechanter (Orc)
+00:12:55.871  54) Mivo                      Level 46 Shaman (Orc)
+00:12:55.871  55) Farda                     Level  8 Bard (Shield Dwarf)
+00:12:55.872  56) Elbana                    Level  1 Paladin (Half-Orc)
+00:12:55.873  57) Pagmixa                   Level  1 Sorcerer (Drow Elf)
+00:12:55.874  58) Nusu                      Level 50 Warrior (Ogre)
+00:12:55.874  59) Eqasebee                  Level  1 Enchanter (Drow Elf)
+00:12:55.875  60) Firumokag                 Level 15 Warrior (Duergar)
+00:12:55.875  61) Bopinbolil                Level 38 Enchanter (Gnome)
+00:12:55.877 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+00:12:55.877 Type the # or name of a character above to login or choose an action below.
+00:12:55.878 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+00:12:55.878 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+00:12:55.879 (E)nter description    | (D)elete character | (C)hange password
+00:12:55.880 (M)odify email address | (Q)uit
+00:12:55.881 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+00:12:55.881 Account email: zenevan420@gmail.com
+00:12:55.881 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+00:12:56.187 Your choice: 
+00:12:59.616 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+00:12:59.616                            Wizards
+00:12:59.617 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+00:12:59.617 The new Wizard class has arrived, with Illusionist as the first subclass. For
+00:12:59.618 more details on this update, please see the news link below.
+
+00:12:59.619 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+00:12:59.619 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+00:12:59.620 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+00:12:59.620 - http://www.torilmud.com/news/arcane-companions/
+
+00:12:59.620 Resources
+
+00:12:59.620 Discord    : https://discord.gg/t7edjzM
+00:12:59.621 Web Client : http://www.torilmud.com/login
+00:12:59.621 News       : http://news.torilmud.com/
+00:12:59.621 Issues     : https://github.com/torilmud/issues
+
+00:12:59.710 Retrieving rented items from storage...
+
+00:12:59.710         Welcome to TorilMUD
+
+00:12:59.711                
+
+00:12:59.715 The Upstairs of the Wayward House Inn
+00:12:59.715    Like most of the building the upstairs is made of maple, a rich wood
+00:12:59.717 that gives the inn a warm feel.  The boards have been well carved and
+00:12:59.718 fit closely together, only admitting light through the shuttered
+00:12:59.719 windows.  This floor consists of several rooms available for rent.
+00:12:59.720 Each room has its own lock on the door to ensure privacy.
+00:12:59.721 Exits: - Down          [48604] 
+00:12:59.721 Sylvana  (Half-Elf) stands here.
+00:12:59.722 Jhalessa Shorncrown stands here tidying up.
+
+Log session ending at 00:12:59 on Friday, 5 December 2025.

@@ -1,0 +1,492 @@
+Log session starting at 14:49:08 on Tuesday, 9 December 2025.
+
+14:49:08.163 < 344h/344H 160v/160V P: std >     
+14:49:08.163 [Spellqueue cleared.]
+14:49:08.345 You will no longer see the mini-map when moving.
+
+14:49:08.389 < 344h/344H 160v/160V P: std >     
+14:49:08.595 You will now see the classic prompt.
+
+14:49:08.944 < 344h/344H 160v/160V P: std > 
+14:49:09.185 You are hungry.
+14:49:09.186 You are thirsty.
+
+14:49:09.279  Prompt Command Usage:
+14:49:09.279   prompt                             - Display this help
+14:49:09.280   prompt layout                      - List available layouts
+14:49:09.281   prompt layout <layout>             - Set your layout
+14:49:09.281   prompt fields                      - List available fields
+14:49:09.282   prompt add <field>                 - Add a field to your current layout
+14:49:09.283   prompt remove <field>              - Remove a field from your current layout
+14:49:09.285   prompt options                     - Show a list of prompt option flags
+14:49:09.286   prompt options <flag>              - Toggle a prompt option
+14:49:09.287   prompt power <power> <slot>        - Add a power to a prompt slot
+14:49:09.288   prompt power auto                  - Set the default suggested power prompts
+14:49:09.289   prompt power clear <power, all>    - Clear a power from the prompt
+14:49:09.290   prompt color                       - List available prompt power colors
+14:49:09.291   prompt color <power, slot> <color> - Set the ready power color for a specific power or slot
+14:49:09.292   prompt color <type> <color>        - Set color for: <ready, cooldown, special, default, combo>
+14:49:09.293   prompt color <type> <clear>        - Clear color for <ready, cooldown, special, default, combo> 
+14:49:09.295   prompt color reset                 - Reset all prompt colors to default
+14:49:09.296   prompt help                        - Display this help
+
+14:49:09.297 To use the prompt command, first toggle on NEWPROMPT.
+
+14:49:09.432 < 344h/344H 160v/160V P: std > 
+14:49:09.520 Smartprompt toggled on.
+
+14:49:09.682 < 344h/344H 160v/160V P: std > 
+14:49:09.768 There are no sub-classes currently available to your class.
+
+14:49:09.932 < 344h/344H 160v/160V P: std > 
+
+14:49:10.017           Character attributes for Irsen
+
+14:49:10.018 Level: 50   Race: Human   Class: Druid       
+14:49:10.048 Size: Medium
+14:49:10.048 STR:  90  AGI:  90  DEX:  70  CON:  90
+14:49:10.048 POW:  70  INT:  90  WIS: 100  CHA:  72
+14:49:10.049 Armor Class: 100  (100 to -100)  Agility Bonus: -10
+14:49:10.049 Magic Resistance: 0 percent
+14:49:10.049 Hitroll: 3   Damroll: 4
+14:49:10.050 Alignment: True Neutral
+14:49:10.050 Saving Throws: PAR[0]  ROD[0]  PET[0]  BRE[0]  SPE[0]
+14:49:10.050    Wimpy: not set
+14:49:10.051 Load carried: What load?
+14:49:10.051 Damage Resistance:
+14:49:10.051 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+14:49:10.052 Spells:    0% Fire  :    0% Cold  :    0% Elect :    0% Acid  :    0% 
+14:49:10.053 Sonic :    0% Poison:    0% Pos   :    0% Neg   :    0% Psi   :    0% 
+14:49:10.054 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+14:49:10.055 Force :    0% 
+
+14:49:10.194 < 344h/344H 160v/160V P: std > 
+
+14:49:10.281           Score information for Irsen
+
+14:49:10.282 Level: 50   Race: Human   Class: Druid       
+14:49:10.283 Hit points: 344(344)  Moves: 160(160)
+14:49:10.283 Experience Progress: 0 % 
+14:49:10.283 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+14:49:10.284 Coins in bank:  391 platinum  1580 gold     6 silver     3 copper
+14:49:10.285 Prestige: 5420   Acheron Kill Count: 0
+14:49:10.285 Name status: Approved
+14:49:10.285 Citizen of:   Waterdeep
+14:49:10.285 Outcast from: Leuthilspar
+14:49:10.286 Playing time: 17 days / 17 hours / 53 minutes
+14:49:10.286 Title: 
+14:49:10.286 Status:  Standing.
+14:49:10.286 Enchantments:    Waterbreath
+
+14:49:10.287 Active Powers:
+14:49:10.287 --------------
+14:49:10.287 Water Breathing
+
+14:49:10.434 < 344h/344H 160v/160V P: std > 
+14:49:10.515 You aren't wearing anything!
+
+14:49:10.686 < 344h/344H 160v/160V P: std > 
+
+14:49:10.933 < 344h/344H 160v/160V P: std > 
+
+14:49:11.184 < 344h/344H 160v/160V P: std > 
+14:49:11.275 You are 40,624,942 XP (99.82%) away from your next level.
+
+14:49:11.434 < 344h/344H 160v/160V P: std > 
+14:49:11.523 You haven't consented to anyone.
+
+14:49:11.524 Irsen is consenting you.
+
+14:49:11.686 < 344h/344H 160v/160V P: std > 
+14:49:11.772 You will now see the mini-map when moving.
+
+14:49:11.936 < 344h/344H 160v/160V P: std > 
+14:49:12.022 You will now see the new prompt.
+
+14:49:12.023 < 344h/344H 160v/160V P: std >     
+14:49:12.165 [Setting statname to unset]
+14:49:12.172 [All train triggers disabled]
+14:49:12.186 Smartprompt toggled off.
+
+14:49:12.265 < 344h/344H 160v/160V P: std >     
+14:49:12.436 The Gentle Moon - Common Area
+14:49:12.532 < 344h/344H 160v/160V P: std >     
+14:49:12.686 Prompt option newline disabled.
+
+14:49:12.935 < 344h/344H 160v/160V P: std >Prompt option newline enabled.
+
+14:49:13.025 < 344h/344H 160v/160V P: std >     
+
+14:49:13.035 [Searching... Match found: Westgate : The Gentle Moon - Common Area : 327]
+
+14:49:18.199 Spells:
+14:49:18.199 -=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=--=-=--=-=-=-=-=-=-=-=-=-=--=-=-=-
+14:49:18.199 Creeping Doom                              [cd    ]   Study           10th circle
+14:49:18.200 Group Barkskin                             [gbark ]   Study           10th circle
+14:49:18.203 Moonwell                                   [mw    ]   Study           10th circle (x2)
+14:49:18.204 Dessicate                                  [des   ]   Study           9th circle
+14:49:18.205 Entangle                                   [eng   ]   Study           9th circle
+14:49:18.206 Hailstorm                                  [hs    ]   Study           9th circle
+14:49:18.207 Plane Shift                                [psh   ]   Study           9th circle
+14:49:18.208 Fire Seeds                                 [fs    ]   Study           8th circle
+14:49:18.209 Mud to Rock                                [mudtr ]   Study           8th circle
+14:49:18.211 Rock To Mud                                [rktm  ]   Study           8th circle
+14:49:18.212 Spiked Stones                              [ss    ]   Study           8th circle
+14:49:18.213 Water Breathing                            [wb    ]   Study           8th circle
+14:49:18.215 Cyclone                                    [cy    ]   Study           7th circle
+14:49:18.216 Flame Blade                                [fb    ]   Study           7th circle
+14:49:18.217 Group Vigorize                             [gvig  ]   Study           7th circle
+14:49:18.218 Pass Without Trace                         [pwt   ]   Study           7th circle
+14:49:18.220 Changestaff                                [cstf  ]   Study           6th circle
+14:49:18.221 Continual Light                            [cnl   ]   Study           6th circle
+14:49:18.222 Fear                                       [fe    ]   Study           6th circle
+14:49:18.223 Firestorm                                  [fst   ]   Study           6th circle
+14:49:18.224 Heal                                       [hl    ]   Study           6th circle
+14:49:18.225 Insect Plague                              [ip    ]   Study           6th circle
+14:49:18.226 Suffocate                                  [suf   ]   Study           6th circle
+14:49:18.227 Vitality                                   [vt    ]   Study           6th circle
+14:49:18.228 Call Lightning                             [call  ]   Study           5th circle
+14:49:18.230 Control Weather                            [cnw   ]   Study           5th circle
+14:49:18.231 Dispel Magic                               [dism  ]   Study           5th circle
+14:49:18.233 Harm                                       [hm    ]   Study           5th circle
+14:49:18.233 Raise Dead                                 [rd    ]   Study           5th circle
+14:49:18.234 Sunray                                     [sr    ]   Study           5th circle
+14:49:18.236 Vigorize Critic                            [vc    ]   Study           5th circle
+14:49:18.237 Cause Critical                             [cauc  ]   Study           4th circle
+14:49:18.238 Create Spring                              [csp   ]   Study           4th circle
+14:49:18.239 Cure Critic                                [ccr   ]   Study           4th circle
+14:49:18.241 Dust Devil                                 [dd    ]   Study           4th circle
+14:49:18.242 Earthquake                                 [eaq   ]   Study           4th circle
+14:49:18.243 Sense Life                                 [sen   ]   Study           4th circle
+14:49:18.245 Summon                                     [sum   ]   Study           4th circle
+14:49:18.246 Transport Via Plants                       [tvp   ]   Study           4th circle
+14:49:18.247 Barkskin                                   [bark  ]   Study           3rd circle
+14:49:18.248 Faerie Fog                                 [ffog  ]   Study           3rd circle
+14:49:18.250 Protection From Acid                       [pfa   ]   Study           3rd circle
+14:49:18.251 Protection From Cold                       [pfc   ]   Study           3rd circle
+14:49:18.252 Protection From Fire                       [pff   ]   Study           3rd circle
+14:49:18.253 Protection From Gas                        [pfg   ]   Study           3rd circle
+14:49:18.254 Protection From Lightning                  [pfl   ]   Study           3rd circle
+14:49:18.255 Remove Poison                              [rp    ]   Study           3rd circle
+14:49:18.257 Summon Insects                             [si    ]   Study           3rd circle
+14:49:18.258 Vigorize Serious                           [vs    ]   Study           3rd circle
+14:49:18.259 Bless                                      [bls   ]   Study           2nd circle
+14:49:18.261 Cause Serious                              [causs ]   Study           2nd circle
+14:49:18.262 Cure Serious                               [cs    ]   Study           2nd circle
+14:49:18.263 Detect Evil                                [de    ]   Study           2nd circle
+14:49:18.265 Detect Good                                [dg    ]   Study           2nd circle
+14:49:18.266 Faerie Fire                                [ff    ]   Study           2nd circle
+14:49:18.268 Preserve                                   [prs   ]   Study           2nd circle
+14:49:18.269 Protection From Animals                    [pfan  ]   Study           2nd circle
+14:49:18.270 Sticks To Snakes                           [sts   ]   Study           2nd circle
+14:49:18.271 Vigorize Light                             [vl    ]   Study           2nd circle
+14:49:18.273 Word of Recall                             [word  ]   Study           2nd circle
+14:49:18.274 Cause Light                                [caul  ]   Study           1st circle
+14:49:18.274 Create Water                               [crw   ]   Study           1st circle
+14:49:18.276 Cure Light                                 [curel ]   Study           1st circle
+14:49:18.277 Detect Magic                               [dm    ]   Study           1st circle
+14:49:18.278 Goodberry                                  [gdb   ]   Study           1st circle
+14:49:18.279 Shillelagh                                 [shl   ]   Study           1st circle
+14:49:18.281 Light                                      [lit   ]   At will         1st circle
+14:49:18.282 Poison Spray                               [ps    ]   At will         1st circle
+14:49:18.283 Sacred Flame                               [sf    ]   At will         1st circle
+14:49:18.285 Thorn Whip                                 [tw    ]   At will         1st circle
+
+14:49:18.287 < 344h/344H 160v/160V P: std >     
+14:49:48.012 Pardon?
+
+14:49:48.175 < 344h/344H 160v/160V P: std >     
+
+14:49:53.267 You are in a dead magic area and cannot cast spells!
+14:49:53.267 [Spellqueue cleared.]
+
+14:49:53.430 < 344h/344H 160v/160V P: std >     
+14:49:56.752                
+
+14:49:56.980 Sword Lane - Outside The Gentle Moon
+14:49:56.980    This area is called Tidetown for the occasional floods at high tide.
+14:49:56.981 In a city that never truly sleeps, traffic is constant day or night.
+14:49:56.982 Business is the life of the city, everything can be bought or sold.
+14:49:56.983 In this dangerous place, haggling often involves the use of a dagger.
+14:49:56.984 Blood marks the spots where financial disputes have been settled.
+14:49:56.985 Exits: - East  - South - West          [326] 
+14:49:56.985 A rugged-looking mercenary marches towards a distant goal.
+14:49:56.986 A bum wanders about looking for food.
+
+14:49:56.987 < 344h/344H 159v/160V P: std >     
+
+14:49:59.027 You start chanting... [Casting: MW TABMUR (Moonwell)]
+
+14:49:59.118 < 344h/344H 160v/160V P: std >     
+
+14:50:00.347 Casting: Moonwell *****
+
+14:50:00.348 < 344h/344H 160v/160V P: std >     
+
+14:50:01.341 Casting: Moonwell ****
+
+14:50:01.342 < 344h/344H 160v/160V P: std >     
+
+14:50:02.615 Casting: Moonwell ***
+
+14:50:02.616 < 344h/344H 160v/160V P: std >     
+
+14:50:03.389 Casting: Moonwell **
+
+14:50:03.389 < 344h/344H 160v/160V P: std >     
+
+14:50:04.398 Casting: Moonwell *
+
+14:50:04.398 < 344h/344H 160v/160V P: std >     
+
+14:50:05.402 Casting: Moonwell 
+
+14:50:05.403 < 344h/344H 160v/160V P: std >     
+
+14:50:05.653 You cast the spell 'Moonwell'.
+14:50:05.653 Swirling, silvery mists form a pool on the ground.
+
+14:50:05.654 < 344h/344H 160v/160V P: std >     
+14:50:07.567 You enter something and reappear elsewhere...
+14:50:07.568                
+
+14:50:07.654 The Crow's Nest of the Spirit Raven
+14:50:07.655    The crow's nest is located at the top of the ship's single mast,
+14:50:07.656 almost forty feet from the deck.  As one would expect, the crow's nest
+14:50:07.657 is very cramped and very unsteady.  Even the slightest breeze sends the
+14:50:07.658 small platform wobbling.  From here one can see far in every direction,
+14:50:07.659 even farther with the help of a looking glass.  A rope ladder leads
+14:50:07.660 down onto the deck.
+14:50:07.660 Exits: - Down          [326] 
+14:50:07.660 A pool formed of silver-colored liquid is here, slowly dissipating. (illuminating) 
+14:50:07.662 A seven dragons tabbard lies here. 
+14:50:07.662 Tabmur  (Orc) stands here.
+14:50:07.662 Riloesa  (Moon Elf) stands here.
+14:50:07.662 A lookout is posted here, scanning the seas.
+
+14:50:07.663 < 344h/344H 160v/160V P: std >     
+
+14:50:09.068 [Searching... Match found: The Spirit Raven : The Crow's Nest of the Spirit Raven : 85877]
+14:50:12.074 You sit down and relax.
+14:50:12.074 [Spellqueue cleared.]
+
+14:50:12.168 < 344h/344H 160v/160V P: sit >     
+14:50:14.340 Pardon?
+
+14:50:14.521 < 344h/344H 160v/160V P: sit >     
+
+14:50:19.048 [Spellqueue cleared.]
+14:50:19.333 You are already resting.
+
+14:50:19.497 < 344h/344H 160v/160V P: sit >     
+14:50:19.664 You have memorized the following spells:
+14:50:19.665 (10th circle)  2 - Moonwell
+14:50:19.666 ( 9th circle)  5 - Hailstorm
+14:50:19.667 ( 8th circle)  4 - Spiked Stones
+14:50:19.668 ( 7th circle)  6 - Flame Blade
+14:50:19.668 ( 6th circle)  3 - Continual Light
+14:50:19.669 ( 5th circle)  7 - Harm
+14:50:19.669                1 - Dispel Magic
+14:50:19.669 ( 4th circle)  8 - Cause Critical
+14:50:19.670                1 - Cure Critic
+14:50:19.671 ( 3rd circle)  9 - Barkskin
+14:50:19.671 ( 2nd circle)  5 - Faerie Fire
+14:50:19.672                4 - Sticks To Snakes
+14:50:19.672 ( 1st circle)  6 - Goodberry
+14:50:19.672                4 - Shillelagh
+
+14:50:19.673 And you are currently praying for the following spells:
+14:50:19.674    10 seconds:  ( 8th) Water Breathing
+14:50:19.675    21 seconds:  (10th) Moonwell
+14:50:19.675    28 seconds:  ( 6th) Continual Light
+14:50:19.675    36 seconds:  ( 6th) Continual Light
+14:50:19.676    43 seconds:  ( 6th) Continual Light
+14:50:19.676    46 seconds:  ( 1st) Goodberry
+14:50:19.677    53 seconds:  ( 6th) Continual Light
+14:50:19.677    57 seconds:  ( 2nd) Word of Recall
+14:50:19.678    68 seconds:  (10th) Moonwell
+
+14:50:19.678 You can pray for no more spells.
+14:50:19.679 You continue your praying.
+
+14:50:19.679 < 344h/344H 160v/160V P: sit >     
+
+14:50:24.954 You have finished praying for Water Breathing.
+
+14:50:24.955 < 344h/344H 160v/160V P: sit >     
+
+14:50:30.462 You have finished praying for Moonwell.
+
+14:50:30.463 < 344h/344H 160v/160V P: sit >     
+
+14:50:32.722 A moonwell crumbles to dust and blows away.
+
+14:50:32.723 < 344h/344H 160v/160V P: sit >     
+
+14:50:37.454 You have finished praying for Continual Light.
+
+14:50:37.456 < 344h/344H 160v/160V P: sit >     
+14:50:40.871 You have finished praying for Continual Light.
+14:50:40.872 You clamber to your feet.
+14:50:40.873 You abandon your prayers.
+
+14:50:40.921 < 344h/344H 160v/160V P: std >     
+
+14:50:41.212 < 344h/344H 160v/160V P: std >     
+14:50:41.371 The Crow's Nest of the Spirit Raven
+14:50:41.462 < 344h/344H 160v/160V P: std >     
+14:50:41.621 You are already standing.
+
+14:50:41.710 < 344h/344H 160v/160V P: std >     
+14:50:47.628 You start setting up camp...
+
+14:50:47.628 You will be logged out in 15 seconds.
+
+14:50:47.723 < 344h/344H 160v/160V P: std >     
+
+14:50:57.979 You will be logged out in 5 seconds.
+
+14:50:57.979 < 344h/344H 160v/160V P: std >     
+14:51:02.900 You complete setting up your camp and settle in.
+
+14:51:02.901 Characters:
+14:51:02.901 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+14:51:02.910   1) Afu                       Level 50 Warrior (Troll)
+14:51:02.910   2) Deabnue                   Level 50 Invoker (Human)
+14:51:02.911   3) Gizep                     Level 50 Enchanter (Drow Elf)
+14:51:02.911   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+14:51:02.913   5) Newple                    Level 50 Rogue (Halfling)
+14:51:02.914   6) Mattah                    Level 50 Necromancer (Human)
+14:51:02.914   7) Rafi                      Level 50 Blackguard (Human)
+14:51:02.915   8) Digun                     Level 50 Warrior (Shield Dwarf)
+14:51:02.916   9) Risor                     Level 50 Rogue (Human)
+14:51:02.916  10) Islala                    Level 50 Bard (Moon Elf)
+14:51:02.917  11) Minolai                   Level 50 Ranger (Moon Elf)
+14:51:02.918  12) Poppibble                 Level 50 Ranger (Halfling)
+14:51:02.918  13) Simasel                   Level 50 Cleric (Moon Elf)
+14:51:02.919  14) Giru                      Level 50 Hexblade (Orc)
+14:51:02.920  15) Xaniver                   Level 50 Ranger (Half-Orc)
+14:51:02.920  16) Waf                       Level 49 Shaman (Barbarian)
+14:51:02.921  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+14:51:02.922  18) Gomble                    Level 50 Paladin (Halfling)
+14:51:02.922  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+14:51:02.923  20) Siho                      Level 50 Paladin (Half-Orc)
+14:51:02.923  21) Nidipizil                 Level 50 Paladin (Gnome)
+14:51:02.924  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+14:51:02.925  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+14:51:02.925  24) Naleni                    Level 50 Warrior (Moon Elf)
+14:51:02.926  25) Gukonata                  Level 50 Blackguard (Duergar)
+14:51:02.927  26) Uspi                      Level 50 Blackguard (Half-Orc)
+14:51:02.928  27) Tonga                     Level 50 Warrior (Ogre)
+14:51:02.928  28) Popebople                 Level 48 Enchanter (Gnome)
+14:51:02.929  29) Bago                      Level 50 Shaman (Ogre)
+14:51:02.930  30) Loyol                     Level 50 Bard (Halfling)
+14:51:02.930  31) Irsen                     Level 50 Druid (Human)
+14:51:02.931  32) Fanal                     Level 50 Rogue (Orc)
+14:51:02.931  33) Poromople                 Level 50 Invoker (Gnome)
+14:51:02.933  34) Coruduwat                 Level 43 Elementalist (Duergar)
+14:51:02.933  35) Luso                      Level 41 Paladin (Human)
+14:51:02.934  36) Ssassur                   Level 44 Wizard (Yuan-Ti)
+14:51:02.935  37) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+14:51:02.935  38) Gorkl                     Level 29 Warrior (Ogre)
+14:51:02.936  39) Gapa                      Level 28 Battlechanter (Orc)
+14:51:02.937  40) Tazfap                    Level  1 Warrior (Drow Elf)
+14:51:02.937  41) Igunnokio                 Level 16 Ranger (Moon Elf)
+14:51:02.938  42) Tihep                     Level  6 Rogue (Drow Elf)
+14:51:02.939  43) Dobokin                   Level  1 Paladin (Half-Orc)
+14:51:02.939  44) Tamad                     Level  7 Paladin (Human)
+14:51:02.940  45) Pilferos                  Level  6 Rogue (Human)
+14:51:02.941  46) Tubor                     Level  1 Warrior (Ogre)
+14:51:02.941  47) Zorrax                    Level 13 Warrior (Troll)
+14:51:02.942  48) Muwede                    Level  1 Illusionist (Drow Elf)
+14:51:02.943  49) Woso                      Level 16 Druid (Half-Orc)
+14:51:02.943  50) Anisa                     Level 15 Blackguard (Half-Orc)
+14:51:02.943  51) Vodbadadva                Level 18 Rogue (Duergar)
+14:51:02.944  52) Lahla                     Level  1 Bard (Half-Orc)
+14:51:02.945  53) Lewo                      Level  8 Bard (Half-Orc)
+14:51:02.945  54) Dedad                     Level 11 Warrior (Drow Elf)
+14:51:02.946  55) Pige                      Level  1 Blackguard (Human)
+14:51:02.947  56) Bowo                      Level  1 Ranger (Half-Orc)
+14:51:02.947  57) Susu                      Level  7 Warrior (Ogre)
+14:51:02.948  58) Ohu                       Level 18 Warrior (Troll)
+14:51:02.949  59) Docuh                     Level  8 Warrior (Ogre)
+14:51:02.949  60) Simeramma                 Level 13 Ranger (Moon Elf)
+14:51:02.950  61) Efera                     Level  5 Necromancer (Drow Elf)
+14:51:02.951  62) Sehe                      Level 50 Rogue (Human)
+14:51:02.951  63) Haxu                      Level 12 Shaman (Troll)
+14:51:02.951  64) Lolele                    Level 20 Warrior (Halfling)
+14:51:02.953  65) Ssississa                 Level 17 Invoker (Yuan-Ti)
+14:51:02.954  66) Rifu                      Level 18 Hexblade (Half-Orc)
+14:51:02.954  67) Ginxa                     Level 14 Rogue (Half-Orc)
+14:51:02.955  68) Dogga                     Level 12 Warrior (Ogre)
+14:51:02.956  69) Ibo                       Level 12 Warrior (Barbarian)
+14:51:02.956  70) Cometa                    Level 11 Hexblade (Half-Orc)
+14:51:02.957  71) Amamal                    Level 18 Paladin (Moon Elf)
+14:51:02.958  72) Samile                    Level 14 Invoker (Drow Elf)
+14:51:02.958  73) Xulu                      Level 17 Shaman (Troll)
+14:51:02.959  74) Enyema                    Level 10 Invoker (Drow Elf)
+14:51:02.960  75) Nino                      Level  8 Shaman (Half-Orc)
+14:51:02.960  76) Upraeleolno               Level  1 Ranger (Moon Elf)
+14:51:02.961  77) Atesa                     Level 17 Necromancer (Drow Elf)
+14:51:02.962  78) Zic                       Level 12 Warrior (Barbarian)
+14:51:02.963  79) Eyata                     Level 12 Warrior (Drow Elf)
+14:51:02.963  80) Wowidomble                Level  3 Illusionist (Gnome)
+14:51:02.964  81) Hatra                     Level 10 Shaman (Half-Orc)
+14:51:02.964  82) Gobra                     Level 35 Shaman (Half-Orc)
+14:51:02.965  83) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+14:51:02.981  84) Legil                     Level  1 Invoker (Halfling)
+14:51:02.982  85) Onre                      Level  5 Rogue (Human)
+14:51:02.982  86) Krainor                   Level 17 Paladin (Human)
+14:51:02.983  87) Pipippaple                Level 50 Ranger (Gnome)
+14:51:02.983  88) Sijita                    Level 12 Necromancer (Drow Elf)
+14:51:02.984  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+14:51:02.984  90) Sewothe                   Level 20 Rogue (Drow Elf)
+14:51:02.985  91) Ixap                      Level 41 Hexblade (Half-Orc)
+14:51:02.986 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+14:51:02.986 Type the # or name of a character above to login or choose an action below.
+14:51:02.987 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+14:51:02.987 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+14:51:02.989 (E)nter description    | (D)elete character | (C)hange password
+14:51:02.989 (M)odify email address | (Q)uit
+14:51:02.990 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+14:51:03.300 Your choice: 
+14:51:44.399 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+14:51:44.399                            Wizards
+14:51:44.400 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+14:51:44.400 The new Wizard class has arrived, with Illusionist as the first subclass. For
+14:51:44.402 more details on this update, please see the news link below.
+
+14:51:44.403 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+14:51:44.403 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+14:51:44.403 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+14:51:44.403 - http://www.torilmud.com/news/arcane-companions/
+
+14:51:44.404 Resources
+
+14:51:44.404 Discord    : https://discord.gg/t7edjzM
+14:51:44.404 Web Client : http://www.torilmud.com/login
+14:51:44.405 News       : http://news.torilmud.com/
+14:51:44.405 Issues     : https://github.com/torilmud/issues
+
+14:51:44.493 You break camp and get ready to move on...
+
+14:51:44.494         Welcome to TorilMUD
+
+14:51:44.494                
+
+14:51:44.498 The Crow's Nest of the Spirit Raven
+14:51:44.499    The crow's nest is located at the top of the ship's single mast,
+14:51:44.500 almost forty feet from the deck.  As one would expect, the crow's nest
+14:51:44.501 is very cramped and very unsteady.  Even the slightest breeze sends the
+14:51:44.502 small platform wobbling.  From here one can see far in every direction,
+14:51:44.503 even farther with the help of a looking glass.  A rope ladder leads
+14:51:44.504 down onto the deck.
+14:51:44.504 Exits: - Down          [85877] 
+14:51:44.504 A seven dragons tabbard lies here. 
+14:51:44.505 Tabmur  (Orc) stands here.
+14:51:44.505 Riloesa  (Moon Elf) stands here.
+14:51:44.505 A lookout is posted here, scanning the seas.
+
+Log session ending at 14:51:44 on Tuesday, 9 December 2025.

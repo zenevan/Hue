@@ -1,0 +1,542 @@
+Log session starting at 00:14:57 on Friday, 5 December 2025.
+
+00:14:57.185 < 790h/790H 175v/175V |ub +|ut +|hd +|vip +|dsd +|wu +|iw +| P: std >     
+00:14:57.185 [Spellqueue cleared.]
+00:14:57.453 You will no longer see the mini-map when moving.
+
+00:14:57.500 < 790h/790H 175v/175V |ub +|ut +|hd +|vip +|dsd +|wu +|iw +| P: std >     
+00:14:57.703 You will now see the classic prompt.
+
+00:14:57.749 < 790h/790H 175v/175V |bds +|nop +|cc +| >
+00:14:57.971 < P: std > 
+00:14:57.971  Prompt Command Usage:
+00:14:57.972   prompt                             - Display this help
+00:14:57.972   prompt layout                      - List available layouts
+00:14:57.973   prompt layout <layout>             - Set your layout
+00:14:57.973   prompt fields                      - List available fields
+00:14:57.975   prompt add <field>                 - Add a field to your current layout
+00:14:57.976   prompt remove <field>              - Remove a field from your current layout
+00:14:57.977   prompt options                     - Show a list of prompt option flags
+00:14:57.978   prompt options <flag>              - Toggle a prompt option
+00:14:57.979   prompt power <power> <slot>        - Add a power to a prompt slot
+00:14:57.980   prompt power auto                  - Set the default suggested power prompts
+00:14:57.981   prompt power clear <power, all>    - Clear a power from the prompt
+00:14:57.982   prompt color                       - List available prompt power colors
+00:14:57.983   prompt color <power, slot> <color> - Set the ready power color for a specific power or slot
+00:14:57.985   prompt color <type> <color>        - Set color for: <ready, cooldown, special, default, combo>
+00:14:57.986   prompt color <type> <clear>        - Clear color for <ready, cooldown, special, default, combo> 
+00:14:57.987   prompt color reset                 - Reset all prompt colors to default
+00:14:57.989   prompt help                        - Display this help
+
+00:14:58.129 To use the prompt command, first toggle on NEWPROMPT.
+
+00:14:58.130 < 790h/790H 175v/175V |bds +|nop +|cc +| >
+00:14:58.301 < P: std > 
+00:14:58.301 Smartprompt toggled on.
+
+00:14:58.302 < 790h/790H 175v/175V |bds +|nop +|cc +| >
+00:14:58.454 < P: std > 
+00:14:58.625 There are no sub-classes currently available to your class.
+
+00:14:58.626 < 790h/790H 175v/175V |bds +|nop +|cc +| >
+00:14:58.797 < P: std > 
+
+00:14:58.798           Character attributes for Nusu
+
+00:14:58.798 Level: 50   Race: Ogre   Class: Warrior     
+00:14:58.824 Size: Large
+00:14:58.825 STR: 100  AGI: 100  DEX:  83  CON: 100
+00:14:58.825 POW:  70  INT:  70  WIS:  70  CHA:  70
+00:14:58.826 Armor Class: 100  (100 to -100)  Agility Bonus: -4
+00:14:58.826 Magic Resistance: 0 percent
+00:14:58.827 Hitroll: 2   Damroll: 10
+00:14:58.827 Alignment: Lawful Evil
+00:14:58.827 Saving Throws: PAR[0]  ROD[0]  PET[0]  BRE[0]  SPE[0]
+00:14:58.828    Wimpy: not set
+00:14:58.828 Load carried: What load?
+00:14:58.828 Damage Resistance:
+00:14:58.828 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+00:14:58.829 Spells:    0% Fire  :    0% Cold  :    0% Elect :    0% Acid  :    0% 
+00:14:58.829 Sonic :    0% Poison:    0% Pos   :    0% Neg   :    0% Psi   :    0% 
+00:14:58.830 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+00:14:58.831 Force :    0% 
+
+00:14:58.831 < 790h/790H 175v/175V |bds +|nop +|cc +| >
+00:14:58.957 < P: std > 
+
+00:14:59.106           Score information for Nusu
+
+00:14:59.107 Level: 50   Race: Ogre   Class: Warrior     
+00:14:59.111 Hit points: 790(790)  Moves: 175(175)
+00:14:59.112 Experience Progress: 180 % 
+00:14:59.112 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+00:14:59.113 Coins in bank: 1361 platinum  3936 gold   618 silver   295 copper
+00:14:59.113 Prestige: 5776   Acheron Kill Count: 0
+00:14:59.115 Name status: Pending
+00:14:59.115 Citizen of:   Faang
+00:14:59.115 Outcast from: Griffon's Nest
+00:14:59.115 Playing time: 1 days / 7 hours / 40 minutes
+00:14:59.116 Title: 
+00:14:59.116 Status:  Standing.
+00:14:59.116 Detecting:       Invisible Heat
+
+00:14:59.116 Active Powers:
+00:14:59.116 --------------
+00:14:59.117 Detect Invisibility
+
+00:14:59.117 < 790h/790H 175v/175V |bds +|nop +|cc +| >
+00:14:59.264 < P: std > 
+00:14:59.264 You aren't wearing anything!
+
+00:14:59.284 < 790h/790H 175v/175V |bds +|nop +|cc +| >
+00:14:59.494 < P: std > 
+00:14:59.668 < 790h/790H 175v/175V |bds +|nop +|cc +| >
+00:14:59.829 < P: std > 
+00:14:59.832 < 790h/790H 175v/175V |bds +|nop +|cc +| >
+00:15:00.003 < P: std > 
+00:15:00.173 You are 0 XP (0.00%) away from your next level.
+
+00:15:00.174 < 790h/790H 175v/175V |bds +|nop +|cc +| >
+00:15:00.343 < P: std > 
+00:15:00.344 You haven't consented to anyone.
+
+00:15:00.344 Nusu is consenting you.
+
+00:15:00.345 < 790h/790H 175v/175V |bds +|nop +|cc +| >
+00:15:00.515 < P: std > 
+00:15:00.515 You will now see the mini-map when moving.
+
+00:15:00.516 < 790h/790H 175v/175V |bds +|nop +|cc +| >
+00:15:00.708 < P: std > 
+00:15:00.858 You will now see the new prompt.
+
+00:15:00.860 < 790h/790H 175v/175V |ub +|ut +|hd +|vip +|dsd +|wu +|iw +| P: std >     
+00:15:00.959 Smartprompt toggled off.
+
+00:15:01.117 < 790h/790H 175v/175V |ub +|ut +|hd +|vip +|dsd +|wu +|iw +| P: std >     
+00:15:01.187 [Setting statname to unset]
+00:15:01.193 [Setting rescuetype to basic]
+00:15:01.198 [Setting warbh to false]
+00:15:01.203 [Setting warkc to false]
+00:15:01.208 [All train triggers disabled]
+00:15:01.268 The Upstairs of the Wayward House Inn
+00:15:01.208 [All train triggers disabled]
+00:15:01.274 < 790h/790H 175v/175V |ub +|ut +|hd +|vip +|dsd +|wu +|iw +| P: std >     
+00:15:01.478 Prompt option newline disabled.
+
+00:15:01.791 < 790h/790H 175v/175V |ub +|ut +|hd +|vip +|dsd +|wu +|iw +| P: std >Prompt option newline enabled.
+
+00:15:01.793 < 790h/790H 175v/175V |ub +|ut +|hd +|vip +|dsd +|wu +|iw +| P: std >     
+
+00:15:01.816 [Searching... Match found: Silverymoon, Gem of the North : The Upstairs of the Wayward House Inn : 48604]
+
+00:15:07.059 You gain access to Suhu's storage cache.  
+00:15:07.060 In order to use your own cache again, you must first close this cache by entering: 'storage access close'.
+
+00:15:07.272 < 790h/790H 175v/175V |ub +|ut +|hd +|vip +|dsd +|wu +|iw +| P: std >     
+
+00:15:07.866 You are hungry.
+00:15:07.867 You are thirsty.
+
+00:15:07.867 < 790h/790H 175v/175V |ub +|ut +|hd +|vip +|dsd +|wu +|iw +| P: std >     
+00:15:10.730 You retrieve a stout dragonhide pack from Suhu's storage cache.
+00:15:10.731 Autosaving...
+
+00:15:10.780 < 790h/790H 175v/175V |ub +|ut +|hd +|vip +|dsd +|wu +|iw +| P: std >     
+00:15:10.976 It is 8am, on the Day of the Bull
+00:15:10.977 The 22nd Day of the Month of Mithrian (the Wanting), Year 1300.
+00:15:10.978 Time elapsed since boot-up: 1:43:30
+00:15:10.978 Current time is: Fri Dec  5 00:37:45 2025
+
+00:15:11.055 < 790h/790H 175v/175V |ub +|ut +|hd +|vip +|dsd +|wu +|iw +| P: std >     
+00:15:11.725 You are carrying:
+00:15:11.725 a stout dragonhide pack 
+
+00:15:11.818 < 790h/790H 175v/175V |ub +|ut +|hd +|vip +|dsd +|wu +|iw +| P: std >     
+00:15:13.732 Suhu's storage cache contains:
+00:15:13.732 a shimmering holy sword of the planetar (illuminating) 
+00:15:13.733 [2] a pouch of eternal pockets (illuminating) 
+
+00:15:13.812 < 790h/790H 175v/175V |ub +|ut +|hd +|vip +|dsd +|wu +|iw +| P: std >     
+00:15:19.995 You store a stout dragonhide pack in Suhu's storage cache.
+00:15:19.997 Autosaving...
+
+00:15:20.043 < 790h/790H 175v/175V |ub +|ut +|hd +|vip +|dsd +|wu +|iw +| P: std >     
+00:15:20.239 It is 8am, on the Day of the Bull
+00:15:20.240 The 22nd Day of the Month of Mithrian (the Wanting), Year 1300.
+00:15:20.241 Time elapsed since boot-up: 1:43:39
+00:15:20.241 Current time is: Fri Dec  5 00:37:54 2025
+
+00:15:20.326 < 790h/790H 175v/175V |ub +|ut +|hd +|vip +|dsd +|wu +|iw +| P: std >     
+00:15:21.424 Jhalessa Shorncrown tells you 'It will cost you nothing to rent.'
+00:15:21.435 Jhalessa Shorncrown stores your stuff in the safe, and shows you to your room.
+
+00:15:21.437 Characters:
+00:15:21.437 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+00:15:21.476   1) Rufa                      Level 16 Warrior (Troll)
+00:15:21.477   2) Sedesee                   Level 18 Necromancer (Drow Elf)
+00:15:21.478   3) Zaba                      Level  1 Shaman (Ogre)
+00:15:21.479   4) Pukadito                  Level  1 Cleric (Duergar)
+00:15:21.480   5) Fibba                     Level  1 Battlechanter (Orc)
+00:15:21.480   6) Zissato                   Level  1 Sorcerer (Yuan-Ti)
+00:15:21.481   7) Sesesa                    Level  1 Invoker (Drow Elf)
+00:15:21.482   8) Cillicissin               Level  1 Psionicist (Illithid)
+00:15:21.483   9) Sulonwuka                 Level  1 Hexblade (Duergar)
+00:15:21.483  10) Tusso                     Level  1 Elementalist (Yuan-Ti)
+00:15:21.485  11) Milore                    Level 19 Rogue (Human)
+00:15:21.486  12) Unamimo                   Level  1 Ranger (Moon Elf)
+00:15:21.487  13) Cameshu                   Level  1 Druid (Moon Elf)
+00:15:21.487  14) Lirayu                    Level  1 Enchanter (Moon Elf)
+00:15:21.488  15) Tahane                    Level  1 Wizard (Moon Elf)
+00:15:21.489  16) Bonya                     Level  1 Wizard (Human)
+00:15:21.489  17) Belele                    Level  1 Paladin (Halfling)
+00:15:21.490  18) Oneba                     Level  1 Blackguard (Drow Elf)
+00:15:21.491  19) Elbama                    Level  1 Bard (Moon Elf)
+00:15:21.491  20) Noleamca                  Level  1 Paladin (Moon Elf)
+00:15:21.492  21) Tiku                      Level  1 Battlechanter (Orc)
+00:15:21.493  22) Hivo                      Level  5 Blackguard (Half-Orc)
+00:15:21.494  23) Dapo                      Level 16 Hexblade (Orc)
+00:15:21.494  24) Bitule                    Level  1 Ranger (Halfling)
+00:15:21.495  25) Moge                      Level  1 Shaman (Orc)
+00:15:21.495  26) Ssamo                     Level  7 Cleric (Yuan-Ti)
+00:15:21.496  27) Inapa                     Level  1 Ranger (Half-Orc)
+00:15:21.496  28) Cudu                      Level  1 Shaman (Troll)
+00:15:21.497  29) Hufu                      Level 19 Warrior (Troll)
+00:15:21.498  30) Elsesa                    Level  1 Warrior (Drow Elf)
+00:15:21.498  31) Zanga                     Level 19 Warrior (Ogre)
+00:15:21.499  32) Sibbi                     Level 19 Hexblade (Orc)
+00:15:21.500  33) Rupi                      Level  1 Paladin (Shield Dwarf)
+00:15:21.500  34) Asli                      Level 19 Rogue (Human)
+00:15:21.501  35) Ageka                     Level  8 Rogue (Half-Orc)
+00:15:21.502  36) Juja                      Level 15 Warrior (Orc)
+00:15:21.502  37) Puwa                      Level  7 Shaman (Troll)
+00:15:21.503  38) Kazgabope                 Level 50 Blackguard (Duergar)
+00:15:21.503  39) Renelay                   Level  1 Bard (Half-Elf)
+00:15:21.505  40) Yuneme                    Level  1 Bard (Human)
+00:15:21.505  41) Atase                     Level  1 Bard (Human)
+00:15:21.506  42) Nefe                      Level 18 Rogue (Human)
+00:15:21.506  43) Rassa                     Level  1 Sorcerer (Human)
+00:15:21.507  44) Medo                      Level  5 Elementalist (Human)
+00:15:21.508  45) Tafla                     Level 19 Bard (Half-Orc)
+00:15:21.509  46) Biha                      Level 50 Rogue (Human)
+00:15:21.509  47) Suhu                      Level 50 Warrior (Troll)
+00:15:21.510  48) Newotee                   Level 32 Hexblade (Drow Elf)
+00:15:21.510  49) Tararotuta                Level  1 Wizard (Duergar)
+00:15:21.511  50) Bobaroru                  Level  9 Elementalist (Duergar)
+00:15:21.512  51) Yazassa                   Level 50 Cleric (Yuan-Ti)
+00:15:21.513  52) Meliya                    Level  1 Paladin (Moon Elf)
+00:15:21.513  53) Giwa                      Level 39 Battlechanter (Orc)
+00:15:21.514  54) Mivo                      Level 46 Shaman (Orc)
+00:15:21.515  55) Farda                     Level  8 Bard (Shield Dwarf)
+00:15:21.515  56) Elbana                    Level  1 Paladin (Half-Orc)
+00:15:21.515  57) Pagmixa                   Level  1 Sorcerer (Drow Elf)
+00:15:21.516  58) Nusu                      Level 50 Warrior (Ogre)
+00:15:21.517  59) Eqasebee                  Level  1 Enchanter (Drow Elf)
+00:15:21.518  60) Firumokag                 Level 15 Warrior (Duergar)
+00:15:21.518  61) Bopinbolil                Level 38 Enchanter (Gnome)
+00:15:21.519 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+00:15:21.519 Type the # or name of a character above to login or choose an action below.
+00:15:21.520 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+00:15:21.521 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+00:15:21.522 (E)nter description    | (D)elete character | (C)hange password
+00:15:21.523 (M)odify email address | (Q)uit
+00:15:21.523 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+00:15:21.523 Account email: zenevan420@gmail.com
+00:15:21.523 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+00:15:21.830 Your choice: 
+
+00:15:23.532 Entering new character generation mode.
+00:15:23.702 Race selection - Please choose one of the following for your character.
+00:15:23.704 -----------------------------------------------------------------------
+00:15:23.704 a) Human *        (A for help)     i) Ogre            (I for help)
+00:15:23.705 b) Barbarian *    (B for help)     j) Swamp Troll     (J for help)
+00:15:23.705 c) Drow Elf       (C for help)     k) Half Elf        (K for help)
+00:15:23.706 d) Moon Elf       (D for help)     p) Illithid        (P for help)
+00:15:23.707 e) Shield Dwarf*  (E for help)     q) Yuan-Ti         (Q for help)
+00:15:23.708 f) Duergar Dwarf  (F for help)     r) Orc             (R for help)
+00:15:23.708 g) Halfling       (G for help)     s) Half-Orc        (S for help)
+00:15:23.709 h) Gnome          (H for help)
+
+00:15:23.710 1) General listing of classes available to each race, and other info.
+00:15:23.710 9) Return to login
+
+00:15:23.710        (HELP) Use the capital letter of the Race you want help on.
+00:15:23.711               For Help on Classes, type '1' for general information.
+
+00:15:23.712 NOTE: If you are new to Toril, or MUDding in general, we suggest
+00:15:23.713       you begin the game with on of the races marked by a (*) above:
+00:15:23.715       Human, Barbarian, or Shield Dwarf.
+
+00:15:23.715 Your selection?
+
+00:15:28.248 Class selection menu
+00:15:28.248 --------------------
+00:15:28.249 a) Warrior
+00:15:28.249 b) Ranger
+00:15:28.249 d) Paladin
+00:15:28.249 f) Cleric
+00:15:28.249 j) Sorcerer
+00:15:28.249 r) Enchanter
+00:15:28.249 s) Invoker
+00:15:28.249 v) Illusionist
+00:15:28.250 u) Rogue
+00:15:28.250 l) Elementalist
+00:15:28.250 x) Hexblade
+00:15:28.250 w) Wizard [BETA]
+
+00:15:28.250 z) Return to the Race selection menu and re-choose your race and/or
+00:15:28.251    get more information
+
+00:15:28.565 Your Selection: 
+
+00:15:31.716 Alignment Selection
+00:15:31.717 -------------------------------------------------------------------------------
+
+00:15:31.717 Your race/class combination allows you to choose your initial alignment.
+00:15:31.718 Alignment affects the objects you are able to use, creatures which are
+00:15:31.719 aggressive towards you, spells you are vulnerable to, and more.  Your alignment
+00:15:31.720 is fixed initially, however there are means available to allow you to shift
+00:15:31.722 along the two different axis of alignment.
+
+00:15:31.722 Please select one of the following starting alignments by entering the
+00:15:31.723 first letter of the alignment.  Pick first among Lawful, Neutral and
+00:15:31.724 Chaotic.  Then you will be prompted to select Good, Neutral or Evil.
+
+00:15:31.725 Please note: Certain races and classes are predispositioned towards
+00:15:31.726 some alignments, and in fact cannot be anything but.  Paladins will
+00:15:31.727 be set to be Lawful Good.  Druids must have the second axis of their
+00:15:31.728 alignment be Neutral.  In the cases of the above, and races with a
+00:15:31.729 predisposition, you will not be prompted to select Good, Neutral or Evil.
+
+00:15:31.730 If you are uncertain, we recommend you choose N.
+
+00:15:31.730 L)awful
+00:15:31.731 N)eutral
+00:15:31.731 C)haotic
+
+00:15:32.032 Your selection: 
+
+00:15:33.757 Ability scores:
+00:15:33.757 -------------------------------------------------------------------------------
+
+00:15:33.758 To manually roll for your ability scores, hit 'r'. Note that this can take a
+00:15:33.759 long time. To auto-generate your scores hit <enter>. You will be able to
+00:15:33.760 change your scores once you enter the game.
+
+00:15:34.063 Enter 'r' to roll or <enter> to auto-generate: 
+
+00:15:35.759 Your ability scores have been auto-generated.
+
+00:15:36.066 Is your character Male or Female? (M/F) 
+
+00:15:37.511 Choosing a name:
+00:15:37.512 -------------------------------------------------------------------------------
+
+00:15:37.512 Please choose an original fantasy name for your character. You can either create
+00:15:37.513 your own name or choose from the pre-generated list. You can start playing right
+00:15:37.515 away, but your name will be reviewed by staff members to make sure that it meets
+00:15:37.516 our guidelines.
+
+00:15:37.517 General guidelines:
+
+00:15:37.517     1) Avoid compound and misspelled words. Examples: Lordfear, Ohgre
+00:15:37.517     2) Avoid names from books, movies or television. Examples: Conan, Tyrion
+00:15:37.518     3) Choose a name that matches your race's guidelines.
+
+00:15:37.519 Racial guidelines:
+00:15:37.519 -------------------------------------------------------------------------------
+00:15:37.602 "NAMES GNOME" "NAME GNOME"
+
+00:15:37.602 Although gnomes are considered a very intelligent and serious-minded
+00:15:37.604 people, their language tends to sound rather silly to other races.
+
+00:15:37.604 Gnome names are very long, silly and usually contain double consonants such
+00:15:37.606 as: "pp" and "bb", or combinations such as: "mb", "nb" or "np" and often
+00:15:37.607 end with "l" or "le".
+
+00:15:37.607    Examples: Bibbledilly, Diggerbobble, Flariwizzle
+00:15:37.608     Illegal: Bonger, Boinger, Thura, Shugar, Velaeia
+
+00:15:37.609 Generated Names (choose by number)
+00:15:37.609 --------------------------------------
+00:15:37.609 1) Bopelolinule        5) Pebologol
+00:15:37.609 2) Powipepozul         6) Guppolelile
+00:15:37.610 3) Webebbolopple       7) Limokehul
+00:15:37.610 4) Zimpifagusol        8) Wonpopolidle
+00:15:37.610 0) Generate different names.
+
+00:15:37.923 Please enter a custom name or choose from the list > 
+
+00:15:41.329 You wish to be known as Wonpopolidle (Y/N) ? 
+
+00:15:44.339 ---------------------------------------
+00:15:44.340 NAME:   Wonpopolidle
+00:15:44.340 SEX:      Female
+00:15:44.340 RACE:     Gnome
+00:15:44.340 CLASS:    Paladin     
+00:15:44.340 ALIGN:    Lawful Good
+00:15:44.340 HOMETOWN: Ashrumite Village
+
+00:15:44.497 Your basic stats:
+00:15:44.497 Strength:      100     Power:         70
+00:15:44.498 Dexterity:     83     Intelligence:  70
+00:15:44.498 Agility:       100     Wisdom:        70
+00:15:44.499 Constitution:  100     Charisma:      70
+
+00:15:44.499 Your character has been created and is ready for you to play.
+
+00:15:44.500 *** PRESS RETURN:
+
+00:15:46.537 Characters:
+00:15:46.537 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+00:15:46.645   1) Rufa                      Level 16 Warrior (Troll)
+00:15:46.646   2) Sedesee                   Level 18 Necromancer (Drow Elf)
+00:15:46.647   3) Zaba                      Level  1 Shaman (Ogre)
+00:15:46.648   4) Pukadito                  Level  1 Cleric (Duergar)
+00:15:46.649   5) Fibba                     Level  1 Battlechanter (Orc)
+00:15:46.649   6) Zissato                   Level  1 Sorcerer (Yuan-Ti)
+00:15:46.650   7) Sesesa                    Level  1 Invoker (Drow Elf)
+00:15:46.651   8) Cillicissin               Level  1 Psionicist (Illithid)
+00:15:46.652   9) Sulonwuka                 Level  1 Hexblade (Duergar)
+00:15:46.652  10) Tusso                     Level  1 Elementalist (Yuan-Ti)
+00:15:46.653  11) Milore                    Level 19 Rogue (Human)
+00:15:46.653  12) Unamimo                   Level  1 Ranger (Moon Elf)
+00:15:46.654  13) Cameshu                   Level  1 Druid (Moon Elf)
+00:15:46.654  14) Lirayu                    Level  1 Enchanter (Moon Elf)
+00:15:46.655  15) Tahane                    Level  1 Wizard (Moon Elf)
+00:15:46.656  16) Bonya                     Level  1 Wizard (Human)
+00:15:46.656  17) Belele                    Level  1 Paladin (Halfling)
+00:15:46.657  18) Oneba                     Level  1 Blackguard (Drow Elf)
+00:15:46.658  19) Elbama                    Level  1 Bard (Moon Elf)
+00:15:46.659  20) Noleamca                  Level  1 Paladin (Moon Elf)
+00:15:46.659  21) Tiku                      Level  1 Battlechanter (Orc)
+00:15:46.660  22) Hivo                      Level  5 Blackguard (Half-Orc)
+00:15:46.661  23) Dapo                      Level 16 Hexblade (Orc)
+00:15:46.661  24) Bitule                    Level  1 Ranger (Halfling)
+00:15:46.662  25) Moge                      Level  1 Shaman (Orc)
+00:15:46.663  26) Ssamo                     Level  7 Cleric (Yuan-Ti)
+00:15:46.663  27) Inapa                     Level  1 Ranger (Half-Orc)
+00:15:46.664  28) Cudu                      Level  1 Shaman (Troll)
+00:15:46.665  29) Hufu                      Level 19 Warrior (Troll)
+00:15:46.666  30) Elsesa                    Level  1 Warrior (Drow Elf)
+00:15:46.666  31) Zanga                     Level 19 Warrior (Ogre)
+00:15:46.667  32) Sibbi                     Level 19 Hexblade (Orc)
+00:15:46.668  33) Rupi                      Level  1 Paladin (Shield Dwarf)
+00:15:46.668  34) Asli                      Level 19 Rogue (Human)
+00:15:46.669  35) Ageka                     Level  8 Rogue (Half-Orc)
+00:15:46.670  36) Juja                      Level 15 Warrior (Orc)
+00:15:46.670  37) Puwa                      Level  7 Shaman (Troll)
+00:15:46.671  38) Kazgabope                 Level 50 Blackguard (Duergar)
+00:15:46.672  39) Renelay                   Level  1 Bard (Half-Elf)
+00:15:46.672  40) Yuneme                    Level  1 Bard (Human)
+00:15:46.673  41) Atase                     Level  1 Bard (Human)
+00:15:46.673  42) Nefe                      Level 18 Rogue (Human)
+00:15:46.674  43) Rassa                     Level  1 Sorcerer (Human)
+00:15:46.674  44) Medo                      Level  5 Elementalist (Human)
+00:15:46.675  45) Tafla                     Level 19 Bard (Half-Orc)
+00:15:46.676  46) Biha                      Level 50 Rogue (Human)
+00:15:46.676  47) Suhu                      Level 50 Warrior (Troll)
+00:15:46.677  48) Newotee                   Level 32 Hexblade (Drow Elf)
+00:15:46.678  49) Tararotuta                Level  1 Wizard (Duergar)
+00:15:46.678  50) Bobaroru                  Level  9 Elementalist (Duergar)
+00:15:46.679  51) Yazassa                   Level 50 Cleric (Yuan-Ti)
+00:15:46.680  52) Meliya                    Level  1 Paladin (Moon Elf)
+00:15:46.680  53) Giwa                      Level 39 Battlechanter (Orc)
+00:15:46.681  54) Mivo                      Level 46 Shaman (Orc)
+00:15:46.682  55) Farda                     Level  8 Bard (Shield Dwarf)
+00:15:46.682  56) Elbana                    Level  1 Paladin (Half-Orc)
+00:15:46.683  57) Pagmixa                   Level  1 Sorcerer (Drow Elf)
+00:15:46.684  58) Nusu                      Level 50 Warrior (Ogre)
+00:15:46.685  59) Eqasebee                  Level  1 Enchanter (Drow Elf)
+00:15:46.686  60) Firumokag                 Level 15 Warrior (Duergar)
+00:15:46.686  61) Bopinbolil                Level 38 Enchanter (Gnome)
+00:15:46.687  62) Wonpopolidle              Level  1 Paladin (Gnome)
+00:15:46.688 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+00:15:46.688 Type the # or name of a character above to login or choose an action below.
+00:15:46.689 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+00:15:46.689 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+00:15:46.690 (E)nter description    | (D)elete character | (C)hange password
+00:15:46.691 (M)odify email address | (Q)uit
+00:15:46.691 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+00:15:46.692 Account email: zenevan420@gmail.com
+00:15:46.692 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+00:15:47.001 Your choice: 
+00:15:51.364 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+00:15:51.365                            Wizards
+00:15:51.365 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+00:15:51.365 The new Wizard class has arrived, with Illusionist as the first subclass. For
+00:15:51.367 more details on this update, please see the news link below.
+
+00:15:51.368 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+00:15:51.368 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+00:15:51.368 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+00:15:51.369 - http://www.torilmud.com/news/arcane-companions/
+
+00:15:51.369 Resources
+
+00:15:51.369 Discord    : https://discord.gg/t7edjzM
+00:15:51.369 Web Client : http://www.torilmud.com/login
+00:15:51.370 News       : http://news.torilmud.com/
+00:15:51.370 Issues     : https://github.com/torilmud/issues
+
+00:15:51.371         Welcome to TorilMUD
+
+00:15:51.371 The Newbie Help Room
+00:15:51.371 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+00:15:51.371 Welcome to TorilMUD!  You can start your adventures here in the following
+00:15:51.372 three ways:
+
+00:15:51.373 Type ENTER TORIL to enter your guild and begin your life in the
+00:15:51.374 hometown that you have chosen.  If you are familiar with the areas and
+00:15:51.375 gameplay of our mud, this will be the most familiar to you.  At any point
+00:15:51.376 during your first 20 levels you can type "RECALL" and be brought back
+00:15:51.377 to this room if you feel you need help.
+
+00:15:51.378 Each of the exits leading from this room will bring you to various guilds
+00:15:51.379 within the city of Scardale; a city created specifically for new players.
+00:15:51.380 Scardale is filled with mobs to help teach you about the mud, and help
+00:15:51.381 tutor you on the basics of each of the classes. There are also several
+00:15:51.382 zones that were created for exploring and experiencing for when you are
+00:15:51.383 ready to leave the city and venture into the country side.
+
+00:15:51.383 To begin, type "equipment" to check out your gear, 'put all bag' to place
+00:15:51.384 the rest of your supplies into your bag, and then 'get book bag' to be able to
+00:15:51.386 examine a very helpful guide. Type read book to view the first page of the book.
+
+00:15:51.387 Type WEST to enter the guild for warriors, paladins, blackguards,
+00:15:51.388 rangers and hexblades. Type EAST to enter the guild for mages;
+00:15:51.389 enchanters, invokers, illusionist, elementalist and necromancers. Type
+00:15:51.390 NORTH to enter the guild for clerics, shamans and druids. Type SOUTH
+00:15:51.391 to enter the guild for rogues, bards and battlechanters. Type DOWN to
+00:15:51.392 enter the guild for psionicists.
+
+00:15:51.392 If you're completely overwhelmed and have no idea what you should do or
+00:15:51.393 where you should start, simply type "nhc Help, I'm confused!", and
+00:15:51.395 one of the other players will answer your pleas (if there's one online
+00:15:51.396 at the time).  At any time you can also peruse our comprehensive help and
+00:15:51.397 informational files.  Type HELP or INFO for further instructions on these
+00:15:51.398 files.
+
+00:15:51.398 Hopefully the help files available to you at any time, the newbie
+00:15:51.399 experience generating zone, and the tutorial will ease your transition from
+00:15:51.400 the dull and mundane Real World into the fantastic and addictive world of
+00:15:51.401 TorilMUD.  Enjoy!
+00:15:51.401 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+00:15:51.401 Exits: - North - East  - South - West  - Up    - Down  [Error: mud 'Account email: zenevan420@gmail.com' doesn't match
+00:15:51.401  mapper 'The Upstairs of the Wayward House Inn' at '48604']                                  [48604] 
+00:15:51.426 [20] A rolled map lies here. 
+00:15:51.426 [5] A book lies here with its cover closed. (illuminating) 
+00:15:51.427 Welcome. This is now your character on Toril.
+00:15:51.428 May your journey here never end.....
+
+00:15:51.428  NOTE:  Type TOGGLE and HELP for useful information!
+00:15:51.429  Read the rules! Type HELP RULES, HELP MULTI
+
+00:15:51.429  If you are new to Toril, you may use the Newbie Help Channel
+00:15:51.430  to get some tips and advice from other players.  Type: nhc <message>
+00:15:51.432  to get started!
+
+Log session ending at 00:15:51 on Friday, 5 December 2025.

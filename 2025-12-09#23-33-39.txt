@@ -1,0 +1,507 @@
+Log session starting at 23:33:39 on Tuesday, 9 December 2025.
+
+23:33:39.037 < 560h/509H 160v/160V P: std > 
+23:33:39.037 [Spellqueue cleared.]
+23:33:39.187 You will now see the new prompt.
+
+23:33:39.533 < 560h/509H 160v/160V (0) P: std >
+23:33:39.540 Prompt option newline enabled.
+
+23:33:39.619 < 560h/509H 160v/160V (0) P: std >     
+
+23:33:39.711 Smartprompt toggled on.
+
+23:33:39.712 < 560h/509H 160v/160V (0) P: std >     
+
+23:33:40.023 Available Sub-Classes:
+23:33:40.024 -=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=--=-=-
+23:33:40.024 * Hellborne                 Damage         
+23:33:40.024   Voidcaller                Tank           
+23:33:40.025   Feytouched                Damage         
+
+23:33:40.025 < 560h/509H 160v/160V (0) P: std >     
+
+23:33:40.270           Character attributes for Ixap
+
+23:33:40.271 Level: 41   Race: Half-Orc   Class: Hexblade
+23:33:40.271 [Creating self.Ixap]
+23:33:40.412 Size: Medium
+23:33:40.412 STR:  75  AGI: 100  DEX:  75  CON: 100
+23:33:40.412 POW:   1  INT:  76  WIS: 100  CHA:   1
+23:33:40.413 Armor Class: 100  (100 to -100)  Agility Bonus: -22
+23:33:40.413 Magic Resistance: 0 percent
+23:33:40.413 Hitroll: 4   Damroll: 4
+23:33:40.414 Alignment: Lawful Good
+23:33:40.414 Saving Throws: PAR[0]  ROD[0]  PET[0]  BRE[0]  SPE[0]
+23:33:40.414    Wimpy: not set
+23:33:40.415 Load carried: Very Light
+23:33:40.415 Damage Resistance:
+23:33:40.415 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+23:33:40.416 Spells:    0% Fire  :    0% Cold  :    0% Elect :    0% Acid  :    0% 
+23:33:40.417 Sonic :    0% Poison:    0% Pos   :    0% Neg   :    0% Psi   :    0% 
+23:33:40.417 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+23:33:40.418 Force :    0% 
+
+23:33:40.418 < 560h/509H 160v/160V (0) P: std >     
+
+23:33:40.518           Score information for Ixap
+
+23:33:40.519 Level: 41   Race: Half-Orc   Class: Hexblade
+23:33:40.521 Hit points: 560(509)  Moves: 160(160)
+23:33:40.521 Experience Progress: 1 % 
+23:33:40.522 Coins carried:  126 platinum   876 gold   299 silver   395 copper
+23:33:40.523 Coins in bank: 7191 platinum  7058 gold  5519 silver  6179 copper
+23:33:40.523 Prestige: 4000   Acheron Kill Count: 0
+23:33:40.524 Name status: Approved
+23:33:40.524 Citizen of:   Baldur's Gate
+23:33:40.524 Outcast from: Leuthilspar
+23:33:40.525 Playing time: 4 days / 21 hours / 47 minutes
+23:33:40.525 Title: 
+23:33:40.525 Status:  Standing.
+23:33:40.525 Detecting:       Heat
+
+23:33:40.526 < 560h/509H 160v/160V (0) P: std >     
+
+23:33:40.766 You aren't wearing anything!
+
+23:33:40.780 < 560h/509H 160v/160V (0) P: std >     
+
+23:33:41.022 < 560h/509H 160v/160V (0) P: std >     
+
+23:33:41.280 You have no followers.
+
+23:33:41.280 < 560h/509H 160v/160V (0) P: std >     
+
+23:33:41.531 < 560h/509H 160v/160V (0) P: std >     
+
+23:33:41.778 You are 10,647,813 XP (98.59%) away from your next level.
+
+23:33:41.780 < 560h/509H 160v/160V (0) P: std >     
+
+23:33:42.028 You haven't consented to anyone.
+
+23:33:42.029 Ixap is consenting you.
+23:33:42.029 Lilithelle says 'evil day'
+
+23:33:42.030 < 560h/509H 160v/160V (0) P: std >     
+
+23:33:42.276 Prompt option newline disabled.
+
+23:33:42.436 < 560h/509H 160v/160V (0) P: std >Smartprompt toggled off.
+23:33:42.689 < 559h/509H 160v/160V (0) P: std >The Upstairs of the Wayward House Inn
+23:33:42.436 < 560h/509H 160v/160V (0) P: std >Smartprompt toggled off.
+23:33:42.937 < 559h/509H 160v/160V (0) P: std >Prompt option newline enabled.
+
+23:33:43.020 < 559h/509H 160v/160V (0) P: std >     
+23:33:43.039 [Setting statname to unset]
+23:33:43.042 [Setting rescuetype to off]
+23:33:43.044 [All train triggers disabled]
+------------ 
+23:33:44.189 You are carrying:
+23:33:44.189 Nothing.
+
+23:33:44.277 < 559h/509H 160v/160V (0) P: std >     
+
+23:33:46.442           Score information for Ixap
+
+23:33:46.442 Level: 41   Race: Half-Orc   Class: Hexblade
+23:33:46.444 Hit points: 558(509)  Moves: 160(160)
+23:33:46.445 Experience Progress: 1 % 
+23:33:46.445 Coins carried:  126 platinum   876 gold   299 silver   395 copper
+23:33:46.532 Coins in bank: 7191 platinum  7058 gold  5519 silver  6179 copper
+23:33:46.534 Prestige: 4000   Acheron Kill Count: 0
+23:33:46.534 Name status: Approved
+23:33:46.534 Citizen of:   Baldur's Gate
+23:33:46.535 Outcast from: Leuthilspar
+23:33:46.535 Playing time: 4 days / 21 hours / 47 minutes
+23:33:46.535 Title: 
+23:33:46.535 Status:  Standing.
+23:33:46.535 Detecting:       Heat
+
+23:33:46.535 < 558h/509H 160v/160V (0) P: std >     
+23:33:49.114 Jhalessa Shorncrown tells you 'It will cost you nothing to rent.'
+23:33:49.131 Jhalessa Shorncrown stores your stuff in the safe, and shows you to your room.
+
+23:33:49.133 Characters:
+23:33:49.133 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:33:49.183   1) Afu                       Level 50 Warrior (Troll)
+23:33:49.184   2) Deabnue                   Level 50 Invoker (Human)
+23:33:49.185   3) Gizep                     Level 50 Enchanter (Drow Elf)
+23:33:49.185   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+23:33:49.185   5) Newple                    Level 50 Rogue (Halfling)
+23:33:49.187   6) Mattah                    Level 50 Necromancer (Human)
+23:33:49.188   7) Rafi                      Level 50 Blackguard (Human)
+23:33:49.188   8) Digun                     Level 50 Warrior (Shield Dwarf)
+23:33:49.189   9) Risor                     Level 50 Rogue (Human)
+23:33:49.190  10) Islala                    Level 50 Bard (Moon Elf)
+23:33:49.190  11) Minolai                   Level 50 Ranger (Moon Elf)
+23:33:49.191  12) Poppibble                 Level 50 Ranger (Halfling)
+23:33:49.192  13) Simasel                   Level 50 Cleric (Moon Elf)
+23:33:49.192  14) Giru                      Level 50 Hexblade (Orc)
+23:33:49.193  15) Xaniver                   Level 50 Ranger (Half-Orc)
+23:33:49.194  16) Waf                       Level 49 Shaman (Barbarian)
+23:33:49.194  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+23:33:49.195  18) Gomble                    Level 50 Paladin (Halfling)
+23:33:49.196  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+23:33:49.197  20) Siho                      Level 50 Paladin (Half-Orc)
+23:33:49.197  21) Nidipizil                 Level 50 Paladin (Gnome)
+23:33:49.197  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+23:33:49.198  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+23:33:49.199  24) Naleni                    Level 50 Warrior (Moon Elf)
+23:33:49.200  25) Gukonata                  Level 50 Blackguard (Duergar)
+23:33:49.200  26) Uspi                      Level 50 Blackguard (Half-Orc)
+23:33:49.201  27) Tonga                     Level 50 Warrior (Ogre)
+23:33:49.202  28) Popebople                 Level 48 Enchanter (Gnome)
+23:33:49.202  29) Bago                      Level 50 Shaman (Ogre)
+23:33:49.203  30) Loyol                     Level 50 Bard (Halfling)
+23:33:49.204  31) Irsen                     Level 50 Druid (Human)
+23:33:49.204  32) Fanal                     Level 50 Rogue (Orc)
+23:33:49.205  33) Poromople                 Level 50 Invoker (Gnome)
+23:33:49.206  34) Coruduwat                 Level 43 Elementalist (Duergar)
+23:33:49.207  35) Luso                      Level 41 Paladin (Human)
+23:33:49.207  36) Ssassur                   Level 44 Wizard (Yuan-Ti)
+23:33:49.208  37) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+23:33:49.209  38) Gorkl                     Level 29 Warrior (Ogre)
+23:33:49.210  39) Gapa                      Level 28 Battlechanter (Orc)
+23:33:49.210  40) Tazfap                    Level  1 Warrior (Drow Elf)
+23:33:49.211  41) Igunnokio                 Level 16 Ranger (Moon Elf)
+23:33:49.212  42) Tihep                     Level  6 Rogue (Drow Elf)
+23:33:49.212  43) Dobokin                   Level  1 Paladin (Half-Orc)
+23:33:49.213  44) Tamad                     Level  7 Paladin (Human)
+23:33:49.214  45) Pilferos                  Level  6 Rogue (Human)
+23:33:49.214  46) Tubor                     Level  1 Warrior (Ogre)
+23:33:49.215  47) Zorrax                    Level 13 Warrior (Troll)
+23:33:49.215  48) Muwede                    Level  1 Illusionist (Drow Elf)
+23:33:49.216  49) Woso                      Level 16 Druid (Half-Orc)
+23:33:49.217  50) Anisa                     Level 15 Blackguard (Half-Orc)
+23:33:49.217  51) Vodbadadva                Level 18 Rogue (Duergar)
+23:33:49.218  52) Lahla                     Level  1 Bard (Half-Orc)
+23:33:49.218  53) Lewo                      Level  8 Bard (Half-Orc)
+23:33:49.219  54) Dedad                     Level 11 Warrior (Drow Elf)
+23:33:49.220  55) Pige                      Level  1 Blackguard (Human)
+23:33:49.220  56) Bowo                      Level  1 Ranger (Half-Orc)
+23:33:49.221  57) Susu                      Level  7 Warrior (Ogre)
+23:33:49.222  58) Ohu                       Level 18 Warrior (Troll)
+23:33:49.222  59) Docuh                     Level  8 Warrior (Ogre)
+23:33:49.223  60) Simeramma                 Level 13 Ranger (Moon Elf)
+23:33:49.224  61) Efera                     Level  5 Necromancer (Drow Elf)
+23:33:49.224  62) Sehe                      Level 50 Rogue (Human)
+23:33:49.225  63) Haxu                      Level 12 Shaman (Troll)
+23:33:49.225  64) Lolele                    Level 20 Warrior (Halfling)
+23:33:49.227  65) Ssississa                 Level 17 Invoker (Yuan-Ti)
+23:33:49.228  66) Rifu                      Level 18 Hexblade (Half-Orc)
+23:33:49.228  67) Ginxa                     Level 14 Rogue (Half-Orc)
+23:33:49.229  68) Dogga                     Level 12 Warrior (Ogre)
+23:33:49.230  69) Ibo                       Level 12 Warrior (Barbarian)
+23:33:49.230  70) Cometa                    Level 11 Hexblade (Half-Orc)
+23:33:49.231  71) Amamal                    Level 18 Paladin (Moon Elf)
+23:33:49.232  72) Samile                    Level 14 Invoker (Drow Elf)
+23:33:49.232  73) Xulu                      Level 17 Shaman (Troll)
+23:33:49.233  74) Enyema                    Level 10 Invoker (Drow Elf)
+23:33:49.234  75) Nino                      Level  8 Shaman (Half-Orc)
+23:33:49.234  76) Upraeleolno               Level  1 Ranger (Moon Elf)
+23:33:49.235  77) Atesa                     Level 17 Necromancer (Drow Elf)
+23:33:49.236  78) Zic                       Level 12 Warrior (Barbarian)
+23:33:49.236  79) Eyata                     Level 12 Warrior (Drow Elf)
+23:33:49.237  80) Wowidomble                Level  3 Illusionist (Gnome)
+23:33:49.237  81) Hatra                     Level 10 Shaman (Half-Orc)
+23:33:49.238  82) Gobra                     Level 35 Shaman (Half-Orc)
+23:33:49.239  83) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+23:33:49.240  84) Legil                     Level  1 Invoker (Halfling)
+23:33:49.240  85) Onre                      Level  5 Rogue (Human)
+23:33:49.241  86) Krainor                   Level 17 Paladin (Human)
+23:33:49.241  87) Pipippaple                Level 50 Ranger (Gnome)
+23:33:49.242  88) Sijita                    Level 12 Necromancer (Drow Elf)
+23:33:49.243  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+23:33:49.244  90) Sewothe                   Level 20 Rogue (Drow Elf)
+23:33:49.244  91) Ixap                      Level 41 Hexblade (Half-Orc)
+23:33:49.245 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:33:49.245 Type the # or name of a character above to login or choose an action below.
+23:33:49.247 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:33:49.247 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+23:33:49.248 (E)nter description    | (D)elete character | (C)hange password
+23:33:49.249 (M)odify email address | (Q)uit
+23:33:49.249 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+23:33:49.550 Your choice: 
+23:34:00.460 "disconnectevent"
+23:34:00.460 [DisconnectEvent was just called]
+23:34:00.461 [Reconnect is not enabled. Type @set reconnect charnumber to enable]    
+23:34:00.461 [ ALERT ] - Socket got disconnected.
+23:34:00.461             Reason: The remote host closed the connection
+23:34:00.461 [ INFO ]  - Connection time: 00:01:14.697
+23:34:00.461                 
+23:34:09.235 [ INFO ]  - Looking up the IP address of server: torilmud.org:9999 ...
+23:34:09.256 [  OK  ]  - Mudlet-lua API & Geyser Layout manager loaded.
+------------ 
+------------ 
+------------ 
+23:34:09.314 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TOTHE 
+------------ WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THEAUTHORS OR 
+------------ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,TORT OR 
+------------ OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS INTHE SOFTWARE.
+------------ 
+------------ 
+23:34:09.314 [Initializing NyyLIB...]
+------------ 
+23:34:09.314 Script version: 6/27/2023 NyyLIB013dev https://github.com/Nyyrazzilyss/NyyLIB
+23:34:09.359 [Loaded charData]
+23:34:13.408 [Consumable database cached: Potions, Scrolls, Poisons]
+23:34:13.408 [Initializing chat windows...]
+23:34:13.412 [ INFO ]  - Reading map. Format version: 20. File:
+23:34:13.412             "C:/Users/zenev/.config/mudlet/profiles/Torilmud/map/2025-12-09#23-32-22map.dat",
+23:34:13.412             please wait...
+23:34:13.412 [ INFO ]  - The IP address of torilmud.org has been found. It is: 104.236.2.214
+23:34:13.412 [ INFO ]  - Trying to connect to 104.236.2.214:9999 ...
+23:34:13.450 [ INFO ]  - A connection has been established successfully.
+23:34:13.450                 
+23:34:13.450                 
+23:34:13.450 [Autoroller disabled.]
+23:34:13.590 [ INFO ]  - Successfully read the map file (0.18s), checking some
+23:34:13.590             consistency details...
+23:34:13.590 [ INFO ]  - Map audit starting...
+23:34:13.741 [  OK  ]  - Auditing of map completed (0.15s). Enjoy your game...
+23:34:13.741 [  OK  ]  - Map loaded successfully (0.33s).
+23:34:13.745 "disconnectevent"
+23:34:13.745 [DisconnectEvent was just called]
+23:34:13.745 [Reconnect is not enabled. Type @set reconnect charnumber to enable]    
+23:34:13.745 [ ALERT ] - Socket got disconnected.
+23:34:13.745             Reason: Unknown error
+23:34:13.745 [ INFO ]  - Connection time: 00:00:00.295
+23:34:13.745                 
+23:34:13.745 [ INFO ]  - Looking up the IP address of server: torilmud.org:9999 ...
+23:34:13.747 [ INFO ]  - The IP address of torilmud.org has been found. It is: 104.236.2.214
+23:34:13.747 [ INFO ]  - Trying to connect to 104.236.2.214:9999 ...
+23:34:13.786 [ INFO ]  - A connection has been established successfully.
+23:34:13.786                 
+23:34:13.786                 
+23:34:13.786 [Autoroller disabled.]
+
+23:34:14.487                            .,:7I::,.
+23:34:14.487                            :cTKKWWWWUOWm
+23:34:14.488                        .2ZWWWWWWWWWWWWAI        ,,..
+23:34:14.488                     .:mAWWWWW: 7..   .        2W2
+23:34:14.489                     7WWWAWG                  ,WWWBEAEAmGmUoII;..
+23:34:14.490                     NWEmAG                .cWWWEEBWBANEWWWWWWWWWWO.
+23:34:14.490                     pWBANp7;;.        .7SWWWWAKAmDDDmmOUOOSGGKmOSWWm:
+23:34:14.491       7Gm        .:.mWKmKmAWWWWWWWWWWWWWWWWApSGNpSOU2DKD2U222OKAD2DEWWt
+23:34:14.492       ,2B       ;2I,IWADKBAAEBEBBEEEWBEANKGpSDmKpSODDZSAD22ZZZCOKG2UmWWWI
+23:34:14.492       .,IU:..;CKBW7.;GAApKpKAAEEAANNAAANKKKKKNNKGGDODOUKK222CCTCTmKSK0TEWW
+23:34:14.492     ,.17;oGGpmmDGD:,.IWESUpKKKNBBEEBWWWWWWAKKAEKAANANKpKKGGGSmmmpUKWo    SW.
+23:34:14.494    ,,.o7I000ZTTCDO;.:.IWBmmNGGGmEWWWZZSKEWWWBAWWWWWWWBAABBWWNO22ONWWW     ,A
+23:34:14.495   .,,,tIco00T0ZUmBO.,::UKWKNNW7  ;0T       7AWK7,..:tKWEWWD.      .UW:     ;
+23:34:14.495   ,::,c0IctCTOKNpZO2:.,,0BEEEKN             Zp        7WW:          WW
+23:34:14.496  .;7;;;ZottZKS;    GN;.,II12BWW7 WWK.       .          AW           ;W
+23:34:14.497 ..;oot7722DS,       SAI7;.;IItZWWWWWW;.                WT           I.
+23:34:14.498  .;12C2CcWW          oWp:.;:t1;;77SKWWWZG.:.           0
+23:34:14.498   ;;TUT  .G;          ;0,;;IWWWp1,   ;ICUSWpo2Ao,.;
+23:34:14.499   ;;;G:    .         .c0:7KWK72WWWWASZIt117IZU2OmmANSKK7,7.
+23:34:14.499   .1tt2              ,KcUWW.      :12DKKEABWWWWWWWWWWWWWWWWKmO,.
+23:34:14.500    Im,W1              7KDAU;0.                ...:;7tZOKNWWWWWWWWO2;
+23:34:14.501    17:;W:              ,;T2DWW:                            .:7ZGEWWWAA;.
+23:34:14.502    .W   0;                  cWW7                                  ,I2EWWpI,
+23:34:14.503     :S.                      .IEBC1.                                  .1SNWG:
+23:34:14.504       ;                        7Wt                                        7OKG
+23:34:14.505                                 KWWc.                                       :SW
+23:34:14.507                                  OSc,                                         KS
+23:34:14.508                                                                               .E
+23:34:14.509                                                                               ,E
+23:34:14.510                                                                               T
+
+23:34:14.511    |''||''|  ..|''||   '||''|.   '||' '||'      '||    ||' '||'  '|' '||''|.
+23:34:14.512       ||    .|'    ||   ||   ||   ||   ||        |||  |||   ||    |   ||   ||
+23:34:14.513       ||    ||      ||  ||''|'    ||   ||        |'|..'||   ||    |   ||    ||
+23:34:14.514       ||    '|.     ||  ||   |.   ||   ||        | '|' ||   ||    |   ||    ||
+23:34:14.515      .||.    ''|...|'  .||.  '|' .||. .||.....| .|. | .||.   '|..'   .||...|'
+
+23:34:14.516                Original Diku Base: Hans Henrik, Katja Nyboe,
+23:34:14.517              Tom Madsen, Michael Seifert, and Sebastian Hammer.
+
+23:34:14.518                 Join us on Discord: https://discord.gg/t7edjzM
+23:34:14.519 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:34:14.519           Enter your account name or "new" to create a new account
+23:34:14.520   Existing players: Create a new account OR login with your primary character
+23:34:14.520   to get started. You can then link all of your characters to your new account.
+23:34:14.537 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+23:34:14.846 Account name: 
+
+23:34:18.234 Entering compressed mode.
+23:34:18.539 Password: 
+
+23:34:21.795 That character already belongs to an account. Please try again.
+23:34:22.097 Account name: 
+23:34:25.727 Password: 
+
+23:34:27.858 Characters:
+23:34:27.858 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:34:27.904   1) Rufa                      Level 16 Warrior (Troll)
+23:34:27.905   2) Sedesee                   Level 18 Necromancer (Drow Elf)
+23:34:27.906   3) Zaba                      Level  1 Shaman (Ogre)
+23:34:27.907   4) Pukadito                  Level  1 Cleric (Duergar)
+23:34:27.907   5) Fibba                     Level  1 Battlechanter (Orc)
+23:34:27.908   6) Zissato                   Level  1 Sorcerer (Yuan-Ti)
+23:34:27.909   7) Sesesa                    Level  1 Invoker (Drow Elf)
+23:34:27.909   8) Cillicissin               Level  1 Psionicist (Illithid)
+23:34:27.910   9) Sulonwuka                 Level  1 Hexblade (Duergar)
+23:34:27.911  10) Tusso                     Level  1 Elementalist (Yuan-Ti)
+23:34:27.912  11) Milore                    Level 19 Rogue (Human)
+23:34:27.912  12) Unamimo                   Level  1 Ranger (Moon Elf)
+23:34:27.913  13) Cameshu                   Level  1 Druid (Moon Elf)
+23:34:27.913  14) Lirayu                    Level  1 Enchanter (Moon Elf)
+23:34:27.914  15) Tahane                    Level  1 Wizard (Moon Elf)
+23:34:27.915  16) Bonya                     Level  1 Wizard (Human)
+23:34:27.916  17) Belele                    Level  1 Paladin (Halfling)
+23:34:27.917  18) Oneba                     Level  1 Blackguard (Drow Elf)
+23:34:27.917  19) Elbama                    Level  1 Bard (Moon Elf)
+23:34:27.918  20) Noleamca                  Level  1 Paladin (Moon Elf)
+23:34:27.919  21) Tiku                      Level  1 Battlechanter (Orc)
+23:34:27.919  22) Hivo                      Level  5 Blackguard (Half-Orc)
+23:34:27.920  23) Dapo                      Level 16 Hexblade (Orc)
+23:34:27.921  24) Bitule                    Level  1 Ranger (Halfling)
+23:34:27.921  25) Moge                      Level  1 Shaman (Orc)
+23:34:27.922  26) Ssamo                     Level  7 Cleric (Yuan-Ti)
+23:34:27.923  27) Inapa                     Level  1 Ranger (Half-Orc)
+23:34:27.923  28) Cudu                      Level  1 Shaman (Troll)
+23:34:27.924  29) Hufu                      Level 19 Warrior (Troll)
+23:34:27.925  30) Elsesa                    Level  1 Warrior (Drow Elf)
+23:34:27.925  31) Zanga                     Level 19 Warrior (Ogre)
+23:34:27.925  32) Sibbi                     Level 19 Hexblade (Orc)
+23:34:27.926  33) Rupi                      Level  1 Paladin (Shield Dwarf)
+23:34:27.927  34) Asli                      Level 19 Rogue (Human)
+23:34:27.927  35) Ageka                     Level  8 Rogue (Half-Orc)
+23:34:27.928  36) Juja                      Level 15 Warrior (Orc)
+23:34:27.929  37) Puwa                      Level  7 Shaman (Troll)
+23:34:27.929  38) Kazgabope                 Level 50 Blackguard (Duergar)
+23:34:27.930  39) Renelay                   Level  1 Bard (Half-Elf)
+23:34:27.931  40) Yuneme                    Level  1 Bard (Human)
+23:34:27.931  41) Atase                     Level  1 Bard (Human)
+23:34:27.932  42) Nefe                      Level 18 Rogue (Human)
+23:34:27.932  43) Rassa                     Level  1 Sorcerer (Human)
+23:34:27.933  44) Medo                      Level  5 Elementalist (Human)
+23:34:27.934  45) Tafla                     Level 19 Bard (Half-Orc)
+23:34:27.934  46) Biha                      Level 50 Rogue (Human)
+23:34:27.935  47) Suhu                      Level 50 Warrior (Troll)
+23:34:27.935  48) Newotee                   Level 32 Hexblade (Drow Elf)
+23:34:27.936  49) Tararotuta                Level  1 Wizard (Duergar)
+23:34:27.937  50) Bobaroru                  Level  9 Elementalist (Duergar)
+23:34:27.938  51) Yazassa                   Level 50 Cleric (Yuan-Ti)
+23:34:27.938  52) Meliya                    Level  1 Paladin (Moon Elf)
+23:34:27.939  53) Giwa                      Level 39 Battlechanter (Orc)
+23:34:27.940  54) Mivo                      Level 46 Shaman (Orc)
+23:34:27.940  55) Farda                     Level  8 Bard (Shield Dwarf)
+23:34:27.941  56) Elbana                    Level  1 Paladin (Half-Orc)
+23:34:27.942  57) Pagmixa                   Level  1 Sorcerer (Drow Elf)
+23:34:27.942  58) Nusu                      Level 50 Warrior (Ogre)
+23:34:27.943  59) Eqasebee                  Level  1 Enchanter (Drow Elf)
+23:34:27.944  60) Firumokag                 Level 15 Warrior (Duergar)
+23:34:27.944  61) Bopinbolil                Level 38 Enchanter (Gnome)
+23:34:27.945  62) Wonpopolidle              Level 17 Paladin (Gnome)
+23:34:27.946 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:34:27.946 Type the # or name of a character above to login or choose an action below.
+23:34:27.947 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:34:27.948 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+23:34:27.949 (E)nter description    | (D)elete character | (C)hange password
+23:34:27.950 (M)odify email address | (Q)uit
+23:34:27.950 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:34:27.950 Account email: zenevan420@gmail.com
+23:34:27.950 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+23:34:28.252 Your choice: 
+23:34:34.769 "disconnectevent"
+23:34:34.769 [DisconnectEvent was just called]
+23:34:34.769 [Reconnect is not enabled. Type @set reconnect charnumber to enable]    
+23:34:34.769 [ ALERT ] - Socket got disconnected.
+23:34:34.769             Reason: Unknown error
+23:34:34.769 [ INFO ]  - Connection time: 00:00:20.983
+23:34:34.769                 
+23:34:34.769 [ INFO ]  - Looking up the IP address of server: torilmud.org:9999 ...
+23:34:34.785 [  OK  ]  - Mudlet-lua API & Geyser Layout manager loaded.
+------------ 
+------------ 
+------------ 
+23:34:34.841 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TOTHE 
+------------ WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THEAUTHORS OR 
+------------ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,TORT OR 
+------------ OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS INTHE SOFTWARE.
+------------ 
+------------ 
+23:34:34.841 [Initializing NyyLIB...]
+------------ 
+23:34:34.841 Script version: 6/27/2023 NyyLIB013dev https://github.com/Nyyrazzilyss/NyyLIB
+23:34:34.887 [Loaded charData]
+23:34:38.871 [Consumable database cached: Potions, Scrolls, Poisons]
+23:34:38.871 [Initializing chat windows...]
+23:34:38.875 [ INFO ]  - Reading map. Format version: 20. File:
+23:34:38.875             "C:/Users/zenev/.config/mudlet/profiles/Torilmud/map/2025-12-09#23-32-22map.dat",
+23:34:38.875             please wait...
+23:34:38.875 [ INFO ]  - The IP address of torilmud.org has been found. It is: 104.236.2.214
+23:34:38.875 [ INFO ]  - Trying to connect to 104.236.2.214:9999 ...
+23:34:39.046 [ INFO ]  - Successfully read the map file (0.17s), checking some
+23:34:39.046             consistency details...
+23:34:39.046 [ INFO ]  - Map audit starting...
+23:34:39.197 [  OK  ]  - Auditing of map completed (0.15s). Enjoy your game...
+23:34:39.197 [  OK  ]  - Map loaded successfully (0.32s).
+23:34:39.202 [ INFO ]  - Looking up the IP address of server: torilmud.org:9999 ...
+23:34:39.217 [ INFO ]  - The IP address of torilmud.org has been found. It is: 104.236.2.214
+23:34:39.218 [ INFO ]  - Trying to connect to 104.236.2.214:9999 ...
+23:34:39.257 [ INFO ]  - A connection has been established successfully.
+23:34:39.257                 
+23:34:39.257                 
+23:34:39.257 [Autoroller disabled.]
+
+23:34:39.899                            .,:7I::,.
+23:34:39.899                            :cTKKWWWWUOWm
+23:34:39.899                        .2ZWWWWWWWWWWWWAI        ,,..
+23:34:39.900                     .:mAWWWWW: 7..   .        2W2
+23:34:39.901                     7WWWAWG                  ,WWWBEAEAmGmUoII;..
+23:34:39.901                     NWEmAG                .cWWWEEBWBANEWWWWWWWWWWO.
+23:34:39.902                     pWBANp7;;.        .7SWWWWAKAmDDDmmOUOOSGGKmOSWWm:
+23:34:39.903       7Gm        .:.mWKmKmAWWWWWWWWWWWWWWWWApSGNpSOU2DKD2U222OKAD2DEWWt
+23:34:39.903       ,2B       ;2I,IWADKBAAEBEBBEEEWBEANKGpSDmKpSODDZSAD22ZZZCOKG2UmWWWI
+23:34:39.904       .,IU:..;CKBW7.;GAApKpKAAEEAANNAAANKKKKKNNKGGDODOUKK222CCTCTmKSK0TEWW
+23:34:39.904     ,.17;oGGpmmDGD:,.IWESUpKKKNBBEEBWWWWWWAKKAEKAANANKpKKGGGSmmmpUKWo    SW.
+23:34:39.905    ,,.o7I000ZTTCDO;.:.IWBmmNGGGmEWWWZZSKEWWWBAWWWWWWWBAABBWWNO22ONWWW     ,A
+23:34:39.906   .,,,tIco00T0ZUmBO.,::UKWKNNW7  ;0T       7AWK7,..:tKWEWWD.      .UW:     ;
+23:34:39.907   ,::,c0IctCTOKNpZO2:.,,0BEEEKN             Zp        7WW:          WW
+23:34:39.908  .;7;;;ZottZKS;    GN;.,II12BWW7 WWK.       .          AW           ;W
+23:34:39.909 ..;oot7722DS,       SAI7;.;IItZWWWWWW;.                WT           I.
+23:34:39.909  .;12C2CcWW          oWp:.;:t1;;77SKWWWZG.:.           0
+23:34:39.910   ;;TUT  .G;          ;0,;;IWWWp1,   ;ICUSWpo2Ao,.;
+23:34:39.911   ;;;G:    .         .c0:7KWK72WWWWASZIt117IZU2OmmANSKK7,7.
+23:34:39.911   .1tt2              ,KcUWW.      :12DKKEABWWWWWWWWWWWWWWWWKmO,.
+23:34:39.912    Im,W1              7KDAU;0.                ...:;7tZOKNWWWWWWWWO2;
+23:34:39.913    17:;W:              ,;T2DWW:                            .:7ZGEWWWAA;.
+23:34:39.913    .W   0;                  cWW7                                  ,I2EWWpI,
+23:34:39.914     :S.                      .IEBC1.                                  .1SNWG:
+23:34:39.916       ;                        7Wt                                        7OKG
+23:34:39.917                                 KWWc.                                       :SW
+23:34:39.918                                  OSc,                                         KS
+23:34:39.919                                                                               .E
+23:34:39.920                                                                               ,E
+23:34:39.921                                                                               T
+
+23:34:39.923    |''||''|  ..|''||   '||''|.   '||' '||'      '||    ||' '||'  '|' '||''|.
+23:34:39.924       ||    .|'    ||   ||   ||   ||   ||        |||  |||   ||    |   ||   ||
+23:34:39.925       ||    ||      ||  ||''|'    ||   ||        |'|..'||   ||    |   ||    ||
+23:34:39.926       ||    '|.     ||  ||   |.   ||   ||        | '|' ||   ||    |   ||    ||
+23:34:39.926      .||.    ''|...|'  .||.  '|' .||. .||.....| .|. | .||.   '|..'   .||...|'
+
+23:34:39.928                Original Diku Base: Hans Henrik, Katja Nyboe,
+23:34:39.928              Tom Madsen, Michael Seifert, and Sebastian Hammer.
+
+23:34:39.929                 Join us on Discord: https://discord.gg/t7edjzM
+23:34:39.930 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:34:39.930           Enter your account name or "new" to create a new account
+23:34:39.931   Existing players: Create a new account OR login with your primary character
+23:34:39.931   to get started. You can then link all of your characters to your new account.
+23:34:39.948 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+23:34:40.253 Account name: 
+
+23:34:43.918 [Saved CharData table]
+------------ 
+23:34:44.443 [Saved map: C:/Users/zenev/.config/mudlet/profiles/Torilmud/toril.map]
+23:34:44.765 "disconnectevent"
+23:34:44.765 [DisconnectEvent was just called]
+23:34:44.765 [Reconnect is not enabled. Type @set reconnect charnumber to enable]

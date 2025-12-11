@@ -1,0 +1,337 @@
+Log session starting at 17:52:49 on Tuesday, 9 December 2025.
+
+17:52:49.649 < 787h/742H 180v/180V P: std >     
+17:52:49.649 [Spellqueue cleared.]
+17:52:49.824 You will no longer see the mini-map when moving.
+
+17:52:49.868 < 787h/742H 180v/180V P: std >     
+17:52:50.076 You will now see the classic prompt.
+
+17:52:50.325 < 787h/742H 180v/180V P: std > 
+17:52:50.326  Prompt Command Usage:
+17:52:50.327   prompt                             - Display this help
+17:52:50.328   prompt layout                      - List available layouts
+17:52:50.328   prompt layout <layout>             - Set your layout
+17:52:50.329   prompt fields                      - List available fields
+17:52:50.330   prompt add <field>                 - Add a field to your current layout
+17:52:50.331   prompt remove <field>              - Remove a field from your current layout
+17:52:50.332   prompt options                     - Show a list of prompt option flags
+17:52:50.334   prompt options <flag>              - Toggle a prompt option
+17:52:50.335   prompt power <power> <slot>        - Add a power to a prompt slot
+17:52:50.336   prompt power auto                  - Set the default suggested power prompts
+17:52:50.337   prompt power clear <power, all>    - Clear a power from the prompt
+17:52:50.338   prompt color                       - List available prompt power colors
+17:52:50.339   prompt color <power, slot> <color> - Set the ready power color for a specific power or slot
+17:52:50.340   prompt color <type> <color>        - Set color for: <ready, cooldown, special, default, combo>
+17:52:50.342   prompt color <type> <clear>        - Clear color for <ready, cooldown, special, default, combo> 
+17:52:50.343   prompt color reset                 - Reset all prompt colors to default
+17:52:50.344   prompt help                        - Display this help
+
+17:52:50.418 To use the prompt command, first toggle on NEWPROMPT.
+
+17:52:50.575 < 787h/742H 180v/180V P: std > 
+17:52:50.668 Smartprompt toggled on.
+
+17:52:50.826 < 787h/742H 180v/180V P: std > 
+17:52:50.913 There are no sub-classes currently available to your class.
+
+17:52:51.077 < 787h/742H 180v/180V P: std > 
+
+17:52:51.166           Character attributes for Afu
+
+17:52:51.166 Level: 50   Race: Troll   Class: Warrior     
+17:52:51.189 Size: Medium
+17:52:51.189 STR: 100  AGI: 100  DEX:  83  CON: 100
+17:52:51.189 POW:  70  INT:  71  WIS:  70  CHA:  70
+17:52:51.190 Armor Class: 100  (100 to -100)  Agility Bonus: -22
+17:52:51.190 Magic Resistance: 0 percent
+17:52:51.190 Hitroll: 4   Damroll: 6
+17:52:51.191 Alignment: Chaotic Evil
+17:52:51.191 Saving Throws: PAR[0]  ROD[0]  PET[0]  BRE[0]  SPE[0]
+17:52:51.191    Wimpy: not set
+17:52:51.191 Load carried: What load?
+17:52:51.191 Damage Resistance:
+17:52:51.191 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+17:52:51.193 Spells:    0% Fire  : -100% Cold  :    0% Elect :    0% Acid  :    0% 
+17:52:51.194 Sonic :    0% Poison:    0% Pos   :    0% Neg   :    0% Psi   :    0% 
+17:52:51.195 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+17:52:51.196 Force :    0% 
+
+17:52:51.329 < 787h/742H 180v/180V P: std > 
+
+17:52:51.412           Score information for Afu
+
+17:52:51.412 Level: 50   Race: Troll   Class: Warrior     
+17:52:51.413 Hit points: 787(742)  Moves: 180(180)
+17:52:51.413 Experience Progress: 5719 % 
+17:52:51.413 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+17:52:51.414 Coins in bank: 72446 platinum  1742 gold  3722 silver  2076 copper
+17:52:51.415 Prestige: 12353   Acheron Kill Count: 1
+17:52:51.416 Name status: Approved
+17:52:51.416 Citizen of:   Ghore
+17:52:51.416 Outcast from: Griffon's Nest
+17:52:51.416 Playing time: 147 days / 8 hours / 32 minutes
+17:52:51.417 Title: Eat Babies
+17:52:51.417 Status:  Standing.
+17:52:51.417 Detecting:       Heat
+
+17:52:51.579 < 787h/742H 180v/180V P: std > 
+17:52:51.671 You aren't wearing anything!
+
+17:52:51.830 < 787h/742H 180v/180V P: std > 
+
+17:52:52.081 < 787h/742H 180v/180V P: std > 
+
+17:52:52.330 < 787h/742H 180v/180V P: std > 
+17:52:52.419 You are 0 XP (0.00%) away from your next level.
+
+17:52:52.580 < 787h/742H 180v/180V P: std > 
+17:52:52.668 You haven't consented to anyone.
+
+17:52:52.669 Afu is consenting you.
+
+17:52:52.831 < 787h/742H 180v/180V P: std > 
+17:52:52.918 You will now see the mini-map when moving.
+
+17:52:53.082 < 787h/742H 180v/180V P: std > 
+17:52:53.141 You will now see the new prompt.
+
+17:52:53.142 < 787h/742H 180v/180V P: std >     
+17:52:53.333 Smartprompt toggled off.
+
+17:52:53.415 < 787h/742H 180v/180V P: std >     
+17:52:53.584 The Gentle Moon - Common Area
+17:52:53.415 < 787h/742H 180v/180V P: std >     
+17:52:53.651 [Setting statname to unset]
+17:52:53.655 [Setting rescuetype to basic]
+17:52:53.660 [Setting warbh to false]
+17:52:53.664 [Setting warkc to false]
+17:52:53.669 [All train triggers disabled]
+17:52:53.672 < 786h/742H 180v/180V P: std >     
+
+17:52:53.833           Score information for Afu
+
+17:52:53.833 Level: 50   Race: Troll   Class: Warrior     
+17:52:53.834 Hit points: 786(742)  Moves: 180(180)
+17:52:53.834 Experience Progress: 5719 % 
+17:52:53.835 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+17:52:53.926 Coins in bank: 72446 platinum  1742 gold  3722 silver  2076 copper
+17:52:53.927 Prestige: 12353   Acheron Kill Count: 1
+17:52:53.928 Name status: Approved
+17:52:53.928 Citizen of:   Ghore
+17:52:53.928 Outcast from: Griffon's Nest
+17:52:53.928 Playing time: 147 days / 8 hours / 32 minutes
+17:52:53.929 Title: Eat Babies
+17:52:53.929 Status:  Standing.
+17:52:53.929 Detecting:       Heat
+
+17:52:53.929 < 786h/742H 180v/180V P: std >     
+17:52:54.083 Prompt option newline disabled.
+
+
+17:52:54.179 [Searching... Match found: Westgate : The Gentle Moon - Common Area : 327]
+17:52:54.333 < 786h/742H 180v/180V P: std >Prompt option newline enabled.
+
+17:52:54.424 < 786h/742H 180v/180V P: std >     
+
+17:53:08.946 You are hungry.
+17:53:08.946 You are thirsty.
+
+17:53:08.946 < 783h/742H 180v/180V P: std >     
+17:53:16.120 You GCC: 'Coins in bank: 72446 platinum  1742 gold  3722 silver  2076 copper'
+
+17:53:16.211 < 781h/742H 180v/180V P: std >     
+
+17:54:34.322 Grxx GCC: 'You get a small pile of coins.  There were: 3 platinum coins, 27 gold coins, 5 silver coins'
+
+17:54:34.325 < 768h/742H 180v/180V P: std >     
+
+17:55:08.948 A tradesperson gently sips her beer.
+
+17:55:08.949 < 764h/742H 180v/180V P: std >     
+
+17:55:16.201 Lilabipple tells you 'zone?'
+
+17:55:16.204 < 763h/742H 180v/180V P: std >     
+17:55:25.387 You tell Lilabipple 'class?'
+
+17:55:25.466 < 762h/742H 180v/180V P: std >     
+17:55:26.637 You are carrying:
+17:55:26.637 Nothing.
+
+17:55:26.720 < 762h/742H 180v/180V P: std >     
+
+17:55:28.891           Score information for Afu
+
+17:55:28.891 Level: 50   Race: Troll   Class: Warrior     
+17:55:28.891 Hit points: 762(742)  Moves: 180(180)
+17:55:28.891 Experience Progress: 5719 % 
+17:55:28.891 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+17:55:28.974 Coins in bank: 72446 platinum  1742 gold  3722 silver  2076 copper
+17:55:28.975 Prestige: 12353   Acheron Kill Count: 1
+17:55:28.975 Name status: Approved
+17:55:28.976 Citizen of:   Ghore
+17:55:28.976 Outcast from: Griffon's Nest
+17:55:28.976 Playing time: 147 days / 8 hours / 34 minutes
+17:55:28.976 Title: Eat Babies
+17:55:28.977 Status:  Standing.
+17:55:28.977 Detecting:       Heat
+
+17:55:28.977 < 762h/742H 180v/180V P: std >     
+
+17:55:36.493 Lilabipple GCC: 'consent up for zone'
+
+17:55:36.495 < 761h/742H 180v/180V P: std >     
+
+17:55:38.996 Lilabipple GCC: 'we need more for zone'
+
+17:55:38.997 < 761h/742H 180v/180V P: std >     
+17:55:40.906 You are carrying:
+17:55:40.906 Nothing.
+
+17:55:40.988 < 760h/742H 180v/180V P: std >     
+17:55:42.338 The innkeeper tells you 'It will cost you nothing to rent.'
+17:55:42.350 The innkeeper stores your stuff in the safe, and shows you to your room.
+
+17:55:42.351 Characters:
+17:55:42.351 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+17:55:42.364   1) Afu                       Level 50 Warrior (Troll)
+17:55:42.365   2) Deabnue                   Level 50 Invoker (Human)
+17:55:42.366   3) Gizep                     Level 50 Enchanter (Drow Elf)
+17:55:42.367   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+17:55:42.367   5) Newple                    Level 50 Rogue (Halfling)
+17:55:42.368   6) Mattah                    Level 50 Necromancer (Human)
+17:55:42.369   7) Rafi                      Level 50 Blackguard (Human)
+17:55:42.369   8) Digun                     Level 50 Warrior (Shield Dwarf)
+17:55:42.370   9) Risor                     Level 50 Rogue (Human)
+17:55:42.370  10) Islala                    Level 50 Bard (Moon Elf)
+17:55:42.371  11) Minolai                   Level 50 Ranger (Moon Elf)
+17:55:42.372  12) Poppibble                 Level 50 Ranger (Halfling)
+17:55:42.372  13) Simasel                   Level 50 Cleric (Moon Elf)
+17:55:42.373  14) Giru                      Level 50 Hexblade (Orc)
+17:55:42.374  15) Xaniver                   Level 50 Ranger (Half-Orc)
+17:55:42.375  16) Waf                       Level 49 Shaman (Barbarian)
+17:55:42.375  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+17:55:42.376  18) Gomble                    Level 50 Paladin (Halfling)
+17:55:42.377  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+17:55:42.378  20) Siho                      Level 50 Paladin (Half-Orc)
+17:55:42.378  21) Nidipizil                 Level 50 Paladin (Gnome)
+17:55:42.379  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+17:55:42.380  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+17:55:42.381  24) Naleni                    Level 50 Warrior (Moon Elf)
+17:55:42.382  25) Gukonata                  Level 50 Blackguard (Duergar)
+17:55:42.383  26) Uspi                      Level 50 Blackguard (Half-Orc)
+17:55:42.383  27) Tonga                     Level 50 Warrior (Ogre)
+17:55:42.384  28) Popebople                 Level 48 Enchanter (Gnome)
+17:55:42.385  29) Bago                      Level 50 Shaman (Ogre)
+17:55:42.385  30) Loyol                     Level 50 Bard (Halfling)
+17:55:42.386  31) Irsen                     Level 50 Druid (Human)
+17:55:42.387  32) Fanal                     Level 50 Rogue (Orc)
+17:55:42.387  33) Poromople                 Level 50 Invoker (Gnome)
+17:55:42.388  34) Coruduwat                 Level 43 Elementalist (Duergar)
+17:55:42.389  35) Luso                      Level 41 Paladin (Human)
+17:55:42.389  36) Ssassur                   Level 44 Wizard (Yuan-Ti)
+17:55:42.390  37) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+17:55:42.391  38) Gorkl                     Level 29 Warrior (Ogre)
+17:55:42.391  39) Gapa                      Level 28 Battlechanter (Orc)
+17:55:42.392  40) Tazfap                    Level  1 Warrior (Drow Elf)
+17:55:42.393  41) Igunnokio                 Level 16 Ranger (Moon Elf)
+17:55:42.393  42) Tihep                     Level  6 Rogue (Drow Elf)
+17:55:42.394  43) Dobokin                   Level  1 Paladin (Half-Orc)
+17:55:42.395  44) Tamad                     Level  7 Paladin (Human)
+17:55:42.395  45) Pilferos                  Level  6 Rogue (Human)
+17:55:42.396  46) Tubor                     Level  1 Warrior (Ogre)
+17:55:42.397  47) Zorrax                    Level 13 Warrior (Troll)
+17:55:42.397  48) Muwede                    Level  1 Illusionist (Drow Elf)
+17:55:42.398  49) Woso                      Level 16 Druid (Half-Orc)
+17:55:42.399  50) Anisa                     Level 15 Blackguard (Half-Orc)
+17:55:42.400  51) Vodbadadva                Level 18 Rogue (Duergar)
+17:55:42.401  52) Lahla                     Level  1 Bard (Half-Orc)
+17:55:42.401  53) Lewo                      Level  8 Bard (Half-Orc)
+17:55:42.402  54) Dedad                     Level 11 Warrior (Drow Elf)
+17:55:42.403  55) Pige                      Level  1 Blackguard (Human)
+17:55:42.403  56) Bowo                      Level  1 Ranger (Half-Orc)
+17:55:42.404  57) Susu                      Level  7 Warrior (Ogre)
+17:55:42.405  58) Ohu                       Level 18 Warrior (Troll)
+17:55:42.405  59) Docuh                     Level  8 Warrior (Ogre)
+17:55:42.406  60) Simeramma                 Level 13 Ranger (Moon Elf)
+17:55:42.407  61) Efera                     Level  5 Necromancer (Drow Elf)
+17:55:42.408  62) Sehe                      Level 50 Rogue (Human)
+17:55:42.408  63) Haxu                      Level 12 Shaman (Troll)
+17:55:42.409  64) Lolele                    Level 20 Warrior (Halfling)
+17:55:42.409  65) Ssississa                 Level 17 Invoker (Yuan-Ti)
+17:55:42.410  66) Rifu                      Level 18 Hexblade (Half-Orc)
+17:55:42.410  67) Ginxa                     Level 14 Rogue (Half-Orc)
+17:55:42.411  68) Dogga                     Level 12 Warrior (Ogre)
+17:55:42.412  69) Ibo                       Level 12 Warrior (Barbarian)
+17:55:42.412  70) Cometa                    Level 11 Hexblade (Half-Orc)
+17:55:42.413  71) Amamal                    Level 18 Paladin (Moon Elf)
+17:55:42.414  72) Samile                    Level 14 Invoker (Drow Elf)
+17:55:42.415  73) Xulu                      Level 17 Shaman (Troll)
+17:55:42.415  74) Enyema                    Level 10 Invoker (Drow Elf)
+17:55:42.416  75) Nino                      Level  8 Shaman (Half-Orc)
+17:55:42.417  76) Upraeleolno               Level  1 Ranger (Moon Elf)
+17:55:42.417  77) Atesa                     Level 17 Necromancer (Drow Elf)
+17:55:42.418  78) Zic                       Level 12 Warrior (Barbarian)
+17:55:42.419  79) Eyata                     Level 12 Warrior (Drow Elf)
+17:55:42.419  80) Wowidomble                Level  3 Illusionist (Gnome)
+17:55:42.421  81) Hatra                     Level 10 Shaman (Half-Orc)
+17:55:42.421  82) Gobra                     Level 35 Shaman (Half-Orc)
+17:55:42.422  83) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+17:55:42.423  84) Legil                     Level  1 Invoker (Halfling)
+17:55:42.424  85) Onre                      Level  5 Rogue (Human)
+17:55:42.424  86) Krainor                   Level 17 Paladin (Human)
+17:55:42.425  87) Pipippaple                Level 50 Ranger (Gnome)
+17:55:42.426  88) Sijita                    Level 12 Necromancer (Drow Elf)
+17:55:42.426  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+17:55:42.427  90) Sewothe                   Level 20 Rogue (Drow Elf)
+17:55:42.428  91) Ixap                      Level 41 Hexblade (Half-Orc)
+17:55:42.429 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+17:55:42.429 Type the # or name of a character above to login or choose an action below.
+17:55:42.429 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+17:55:42.430 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+17:55:42.431 (E)nter description    | (D)elete character | (C)hange password
+17:55:42.432 (M)odify email address | (Q)uit
+17:55:42.433 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+17:55:42.737 Your choice: 
+17:55:47.109 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+17:55:47.110                            Wizards
+17:55:47.110 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+17:55:47.110 The new Wizard class has arrived, with Illusionist as the first subclass. For
+17:55:47.112 more details on this update, please see the news link below.
+
+17:55:47.113 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+17:55:47.113 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+17:55:47.113 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+17:55:47.113 - http://www.torilmud.com/news/arcane-companions/
+
+17:55:47.114 Resources
+
+17:55:47.114 Discord    : https://discord.gg/t7edjzM
+17:55:47.114 Web Client : http://www.torilmud.com/login
+17:55:47.115 News       : http://news.torilmud.com/
+17:55:47.115 Issues     : https://github.com/torilmud/issues
+
+17:55:47.203 Retrieving rented items from storage...
+
+17:55:47.204         Welcome to TorilMUD
+
+17:55:47.204                
+
+17:55:47.209 The Viperstongue Reception
+17:55:47.209    This room, actually little more than an oversized niche in the tavern's
+17:55:47.210 wall, houses a short scratched-up wooden counter, and a three-legged
+17:55:47.211 stool.  Numerous cobwebs occupy the thin space between the counter and
+17:55:47.212 the crumbling stone wall, infested with dozens of tiny black and red
+17:55:47.213 spiders.  Bloodstains and foul smelling chunks of vomit mar the stone
+17:55:47.214 floor's surface, and a small wooden torch bracketed to the wall casts a
+17:55:47.215 sickly green light across the counter.
+17:55:47.216 Exits: - North [Error: mud 'The Viperstongue Reception' doesn't match mapper 'The Gentle Moon - Common Area' at '327']  
+17:55:47.216         [327] 
+17:55:47.216 A large bulletin board is mounted here. 
+17:55:47.217 Kegor  (Human) stands here.
+17:55:47.217 A disgusting hag sits behind the counter here, picking a scab.
+
+Log session ending at 17:55:47 on Tuesday, 9 December 2025.

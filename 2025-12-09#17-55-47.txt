@@ -1,0 +1,335 @@
+Log session starting at 17:55:47 on Tuesday, 9 December 2025.
+
+17:55:47.218 < 595h/595H 185v/185V P: std >     
+17:55:47.218 [Spellqueue cleared.]
+17:55:47.418 You will no longer see the mini-map when moving.
+
+17:55:47.460 < 595h/595H 185v/185V P: std >     
+17:55:47.669 You will now see the classic prompt.
+
+17:55:47.919 < 595h/595H 185v/185V P: std > 
+17:55:47.920  Prompt Command Usage:
+17:55:47.920   prompt                             - Display this help
+17:55:47.921   prompt layout                      - List available layouts
+17:55:47.922   prompt layout <layout>             - Set your layout
+17:55:47.922   prompt fields                      - List available fields
+17:55:47.923   prompt add <field>                 - Add a field to your current layout
+17:55:47.924   prompt remove <field>              - Remove a field from your current layout
+17:55:47.926   prompt options                     - Show a list of prompt option flags
+17:55:47.927   prompt options <flag>              - Toggle a prompt option
+17:55:47.928   prompt power <power> <slot>        - Add a power to a prompt slot
+17:55:47.929   prompt power auto                  - Set the default suggested power prompts
+17:55:47.929   prompt power clear <power, all>    - Clear a power from the prompt
+17:55:47.930   prompt color                       - List available prompt power colors
+17:55:47.931   prompt color <power, slot> <color> - Set the ready power color for a specific power or slot
+17:55:47.933   prompt color <type> <color>        - Set color for: <ready, cooldown, special, default, combo>
+17:55:47.934   prompt color <type> <clear>        - Clear color for <ready, cooldown, special, default, combo> 
+17:55:47.936   prompt color reset                 - Reset all prompt colors to default
+17:55:47.937   prompt help                        - Display this help
+
+17:55:48.011 To use the prompt command, first toggle on NEWPROMPT.
+
+17:55:48.169 < 595h/595H 185v/185V P: std > 
+17:55:48.259 Smartprompt toggled on.
+
+17:55:48.421 < 595h/595H 185v/185V P: std > 
+17:55:48.514 There are no sub-classes currently available to your class.
+
+17:55:48.673 < 595h/595H 185v/185V P: std > 
+
+17:55:48.756           Character attributes for Mattah
+
+17:55:48.757 Level: 50   Race: Human   Class: Necromancer 
+17:55:48.790 Size: Medium
+17:55:48.790 STR:  91  AGI:  94  DEX:  70  CON: 100
+17:55:48.791 POW:  70  INT: 100  WIS:  70  CHA:  70
+17:55:48.791 Armor Class: -20  (100 to -100)  Agility Bonus: -15
+17:55:48.792 Magic Resistance: 10 percent
+17:55:48.792 Hitroll: 6   Damroll: 6   Undead Points: 0/60
+17:55:48.792 Spell Focus: [Healing: +8%] [Necromancy: +4%] 
+17:55:48.793 Alignment: Chaotic Evil
+17:55:48.793 Saving Throws: PAR[-14]  ROD[0]  PET[0]  BRE[-10]  SPE[-15]
+17:55:48.794    Wimpy: not set
+17:55:48.794 Load carried: Not a problem
+17:55:48.794 Damage Resistance:
+17:55:48.794 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+17:55:48.795 Spells:    0% Fire  :   15% Cold  :    5% Elect :   15% Acid  :    7% 
+17:55:48.796 Sonic :    0% Poison:    5% Pos   :    0% Neg   :    0% Psi   :    0% 
+17:55:48.797 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+17:55:48.798 Force :    0% 
+
+17:55:48.922 < 595h/595H 185v/185V P: std > 
+
+17:55:49.005           Score information for Mattah
+
+17:55:49.005 Level: 50   Race: Human   Class: Necromancer 
+17:55:49.006 Hit points: 595(595)  Moves: 185(185)
+17:55:49.007 Experience Progress: 508 % 
+17:55:49.007 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+17:55:49.008 Coins in bank:   13 platinum     2 gold     3 silver     1 copper
+17:55:49.009 Prestige: 6023   Acheron Kill Count: 0
+17:55:49.009 Name status: Approved
+17:55:49.009 Citizen of:   Baldur's Gate
+17:55:49.010 Outcast from: Leuthilspar
+17:55:49.010 Playing time: 54 days / 3 hours / 21 minutes
+17:55:49.011 Title: 
+17:55:49.011 Status:  Standing.
+17:55:49.011 Detecting:       Magic Life Heat
+17:55:49.011 Protected from:  Evil Good Fire Cold Acid
+17:55:49.012 Enchantments:    Farsee No Summon
+
+17:55:49.174 < 595h/595H 185v/185V P: std > 
+17:55:49.264 You are using:
+17:55:49.265 <worn on head>       the mystical circlet of the facile chimera (magic)
+17:55:49.266 <worn on eyes>       an eyepatch with the symbol of Ashstone (magic)
+17:55:49.267 <worn in ear>        a flaming earring (magic) (damaged)
+17:55:49.267 <worn in ear>        the crystallized tear of an astral deva (magic)
+17:55:49.268 <worn around neck>   an iron gorget studded with bloodstones (magic)
+17:55:49.270 <worn around neck>   the medallion of the hive king (illuminating)
+17:55:49.271 <worn on body>       a silvery suit of elven chainmail (magic)
+17:55:49.272 <worn about body>    an icy white robe with blue piping (illuminating)
+17:55:49.273 <component bag>      a fine silk haversack stitched with platinum thread
+17:55:49.274 <worn on arms>       sleeves stitched with the veins of a unicorn
+17:55:49.275 <worn around wrist>  a band of slaadi skin
+17:55:49.275 <worn around wrist>  a blue topaz bracelet (magic)
+17:55:49.276 <worn on hands>      some gloves of flayed planetar hide
+17:55:49.276 <worn on finger>     a ring of seven stars (magic)
+17:55:49.277 <worn on finger>     a silver ring encrusted with a black sapphire (magic)
+17:55:49.278 <held>               a dark raven feather quill
+17:55:49.279 <worn on legs>       some adamantine greaves inlayed with rubies
+17:55:49.421 < 595h/595H 185v/185V P: std > 
+
+17:55:49.671 < 595h/595H 185v/185V P: std > 
+
+17:55:49.922 < 595h/595H 185v/185V P: std > 
+17:55:50.009 You are 0 XP (0.00%) away from your next level.
+
+17:55:50.172 < 595h/595H 185v/185V P: std > 
+17:55:50.263 You haven't consented to anyone.
+
+17:55:50.264 Mattah is consenting you.
+
+17:55:50.424 < 595h/595H 185v/185V P: std > 
+17:55:50.519 You will now see the mini-map when moving.
+
+17:55:50.675 < 595h/595H 185v/185V P: std > 
+17:55:50.766 You will now see the new prompt.
+
+17:55:50.767 < 595h/595H 185v/185V P: std >     
+17:55:50.924 Smartprompt toggled off.
+
+17:55:51.014 < 595h/595H 185v/185V P: std >     
+17:55:51.176 The Viperstongue Reception
+17:55:51.014 < 595h/595H 185v/185V P: std >     
+17:55:51.219 [Setting statname to unset]
+17:55:51.227 [All train triggers disabled]
+17:55:51.267 < 595h/595H 185v/185V P: std >     
+17:55:51.428 You are carrying:
+17:55:51.428 a small wooden box 
+17:55:51.429 Detrez's storage cube (magic) 
+17:55:51.429 a sharpened granite dagger 
+17:55:51.429 [4] a papyrus scroll spellbook 
+
+17:55:51.514 < 595h/595H 185v/185V P: std >     
+17:55:51.677 Prompt option newline disabled.
+
+
+17:55:51.767 [Searching... Match found: Viperstongue Outpost : The Viperstongue Reception : 7018]
+17:55:51.927 < 595h/595H 185v/185V P: std >Prompt option newline enabled.
+
+17:55:52.010 < 595h/595H 185v/185V P: std >     
+17:55:56.180 You can't carry that many items.
+17:55:56.181 You stop using some stuff.
+
+17:55:56.243 < 595h/476H 185v/185V P: std >     
+17:55:56.429 You put in 9 items into Detrez's storage cube.
+
+17:55:56.508 < 595h/476H 185v/185V P: std >     
+17:55:56.681 You can't carry that many items.
+17:55:56.682 You stop using a bunch of stuff.
+
+17:55:56.770 < 595h/291H 185v/185V P: std >     
+17:55:56.931 You put in 9 items into Detrez's storage cube.
+
+17:55:57.019 < 595h/291H 185v/185V P: std >     
+17:55:57.182 You stop using a bunch of stuff.
+
+17:55:57.267 < 595h/261H 185v/160V P: std >     
+17:55:57.432 You put in 5 items into Detrez's storage cube.
+
+17:55:57.512 < 595h/261H 185v/160V P: std >     
+17:55:57.683 You aren't wearing anything!
+
+17:55:57.762 < 595h/261H 185v/160V P: std >     
+17:55:57.933 You don't have anything to put in it.
+
+17:55:58.022 < 595h/261H 185v/160V P: std >     
+17:55:58.183 Alas, you cannot go that way. . . .
+
+17:55:58.266 < 594h/261H 185v/160V P: std >     
+
+17:56:01.016 Lilabipple tells you 'if i wanted class i wouldn't have asked a troll!'
+
+17:56:01.020 < 590h/261H 180v/160V P: std >     
+
+17:56:04.463 You gain access to Afu's storage cache.  
+17:56:04.464 In order to use your own cache again, you must first close this cache by entering: 'storage access close'.
+
+17:56:04.554 < 585h/261H 175v/160V P: std >     
+17:56:09.454 You store Detrez's storage cube in Afu's storage cache.
+17:56:09.455 Autosaving...
+
+17:56:09.493 < 576h/261H 168v/160V P: std >     
+17:56:09.700 You are hungry.
+17:56:09.700 You are thirsty.
+17:56:09.700 It is 12pm, on the day of the Great Gods
+17:56:09.701 The 26th Day of the Month of Bestanth (the Renewal), Year 1301.
+17:56:09.702 Time elapsed since boot-up: 0:31:22
+17:56:09.702 Current time is: Tue Dec  9 18:18:40 2025
+
+17:56:09.780 < 576h/261H 168v/160V P: std >     
+17:56:11.127 The hag tells you 'It will cost you nothing to rent.'
+17:56:11.137 The hag stores your stuff in the safe, and shows you to your room.
+
+17:56:11.138 Characters:
+17:56:11.138 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+17:56:11.151   1) Afu                       Level 50 Warrior (Troll)
+17:56:11.152   2) Deabnue                   Level 50 Invoker (Human)
+17:56:11.152   3) Gizep                     Level 50 Enchanter (Drow Elf)
+17:56:11.153   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+17:56:11.154   5) Newple                    Level 50 Rogue (Halfling)
+17:56:11.154   6) Mattah                    Level 50 Necromancer (Human)
+17:56:11.155   7) Rafi                      Level 50 Blackguard (Human)
+17:56:11.156   8) Digun                     Level 50 Warrior (Shield Dwarf)
+17:56:11.157   9) Risor                     Level 50 Rogue (Human)
+17:56:11.157  10) Islala                    Level 50 Bard (Moon Elf)
+17:56:11.158  11) Minolai                   Level 50 Ranger (Moon Elf)
+17:56:11.158  12) Poppibble                 Level 50 Ranger (Halfling)
+17:56:11.160  13) Simasel                   Level 50 Cleric (Moon Elf)
+17:56:11.161  14) Giru                      Level 50 Hexblade (Orc)
+17:56:11.161  15) Xaniver                   Level 50 Ranger (Half-Orc)
+17:56:11.162  16) Waf                       Level 49 Shaman (Barbarian)
+17:56:11.163  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+17:56:11.163  18) Gomble                    Level 50 Paladin (Halfling)
+17:56:11.164  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+17:56:11.165  20) Siho                      Level 50 Paladin (Half-Orc)
+17:56:11.166  21) Nidipizil                 Level 50 Paladin (Gnome)
+17:56:11.166  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+17:56:11.167  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+17:56:11.168  24) Naleni                    Level 50 Warrior (Moon Elf)
+17:56:11.169  25) Gukonata                  Level 50 Blackguard (Duergar)
+17:56:11.169  26) Uspi                      Level 50 Blackguard (Half-Orc)
+17:56:11.170  27) Tonga                     Level 50 Warrior (Ogre)
+17:56:11.170  28) Popebople                 Level 48 Enchanter (Gnome)
+17:56:11.171  29) Bago                      Level 50 Shaman (Ogre)
+17:56:11.172  30) Loyol                     Level 50 Bard (Halfling)
+17:56:11.172  31) Irsen                     Level 50 Druid (Human)
+17:56:11.173  32) Fanal                     Level 50 Rogue (Orc)
+17:56:11.174  33) Poromople                 Level 50 Invoker (Gnome)
+17:56:11.174  34) Coruduwat                 Level 43 Elementalist (Duergar)
+17:56:11.175  35) Luso                      Level 41 Paladin (Human)
+17:56:11.176  36) Ssassur                   Level 44 Wizard (Yuan-Ti)
+17:56:11.176  37) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+17:56:11.177  38) Gorkl                     Level 29 Warrior (Ogre)
+17:56:11.178  39) Gapa                      Level 28 Battlechanter (Orc)
+17:56:11.178  40) Tazfap                    Level  1 Warrior (Drow Elf)
+17:56:11.180  41) Igunnokio                 Level 16 Ranger (Moon Elf)
+17:56:11.181  42) Tihep                     Level  6 Rogue (Drow Elf)
+17:56:11.181  43) Dobokin                   Level  1 Paladin (Half-Orc)
+17:56:11.182  44) Tamad                     Level  7 Paladin (Human)
+17:56:11.183  45) Pilferos                  Level  6 Rogue (Human)
+17:56:11.183  46) Tubor                     Level  1 Warrior (Ogre)
+17:56:11.184  47) Zorrax                    Level 13 Warrior (Troll)
+17:56:11.185  48) Muwede                    Level  1 Illusionist (Drow Elf)
+17:56:11.185  49) Woso                      Level 16 Druid (Half-Orc)
+17:56:11.186  50) Anisa                     Level 15 Blackguard (Half-Orc)
+17:56:11.187  51) Vodbadadva                Level 18 Rogue (Duergar)
+17:56:11.188  52) Lahla                     Level  1 Bard (Half-Orc)
+17:56:11.188  53) Lewo                      Level  8 Bard (Half-Orc)
+17:56:11.189  54) Dedad                     Level 11 Warrior (Drow Elf)
+17:56:11.190  55) Pige                      Level  1 Blackguard (Human)
+17:56:11.190  56) Bowo                      Level  1 Ranger (Half-Orc)
+17:56:11.190  57) Susu                      Level  7 Warrior (Ogre)
+17:56:11.191  58) Ohu                       Level 18 Warrior (Troll)
+17:56:11.192  59) Docuh                     Level  8 Warrior (Ogre)
+17:56:11.192  60) Simeramma                 Level 13 Ranger (Moon Elf)
+17:56:11.193  61) Efera                     Level  5 Necromancer (Drow Elf)
+17:56:11.194  62) Sehe                      Level 50 Rogue (Human)
+17:56:11.194  63) Haxu                      Level 12 Shaman (Troll)
+17:56:11.195  64) Lolele                    Level 20 Warrior (Halfling)
+17:56:11.196  65) Ssississa                 Level 17 Invoker (Yuan-Ti)
+17:56:11.197  66) Rifu                      Level 18 Hexblade (Half-Orc)
+17:56:11.197  67) Ginxa                     Level 14 Rogue (Half-Orc)
+17:56:11.198  68) Dogga                     Level 12 Warrior (Ogre)
+17:56:11.198  69) Ibo                       Level 12 Warrior (Barbarian)
+17:56:11.200  70) Cometa                    Level 11 Hexblade (Half-Orc)
+17:56:11.201  71) Amamal                    Level 18 Paladin (Moon Elf)
+17:56:11.202  72) Samile                    Level 14 Invoker (Drow Elf)
+17:56:11.202  73) Xulu                      Level 17 Shaman (Troll)
+17:56:11.203  74) Enyema                    Level 10 Invoker (Drow Elf)
+17:56:11.204  75) Nino                      Level  8 Shaman (Half-Orc)
+17:56:11.204  76) Upraeleolno               Level  1 Ranger (Moon Elf)
+17:56:11.205  77) Atesa                     Level 17 Necromancer (Drow Elf)
+17:56:11.206  78) Zic                       Level 12 Warrior (Barbarian)
+17:56:11.207  79) Eyata                     Level 12 Warrior (Drow Elf)
+17:56:11.207  80) Wowidomble                Level  3 Illusionist (Gnome)
+17:56:11.208  81) Hatra                     Level 10 Shaman (Half-Orc)
+17:56:11.209  82) Gobra                     Level 35 Shaman (Half-Orc)
+17:56:11.209  83) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+17:56:11.210  84) Legil                     Level  1 Invoker (Halfling)
+17:56:11.211  85) Onre                      Level  5 Rogue (Human)
+17:56:11.211  86) Krainor                   Level 17 Paladin (Human)
+17:56:11.212  87) Pipippaple                Level 50 Ranger (Gnome)
+17:56:11.213  88) Sijita                    Level 12 Necromancer (Drow Elf)
+17:56:11.213  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+17:56:11.214  90) Sewothe                   Level 20 Rogue (Drow Elf)
+17:56:11.215  91) Ixap                      Level 41 Hexblade (Half-Orc)
+17:56:11.216 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+17:56:11.216 Type the # or name of a character above to login or choose an action below.
+17:56:11.217 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+17:56:11.217 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+17:56:11.218 (E)nter description    | (D)elete character | (C)hange password
+17:56:11.220 (M)odify email address | (Q)uit
+17:56:11.220 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+17:56:11.534 Your choice: 
+17:56:15.125 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+17:56:15.126                            Wizards
+17:56:15.126 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+17:56:15.126 The new Wizard class has arrived, with Illusionist as the first subclass. For
+17:56:15.128 more details on this update, please see the news link below.
+
+17:56:15.129 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+17:56:15.129 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+17:56:15.129 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+17:56:15.130 - http://www.torilmud.com/news/arcane-companions/
+
+17:56:15.130 Resources
+
+17:56:15.130 Discord    : https://discord.gg/t7edjzM
+17:56:15.130 Web Client : http://www.torilmud.com/login
+17:56:15.130 News       : http://news.torilmud.com/
+17:56:15.130 Issues     : https://github.com/torilmud/issues
+
+17:56:15.207 Retrieving rented items from storage...
+
+17:56:15.208         Welcome to TorilMUD
+
+17:56:15.208                
+
+17:56:15.213 The Gentle Moon - Common Area
+17:56:15.214    The inn has seen better days, once polished hard wood now looks
+17:56:15.215 bedraggled.  The walls are beginning to warp from the moist air, and
+17:56:15.216 small gaps admit marine air.  An old bar rest in the center of the room
+17:56:15.217 surrounded by tables.  People still come here to eat, and sometimes
+17:56:15.218 lodge.  Some come for the friendly atmosphere, some come to try to catch
+17:56:15.219 a glimpse of the fabled ghost said to haunt the premises.
+17:56:15.219 Exits: - North - East  [Error: mud 'The Gentle Moon - Common Area' doesn't match mapper 'The Viperstongue Reception' at
+17:56:15.219  '7018']   [7018] 
+17:56:15.220 Nyyrazzilyss - Head Jailer of the Valkurian Blades (AFK) (Illithid) sits resting in mid-air.
+17:56:15.221 A tradesperson rests here with a drink in hand. (x3)
+17:56:15.222 A scantily-dressed server moves about the room looking awkward.
+17:56:15.223 The innkeeper stands behind the counter renting out rooms.
+
+Log session ending at 17:56:15 on Tuesday, 9 December 2025.

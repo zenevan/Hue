@@ -1,0 +1,597 @@
+Log session starting at 23:42:53 on Tuesday, 9 December 2025.
+
+23:42:53.908 < 327h/327H 166v/166V P: std > 
+23:42:53.908 [Spellqueue cleared.]
+23:42:54.049 You will no longer see the mini-map when moving.
+
+23:42:54.299 < 327h/327H 166v/166V P: std > You will now see the new prompt.
+23:42:54.551 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:42:54.551 +|sm +|ds +| P: std >Prompt option newline enabled.
+
+23:42:54.638 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:42:54.638 +|sm +|ds +| P: std >     
+
+23:42:55.092 Smartprompt toggled on.
+
+23:42:55.093 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:42:55.093 +|sm +|ds +| P: std >     
+
+23:42:55.098 Available Sub-Classes:
+23:42:55.098 -=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=--=-=-
+23:42:55.098 * Illusionist              
+
+23:42:55.099 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:42:55.099 +|sm +|ds +| P: std >     
+
+23:42:55.382           Character attributes for Ssassur
+
+23:42:55.382 Level: 44   Race: Yuan-Ti   Class: Wizard      
+23:42:55.397 Size: Medium
+23:42:55.397 STR:  84  AGI: 100  DEX:  70  CON: 100
+23:42:55.398 POW:  70  INT:  71  WIS: 100  CHA:  70
+23:42:55.398 Armor Class: 100  (100 to -100)  Agility Bonus: -25
+23:42:55.399 Magic Resistance: 0 percent
+23:42:55.399 Hitroll: 3   Damroll: 3
+23:42:55.399 Alignment: Chaotic Evil
+23:42:55.400 Saving Throws: PAR[0]  ROD[0]  PET[0]  BRE[0]  SPE[0]
+23:42:55.400    Wimpy: 648
+23:42:55.400 Load carried: What load?
+23:42:55.401 Damage Resistance:
+23:42:55.401 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+23:42:55.402 Spells:    0% Fire  :    0% Cold  :    0% Elect :    0% Acid  :    0% 
+23:42:55.403 Sonic :    0% Poison:    0% Pos   :    0% Neg   :    0% Psi   :    0% 
+23:42:55.404 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+23:42:55.405 Force :    0% 
+
+23:42:55.405 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:42:55.405 +|sm +|ds +| P: std >     
+
+23:42:55.633           Score information for Ssassur
+
+23:42:55.634 Level: 44   Race: Yuan-Ti   Class: Wizard      
+23:42:55.635 Hit points: 327(327)   PSP's: 389(389)   Moves: 166(166)
+23:42:55.636 Experience Progress: 69 % 
+23:42:55.636 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+23:42:55.637 Coins in bank:  158 platinum   698 gold   256 silver   391 copper
+23:42:55.638 Prestige: 5130   Acheron Kill Count: 0
+23:42:55.639 Name status: Approved
+23:42:55.639 Citizen of:   Gloomhaven
+23:42:55.639 Outcast from: Griffon's Nest
+23:42:55.639 Playing time: 6 days / 13 hours / 35 minutes
+23:42:55.640 Title: 
+23:42:55.640 Status:  Standing.
+23:42:55.640 Detecting:       Heat
+23:42:55.640 Enchantments:    Fly Waterbreath
+
+23:42:55.641 Active Spells:
+23:42:55.641 --------------
+23:42:55.641 water breathing
+23:42:55.641 fly
+
+23:42:55.641 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:42:55.641 +|sm +|ds +| P: std >     
+
+23:42:55.896 You aren't wearing anything!
+
+23:42:55.908 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:42:55.908 +|sm +|ds +| P: std >     
+
+23:42:56.148 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:42:56.148 +|sm +|ds +| P: std >     
+
+23:42:56.392 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:42:56.392 +|sm +|ds +| P: std >     
+
+23:42:56.635 You are 4,464,000 XP (31.00%) away from your next level.
+
+23:42:56.636 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:42:56.636 +|sm +|ds +| P: std >     
+
+23:42:56.884 You haven't consented to anyone.
+
+23:42:56.885 Ssassur is consenting you.
+
+23:42:56.885 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:42:56.885 +|sm +|ds +| P: std >     
+
+23:42:57.133 You will now see the mini-map when moving.
+
+23:42:57.134 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:42:57.134 +|sm +|ds +| P: std >     
+
+23:42:57.394 Prompt option newline disabled.
+
+23:42:57.554 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:42:57.554 +|sm +|ds +| P: std >Smartprompt toggled off.
+
+23:42:57.808 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:42:57.910 [Setting statname to unset]
+23:42:57.912 [All train triggers disabled]
+23:42:58.055 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:42:58.055 +|sm +|ds +| P: std >Prompt option newline enabled.
+
+23:42:58.145 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:42:58.145 +|sm +|ds +| P: std >     
+
+23:42:58.391 [Searching... No matches found: Level: 44   Race: Yuan-Ti   Class: Wizard]
+
+23:43:00.394 You are hungry.
+23:43:00.394 You are thirsty.
+
+23:43:00.395 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:43:00.395 +|sm +|ds +| P: std >     
+
+23:43:01.640 A tradesperson gently sips her beer.
+
+23:43:01.641 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:43:01.641 +|sm +|ds +| P: std >     
+
+23:43:12.324  Prompt Command Usage:
+23:43:12.324   prompt                             - Display this help
+23:43:12.325   prompt layout                      - List available layouts
+23:43:12.326   prompt layout <layout>             - Set your layout
+23:43:12.326   prompt fields                      - List available fields
+23:43:12.326   prompt add <field>                 - Add a field to your current layout
+23:43:12.328   prompt remove <field>              - Remove a field from your current layout
+23:43:12.330   prompt options                     - Show a list of prompt option flags
+23:43:12.331   prompt options <flag>              - Toggle a prompt option
+23:43:12.331   prompt power <power> <slot>        - Add a power to a prompt slot
+23:43:12.332   prompt power auto                  - Set the default suggested power prompts
+23:43:12.333   prompt power clear <power, all>    - Clear a power from the prompt
+23:43:12.334   prompt color                       - List available prompt power colors
+23:43:12.335   prompt color <power, slot> <color> - Set the ready power color for a specific power or slot
+23:43:12.337   prompt color <type> <color>        - Set color for: <ready, cooldown, special, default, combo>
+23:43:12.338   prompt color <type> <clear>        - Clear color for <ready, cooldown, special, default, combo> 
+23:43:12.340   prompt color reset                 - Reset all prompt colors to default
+23:43:12.341   prompt help                        - Display this help
+
+23:43:12.409 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:43:12.409 +|sm +|ds +| P: std >     
+23:43:24.590 What power do you want to add? Example: powers prompt kick 1
+
+23:43:24.667 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:43:24.667 +|sm +|ds +| P: std >     
+
+23:43:32.184 A tradesperson gently sips her beer.
+
+23:43:32.185 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:43:32.185 +|sm +|ds +| P: std >     
+23:43:43.400 Prompt field hp removed.
+
+23:43:43.491 < 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps +|sm +|ds +|
+23:43:43.491 P: std >     
+23:43:45.403 You don't have that prompt field set.
+
+23:43:45.481 < 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps +|sm +|ds +|
+23:43:45.481 P: std >     
+23:43:50.410 Prompt field hp added.
+
+23:43:50.493 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:43:50.493 +|sm +|ds +| P: std >     
+
+23:44:24.709 Prompt fields
+23:44:24.709 -=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+23:44:24.710 + hp                        Your hit points
+23:44:24.710 + psp                       Your psi/mana points
+23:44:24.711 + move                      Your movement points
+23:44:24.711 + tank                      Your tank's name
+23:44:24.712 + tankcond                  Your tank's health
+23:44:24.712 + target                    Your current target's name
+23:44:24.713 + targetcond                Your current target's health
+23:44:24.714 + position                  Your current position
+23:44:24.714 + targetpos                 Your current target's position
+23:44:24.715 + powers                    Your powers bar
+23:44:24.715 + slots                     Your spell slots
+23:44:24.716 + combo                     Your combo points
+23:44:24.716 - time                      The current time
+23:44:24.717 - targetstatus              Your current target's status effects
+
+23:44:24.795 < 327h/327H 166v/166V |sb +|pb +|ph +|pk x|nm +|sf +|pl +|ms +|sbite +|tsw +|ffam +|mi +|mf +|pg +|tp +|sp +|chs +|ps
+23:44:24.795 +|sm +|ds +| P: std >     
+23:44:42.732 Prompt field powers removed.
+
+23:44:42.816 < 327h/327H 166v/166V P: std >     
+23:44:53.997 You already have that prompt field added.
+
+23:44:54.088 < 327h/327H 166v/166V P: std >     
+
+23:45:06.515 Prompt colors
+23:45:06.515 -=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+23:45:06.516 - black 
+23:45:06.516 - black-bold 
+23:45:06.516 - red 
+23:45:06.516 - red-bold 
+23:45:06.516 - green 
+23:45:06.516 - green-bold 
+23:45:06.516 - yellow 
+23:45:06.517 - yellow-bold 
+23:45:06.517 - blue 
+23:45:06.517 - blue-bold 
+23:45:06.517 - magenta 
+23:45:06.517 - magenta-bold 
+23:45:06.517 - cyan 
+23:45:06.517 - cyan-bold 
+23:45:06.517 - white 
+23:45:06.518 - white-bold 
+23:45:06.518 - default 
+23:45:06.518 - white-on-red 
+23:45:06.518 - white-on-green 
+23:45:06.518 - white-on-yellow 
+23:45:06.518 - white-on-blue 
+23:45:06.518 - white-on-magenta 
+23:45:06.519 - white-on-cyan 
+23:45:06.519 - black-on-red 
+23:45:06.519 - black-on-green 
+23:45:06.519 - yellow-on-green 
+23:45:06.519 - black-on-yellow 
+23:45:06.519 - black-on-blue 
+23:45:06.520 - magenta-on-blue 
+23:45:06.520 - green-on-blue 
+23:45:06.520 - cyan-on-blue 
+23:45:06.520 - cyan-on-magenta 
+23:45:06.520 - yellow-on-magenta 
+23:45:06.520 - red-on-cyan 
+23:45:06.521 - blue-on-cyan 
+23:45:06.521 - magenta-on-cyan 
+23:45:06.521 - yellow-on-cyan 
+23:45:06.521 - red-on-white 
+23:45:06.521 - blue-on-white 
+23:45:06.521 - magenta-on-white 
+
+23:45:06.598 Note: If you have a Truecolor client, you can also set any color using standard hex format, such as: #BF40BF
+
+23:45:06.600 < 327h/327H 166v/166V P: std >     
+23:45:11.520 You already have that prompt field added.
+
+23:45:11.613 < 327h/327H 166v/166V P: std >     
+23:45:32.069 You are carrying:
+23:45:32.069 Nothing.
+
+23:45:32.151 < 327h/327H 166v/166V P: std >     
+23:45:35.074 The Gentle Moon - Common Area
+23:45:35.075 Exits: - North - East   [327] 
+23:45:35.081 Nyyrazzilyss - Head Jailer of the Valkurian Blades (AFK) (Illithid) sits resting in mid-air.
+23:45:35.169 A tradesperson rests here with a drink in hand. (x3)
+23:45:35.169 A scantily-dressed server moves about the room looking awkward.
+23:45:35.170 The innkeeper stands behind the counter renting out rooms.
+
+23:45:35.171 < 327h/327H 166v/166V P: std >     
+
+23:45:39.332 Intelligence Based Skills:
+
+23:45:39.332 quick chant               (good)          (76) 
+23:45:39.333 sorcerous spell knowledge (good)          (71) 
+
+23:45:39.334 Wisdom Based Skills:
+
+23:45:39.334 bandage                   (below average) (35) 
+
+23:45:39.334 Strength Based Skills:
+
+23:45:39.335 swimming                  (bad)           (20) 
+23:45:39.335 1h bludgeon               (below average) (34) 
+23:45:39.336 1h piercing               (bad)           (20) 
+
+23:45:39.336 Constitution Based Skills:
+
+23:45:39.336 mount                     (below average) (35) 
+
+23:45:39.337 Agility Based Skills:
+
+23:45:39.337 dodge                     (bad)           (10) 
+
+23:45:39.338 Available powers:
+
+23:45:39.418 < 327h/327H 166v/166V P: std >     
+23:45:44.588 You have the following spells available:
+23:45:44.589  + Mirror Images                  
+23:45:44.589  + Phantasmal Horror              
+23:45:44.589  + Teleportation                  
+23:45:44.590  + Planar Gate                    
+23:45:44.590  + Mass Flight                    
+23:45:44.590  + Mirror Swarm                   
+23:45:44.591  + Mass Resistance                
+23:45:44.591  + Displace                       
+23:45:44.591  + Simulacrum                     
+23:45:44.592  + Web                            
+23:45:44.592  + Phantom Shroud                 
+23:45:44.592  + Phantom Legion                 
+23:45:44.593  + Flight                         
+23:45:44.593  + Thunderclap                    
+23:45:44.593  + Spectral Flash                 
+23:45:44.593  + Dimensional Step               
+23:45:44.594  + Divination                     
+23:45:44.594  + Nightmare                      
+23:45:44.594  + Change Self                    
+23:45:44.594  + Healing Elixir                 
+23:45:44.594  + Phantasmal Killer              
+23:45:44.596  + Cloak of Invisibility          
+23:45:44.596  + Spook                          
+23:45:44.596  + Levitation                     
+23:45:44.597  + Minor Creation                 
+23:45:44.597  + Phantom Bolt                   
+23:45:44.597  + True Seeing                    
+23:45:44.598  + Familiars Boon                 
+23:45:44.598  + Find Familiar                  
+23:45:44.598  + Shadow Blade                   
+23:45:44.598  + Summon Familiar                
+
+23:45:44.673 < 327h/327H 166v/166V P: std >     
+
+23:46:52.758 The innkeeper looks you up and down then smiles warmly.
+
+23:46:52.759 < 327h/327H 166v/166V P: std >     
+23:47:11.954  Listing of the Staff
+23:47:11.954 -=-=-=-=-=-=-=-=-=-=-
+23:47:11.954 [ FORGER CODER  ] Shevarash -The Black Archer, Vengeful Hunter of Drow
+
+23:47:11.955 There are 1 visible staff member(s) on.
+
+23:47:11.956  Listing of the Mortals!
+23:47:11.956 -=-=-=-=-=-=-=-=-=-=-=-=-
+23:47:11.956 [44 Wiz] Ssassur  (Yuan-Ti) (RP)
+23:47:11.957 [50 Hex] Jazar  (Barbarian) (AFK)
+23:47:11.961 [50 Pal] Gerupar  (Half-Orc)
+23:47:11.965 [50 Dru] Lilithelle - Valkyrie - Shadows of Imphras (Moon Elf)
+23:47:11.966 [50 Wiz] Tolfanywil  (Gnome) (AFK)
+23:47:11.970 [50 Pal] Riloesa  (Moon Elf)
+23:47:11.975 [50 War] Agrow  (Troll)
+23:47:11.975 [48 Ctr] Tabmur  (Orc)
+23:47:11.979 [50 Sor] Teyolalil  (Gnome)
+23:47:11.983 [50 Psi] Nyyrazzilyss - Head Jailer of the Valkurian Blades (Illithid) (AFK)
+23:47:11.984 [50 Enc] Fokle Fuzzybottom (Halfling) (RP)
+23:47:11.988 [50 Ran] Sylvana  (Half-Elf)
+23:47:11.990 [50 War] Grxx Krush Skul Einherjar Riders of Faerun (Troll) (RP)
+23:47:11.991 [50 Sor] Pilple  (Halfling)
+23:47:11.995 [50 Bar] Kegor  (Human)
+23:47:11.996 [50 Psi] Ynndchiarhlizz - The Nexus (Illithid)
+23:47:11.996 [ 1 Bar] Katumi  (Half-Elf)
+
+23:47:11.997 There are 17 mortal(s) on.
+
+23:47:11.997 Total players online: 18.
+23:47:11.997 Record number of players on this boot:  20.
+
+23:47:12.034 < 327h/327H 166v/166V P: std >     
+23:47:13.955 You aren't wearing anything!
+
+23:47:14.041 < 327h/327H 166v/166V P: std >     
+23:47:14.957 You are carrying:
+23:47:14.957 Nothing.
+
+23:47:15.035 < 327h/327H 166v/166V P: std >     
+
+23:47:16.207           Score information for Ssassur
+
+23:47:16.208 Level: 44   Race: Yuan-Ti   Class: Wizard      
+23:47:16.210 Hit points: 327(327)   PSP's: 389(389)   Moves: 166(166)
+23:47:16.210 Experience Progress: 69 % 
+23:47:16.211 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+23:47:16.297 Coins in bank:  158 platinum   698 gold   256 silver   391 copper
+23:47:16.298 Prestige: 5130   Acheron Kill Count: 0
+23:47:16.299 Name status: Approved
+23:47:16.299 Citizen of:   Gloomhaven
+23:47:16.299 Outcast from: Griffon's Nest
+23:47:16.299 Playing time: 6 days / 13 hours / 40 minutes
+23:47:16.300 Title: 
+23:47:16.300 Status:  Standing.
+23:47:16.300 Detecting:       Heat
+23:47:16.300 Enchantments:    Fly Waterbreath
+
+23:47:16.301 Active Spells:
+23:47:16.301 --------------
+23:47:16.301 water breathing
+23:47:16.301 fly
+
+23:47:16.301 < 327h/327H 166v/166V P: std >     
+
+23:47:54.845 Autosaving...
+
+23:47:54.846 < 327h/327H 166v/166V P: std >     
+23:47:55.007 It is 3am, on the Day of the Sun
+23:47:55.007 The 6th Day of the Month of Kythorn (the Time of Flowers), Year 1301.
+23:47:55.009 Time elapsed since boot-up: 6:23:07
+23:47:55.009 Current time is: Wed Dec 10 00:10:25 2025
+
+23:47:55.096 < 327h/327H 166v/166V P: std >     
+
+23:49:47.015 The innkeeper looks you up and down then smiles warmly.
+
+23:49:47.016 < 327h/327H 166v/166V P: std >     
+
+23:50:43.588 A tradesperson gently sips her beer.
+
+23:50:43.589 < 327h/327H 166v/166V P: std >     
+
+23:52:04.959 A tradesperson gently sips her beer.
+
+23:52:04.960 < 327h/327H 166v/166V P: std >     
+23:52:08.618 You are carrying:
+23:52:08.620 Nothing.
+
+23:52:08.703 < 327h/327H 166v/166V P: std >     
+23:52:10.121 You aren't wearing anything!
+
+23:52:10.210 < 327h/327H 166v/166V P: std >     
+
+23:52:11.873           Score information for Ssassur
+
+23:52:11.874 Level: 44   Race: Yuan-Ti   Class: Wizard      
+23:52:11.876 Hit points: 327(327)   PSP's: 389(389)   Moves: 166(166)
+23:52:11.876 Experience Progress: 69 % 
+23:52:11.876 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+23:52:11.959 Coins in bank:  158 platinum   698 gold   256 silver   391 copper
+23:52:11.960 Prestige: 5130   Acheron Kill Count: 0
+23:52:11.961 Name status: Approved
+23:52:11.961 Citizen of:   Gloomhaven
+23:52:11.961 Outcast from: Griffon's Nest
+23:52:11.961 Playing time: 6 days / 13 hours / 45 minutes
+23:52:11.962 Title: 
+23:52:11.962 Status:  Standing.
+23:52:11.962 Detecting:       Heat
+23:52:11.962 Enchantments:    Fly Waterbreath
+
+23:52:11.962 Active Spells:
+23:52:11.962 --------------
+23:52:11.962 water breathing
+23:52:11.962 fly
+
+23:52:11.964 < 327h/327H 166v/166V P: std >     
+23:52:14.128 You are carrying:
+23:52:14.128 Nothing.
+
+23:52:14.215 < 327h/327H 166v/166V P: std >     
+23:52:16.880 The Gentle Moon - Common Area
+23:52:16.881 Exits: - North - East   [327] 
+23:52:16.881 Nyyrazzilyss - Head Jailer of the Valkurian Blades (AFK) (Illithid) sits resting in mid-air.
+23:52:16.976 A tradesperson rests here with a drink in hand. (x3)
+23:52:16.977 A scantily-dressed server moves about the room looking awkward.
+23:52:16.978 The innkeeper stands behind the counter renting out rooms.
+
+23:52:16.979 < 327h/327H 166v/166V P: std >     
+23:52:19.318 The innkeeper tells you 'It will cost you nothing to rent.'
+23:52:19.330 The innkeeper stores your stuff in the safe, and shows you to your room.
+
+23:52:19.331 Characters:
+23:52:19.332 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:52:19.342   1) Afu                       Level 50 Warrior (Troll)
+23:52:19.343   2) Deabnue                   Level 50 Invoker (Human)
+23:52:19.344   3) Gizep                     Level 50 Enchanter (Drow Elf)
+23:52:19.345   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+23:52:19.345   5) Newple                    Level 50 Rogue (Halfling)
+23:52:19.346   6) Mattah                    Level 50 Necromancer (Human)
+23:52:19.347   7) Rafi                      Level 50 Blackguard (Human)
+23:52:19.348   8) Digun                     Level 50 Warrior (Shield Dwarf)
+23:52:19.348   9) Risor                     Level 50 Rogue (Human)
+23:52:19.349  10) Islala                    Level 50 Bard (Moon Elf)
+23:52:19.350  11) Minolai                   Level 50 Ranger (Moon Elf)
+23:52:19.350  12) Poppibble                 Level 50 Ranger (Halfling)
+23:52:19.351  13) Simasel                   Level 50 Cleric (Moon Elf)
+23:52:19.351  14) Giru                      Level 50 Hexblade (Orc)
+23:52:19.352  15) Xaniver                   Level 50 Ranger (Half-Orc)
+23:52:19.353  16) Waf                       Level 49 Shaman (Barbarian)
+23:52:19.353  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+23:52:19.354  18) Gomble                    Level 50 Paladin (Halfling)
+23:52:19.355  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+23:52:19.356  20) Siho                      Level 50 Paladin (Half-Orc)
+23:52:19.356  21) Nidipizil                 Level 50 Paladin (Gnome)
+23:52:19.357  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+23:52:19.358  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+23:52:19.358  24) Naleni                    Level 50 Warrior (Moon Elf)
+23:52:19.360  25) Gukonata                  Level 50 Blackguard (Duergar)
+23:52:19.361  26) Uspi                      Level 50 Blackguard (Half-Orc)
+23:52:19.361  27) Tonga                     Level 50 Warrior (Ogre)
+23:52:19.362  28) Popebople                 Level 48 Enchanter (Gnome)
+23:52:19.363  29) Bago                      Level 50 Shaman (Ogre)
+23:52:19.363  30) Loyol                     Level 50 Bard (Halfling)
+23:52:19.364  31) Irsen                     Level 50 Druid (Human)
+23:52:19.365  32) Fanal                     Level 50 Rogue (Orc)
+23:52:19.365  33) Poromople                 Level 50 Invoker (Gnome)
+23:52:19.366  34) Coruduwat                 Level 43 Elementalist (Duergar)
+23:52:19.367  35) Luso                      Level 41 Paladin (Human)
+23:52:19.367  36) Ssassur                   Level 44 Wizard (Yuan-Ti)
+23:52:19.368  37) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+23:52:19.369  38) Gorkl                     Level 29 Warrior (Ogre)
+23:52:19.369  39) Gapa                      Level 28 Battlechanter (Orc)
+23:52:19.370  40) Sehe                      Level 50 Rogue (Human)
+23:52:19.370  41) Tazfap                    Level  1 Warrior (Drow Elf)
+23:52:19.371  42) Pipippaple                Level 50 Ranger (Gnome)
+23:52:19.372  43) Igunnokio                 Level 16 Ranger (Moon Elf)
+23:52:19.373  44) Tihep                     Level  6 Rogue (Drow Elf)
+23:52:19.373  45) Dobokin                   Level  1 Paladin (Half-Orc)
+23:52:19.374  46) Tamad                     Level  7 Paladin (Human)
+23:52:19.375  47) Pilferos                  Level  6 Rogue (Human)
+23:52:19.375  48) Tubor                     Level  1 Warrior (Ogre)
+23:52:19.375  49) Zorrax                    Level 13 Warrior (Troll)
+23:52:19.377  50) Muwede                    Level  1 Illusionist (Drow Elf)
+23:52:19.378  51) Woso                      Level 16 Druid (Half-Orc)
+23:52:19.378  52) Anisa                     Level 15 Blackguard (Half-Orc)
+23:52:19.379  53) Vodbadadva                Level 18 Rogue (Duergar)
+23:52:19.380  54) Lahla                     Level  1 Bard (Half-Orc)
+23:52:19.380  55) Lewo                      Level  8 Bard (Half-Orc)
+23:52:19.381  56) Dedad                     Level 11 Warrior (Drow Elf)
+23:52:19.381  57) Pige                      Level  1 Blackguard (Human)
+23:52:19.382  58) Bowo                      Level  1 Ranger (Half-Orc)
+23:52:19.383  59) Susu                      Level  7 Warrior (Ogre)
+23:52:19.383  60) Ohu                       Level 18 Warrior (Troll)
+23:52:19.384  61) Docuh                     Level  8 Warrior (Ogre)
+23:52:19.385  62) Simeramma                 Level 13 Ranger (Moon Elf)
+23:52:19.385  63) Efera                     Level  5 Necromancer (Drow Elf)
+23:52:19.386  64) Haxu                      Level 12 Shaman (Troll)
+23:52:19.387  65) Lolele                    Level 20 Warrior (Halfling)
+23:52:19.388  66) Ssississa                 Level 17 Invoker (Yuan-Ti)
+23:52:19.388  67) Rifu                      Level 18 Hexblade (Half-Orc)
+23:52:19.390  68) Ginxa                     Level 14 Rogue (Half-Orc)
+23:52:19.390  69) Dogga                     Level 12 Warrior (Ogre)
+23:52:19.391  70) Ibo                       Level 12 Warrior (Barbarian)
+23:52:19.391  71) Cometa                    Level 11 Hexblade (Half-Orc)
+23:52:19.392  72) Amamal                    Level 18 Paladin (Moon Elf)
+23:52:19.393  73) Samile                    Level 14 Invoker (Drow Elf)
+23:52:19.394  74) Xulu                      Level 17 Shaman (Troll)
+23:52:19.394  75) Enyema                    Level 10 Invoker (Drow Elf)
+23:52:19.395  76) Nino                      Level  8 Shaman (Half-Orc)
+23:52:19.396  77) Upraeleolno               Level  1 Ranger (Moon Elf)
+23:52:19.396  78) Atesa                     Level 17 Necromancer (Drow Elf)
+23:52:19.397  79) Zic                       Level 12 Warrior (Barbarian)
+23:52:19.398  80) Eyata                     Level 12 Warrior (Drow Elf)
+23:52:19.399  81) Wowidomble                Level  3 Illusionist (Gnome)
+23:52:19.399  82) Hatra                     Level 10 Shaman (Half-Orc)
+23:52:19.400  83) Gobra                     Level 35 Shaman (Half-Orc)
+23:52:19.400  84) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+23:52:19.401  85) Legil                     Level  1 Invoker (Halfling)
+23:52:19.402  86) Onre                      Level  5 Rogue (Human)
+23:52:19.402  87) Krainor                   Level 17 Paladin (Human)
+23:52:19.403  88) Sijita                    Level 12 Necromancer (Drow Elf)
+23:52:19.404  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+23:52:19.405  90) Sewothe                   Level 20 Rogue (Drow Elf)
+23:52:19.406  91) Ixap                      Level 41 Hexblade (Half-Orc)
+23:52:19.407 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:52:19.407 Type the # or name of a character above to login or choose an action below.
+23:52:19.408 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:52:19.408 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+23:52:19.410 (E)nter description    | (D)elete character | (C)hange password
+23:52:19.411 (M)odify email address | (Q)uit
+23:52:19.411 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+23:52:19.722 Your choice: 
+23:54:05.065 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+23:54:05.066                            Wizards
+23:54:05.066 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+23:54:05.067 The new Wizard class has arrived, with Illusionist as the first subclass. For
+23:54:05.067 more details on this update, please see the news link below.
+
+23:54:05.068 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+23:54:05.068 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+23:54:05.069 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+23:54:05.069 - http://www.torilmud.com/news/arcane-companions/
+
+23:54:05.069 Resources
+
+23:54:05.070 Discord    : https://discord.gg/t7edjzM
+23:54:05.070 Web Client : http://www.torilmud.com/login
+23:54:05.070 News       : http://news.torilmud.com/
+23:54:05.071 Issues     : https://github.com/torilmud/issues
+
+23:54:05.149 Retrieving rented items from storage...
+
+23:54:05.150         Welcome to TorilMUD
+
+23:54:05.150                
+
+23:54:05.155 The Gentle Moon - Common Area
+23:54:05.155    The inn has seen better days, once polished hard wood now looks
+23:54:05.156 bedraggled.  The walls are beginning to warp from the moist air, and
+23:54:05.157 small gaps admit marine air.  An old bar rest in the center of the room
+23:54:05.158 surrounded by tables.  People still come here to eat, and sometimes
+23:54:05.159 lodge.  Some come for the friendly atmosphere, some come to try to catch
+23:54:05.160 a glimpse of the fabled ghost said to haunt the premises.
+23:54:05.161 Exits: - North - East   [327] 
+23:54:05.161 Nyyrazzilyss - Head Jailer of the Valkurian Blades (AFK) (Illithid) sits resting in mid-air.
+23:54:05.163 A tradesperson rests here with a drink in hand. (x3)
+23:54:05.164 A scantily-dressed server moves about the room looking awkward.
+23:54:05.165 The innkeeper stands behind the counter renting out rooms.
+
+Log session ending at 23:54:05 on Tuesday, 9 December 2025.

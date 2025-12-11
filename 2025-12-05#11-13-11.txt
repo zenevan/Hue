@@ -1,0 +1,928 @@
+Log session starting at 11:13:11 on Friday, 5 December 2025.
+
+11:13:11.383 < 431h/352H 166v/166V P: std >     
+11:13:11.383 [Spellqueue cleared.]
+11:13:11.598 You will no longer see the mini-map when moving.
+
+11:13:11.644 < 431h/352H 166v/166V P: std >     
+11:13:11.845 You will now see the classic prompt.
+
+11:13:11.892 < 431h/352H 166v/166V |tsw +|sbite +| >
+11:13:12.203 < P: std > 
+
+11:13:12.274  Prompt Command Usage:
+11:13:12.274   prompt                             - Display this help
+11:13:12.275   prompt layout                      - List available layouts
+11:13:12.276   prompt layout <layout>             - Set your layout
+11:13:12.276   prompt fields                      - List available fields
+11:13:12.277   prompt add <field>                 - Add a field to your current layout
+11:13:12.279   prompt remove <field>              - Remove a field from your current layout
+11:13:12.280   prompt options                     - Show a list of prompt option flags
+11:13:12.281   prompt options <flag>              - Toggle a prompt option
+11:13:12.282   prompt power <power> <slot>        - Add a power to a prompt slot
+11:13:12.283   prompt power auto                  - Set the default suggested power prompts
+11:13:12.283   prompt power clear <power, all>    - Clear a power from the prompt
+11:13:12.285   prompt color                       - List available prompt power colors
+11:13:12.286   prompt color <power, slot> <color> - Set the ready power color for a specific power or slot
+11:13:12.288   prompt color <type> <color>        - Set color for: <ready, cooldown, special, default, combo>
+11:13:12.289   prompt color <type> <clear>        - Clear color for <ready, cooldown, special, default, combo> 
+11:13:12.291   prompt color reset                 - Reset all prompt colors to default
+11:13:12.292   prompt help                        - Display this help
+
+11:13:12.361 To use the prompt command, first toggle on NEWPROMPT.
+
+11:13:12.363 < 431h/352H 166v/166V |tsw +|sbite +| >
+11:13:12.363 < P: std > 
+11:13:12.363 Smartprompt toggled on.
+
+11:13:12.363 < 431h/352H 166v/166V |tsw +|sbite +| >
+11:13:12.597 < P: std > 
+11:13:12.687 There are no sub-classes currently available to your class.
+
+11:13:12.688 < 431h/352H 166v/166V |tsw +|sbite +| >
+11:13:12.846 < P: std > 
+
+11:13:12.923           Character attributes for Yazassa
+
+11:13:12.924 Level: 50   Race: Yuan-Ti   Class: Cleric      
+11:13:12.959 Size: Medium
+11:13:12.959 STR:  95  AGI: 100  DEX:  85  CON:  78
+11:13:12.960 POW:  70  INT:  71  WIS: 100  CHA:  70
+11:13:12.960 Armor Class: 80  (100 to -100)  Agility Bonus: -25
+11:13:12.960 Magic Resistance: 0 percent
+11:13:12.961 Hitroll: 5   Damroll: 4
+11:13:12.961 Alignment: Chaotic Evil
+11:13:12.961 Saving Throws: PAR[0]  ROD[0]  PET[0]  BRE[0]  SPE[0]
+11:13:12.962    Wimpy: not set
+11:13:12.962 Load carried: What load?
+11:13:12.962 Damage Resistance:
+11:13:12.962 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+11:13:12.963 Spells:    0% Fire  :    0% Cold  :    0% Elect :    0% Acid  :    0% 
+11:13:12.964 Sonic :    0% Poison:    0% Pos   :    0% Neg   :    0% Psi   :    0% 
+11:13:12.965 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+11:13:12.965 Force :    0% 
+
+11:13:12.966 < 431h/352H 166v/166V |tsw +|sbite +| >
+11:13:13.267 < P: std > 
+
+11:13:13.589           Score information for Yazassa
+
+11:13:13.589 Level: 50   Race: Yuan-Ti   Class: Cleric      
+11:13:13.594 Hit points: 431(352)   PSP's: 389(389)   Moves: 166(166)
+11:13:13.594 Experience Progress: 102 % 
+11:13:13.595 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+11:13:13.595 Coins in bank: 2333 platinum     7 gold     8 silver     0 copper
+11:13:13.596 Prestige: 5805   Acheron Kill Count: 0
+11:13:13.597 Name status: Pending
+11:13:13.597 Citizen of:   Hyssk
+11:13:13.597 Outcast from: Griffon's Nest
+11:13:13.597 Playing time: 2 days / 5 hours / 42 minutes
+11:13:13.598 Title: 
+11:13:13.598 Status:  Standing.
+11:13:13.598 Detecting:       Heat
+
+11:13:13.598 Active Powers:
+11:13:13.599 --------------
+11:13:13.599 Armor
+
+11:13:13.599 < 431h/352H 166v/166V |tsw +|sbite +| >
+11:13:13.599 < P: std > 
+11:13:13.600 You aren't wearing anything!
+
+11:13:13.645 < 431h/352H 166v/166V |tsw +|sbite +| >
+11:13:13.784 < P: std > 
+11:13:13.870 < 430h/352H 166v/166V |tsw +|sbite +| >
+11:13:14.033 < P: std > 
+11:13:14.128 < 430h/352H 166v/166V |tsw +|sbite +| >
+11:13:14.283 < P: std > 
+11:13:14.372 You are 0 XP (0.00%) away from your next level.
+
+11:13:14.373 < 430h/352H 166v/166V |tsw +|sbite +| >
+11:13:14.534 < P: std > 
+11:13:14.624 You haven't consented to anyone.
+
+11:13:14.625 Yazassa is consenting you.
+
+11:13:14.625 < 430h/352H 166v/166V |tsw +|sbite +| >
+11:13:14.785 < P: std > 
+11:13:14.873 You will now see the mini-map when moving.
+
+11:13:14.874 < 430h/352H 166v/166V |tsw +|sbite +| >
+11:13:15.033 < P: std > 
+11:13:15.124 You will now see the new prompt.
+
+11:13:15.124 < 430h/352H 166v/166V P: std >     
+11:13:15.283 Smartprompt toggled off.
+
+11:13:15.372 < 430h/352H 166v/166V P: std >     
+11:13:15.385 [Setting statname to unset]
+11:13:15.393 [All train triggers disabled]
+11:13:15.535 The Upstairs of the Wayward House Inn
+11:13:15.393 [All train triggers disabled]
+11:13:15.620 < 430h/352H 166v/166V P: std >     
+11:13:15.785 Prompt option newline disabled.
+
+
+11:13:15.936 [Searching... Match found: Silverymoon, Gem of the North : The Upstairs of the Wayward House Inn : 48604]
+11:13:16.036 < 430h/352H 166v/166V P: std >Prompt option newline enabled.
+11:13:16.118 < 429h/352H 166v/166V P: std >     
+
+11:13:16.807 You gain access to Suhu's storage cache.  
+11:13:16.808 In order to use your own cache again, you must first close this cache by entering: 'storage access close'.
+
+11:13:16.906 < 429h/352H 166v/166V P: std >     
+11:13:19.800 You retrieve a stout dragonhide pack from Suhu's storage cache.
+11:13:19.801 Autosaving...
+
+11:13:19.847 < 428h/352H 166v/166V P: std >     
+11:13:20.046 It is 4pm, on the Day of the Moon
+11:13:20.047 The 14th Day of the Month of Horthos (of the Abandoned), Year 1300.
+11:13:20.048 Time elapsed since boot-up: 12:41:39
+11:13:20.048 Current time is: Fri Dec  5 11:35:54 2025
+
+11:13:20.141 < 428h/352H 166v/166V P: std >     
+11:13:21.047                
+
+11:13:21.145 Wayward House Inn
+11:13:21.145    This elegant wood building has been constructed on the stone
+11:13:21.146 foundation of the Inn of Wayward Sages.  Charring can still be seen on
+11:13:21.147 the stone from when the original building burned down.  Originally an
+11:13:21.148 inn with less then reputable clientele the inn has become more classy
+11:13:21.149 with a well stocked wine cellar.  A number of tables and chairs lie
+11:13:21.150 about the room casually and a long oak counter fills one end of the
+11:13:21.151 room.
+11:13:21.151 Exits: - North - Up     [48603] 
+11:13:21.152 Fokle Fuzzybottom (RP) (Halfling) stands here.
+11:13:21.152 Siyooni  (AFK) (Moon Elf) stands here.
+11:13:21.153 Smirn - Fuzzybottom of the Valkurian Blades (RP) (Halfling) stands here.
+11:13:21.154 Ynndchiarhlizz - The Nexus (Illithid) sits resting.
+11:13:21.154 Havorr Merendil stands behind the counter ready to serve.
+11:13:21.156 A showy merchant sits here looking smug. (x3)
+11:13:21.157 A dapper noble is here socializing. (x3)
+
+11:13:21.157 < 427h/352H 165v/166V P: std >     
+11:13:21.797 Alas, you cannot go that way. . . .
+
+11:13:21.877 < 427h/352H 165v/166V P: std >     
+11:13:23.049 Alas, you cannot go that way. . . .
+
+11:13:23.135 < 427h/352H 166v/166V P: std >     
+11:13:23.550 Alas, you cannot go that way. . . .
+
+11:13:23.633 < 426h/352H 166v/166V P: std >     
+11:13:25.553 Wayward House Inn
+11:13:25.553 Exits: - North - Up     [48603] 
+11:13:25.553 Fokle Fuzzybottom (RP) (Halfling) stands here.
+11:13:25.555 Siyooni  (AFK) (Moon Elf) stands here.
+11:13:25.555 Smirn - Fuzzybottom of the Valkurian Blades (RP) (Halfling) stands here.
+11:13:25.642 Ynndchiarhlizz - The Nexus (Illithid) sits resting.
+11:13:25.643 Havorr Merendil stands behind the counter ready to serve.
+11:13:25.645 A showy merchant sits here looking smug. (x3)
+11:13:25.645 A dapper noble is here socializing. (x3)
+
+11:13:25.646 < 426h/352H 166v/166V P: std >     
+
+11:13:26.141 A shimmering holy sword of the planetar flashes with intense light, burning you severly.
+
+11:13:26.143 < 375h/352H 166v/166V P: std >     
+
+11:13:27.055           Score information for Yazassa
+
+11:13:27.056 Level: 50   Race: Yuan-Ti   Class: Cleric      
+11:13:27.060 Hit points: 375(352)   PSP's: 389(389)   Moves: 166(166)
+11:13:27.061 Experience Progress: 102 % 
+11:13:27.061 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+11:13:27.136 Coins in bank: 2333 platinum     7 gold     8 silver     0 copper
+11:13:27.138 Prestige: 5805   Acheron Kill Count: 0
+11:13:27.138 Name status: Pending
+11:13:27.138 Citizen of:   Hyssk
+11:13:27.138 Outcast from: Griffon's Nest
+11:13:27.139 Playing time: 2 days / 5 hours / 43 minutes
+11:13:27.139 Title: 
+11:13:27.139 Status:  Standing.
+11:13:27.140 Detecting:       Heat
+
+11:13:27.140 Active Powers:
+11:13:27.140 --------------
+11:13:27.140 Armor
+
+11:13:27.140 < 375h/352H 166v/166V P: std >     
+
+11:13:27.383 A noble looks about the room.
+
+11:13:27.385 < 375h/352H 166v/166V P: std >     
+11:13:28.557                
+
+11:13:28.648 The Upstairs of the Wayward House Inn
+11:13:28.648    Like most of the building the upstairs is made of maple, a rich wood
+11:13:28.649 that gives the inn a warm feel.  The boards have been well carved and
+11:13:28.650 fit closely together, only admitting light through the shuttered
+11:13:28.651 windows.  This floor consists of several rooms available for rent.
+11:13:28.652 Each room has its own lock on the door to ensure privacy.
+11:13:28.653 Exits: - Down          [48604] 
+11:13:28.653 Grxx - Einherjar - Riders of Faerun (AFK) (RP) (Troll) stands here.
+11:13:28.654 Ixehixxih  (Illithid) stands here.
+11:13:28.654 Sylvana  (Half-Elf) stands here.
+11:13:28.655 Jhalessa Shorncrown stands here tidying up.
+
+11:13:28.655 < 375h/352H 165v/166V P: std >     
+11:13:32.281 You get a shimmering holy sword of the planetar from a stout dragonhide pack.
+
+11:13:32.374 < 375h/352H 166v/166V P: std >     
+
+11:13:32.468 You are hungry.
+11:13:32.468 You are thirsty.
+
+11:13:32.468 < 375h/352H 166v/166V P: std >     
+
+11:13:35.246 A shimmering holy sword of the planetar flashes with intense light, burning you severly.
+
+11:13:35.248 < 335h/352H 166v/166V P: std >     
+11:13:35.422 You store a shimmering holy sword of the planetar in Suhu's storage cache.
+11:13:35.424 Autosaving...
+
+11:13:35.462 < 335h/352H 166v/166V P: std >     
+11:13:35.668 It is 5pm, on the Day of the Moon
+11:13:35.668 The 14th Day of the Month of Horthos (of the Abandoned), Year 1300.
+11:13:35.670 Time elapsed since boot-up: 12:41:55
+11:13:35.671 Current time is: Fri Dec  5 11:36:10 2025
+
+11:13:35.759 < 335h/352H 166v/166V P: std >     
+11:13:38.922 Suhu's storage cache contains:
+11:13:38.922 a shimmering holy sword of the planetar (illuminating) 
+11:13:38.924 [2] a pouch of eternal pockets (illuminating) 
+
+11:13:39.012 < 335h/352H 166v/166V P: std >     
+11:13:40.426                
+
+11:13:40.510 Wayward House Inn
+11:13:40.510    This elegant wood building has been constructed on the stone
+11:13:40.511 foundation of the Inn of Wayward Sages.  Charring can still be seen on
+11:13:40.512 the stone from when the original building burned down.  Originally an
+11:13:40.513 inn with less then reputable clientele the inn has become more classy
+11:13:40.514 with a well stocked wine cellar.  A number of tables and chairs lie
+11:13:40.515 about the room casually and a long oak counter fills one end of the
+11:13:40.516 room.
+11:13:40.516 Exits: - North - Up     [48603] 
+11:13:40.516 Siyooni  (AFK) (Moon Elf) stands here.
+11:13:40.517 Smirn - Fuzzybottom of the Valkurian Blades (RP) (Halfling) stands here.
+11:13:40.518 Ynndchiarhlizz - The Nexus (Illithid) sits resting.
+11:13:40.518 Havorr Merendil stands behind the counter ready to serve.
+11:13:40.520 A showy merchant sits here looking smug. (x3)
+11:13:40.522 A dapper noble is here socializing. (x3)
+
+11:13:40.522 < 335h/352H 165v/166V P: std >     
+11:13:41.426                
+
+11:13:41.511 Ghostwalk
+11:13:41.511    The Ghostwalk is a wide cobbled stone street running from one side
+11:13:41.512 of the old city to the other bisecting it.  Flagstone side walks run in
+11:13:41.513 front of the stone homes and shops found here, most dating back
+11:13:41.514 centuries.  Many buildings have balconies overlooking the street that
+11:13:41.515 shelter the sidewalk below from rain and snow.  To the south is the
+11:13:41.515 Wayward House Inn.
+11:13:41.515 Exits: - North - East  - South - West                  [48602] 
+
+11:13:41.516 < 335h/352H 164v/166V P: std >     
+11:13:42.428                
+
+11:13:42.520 Ghostwalk
+11:13:42.520    Silverymoon has wide streets and narrow lanes, Ghostwalk is the
+11:13:42.521 former.  Running the complete length of the old city it has always held
+11:13:42.522 a special place in city life.  The various cobbled stones that make up
+11:13:42.523 the street and the flagstones that make up the sidewalk are widely
+11:13:42.523 varied in color and composition having been replaced time and again
+11:13:42.524 throughout the centuries.  To the south lies a park, with its many
+11:13:42.525 parks and gardens the street seems more like a forest glade than part
+11:13:42.526 of a city.
+11:13:42.526 Exits: - North - East  - South - West                  [48606] 
+11:13:42.527 An elven druid roams the streets of Silverymoon.
+11:13:42.528 A human herder wanders town.
+11:13:42.528 A delicate commoner stands here wistfully.
+
+11:13:42.528 < 335h/352H 164v/166V P: std >     
+11:13:43.681                
+
+11:13:43.775 Ghostwalk
+11:13:43.775    The Ghostwalk is a wide cobbled stone street running from one side
+11:13:43.776 of the old city to the other bisecting it.  Flagstone side walks run in
+11:13:43.777 front of the stone homes and shops found here, most dating back
+11:13:43.778 centuries.  Many buildings have balconies overlooking the street that
+11:13:43.779 shelter the sidewalk below from rain and snow.  To the south is the
+11:13:43.780 Wayward House Inn.
+11:13:43.780 Exits: - North - East  - South - West                  [48602] 
+
+11:13:43.781 < 334h/352H 164v/166V P: std >     
+11:13:43.929                
+
+11:13:44.024 Wayward House Inn
+11:13:44.024    This elegant wood building has been constructed on the stone
+11:13:44.025 foundation of the Inn of Wayward Sages.  Charring can still be seen on
+11:13:44.026 the stone from when the original building burned down.  Originally an
+11:13:44.027 inn with less then reputable clientele the inn has become more classy
+11:13:44.028 with a well stocked wine cellar.  A number of tables and chairs lie
+11:13:44.029 about the room casually and a long oak counter fills one end of the
+11:13:44.030 room.
+11:13:44.030 Exits: - North - Up     [48603] 
+11:13:44.030 Siyooni  (AFK) (Moon Elf) stands here.
+11:13:44.031 Smirn - Fuzzybottom of the Valkurian Blades (RP) (Halfling) stands here.
+11:13:44.032 Ynndchiarhlizz - The Nexus (Illithid) sits resting.
+11:13:44.032 Havorr Merendil stands behind the counter ready to serve.
+11:13:44.035 A showy merchant sits here looking smug. (x3)
+11:13:44.036 A dapper noble is here socializing. (x3)
+
+11:13:44.036 < 334h/352H 163v/166V P: std >     
+
+11:13:48.114 [Issue speedwalk to smInn at 48603]
+------------ 
+11:13:53.963 [Issue speedwalk to smBank at 84203]
+11:13:53.965 [Path: .nesw]
+------------ 
+11:13:54.200                
+
+11:13:54.289 Ghostwalk
+11:13:54.290    The Ghostwalk is a wide cobbled stone street running from one side
+11:13:54.291 of the old city to the other bisecting it.  Flagstone side walks run in
+11:13:54.292 front of the stone homes and shops found here, most dating back
+11:13:54.293 centuries.  Many buildings have balconies overlooking the street that
+11:13:54.294 shelter the sidewalk below from rain and snow.  To the south is the
+11:13:54.295 Wayward House Inn.
+11:13:54.295 Exits: - North - East  - South - West                  [48602] 
+
+11:13:54.296 < 340h/352H 165v/166V P: std >     
+11:13:54.450                
+
+11:13:54.540 At Moonway and Ghostwalk
+11:13:54.540    Running from western Helmer's Wall to eastern Helmer's Wall
+11:13:54.541 Ghostwalk runs the length of old Silverymoon.  A wide street it is
+11:13:54.542 paved in cobbled stones, ruts run along each side of the street where
+11:13:54.543 wagons have left their mark over the years.  Raised flagstone sidewalks
+11:13:54.544 line the street keeping pedestrians out of traffic's way.  Duskwood
+11:13:54.545 trees in near by parks and garden can be seen rising to sixty feet in
+11:13:54.545 the air with their straight black barked trunks.  To the north and south
+11:13:54.546 runs Moonway.
+11:13:54.547 Exits: - North - East  - South - West                  [48577] 
+11:13:54.547 A stone fountain bubbles here. 
+11:13:54.548 A black-capped chickadee chases insects here.
+11:13:54.548 A half-elven boy runs down the street.
+11:13:54.549 Gwen Silversong stands here singing.
+
+11:13:54.549 < 340h/352H 164v/166V P: std >     
+11:13:54.699                
+
+11:13:54.789 Moonway
+11:13:54.789    Moonway bisects old Silverymoon runs across the Moonbridge and cuts
+11:13:54.790 across the south bank of the city.  Its paved with cobbled stones and
+11:13:54.791 is wide enough for two wagons to pass each other.  Sidewalks paved with
+11:13:54.792 flagstones run up and down both sides of the street.  Here in the
+11:13:54.793 commercial hub of Silverymoon merchants and craftsmen are frequently
+11:13:54.794 found making their way purposefully down the street.  To the west is
+11:13:54.795 the Bank of Silverymoon.  To the east lies a park.
+11:13:54.796 Exits: - North - East  - South - West                  [48578] 
+11:13:54.797 A ruby-throated humming bird hovers here feeding.
+
+11:13:54.797 < 340h/352H 163v/166V P: std >     
+11:13:54.951                
+
+11:13:55.035 The Bank of Silverymoon
+11:13:55.035    This large marble building is built in classical style, enormous
+11:13:55.036 fluted columns hold up the high stone ceiling creating a vast foyer
+11:13:55.037 where citizen's of Silverymoon and visiting merchants can gather to
+11:13:55.038 conduct financial transactions.  The bank will store coins for patrons
+11:13:55.039 and convert it to different denominations, for a fee.  Integral to
+11:13:55.040 Silverymoon's economy the building has been carefully warded to protect
+11:13:55.041 the building and its contents.
+11:13:55.041 Exits: - East          [84203] 
+11:13:55.042 A large wooden counter is here, with a sign posted on it. 
+11:13:55.043 Aureliel stands here overseeing the bank.
+
+11:13:55.043 < 340h/352H 162v/166V P: std >     
+
+11:14:00.223           Score information for Yazassa
+
+11:14:00.224 Level: 50   Race: Yuan-Ti   Class: Cleric      
+11:14:00.228 Hit points: 344(352)   PSP's: 389(389)   Moves: 166(166)
+11:14:00.229 Experience Progress: 102 % 
+11:14:00.229 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+11:14:00.317 Coins in bank: 2333 platinum     7 gold     8 silver     0 copper
+11:14:00.319 Prestige: 5805   Acheron Kill Count: 0
+11:14:00.319 Name status: Pending
+11:14:00.319 Citizen of:   Hyssk
+11:14:00.320 Outcast from: Griffon's Nest
+11:14:00.320 Playing time: 2 days / 5 hours / 43 minutes
+11:14:00.320 Title: 
+11:14:00.320 Status:  Standing.
+11:14:00.321 Detecting:       Heat
+
+11:14:00.321 Active Powers:
+11:14:00.321 --------------
+11:14:00.321 Armor
+
+11:14:00.321 < 344h/352H 166v/166V P: std >     
+11:14:03.230 Your account contains:
+11:14:03.231     2000 platinum, 7 gold, 8 silver, 0 copper coins.
+
+11:14:03.315 < 346h/352H 166v/166V P: std >     
+
+11:14:07.130 [Issue speedwalk to smInn at 48603]
+11:14:07.131 [Path: .enws]
+------------ 
+11:14:07.246                
+
+11:14:07.344 Moonway
+11:14:07.344    Moonway bisects old Silverymoon runs across the Moonbridge and cuts
+11:14:07.345 across the south bank of the city.  Its paved with cobbled stones and
+11:14:07.346 is wide enough for two wagons to pass each other.  Sidewalks paved with
+11:14:07.347 flagstones run up and down both sides of the street.  Here in the
+11:14:07.348 commercial hub of Silverymoon merchants and craftsmen are frequently
+11:14:07.349 found making their way purposefully down the street.  To the west is
+11:14:07.350 the Bank of Silverymoon.  To the east lies a park.
+11:14:07.351 Exits: - North - East  - South - West                  [48578] 
+11:14:07.352 A ruby-throated humming bird hovers here feeding.
+
+11:14:07.352 < 348h/352H 165v/166V P: std >     
+11:14:07.495                
+
+11:14:07.590 At Moonway and Ghostwalk
+11:14:07.590    Running from western Helmer's Wall to eastern Helmer's Wall
+11:14:07.591 Ghostwalk runs the length of old Silverymoon.  A wide street it is
+11:14:07.592 paved in cobbled stones, ruts run along each side of the street where
+11:14:07.593 wagons have left their mark over the years.  Raised flagstone sidewalks
+11:14:07.594 line the street keeping pedestrians out of traffic's way.  Duskwood
+11:14:07.595 trees in near by parks and garden can be seen rising to sixty feet in
+11:14:07.596 the air with their straight black barked trunks.  To the north and south
+11:14:07.597 runs Moonway.
+11:14:07.597 Exits: - North - East  - South - West                  [48577] 
+11:14:07.598 A stone fountain bubbles here. 
+11:14:07.598 A black-capped chickadee chases insects here.
+11:14:07.599 A half-elven boy runs down the street.
+11:14:07.599 Gwen Silversong stands here singing.
+
+11:14:07.600 < 348h/352H 164v/166V P: std >     
+11:14:07.744                
+
+11:14:07.836 Ghostwalk
+11:14:07.836    The Ghostwalk is a wide cobbled stone street running from one side
+11:14:07.837 of the old city to the other bisecting it.  Flagstone side walks run in
+11:14:07.838 front of the stone homes and shops found here, most dating back
+11:14:07.839 centuries.  Many buildings have balconies overlooking the street that
+11:14:07.840 shelter the sidewalk below from rain and snow.  To the south is the
+11:14:07.841 Wayward House Inn.
+11:14:07.841 Exits: - North - East  - South - West                  [48602] 
+
+11:14:07.842 < 348h/352H 163v/166V P: std >     
+11:14:07.996                
+
+11:14:08.082 Wayward House Inn
+11:14:08.083    This elegant wood building has been constructed on the stone
+11:14:08.083 foundation of the Inn of Wayward Sages.  Charring can still be seen on
+11:14:08.084 the stone from when the original building burned down.  Originally an
+11:14:08.085 inn with less then reputable clientele the inn has become more classy
+11:14:08.086 with a well stocked wine cellar.  A number of tables and chairs lie
+11:14:08.087 about the room casually and a long oak counter fills one end of the
+11:14:08.088 room.
+11:14:08.088 Exits: - North - Up     [48603] 
+11:14:08.089 Siyooni  (AFK) (Moon Elf) stands here.
+11:14:08.089 Smirn - Fuzzybottom of the Valkurian Blades (RP) (Halfling) stands here.
+11:14:08.090 Ynndchiarhlizz - The Nexus (Illithid) sits resting.
+11:14:08.091 Havorr Merendil stands behind the counter ready to serve.
+11:14:08.093 A showy merchant sits here looking smug. (x3)
+11:14:08.095 A dapper noble is here socializing. (x3)
+
+11:14:08.095 < 349h/352H 162v/166V P: std >     
+11:14:13.509 You tell Ynndchiarhlizz 'hole vt'
+
+11:14:13.589 < 352h/352H 166v/166V P: std >     
+
+11:14:13.898 The area darkens and the air shimmers slightly as a wormhole opens before Ynndchiarhlizz.
+
+11:14:13.901 < 352h/352H 166v/166V P: std >     
+11:14:16.008 You enter something and reappear elsewhere...
+11:14:16.009                
+
+11:14:16.100 The Viperstongue Tavern
+11:14:16.101    The ground floor of this ruined building has been converted into a
+11:14:16.102 sprawling, seedy tavern.  In the center of the stone floor there rests a
+11:14:16.103 dilapidated circular wooden bar, around which is placed a variety of
+11:14:16.104 splintered old stools.  Scattered throughout the bare stone room are
+11:14:16.105 several wobbly wooden tables, all spaced far apart for maximum privacy. 
+11:14:16.106 A motley collection of thoroughly seedy patrons occupy the tavern, from
+11:14:16.108 pirates to bounty hunters and every other sort of assorted scum.  This
+11:14:16.109 outpost seems to serve as a base and meeting place for some of the most
+11:14:16.110 villainous criminals of the southern coast.  Several dim lanterns
+11:14:16.111 provide a dim, flickering illumination here, ideal for conducting shady
+11:14:16.112 business in private.   Dreary music coming from a makeshift stage to the
+11:14:16.113 north accompanies the raucous laughter of the tavern patrons, who seem
+11:14:16.113 to be constantly on the verge of a wide-scale brawl.
+11:14:16.114 Exits: - North - East  - South - West                  [48603] 
+11:14:16.115 A gaping hole in the ground leads into darkness. 
+11:14:16.116 A handsome smuggler sprawls across a chair here, laughing drunkenly.
+11:14:16.117 A Thayvian bounty hunter stands in the corner, fingering his dagger.
+11:14:16.119 A vicious mercenary sits here, chugging a bottle of ale. (x2)
+11:14:16.119 A drow assassin sits here, looking around suspiciously.
+11:14:16.120 A half-orc bartender stands behind the bar serving drinks.
+11:14:16.121 Krelg Blackshield stands here, practicing a swordstroke.
+
+11:14:16.122 < 352h/352H 166v/166V P: std >     
+11:14:17.009                
+
+11:14:17.107 A Dark Stairwell
+11:14:17.107    A flight of ancient stone stairs pass through this crumbling, shady
+11:14:17.108 room.  Blocks of stone missing from the walls occasionally allow thin
+11:14:17.109 shaft of daylight to lance through into this otherwise gloomy little
+11:14:17.110 stairwell.  The stone steps themselves are cracked and even missing in
+11:14:17.112 many places, and a few steps have been replaced with wooden boards.  A
+11:14:17.112 pool of dried blood lays in one corner of the stairwell, indicating some
+11:14:17.113 sort of gruesomeness has occurred here, which is not surprising,
+11:14:17.114 considering the clientele.  The stairs ascend to the second story, and
+11:14:17.115 cursing and raucous laughter can be heard coming from below.
+11:14:17.116 Exits: - North - East  - West  - Up    - Down                          [48603] 
+11:14:17.117 The flea board of Viperstongue Outpost hangs here, covered in blood. 
+11:14:17.118 A well distinguished auctioneer stands here ready to sell your items.
+
+11:14:17.119 < 352h/352H 165v/166V P: std >     
+
+11:14:17.509 [Searching... Exits matched room#: 7017 : A Dark Stairwell]
+11:14:20.014 Auction list
+
+11:14:20.015 item#)    item id                                item description            bid      bidinc        top bidder time 
+11:14:20.015 status seller
+11:14:20.018 ====== ========== =============================================== ============== =========== ================= ====
+11:14:20.018 ======= ======
+11:14:20.020    17)     111040         a four-headed battleaxe of abyssal doom             10           1        No Bid Yet  9 m   
+11:14:20.020 OPEN Lilithelle
+11:14:20.023    18)     111041             a circlet of negative planar energy            100          10        No Bid Yet  9 m   
+11:14:20.023 OPEN Lilithelle
+11:14:20.025    19)     111042                a pair of alligator skin sleeves             10           1        No Bid Yet  9 m   
+11:14:20.025 OPEN Lilithelle
+11:14:20.028    20)     111043                          a belt of human skulls             10           1        No Bid Yet  9 m   
+11:14:20.028 OPEN Lilithelle
+11:14:20.031    21)     111044                            a black silken cloak             10           1        No Bid Yet  9 m   
+11:14:20.031 OPEN Lilithelle
+11:14:20.034    22)     111045 the black hooded cloak of the Isha warrior caste          1,000         100        No Bid Yet  9 m   
+11:14:20.034 OPEN Lilithelle
+11:14:20.037    23)     111046                              a red velvet pouch             10           1        No Bid Yet  9 m   
+11:14:20.037 OPEN Lilithelle
+11:14:20.040    24)     111047     a blessed scimitar etched with elvish runes             25           5        No Bid Yet  9 m   
+11:14:20.040 OPEN Lilithelle
+11:14:20.042    25)     111048        a silver shield etched with elvish runes             25           5        No Bid Yet  9 m   
+11:14:20.042 OPEN Lilithelle
+11:14:20.045    26)     111049           a supple pair of vampirehide leggings            100          10        No Bid Yet  9 m   
+11:14:20.045 OPEN Lilithelle
+11:14:20.048    27)     111050                            a diamondine earring            100          10        No Bid Yet  9 m   
+11:14:20.048 OPEN Lilithelle
+11:14:20.050    28)     111051                        a ring of ethereal armor            100          10        No Bid Yet  9 m   
+11:14:20.050 OPEN Lilithelle
+11:14:20.054    29)     111052                         a razor-edged ear guard            100          10        No Bid Yet  9 m   
+11:14:20.054 OPEN Lilithelle
+11:14:20.056    30)     111053                     a thick bracer of solid ice            100          10        No Bid Yet  9 m   
+11:14:20.056 OPEN Lilithelle
+11:14:20.059    31)     111054            a belt of flame enshrouded amethysts            100          10        No Bid Yet  9 m   
+11:14:20.059 OPEN Lilithelle
+
+11:14:20.094 < 352h/352H 166v/166V P: std >     
+11:14:26.775 Auction list
+
+11:14:26.775 item#)    item id                                item description            bid      bidinc        top bidder time 
+11:14:26.775 status seller
+11:14:26.778 ====== ========== =============================================== ============== =========== ================= ====
+11:14:26.778 ======= ======
+11:14:26.781     1)     111016               a set of adamantite chain sleeves            100          10             Gogol  N/A  
+11:14:26.781 BUYER Lilithelle
+11:14:26.783     2)     111025                  the medallion of the hive king             10           1         Teyolalil  N/A  
+11:14:26.783 BUYER Lilithelle
+11:14:26.786     3)     111026                    a helm of Clangeddin's might            210          10         You (500)  N/A  
+11:14:26.786 BUYER Lilithelle
+11:14:26.789     4)     111027 a star-metal chainmail hood of boundless thought            500          50         Kazgabope  N/A  
+11:14:26.789 BUYER Lilithelle
+11:14:26.792     5)     111028                  a chalice of glorious sanctity            500          50         You (500)  N/A  
+11:14:26.792 BUYER Lilithelle
+11:14:26.795     6)     111029                      a suit of supple chainmail          1,005           5       You (1,100)  N/A  
+11:14:26.795 BUYER Lilithelle
+11:14:26.798     7)     111030      a small oaken drum wrapped with dragonhide             50           5         You (100)  N/A  
+11:14:26.798 BUYER Lilithelle
+11:14:26.801     8)     111031                             a ring of ironguard          2,100         100              Selo  N/A  
+11:14:26.801 BUYER Lilithelle
+11:14:26.803     9)     111032                             a staff of radiance            100          10         Kazgabope  N/A  
+11:14:26.803 BUYER Lilithelle
+11:14:26.806    10)     111033        a laminated harp strung with sirine hair            200          20             Resge  N/A  
+11:14:26.806 BUYER Lilithelle
+11:14:26.809    11)     111034             some lavish shoes with arcane runes            505           5           Gerupar  N/A  
+11:14:26.809 BUYER Lilithelle
+11:14:26.812    12)     111035     some adamantine greaves inlayed with rubies             25           5           Gerupar  N/A  
+11:14:26.812 BUYER Lilithelle
+11:14:26.815    13)     111036                                 an opal earring             25           5         Kazgabope  N/A  
+11:14:26.815 BUYER Lilithelle
+11:14:26.818    14)     111037    a boneshell balalaika strung with elven hair          1,100         100             Onack  N/A  
+11:14:26.818 BUYER Lilithelle
+11:14:26.821    15)     111038               a silvery suit of elven chainmail          1,000         100         Kazgabope  N/A  
+11:14:26.821 BUYER Lilithelle
+11:14:26.823    16)     111039     a huge adamantium mace enshrouded with mist             10           1             Gudug  N/A  
+11:14:26.823 BUYER Lilithelle
+11:14:26.826    17)     111040         a four-headed battleaxe of abyssal doom             10           1        No Bid Yet  9 m   
+11:14:26.826 OPEN Lilithelle
+11:14:26.828    18)     111041             a circlet of negative planar energy            100          10        No Bid Yet  9 m   
+11:14:26.828 OPEN Lilithelle
+11:14:26.831    19)     111042                a pair of alligator skin sleeves             10           1        No Bid Yet  9 m   
+11:14:26.831 OPEN Lilithelle
+11:14:26.835    20)     111043                          a belt of human skulls             10           1        No Bid Yet  9 m   
+11:14:26.835 OPEN Lilithelle
+11:14:26.837    21)     111044                            a black silken cloak             10           1        No Bid Yet  9 m   
+11:14:26.837 OPEN Lilithelle
+11:14:26.840    22)     111045 the black hooded cloak of the Isha warrior caste          1,000         100        No Bid Yet  9 m   
+11:14:26.840 OPEN Lilithelle
+11:14:26.843    23)     111046                              a red velvet pouch             10           1        No Bid Yet  9 m   
+11:14:26.843 OPEN Lilithelle
+11:14:26.845    24)     111047     a blessed scimitar etched with elvish runes             25           5        No Bid Yet  9 m   
+11:14:26.845 OPEN Lilithelle
+11:14:26.848    25)     111048        a silver shield etched with elvish runes             25           5        No Bid Yet  9 m   
+11:14:26.848 OPEN Lilithelle
+11:14:26.852    26)     111049           a supple pair of vampirehide leggings            100          10        No Bid Yet  9 m   
+11:14:26.852 OPEN Lilithelle
+11:14:26.855    27)     111050                            a diamondine earring            100          10        No Bid Yet  9 m   
+11:14:26.855 OPEN Lilithelle
+11:14:26.858    28)     111051                        a ring of ethereal armor            100          10        No Bid Yet  9 m   
+11:14:26.858 OPEN Lilithelle
+11:14:26.861    29)     111052                         a razor-edged ear guard            100          10        No Bid Yet  9 m   
+11:14:26.861 OPEN Lilithelle
+11:14:26.863    30)     111053                     a thick bracer of solid ice            100          10        No Bid Yet  9 m   
+11:14:26.863 OPEN Lilithelle
+11:14:26.866    31)     111054            a belt of flame enshrouded amethysts            100          10        No Bid Yet  9 m   
+11:14:26.866 OPEN Lilithelle
+
+11:14:26.869 < 352h/352H 166v/166V P: std >     
+11:14:41.495 You receive a suit of supple chainmail from an auctioneer.
+
+11:14:41.587 < 352h/352H 166v/166V P: std >     
+11:14:43.732 You receive a chalice of glorious sanctity from an auctioneer.
+
+11:14:43.819 < 352h/352H 166v/166V P: std >     
+11:14:51.805 You receive a small oaken drum wrapped with dragonhide from an auctioneer.
+
+11:14:51.978 < 352h/352H 166v/166V P: std >     
+11:14:57.671 Auction list
+
+11:14:57.672 item#)    item id                                item description            bid      bidinc        top bidder time 
+11:14:57.672 status seller
+11:14:57.674 ====== ========== =============================================== ============== =========== ================= ====
+11:14:57.674 ======= ======
+11:14:57.677     1)     111016               a set of adamantite chain sleeves            100          10             Gogol  N/A  
+11:14:57.677 BUYER Lilithelle
+11:14:57.679     2)     111025                  the medallion of the hive king             10           1         Teyolalil  N/A  
+11:14:57.679 BUYER Lilithelle
+11:14:57.682     3)     111026                    a helm of Clangeddin's might            210          10         You (500)  N/A  
+11:14:57.682 BUYER Lilithelle
+11:14:57.686     4)     111027 a star-metal chainmail hood of boundless thought            500          50         Kazgabope  N/A  
+11:14:57.686 BUYER Lilithelle
+11:14:57.688     8)     111031                             a ring of ironguard          2,100         100              Selo  N/A  
+11:14:57.688 BUYER Lilithelle
+11:14:57.691     9)     111032                             a staff of radiance            100          10         Kazgabope  N/A  
+11:14:57.691 BUYER Lilithelle
+11:14:57.693    10)     111033        a laminated harp strung with sirine hair            200          20             Resge  N/A  
+11:14:57.693 BUYER Lilithelle
+11:14:57.696    11)     111034             some lavish shoes with arcane runes            505           5           Gerupar  N/A  
+11:14:57.696 BUYER Lilithelle
+11:14:57.699    12)     111035     some adamantine greaves inlayed with rubies             25           5           Gerupar  N/A  
+11:14:57.699 BUYER Lilithelle
+11:14:57.702    13)     111036                                 an opal earring             25           5         Kazgabope  N/A  
+11:14:57.702 BUYER Lilithelle
+11:14:57.705    14)     111037    a boneshell balalaika strung with elven hair          1,100         100             Onack  N/A  
+11:14:57.705 BUYER Lilithelle
+11:14:57.708    15)     111038               a silvery suit of elven chainmail          1,000         100         Kazgabope  N/A  
+11:14:57.708 BUYER Lilithelle
+11:14:57.711    16)     111039     a huge adamantium mace enshrouded with mist             10           1             Gudug  N/A  
+11:14:57.711 BUYER Lilithelle
+11:14:57.713    17)     111040         a four-headed battleaxe of abyssal doom             10           1        No Bid Yet  9 m   
+11:14:57.713 OPEN Lilithelle
+11:14:57.716    18)     111041             a circlet of negative planar energy            100          10        No Bid Yet  9 m   
+11:14:57.716 OPEN Lilithelle
+11:14:57.719    19)     111042                a pair of alligator skin sleeves             10           1        No Bid Yet  9 m   
+11:14:57.719 OPEN Lilithelle
+11:14:57.722    20)     111043                          a belt of human skulls             10           1        No Bid Yet  9 m   
+11:14:57.722 OPEN Lilithelle
+11:14:57.725    21)     111044                            a black silken cloak             10           1        No Bid Yet  9 m   
+11:14:57.725 OPEN Lilithelle
+11:14:57.727    22)     111045 the black hooded cloak of the Isha warrior caste          1,000         100        No Bid Yet  9 m   
+11:14:57.727 OPEN Lilithelle
+11:14:57.730    23)     111046                              a red velvet pouch             10           1        No Bid Yet  9 m   
+11:14:57.730 OPEN Lilithelle
+11:14:57.734    24)     111047     a blessed scimitar etched with elvish runes             25           5        No Bid Yet  9 m   
+11:14:57.734 OPEN Lilithelle
+11:14:57.736    25)     111048        a silver shield etched with elvish runes             25           5        No Bid Yet  9 m   
+11:14:57.736 OPEN Lilithelle
+11:14:57.739    26)     111049           a supple pair of vampirehide leggings            100          10        No Bid Yet  9 m   
+11:14:57.739 OPEN Lilithelle
+11:14:57.741    27)     111050                            a diamondine earring            100          10        No Bid Yet  9 m   
+11:14:57.741 OPEN Lilithelle
+11:14:57.745    28)     111051                        a ring of ethereal armor            100          10        No Bid Yet  9 m   
+11:14:57.745 OPEN Lilithelle
+11:14:57.747    29)     111052                         a razor-edged ear guard            100          10        No Bid Yet  9 m   
+11:14:57.747 OPEN Lilithelle
+11:14:57.750    30)     111053                     a thick bracer of solid ice            100          10        No Bid Yet  9 m   
+11:14:57.750 OPEN Lilithelle
+11:14:57.753    31)     111054            a belt of flame enshrouded amethysts            100          10        No Bid Yet  9 m   
+11:14:57.753 OPEN Lilithelle
+
+11:14:57.882 < 352h/352H 166v/166V P: std >     
+11:15:10.706 You receive a helm of Clangeddin's might from an auctioneer.
+
+11:15:10.799 < 352h/352H 166v/166V P: std >     
+11:15:12.697                
+
+11:15:12.781 The Viperstongue Tavern
+11:15:12.781    The ground floor of this ruined building has been converted into a
+11:15:12.782 sprawling, seedy tavern.  In the center of the stone floor there rests a
+11:15:12.784 dilapidated circular wooden bar, around which is placed a variety of
+11:15:12.785 splintered old stools.  Scattered throughout the bare stone room are
+11:15:12.786 several wobbly wooden tables, all spaced far apart for maximum privacy. 
+11:15:12.787 A motley collection of thoroughly seedy patrons occupy the tavern, from
+11:15:12.788 pirates to bounty hunters and every other sort of assorted scum.  This
+11:15:12.789 outpost seems to serve as a base and meeting place for some of the most
+11:15:12.790 villainous criminals of the southern coast.  Several dim lanterns
+11:15:12.791 provide a dim, flickering illumination here, ideal for conducting shady
+11:15:12.792 business in private.   Dreary music coming from a makeshift stage to the
+11:15:12.793 north accompanies the raucous laughter of the tavern patrons, who seem
+11:15:12.794 to be constantly on the verge of a wide-scale brawl.
+11:15:12.794 Exits: - North - East  - South - West                  [7008] 
+11:15:12.795 A handsome smuggler sprawls across a chair here, laughing drunkenly.
+11:15:12.796 A Thayvian bounty hunter stands in the corner, fingering his dagger.
+11:15:12.798 A vicious mercenary sits here, chugging a bottle of ale. (x2)
+11:15:12.799 A drow assassin sits here, looking around suspiciously.
+11:15:12.800 A half-orc bartender stands behind the bar serving drinks.
+11:15:12.801 Krelg Blackshield stands here, practicing a swordstroke.
+
+11:15:12.801 < 352h/352H 165v/166V P: std >     
+11:15:16.463 You tell Ynndchiarhlizz 'hole vt'
+
+11:15:16.552 < 352h/352H 166v/166V P: std >     
+
+11:15:16.827 The area darkens and the air shimmers slightly as a wormhole opens here.
+
+11:15:16.828 < 352h/352H 166v/166V P: std >     
+11:15:18.212 You enter something and reappear elsewhere...
+11:15:18.213                
+
+11:15:18.304 Wayward House Inn (Shadowed)
+11:15:18.305    This elegant wood building has been constructed on the stone
+11:15:18.306 foundation of the Inn of Wayward Sages.  Charring can still be seen on
+11:15:18.307 the stone from when the original building burned down.  Originally an
+11:15:18.308 inn with less then reputable clientele the inn has become more classy
+11:15:18.309 with a well stocked wine cellar.  A number of tables and chairs lie
+11:15:18.310 about the room casually and a long oak counter fills one end of the
+11:15:18.310 room.
+11:15:18.311 Exits: - North - Up     [7008] 
+11:15:18.311 A gaping hole in the ground leads into darkness. 
+11:15:18.312 Siyooni  (AFK) (Moon Elf) stands here.
+11:15:18.312 Smirn - Fuzzybottom of the Valkurian Blades (RP) (Halfling) stands here.
+11:15:18.313 Ynndchiarhlizz - The Nexus (Illithid) sits resting.
+11:15:18.314 Havorr Merendil stands behind the counter ready to serve.
+11:15:18.316 A showy merchant sits here looking smug. (x3)
+11:15:18.317 A dapper noble is here socializing. (x3)
+
+11:15:18.318 < 352h/352H 166v/166V P: std >     
+11:15:18.972                
+
+11:15:19.061 The Upstairs of the Wayward House Inn
+11:15:19.062    Like most of the building the upstairs is made of maple, a rich wood
+11:15:19.063 that gives the inn a warm feel.  The boards have been well carved and
+11:15:19.064 fit closely together, only admitting light through the shuttered
+11:15:19.065 windows.  This floor consists of several rooms available for rent.
+11:15:19.066 Each room has its own lock on the door to ensure privacy.
+11:15:19.067 Exits: - Down          [7008] 
+11:15:19.067 Grxx - Einherjar - Riders of Faerun (AFK) (RP) (Troll) stands here.
+11:15:19.068 Ixehixxih  (Illithid) stands here.
+11:15:19.069 Sylvana  (Half-Elf) stands here.
+11:15:19.069 Jhalessa Shorncrown stands here tidying up.
+
+11:15:19.069 < 352h/352H 165v/166V P: std >     
+
+11:15:19.714 [Searching... Match found: Silverymoon, Gem of the North : The Upstairs of the Wayward House Inn : 48604]
+11:15:21.477 You put in 4 items into stout dragonhide pack.
+
+11:15:21.562 < 352h/352H 166v/166V P: std >     
+11:15:24.985 You store a stout dragonhide pack in Suhu's storage cache.
+11:15:24.987 Autosaving...
+
+11:15:25.033 < 352h/352H 166v/166V P: std >     
+11:15:25.242 It is 6pm, on the Day of the Moon
+11:15:25.242 The 14th Day of the Month of Horthos (of the Abandoned), Year 1300.
+11:15:25.243 Time elapsed since boot-up: 12:43:44
+11:15:25.244 Current time is: Fri Dec  5 11:37:59 2025
+
+11:15:25.321 < 352h/352H 166v/166V P: std >     
+11:15:26.397 Jhalessa Shorncrown tells you 'It will cost you nothing to rent.'
+11:15:26.409 Jhalessa Shorncrown stores your stuff in the safe, and shows you to your room.
+
+11:15:26.411 Characters:
+11:15:26.411 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+11:15:26.460   1) Rufa                      Level 16 Warrior (Troll)
+11:15:26.461   2) Sedesee                   Level 18 Necromancer (Drow Elf)
+11:15:26.462   3) Zaba                      Level  1 Shaman (Ogre)
+11:15:26.463   4) Pukadito                  Level  1 Cleric (Duergar)
+11:15:26.464   5) Fibba                     Level  1 Battlechanter (Orc)
+11:15:26.465   6) Zissato                   Level  1 Sorcerer (Yuan-Ti)
+11:15:26.466   7) Sesesa                    Level  1 Invoker (Drow Elf)
+11:15:26.467   8) Cillicissin               Level  1 Psionicist (Illithid)
+11:15:26.468   9) Sulonwuka                 Level  1 Hexblade (Duergar)
+11:15:26.469  10) Tusso                     Level  1 Elementalist (Yuan-Ti)
+11:15:26.470  11) Milore                    Level 19 Rogue (Human)
+11:15:26.470  12) Unamimo                   Level  1 Ranger (Moon Elf)
+11:15:26.471  13) Cameshu                   Level  1 Druid (Moon Elf)
+11:15:26.472  14) Lirayu                    Level  1 Enchanter (Moon Elf)
+11:15:26.472  15) Tahane                    Level  1 Wizard (Moon Elf)
+11:15:26.473  16) Bonya                     Level  1 Wizard (Human)
+11:15:26.473  17) Belele                    Level  1 Paladin (Halfling)
+11:15:26.474  18) Oneba                     Level  1 Blackguard (Drow Elf)
+11:15:26.475  19) Elbama                    Level  1 Bard (Moon Elf)
+11:15:26.475  20) Noleamca                  Level  1 Paladin (Moon Elf)
+11:15:26.476  21) Tiku                      Level  1 Battlechanter (Orc)
+11:15:26.477  22) Hivo                      Level  5 Blackguard (Half-Orc)
+11:15:26.477  23) Dapo                      Level 16 Hexblade (Orc)
+11:15:26.478  24) Bitule                    Level  1 Ranger (Halfling)
+11:15:26.479  25) Moge                      Level  1 Shaman (Orc)
+11:15:26.479  26) Ssamo                     Level  7 Cleric (Yuan-Ti)
+11:15:26.480  27) Inapa                     Level  1 Ranger (Half-Orc)
+11:15:26.481  28) Cudu                      Level  1 Shaman (Troll)
+11:15:26.481  29) Hufu                      Level 19 Warrior (Troll)
+11:15:26.482  30) Elsesa                    Level  1 Warrior (Drow Elf)
+11:15:26.483  31) Zanga                     Level 19 Warrior (Ogre)
+11:15:26.484  32) Sibbi                     Level 19 Hexblade (Orc)
+11:15:26.484  33) Rupi                      Level  1 Paladin (Shield Dwarf)
+11:15:26.485  34) Asli                      Level 19 Rogue (Human)
+11:15:26.485  35) Ageka                     Level  8 Rogue (Half-Orc)
+11:15:26.486  36) Juja                      Level 15 Warrior (Orc)
+11:15:26.487  37) Puwa                      Level  7 Shaman (Troll)
+11:15:26.487  38) Kazgabope                 Level 50 Blackguard (Duergar)
+11:15:26.488  39) Renelay                   Level  1 Bard (Half-Elf)
+11:15:26.489  40) Yuneme                    Level  1 Bard (Human)
+11:15:26.489  41) Atase                     Level  1 Bard (Human)
+11:15:26.490  42) Nefe                      Level 18 Rogue (Human)
+11:15:26.490  43) Rassa                     Level  1 Sorcerer (Human)
+11:15:26.491  44) Medo                      Level  5 Elementalist (Human)
+11:15:26.492  45) Tafla                     Level 19 Bard (Half-Orc)
+11:15:26.492  46) Biha                      Level 50 Rogue (Human)
+11:15:26.493  47) Suhu                      Level 50 Warrior (Troll)
+11:15:26.494  48) Newotee                   Level 32 Hexblade (Drow Elf)
+11:15:26.495  49) Tararotuta                Level  1 Wizard (Duergar)
+11:15:26.496  50) Bobaroru                  Level  9 Elementalist (Duergar)
+11:15:26.496  51) Yazassa                   Level 50 Cleric (Yuan-Ti)
+11:15:26.497  52) Meliya                    Level  1 Paladin (Moon Elf)
+11:15:26.498  53) Giwa                      Level 39 Battlechanter (Orc)
+11:15:26.499  54) Mivo                      Level 46 Shaman (Orc)
+11:15:26.499  55) Farda                     Level  8 Bard (Shield Dwarf)
+11:15:26.500  56) Elbana                    Level  1 Paladin (Half-Orc)
+11:15:26.500  57) Pagmixa                   Level  1 Sorcerer (Drow Elf)
+11:15:26.501  58) Nusu                      Level 50 Warrior (Ogre)
+11:15:26.502  59) Eqasebee                  Level  1 Enchanter (Drow Elf)
+11:15:26.502  60) Firumokag                 Level 15 Warrior (Duergar)
+11:15:26.503  61) Bopinbolil                Level 38 Enchanter (Gnome)
+11:15:26.503  62) Wonpopolidle              Level 12 Paladin (Gnome)
+11:15:26.504 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+11:15:26.504 Type the # or name of a character above to login or choose an action below.
+11:15:26.506 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+11:15:26.507 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+11:15:26.508 (E)nter description    | (D)elete character | (C)hange password
+11:15:26.509 (M)odify email address | (Q)uit
+11:15:26.509 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+11:15:26.509 Account email: zenevan420@gmail.com
+11:15:26.509 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+11:15:26.815 Your choice: 
+11:15:30.989 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+11:15:30.989                            Wizards
+11:15:30.990 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+11:15:30.990 The new Wizard class has arrived, with Illusionist as the first subclass. For
+11:15:30.991 more details on this update, please see the news link below.
+
+11:15:30.992 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+11:15:30.993 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+11:15:30.993 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+11:15:30.994 - http://www.torilmud.com/news/arcane-companions/
+
+11:15:30.994 Resources
+
+11:15:30.994 Discord    : https://discord.gg/t7edjzM
+11:15:30.995 Web Client : http://www.torilmud.com/login
+11:15:30.995 News       : http://news.torilmud.com/
+11:15:30.995 Issues     : https://github.com/torilmud/issues
+
+11:15:31.081 Retrieving rented items from storage...
+
+11:15:31.082         Welcome to TorilMUD
+
+11:15:31.082                
+
+11:15:31.087 The Upstairs of the Wayward House Inn
+11:15:31.088    Like most of the building the upstairs is made of maple, a rich wood
+11:15:31.089 that gives the inn a warm feel.  The boards have been well carved and
+11:15:31.089 fit closely together, only admitting light through the shuttered
+11:15:31.090 windows.  This floor consists of several rooms available for rent.
+11:15:31.091 Each room has its own lock on the door to ensure privacy.
+11:15:31.092 Exits: - Down          [48604] 
+11:15:31.092 Grxx - Einherjar - Riders of Faerun (AFK) (RP) (Troll) stands here.
+11:15:31.093 Ixehixxih  (Illithid) stands here.
+11:15:31.093 Sylvana  (Half-Elf) stands here.(Gold Aura)
+11:15:31.094 Jhalessa Shorncrown stands here tidying up.
+
+Log session ending at 11:15:31 on Friday, 5 December 2025.

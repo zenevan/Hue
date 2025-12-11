@@ -1,0 +1,574 @@
+Log session starting at 05:38:03 on Tuesday, 9 December 2025.
+
+05:38:03.328 < 437h/437H 177v/170V P: std >     
+05:38:03.328 [Spellqueue cleared.]
+05:38:03.557 You will no longer see the mini-map when moving.
+
+05:38:03.604 < 437h/437H 177v/170V P: std >     
+05:38:03.808 You will now see the classic prompt.
+
+05:38:04.060 < 437h/437H 177v/170V P: std > 
+05:38:04.061  Prompt Command Usage:
+05:38:04.061   prompt                             - Display this help
+05:38:04.062   prompt layout                      - List available layouts
+05:38:04.062   prompt layout <layout>             - Set your layout
+05:38:04.063   prompt fields                      - List available fields
+05:38:04.064   prompt add <field>                 - Add a field to your current layout
+05:38:04.065   prompt remove <field>              - Remove a field from your current layout
+05:38:04.066   prompt options                     - Show a list of prompt option flags
+05:38:04.067   prompt options <flag>              - Toggle a prompt option
+05:38:04.068   prompt power <power> <slot>        - Add a power to a prompt slot
+05:38:04.069   prompt power auto                  - Set the default suggested power prompts
+05:38:04.070   prompt power clear <power, all>    - Clear a power from the prompt
+05:38:04.071   prompt color                       - List available prompt power colors
+05:38:04.072   prompt color <power, slot> <color> - Set the ready power color for a specific power or slot
+05:38:04.073   prompt color <type> <color>        - Set color for: <ready, cooldown, special, default, combo>
+05:38:04.075   prompt color <type> <clear>        - Clear color for <ready, cooldown, special, default, combo> 
+05:38:04.077   prompt color reset                 - Reset all prompt colors to default
+05:38:04.078   prompt help                        - Display this help
+
+05:38:04.144 To use the prompt command, first toggle on NEWPROMPT.
+
+05:38:04.309 < 437h/437H 177v/170V P: std > 
+05:38:04.387 Smartprompt toggled on.
+
+05:38:04.558 < 437h/437H 177v/170V P: std > 
+05:38:04.645 You are hungry.
+05:38:04.645 You are thirsty.
+05:38:04.645 There are no sub-classes currently available to your class.
+
+05:38:04.810 < 437h/437H 177v/170V P: std > 
+
+05:38:04.868           Character attributes for Naleni
+
+05:38:04.869 Level: 50   Race: Moon Elf   Class: Warrior     
+05:38:04.888 Size: Medium
+05:38:04.888 STR:  93  AGI: 100  DEX:  93  CON: 100
+05:38:04.890 POW:  70  INT:  70  WIS:  70  CHA:  70
+05:38:04.890 Armor Class: 100  (100 to -100)  Agility Bonus: -25
+05:38:04.891 Magic Resistance: 0 percent
+05:38:04.891 Hitroll: 7   Damroll: 3
+05:38:04.891 Alignment: Neutral Good
+05:38:04.891 Saving Throws: PAR[0]  ROD[0]  PET[0]  BRE[0]  SPE[0]
+05:38:04.892    Wimpy: not set
+05:38:04.892 Load carried: What load?
+05:38:04.892 Damage Resistance:
+05:38:04.892 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+05:38:04.893 Spells:    0% Fire  :    0% Cold  :    0% Elect :    0% Acid  :    0% 
+05:38:04.894 Sonic :    0% Poison:    0% Pos   :    0% Neg   :    0% Psi   :    0% 
+05:38:04.895 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+05:38:04.896 Force :    0% 
+
+05:38:05.060 < 437h/437H 177v/170V P: std > 
+
+05:38:05.150           Score information for Naleni
+
+05:38:05.151 Level: 50   Race: Moon Elf   Class: Warrior     
+05:38:05.152 Hit points: 437(437)  Moves: 177(170)
+05:38:05.152 Experience Progress: 1400 % 
+05:38:05.153 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+05:38:05.154 Coins in bank: 8965 platinum  40778 gold  8372 silver  1358 copper
+05:38:05.154 Prestige: 7277   Acheron Kill Count: 0
+05:38:05.155 Name status: Approved
+05:38:05.155 Playing time: 7 days / 12 hours / 27 minutes
+05:38:05.156 Title: 
+05:38:05.156 Status:  Standing.
+05:38:05.156 Detecting:       Heat
+
+05:38:05.311 < 437h/437H 177v/170V P: std > 
+05:38:05.390 You aren't wearing anything!
+
+05:38:05.564 < 437h/437H 177v/170V P: std > 
+
+05:38:05.812 < 437h/437H 177v/170V P: std > 
+
+05:38:06.238 < 437h/437H 177v/170V P: std > 
+05:38:06.239 You are 0 XP (0.00%) away from your next level.
+
+05:38:06.313 < 437h/437H 177v/170V P: std > 
+05:38:06.397 You haven't consented to anyone.
+
+05:38:06.398 Naleni is consenting you.
+
+05:38:06.565 < 437h/437H 177v/170V P: std > 
+05:38:06.653 You will now see the mini-map when moving.
+
+05:38:06.812 < 437h/437H 177v/170V P: std > 
+05:38:06.895 You will now see the new prompt.
+
+05:38:06.896 < 437h/437H 177v/170V P: std >     
+05:38:07.062 Smartprompt toggled off.
+
+05:38:07.155 < 437h/437H 177v/170V P: std >     
+05:38:07.313 The Gentle Moon - Common Area
+05:38:07.155 < 437h/437H 177v/170V P: std >     
+05:38:07.334 [Setting statname to unset]
+05:38:07.340 [Setting rescuetype to basic]
+05:38:07.346 [Setting warbh to false]
+05:38:07.352 [Setting warkc to false]
+05:38:07.356 [All train triggers disabled]
+05:38:07.406 < 437h/437H 177v/170V P: std >     
+05:38:07.564 Prompt option newline disabled.
+
+05:38:07.813 < 437h/437H 177v/170V P: std >Prompt option newline enabled.
+
+05:38:07.880 [Searching... Match found: Westgate : The Gentle Moon - Common Area : 327]
+
+05:38:07.900 < 437h/437H 177v/170V P: std >     
+
+05:38:12.090 You gain access to Afu's storage cache.  
+05:38:12.090 In order to use your own cache again, you must first close this cache by entering: 'storage access close'.
+
+05:38:12.168 < 437h/437H 177v/170V P: std >     
+05:38:14.578 You retrieve a fine silk haversack stitched with platinum thread from Afu's storage cache.
+05:38:14.581 Autosaving...
+
+05:38:14.628 < 437h/437H 177v/170V P: std >     
+05:38:14.823 It is 7am, on the Day of the Deception
+05:38:14.823 The 30th Day of the Month of Mirtul (the Melting), Year 1301.
+05:38:14.824 Time elapsed since boot-up: 77:08:06
+05:38:14.825 Current time is: Tue Dec  9 06:00:45 2025
+
+05:38:14.913 < 437h/437H 177v/170V P: std >     
+
+05:38:18.328 [Issue speedwalk to wgBank at 825]
+05:38:18.410 [Path: .nw2s3ese]
+------------ 
+05:38:18.580                
+
+05:38:18.671 Sword Lane - Outside The Gentle Moon
+05:38:18.672    This area is called Tidetown for the occasional floods at high tide.
+05:38:18.674 In a city that never truly sleeps, traffic is constant day or night.
+05:38:18.675 Business is the life of the city, everything can be bought or sold.
+05:38:18.675 In this dangerous place, haggling often involves the use of a dagger.
+05:38:18.676 Blood marks the spots where financial disputes have been settled.
+05:38:18.677 Exits: - East  - South - West          [326] 
+
+05:38:18.678 < 437h/437H 176v/170V P: std >     
+05:38:18.831                
+
+05:38:18.928 Intersection of Sword Lane and Wagonwheel Ride
+05:38:18.928    Wagonwheel Ride travels from the north wall almost to the south wall.
+05:38:18.929 The rich travel in horse drawn carriages, while the poor only walk.
+05:38:18.930 In a city that never truly sleeps, traffic is constant day or night.
+05:38:18.931 Business is the life of the city, everything can be bought or sold.
+05:38:18.932 In this dangerous place, haggling often involves the use of a dagger.
+05:38:18.933 Exits: - North - East  - South         [325] 
+05:38:18.934 A branch from a field maple tree litters the ground. 
+05:38:18.934 A field maple tree shades the intersection. 
+05:38:18.935 A black-billed magpie hops about, foraging.
+05:38:18.935 A elven traveler walks on haughtily.
+
+05:38:18.936 < 437h/437H 175v/170V P: std >     
+05:38:19.079                
+
+05:38:19.171 Intersection of King's March and Wagonwheel Ride
+05:38:19.171    Like the other main roads in the city, the street is cobblestone.
+05:38:19.173 In a city that never truly sleeps, traffic is constant day or night.
+05:38:19.174 Business is the life of the city, everything can be bought or sold.
+05:38:19.175 In this dangerous place, haggling often involves the use of a dagger.
+05:38:19.176 Daggers hide in every cloak, so people pass each other at a distance.
+05:38:19.177 Exits: - North - South - West          [279] 
+05:38:19.178 A red brick fountain occupies the center of the intersection. 
+
+05:38:19.178 < 437h/437H 174v/170V P: std >     
+05:38:19.329                
+
+05:38:19.417 Intersection of Brew House Lane and Wagonwheel Ride
+05:38:19.418    This road runs straight, traveling its length is quick and easy.
+05:38:19.419 Business is the life of the city, everything can be bought or sold.
+05:38:19.420 In this dangerous place, haggling often involves the use of a dagger.
+05:38:19.420 Daggers hide in every cloak, so people pass each other at a distance.
+05:38:19.421 The only living beings here are cautious ones, people are ever alert.
+05:38:19.422 Exits: - North - East  - South         [324] 
+05:38:19.423 A branch from a red larch tree has fallen here. 
+05:38:19.424 A red larch tree stands in an island in the middle of the road. 
+
+05:38:19.425 < 437h/437H 173v/170V P: std >     
+05:38:19.580                
+
+05:38:19.665 Brew House Lane - Beside The Gentle Moon
+05:38:19.666    The lanes here are just alleys, sometimes cobblestone, often dirt.
+05:38:19.667 Daggers hide in every cloak, so people pass each other at a distance.
+05:38:19.668 The only living beings here are cautious ones, people are ever alert.
+05:38:19.669 Danger can often be felt, it's cold and dark, and best never ignored.
+05:38:19.670 Alleys cast long shadows over near by streets, places locals avoid.
+
+05:38:19.670 Exits: - East  - West   [808] 
+
+05:38:19.671 < 437h/437H 172v/170V P: std >     
+05:38:19.835                
+
+05:38:19.928 Brew House Lane - Beside Derrem's Fine Meats
+05:38:19.928    Narrower than streets, wagons are must pass through here single file.
+05:38:19.930 The only living beings here are cautious ones, people are ever alert.
+05:38:19.931 Danger can often be felt, it's cold and dark, and best never ignored.
+05:38:19.932 Alleys cast long shadows over near by streets, places locals avoid.
+05:38:19.933 Most structures are made of wood, with stone only used for the roof.
+05:38:19.934 Exits: - East  - West   [809] 
+05:38:19.935 A shifty-eyed man walks by.
+05:38:19.935 A dwarven priest lumbers down the road.
+
+05:38:19.936 < 437h/437H 171v/170V P: std >     
+05:38:20.081                
+
+05:38:20.180 Intersection of Brew House Lane and Westgate Market Street
+05:38:20.181    This road runs straight, traveling its length is quick and easy.
+05:38:20.181 Danger can often be felt, it's cold and dark, and best never ignored.
+05:38:20.182 Alleys cast long shadows over near by streets, places locals avoid.
+05:38:20.183 Most structures are made of wood, with stone only used for the roof.
+05:38:20.184 The wooden surfaces are often pitted and marked by vandals and time.
+05:38:20.186 Exits: - North - East  - South - West                  [810] 
+05:38:20.186 A branch from a field maple tree litters the ground. 
+05:38:20.187 A field maple tree shades the intersection. 
+05:38:20.188 A woodpecker clings to a rotting tree.
+
+05:38:20.188 < 437h/437H 170v/170V P: std >     
+05:38:20.332                
+
+05:38:20.435 Westgate Market Street - Outside the Bank
+05:38:20.436    Westgate Market Street runs from Westlight Walk to Silverpiece Way.
+05:38:20.437 Alleys cast long shadows over near by streets, places locals avoid.
+05:38:20.438 Most structures are made of wood, with stone only used for the roof.
+05:38:20.438 The wooden surfaces are often pitted and marked by vandals and time.
+05:38:20.440 Man-sized shadows sometimes move, darting from one place to another.
+05:38:20.441 Exits: - North - East  - South         [824] 
+05:38:20.442 An office worker passes by on her way somewhere.
+
+05:38:20.443 < 437h/437H 169v/170V P: std >     
+05:38:20.582                
+
+05:38:20.676 Westgate Bank - Service Counter
+05:38:20.676    This room makes you feel like you are entombed in stone.  Solid walls
+05:38:20.677 with no openings for light make up this structure.  There is only a
+05:38:20.678 single exit to the west guarded by a stout metal door.  A large counter
+05:38:20.680 sits at the front of the room where staff intercept customers to deal
+05:38:20.681 with their needs.  Several wooden desks occupy the back of the room
+05:38:20.682 where workers work feverishly to make sure all numbers add up correctly.
+05:38:20.683 Exits: - West          [825] 
+05:38:20.683 A large wooden counter is here, with a sign posted on it. 
+05:38:20.684 A banker stands here eying you cautiously.
+
+05:38:20.685 < 437h/437H 168v/170V P: std >     
+05:38:20.841 You get a pile of coins from your fine silk haversack stitched with platinum thread.
+05:38:20.843 There were: 4000 platinum coins.
+
+05:38:20.921 < 437h/437H 168v/170V P: std >     
+05:38:21.080 Your account contains:
+05:38:21.081     12965 platinum, 40778 gold, 8372 silver, 1358 copper coins.
+
+05:38:21.169 < 437h/437H 168v/170V P: std >     
+
+05:38:21.332           Score information for Naleni
+
+05:38:21.333 Level: 50   Race: Moon Elf   Class: Warrior     
+05:38:21.335 Hit points: 437(437)  Moves: 168(170)
+05:38:21.335 Experience Progress: 1400 % 
+05:38:21.335 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+05:38:21.417 Coins in bank: 12965 platinum  40778 gold  8372 silver  1358 copper
+05:38:21.419 Prestige: 7277   Acheron Kill Count: 0
+05:38:21.419 Name status: Approved
+05:38:21.419 Playing time: 7 days / 12 hours / 27 minutes
+05:38:21.420 Title: 
+05:38:21.420 Status:  Standing.
+05:38:21.420 Detecting:       Heat
+
+05:38:21.420 < 437h/437H 168v/170V P: std >     
+05:38:27.591 Your account contains:
+05:38:27.592     0 platinum, 40778 gold, 8372 silver, 1358 copper coins.
+
+05:38:27.685 < 437h/437H 168v/170V P: std >     
+05:38:30.854 Ok.
+05:38:30.854 You put some coins into a fine silk haversack stitched with platinum thread.
+
+05:38:30.950 < 437h/437H 168v/170V P: std >     
+
+05:38:37.433 [Issue speedwalk to wgInn at 327]
+05:38:37.433 [Path: .wn3w2nes]
+------------ 
+05:38:37.602                
+
+05:38:37.700 Westgate Market Street - Outside the Bank
+05:38:37.700    Westgate Market Street runs from Westlight Walk to Silverpiece Way.
+05:38:37.702 Alleys cast long shadows over near by streets, places locals avoid.
+05:38:37.703 Most structures are made of wood, with stone only used for the roof.
+05:38:37.704 The wooden surfaces are often pitted and marked by vandals and time.
+05:38:37.705 Man-sized shadows sometimes move, darting from one place to another.
+05:38:37.706 Exits: - North - East  - South         [824] 
+05:38:37.706 An office worker passes by on her way somewhere.
+
+05:38:37.707 < 437h/437H 167v/170V P: std >     
+05:38:37.854                
+
+05:38:37.948 Intersection of Brew House Lane and Westgate Market Street
+05:38:37.950    This road runs straight, traveling its length is quick and easy.
+05:38:37.951 Danger can often be felt, it's cold and dark, and best never ignored.
+05:38:37.952 Alleys cast long shadows over near by streets, places locals avoid.
+05:38:37.953 Most structures are made of wood, with stone only used for the roof.
+05:38:37.954 The wooden surfaces are often pitted and marked by vandals and time.
+05:38:37.955 Exits: - North - East  - South - West                  [810] 
+05:38:37.955 A branch from a field maple tree litters the ground. 
+05:38:37.956 A field maple tree shades the intersection. 
+05:38:37.957 A woodpecker clings to a rotting tree.
+
+05:38:37.957 < 437h/437H 166v/170V P: std >     
+05:38:38.104                
+
+05:38:38.196 Brew House Lane - Beside Derrem's Fine Meats
+05:38:38.198    Narrower than streets, wagons are must pass through here single file.
+05:38:38.198 The only living beings here are cautious ones, people are ever alert.
+05:38:38.199 Danger can often be felt, it's cold and dark, and best never ignored.
+05:38:38.200 Alleys cast long shadows over near by streets, places locals avoid.
+05:38:38.201 Most structures are made of wood, with stone only used for the roof.
+05:38:38.202 Exits: - East  - West   [809] 
+05:38:38.203 A shifty-eyed man walks by.
+05:38:38.203 A dwarven priest lumbers down the road.
+
+05:38:38.204 < 437h/437H 165v/170V P: std >     
+05:38:38.355                
+
+05:38:38.444 Brew House Lane - Beside The Gentle Moon
+05:38:38.444    The lanes here are just alleys, sometimes cobblestone, often dirt.
+05:38:38.445 Daggers hide in every cloak, so people pass each other at a distance.
+05:38:38.446 The only living beings here are cautious ones, people are ever alert.
+05:38:38.447 Danger can often be felt, it's cold and dark, and best never ignored.
+05:38:38.448 Alleys cast long shadows over near by streets, places locals avoid.
+
+05:38:38.450 Exits: - East  - West   [808] 
+
+05:38:38.451 < 437h/437H 164v/170V P: std >     
+05:38:38.606                
+
+05:38:38.693 Intersection of Brew House Lane and Wagonwheel Ride
+05:38:38.694    This road runs straight, traveling its length is quick and easy.
+05:38:38.695 Business is the life of the city, everything can be bought or sold.
+05:38:38.696 In this dangerous place, haggling often involves the use of a dagger.
+05:38:38.697 Daggers hide in every cloak, so people pass each other at a distance.
+05:38:38.698 The only living beings here are cautious ones, people are ever alert.
+05:38:38.700 Exits: - North - East  - South         [324] 
+05:38:38.700 A branch from a red larch tree has fallen here. 
+05:38:38.701 A red larch tree stands in an island in the middle of the road. 
+
+05:38:38.702 < 437h/437H 163v/170V P: std >     
+05:38:38.855                
+
+05:38:38.945 Intersection of King's March and Wagonwheel Ride
+05:38:38.945    Like the other main roads in the city, the street is cobblestone.
+05:38:38.946 In a city that never truly sleeps, traffic is constant day or night.
+05:38:38.947 Business is the life of the city, everything can be bought or sold.
+05:38:38.948 In this dangerous place, haggling often involves the use of a dagger.
+05:38:38.949 Daggers hide in every cloak, so people pass each other at a distance.
+05:38:38.950 Exits: - North - South - West          [279] 
+05:38:38.950 A red brick fountain occupies the center of the intersection. 
+
+05:38:38.951 < 437h/437H 162v/170V P: std >     
+05:38:39.105                
+
+05:38:39.191 Intersection of Sword Lane and Wagonwheel Ride
+05:38:39.191    Wagonwheel Ride travels from the north wall almost to the south wall.
+05:38:39.192 The rich travel in horse drawn carriages, while the poor only walk.
+05:38:39.193 In a city that never truly sleeps, traffic is constant day or night.
+05:38:39.194 Business is the life of the city, everything can be bought or sold.
+05:38:39.195 In this dangerous place, haggling often involves the use of a dagger.
+05:38:39.197 Exits: - North - East  - South         [325] 
+05:38:39.197 A branch from a field maple tree litters the ground. 
+05:38:39.198 A field maple tree shades the intersection. 
+05:38:39.198 A black-billed magpie hops about, foraging.
+05:38:39.198 A elven traveler walks on haughtily.
+
+05:38:39.199 < 437h/437H 161v/170V P: std >     
+05:38:39.398                
+
+05:38:39.486 Sword Lane - Outside The Gentle Moon
+05:38:39.486    This area is called Tidetown for the occasional floods at high tide.
+05:38:39.487 In a city that never truly sleeps, traffic is constant day or night.
+05:38:39.489 Business is the life of the city, everything can be bought or sold.
+05:38:39.490 In this dangerous place, haggling often involves the use of a dagger.
+05:38:39.491 Blood marks the spots where financial disputes have been settled.
+05:38:39.492 Exits: - East  - South - West          [326] 
+05:38:39.492 A gaunt prostitute is here, selling her services.
+
+05:38:39.493 < 437h/437H 160v/170V P: std >     
+05:38:39.610                
+
+05:38:39.703 The Gentle Moon - Common Area
+05:38:39.703    The inn has seen better days, once polished hard wood now looks
+05:38:39.704 bedraggled.  The walls are beginning to warp from the moist air, and
+05:38:39.705 small gaps admit marine air.  An old bar rest in the center of the room
+05:38:39.706 surrounded by tables.  People still come here to eat, and sometimes
+05:38:39.707 lodge.  Some come for the friendly atmosphere, some come to try to catch
+05:38:39.708 a glimpse of the fabled ghost said to haunt the premises.
+05:38:39.708 Exits: - North - East   [327] 
+05:38:39.710 Mizes - Fuzzybottom of the Valkurian Blades (Yuan-Ti) stands in mid-air here.
+05:38:39.711 Riloesa  (Moon Elf) stands here.
+05:38:39.712 A tradesperson rests here with a drink in hand. (x3)
+05:38:39.713 A scantily-dressed server moves about the room looking awkward.
+05:38:39.714 The innkeeper stands behind the counter renting out rooms.
+
+05:38:39.715 < 437h/437H 159v/170V P: std >     
+
+05:38:41.108           Score information for Naleni
+
+05:38:41.108 Level: 50   Race: Moon Elf   Class: Warrior     
+05:38:41.109 Hit points: 437(437)  Moves: 159(170)
+05:38:41.110 Experience Progress: 1400 % 
+05:38:41.110 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+05:38:41.187 Coins in bags: 12965 platinum     0 gold     0 silver     0 copper
+05:38:41.188 Coins in bank:    0 platinum  40778 gold  8372 silver  1358 copper
+05:38:41.189 Prestige: 7277   Acheron Kill Count: 0
+05:38:41.190 Name status: Approved
+05:38:41.190 Playing time: 7 days / 12 hours / 28 minutes
+05:38:41.190 Title: 
+05:38:41.190 Status:  Standing.
+05:38:41.191 Detecting:       Heat
+
+05:38:41.191 < 437h/437H 159v/170V P: std >     
+05:38:44.866 You store a fine silk haversack stitched with platinum thread in Afu's storage cache.
+05:38:44.867 Autosaving...
+
+05:38:44.914 < 437h/437H 159v/170V P: std >     
+05:38:45.112 It is 7am, on the Day of the Deception
+05:38:45.113 The 30th Day of the Month of Mirtul (the Melting), Year 1301.
+05:38:45.114 Time elapsed since boot-up: 77:08:36
+05:38:45.115 Current time is: Tue Dec  9 06:01:15 2025
+
+05:38:45.200 < 437h/437H 159v/170V P: std >     
+05:38:46.040 The innkeeper tells you 'It will cost you nothing to rent.'
+05:38:46.051 The innkeeper stores your stuff in the safe, and shows you to your room.
+
+05:38:46.052 Characters:
+05:38:46.052 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+05:38:46.053   1) Afu                       Level 50 Warrior (Troll)
+05:38:46.053   2) Deabnue                   Level 50 Invoker (Human)
+05:38:46.054   3) Gizep                     Level 50 Enchanter (Drow Elf)
+05:38:46.055   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+05:38:46.055   5) Newple                    Level 50 Rogue (Halfling)
+05:38:46.056   6) Mattah                    Level 50 Necromancer (Human)
+05:38:46.057   7) Rafi                      Level 50 Blackguard (Human)
+05:38:46.057   8) Digun                     Level 50 Warrior (Shield Dwarf)
+05:38:46.058   9) Risor                     Level 50 Rogue (Human)
+05:38:46.059  10) Islala                    Level 50 Bard (Moon Elf)
+05:38:46.060  11) Minolai                   Level 50 Ranger (Moon Elf)
+05:38:46.061  12) Poppibble                 Level 50 Ranger (Halfling)
+05:38:46.061  13) Simasel                   Level 50 Cleric (Moon Elf)
+05:38:46.062  14) Giru                      Level 50 Hexblade (Orc)
+05:38:46.063  15) Xaniver                   Level 50 Ranger (Half-Orc)
+05:38:46.063  16) Waf                       Level 49 Shaman (Barbarian)
+05:38:46.064  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+05:38:46.065  18) Gomble                    Level 50 Paladin (Halfling)
+05:38:46.065  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+05:38:46.066  20) Siho                      Level 50 Paladin (Half-Orc)
+05:38:46.067  21) Nidipizil                 Level 50 Paladin (Gnome)
+05:38:46.067  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+05:38:46.068  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+05:38:46.068  24) Naleni                    Level 50 Warrior (Moon Elf)
+05:38:46.069  25) Gukonata                  Level 50 Blackguard (Duergar)
+05:38:46.070  26) Uspi                      Level 50 Blackguard (Half-Orc)
+05:38:46.070  27) Tonga                     Level 50 Warrior (Ogre)
+05:38:46.071  28) Popebople                 Level 48 Enchanter (Gnome)
+05:38:46.072  29) Bago                      Level 50 Shaman (Ogre)
+05:38:46.072  30) Loyol                     Level 50 Bard (Halfling)
+05:38:46.073  31) Irsen                     Level 50 Druid (Human)
+05:38:46.074  32) Fanal                     Level 50 Rogue (Orc)
+05:38:46.074  33) Poromople                 Level 49 Invoker (Gnome)
+05:38:46.075  34) Coruduwat                 Level 43 Elementalist (Duergar)
+05:38:46.076  35) Luso                      Level 41 Paladin (Human)
+05:38:46.076  36) Ssassur                   Level 44 Illusionist (Yuan-Ti)
+05:38:46.077  37) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+05:38:46.078  38) Gorkl                     Level 29 Warrior (Ogre)
+05:38:46.079  39) Gapa                      Level 28 Battlechanter (Orc)
+05:38:46.080  40) Tazfap                    Level  1 Warrior (Drow Elf)
+05:38:46.080  41) Igunnokio                 Level 16 Ranger (Moon Elf)
+05:38:46.081  42) Tihep                     Level  6 Rogue (Drow Elf)
+05:38:46.082  43) Dobokin                   Level  1 Paladin (Half-Orc)
+05:38:46.082  44) Tamad                     Level  7 Paladin (Human)
+05:38:46.083  45) Pilferos                  Level  6 Rogue (Human)
+05:38:46.084  46) Tubor                     Level  1 Warrior (Ogre)
+05:38:46.084  47) Zorrax                    Level 13 Warrior (Troll)
+05:38:46.085  48) Muwede                    Level  1 Illusionist (Drow Elf)
+05:38:46.086  49) Woso                      Level 16 Druid (Half-Orc)
+05:38:46.086  50) Anisa                     Level 15 Blackguard (Half-Orc)
+05:38:46.087  51) Vodbadadva                Level 18 Rogue (Duergar)
+05:38:46.088  52) Lahla                     Level  1 Bard (Half-Orc)
+05:38:46.088  53) Lewo                      Level  8 Bard (Half-Orc)
+05:38:46.088  54) Dedad                     Level 11 Warrior (Drow Elf)
+05:38:46.089  55) Pige                      Level  1 Blackguard (Human)
+05:38:46.090  56) Bowo                      Level  1 Ranger (Half-Orc)
+05:38:46.091  57) Susu                      Level  7 Warrior (Ogre)
+05:38:46.091  58) Ohu                       Level 18 Warrior (Troll)
+05:38:46.092  59) Docuh                     Level  8 Warrior (Ogre)
+05:38:46.092  60) Simeramma                 Level 13 Ranger (Moon Elf)
+05:38:46.094  61) Efera                     Level  5 Necromancer (Drow Elf)
+05:38:46.094  62) Sehe                      Level 50 Rogue (Human)
+05:38:46.095  63) Haxu                      Level 12 Shaman (Troll)
+05:38:46.096  64) Lolele                    Level 20 Warrior (Halfling)
+05:38:46.096  65) Ssississa                 Level 17 Invoker (Yuan-Ti)
+05:38:46.097  66) Rifu                      Level 18 Hexblade (Half-Orc)
+05:38:46.098  67) Ginxa                     Level 14 Rogue (Half-Orc)
+05:38:46.098  68) Dogga                     Level 12 Warrior (Ogre)
+05:38:46.099  69) Ibo                       Level 12 Warrior (Barbarian)
+05:38:46.100  70) Cometa                    Level 11 Hexblade (Half-Orc)
+05:38:46.101  71) Amamal                    Level 18 Paladin (Moon Elf)
+05:38:46.101  72) Samile                    Level 14 Invoker (Drow Elf)
+05:38:46.102  73) Xulu                      Level 17 Shaman (Troll)
+05:38:46.103  74) Enyema                    Level 10 Invoker (Drow Elf)
+05:38:46.103  75) Nino                      Level  8 Shaman (Half-Orc)
+05:38:46.104  76) Upraeleolno               Level  1 Ranger (Moon Elf)
+05:38:46.105  77) Atesa                     Level 17 Necromancer (Drow Elf)
+05:38:46.106  78) Zic                       Level 12 Warrior (Barbarian)
+05:38:46.106  79) Eyata                     Level 12 Warrior (Drow Elf)
+05:38:46.107  80) Wowidomble                Level  3 Illusionist (Gnome)
+05:38:46.108  81) Hatra                     Level 10 Shaman (Half-Orc)
+05:38:46.108  82) Gobra                     Level 35 Shaman (Half-Orc)
+05:38:46.108  83) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+05:38:46.109  84) Legil                     Level  1 Invoker (Halfling)
+05:38:46.110  85) Onre                      Level  5 Rogue (Human)
+05:38:46.128  86) Krainor                   Level 17 Paladin (Human)
+05:38:46.130  87) Pipippaple                Level 50 Ranger (Gnome)
+05:38:46.130  88) Sijita                    Level 12 Necromancer (Drow Elf)
+05:38:46.131  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+05:38:46.132  90) Sewothe                   Level 20 Rogue (Drow Elf)
+05:38:46.132  91) Ixap                      Level 41 Hexblade (Half-Orc)
+05:38:46.133 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+05:38:46.133 Type the # or name of a character above to login or choose an action below.
+05:38:46.134 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+05:38:46.135 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+05:38:46.136 (E)nter description    | (D)elete character | (C)hange password
+05:38:46.137 (M)odify email address | (Q)uit
+05:38:46.137 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+05:38:46.439 Your choice: 
+05:38:47.062 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+05:38:47.063                            Wizards
+05:38:47.063 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+05:38:47.064 The new Wizard class has arrived, with Illusionist as the first subclass. For
+05:38:47.065 more details on this update, please see the news link below.
+
+05:38:47.066 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+05:38:47.066 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+05:38:47.066 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+05:38:47.067 - http://www.torilmud.com/news/arcane-companions/
+
+05:38:47.067 Resources
+
+05:38:47.067 Discord    : https://discord.gg/t7edjzM
+05:38:47.068 Web Client : http://www.torilmud.com/login
+05:38:47.068 News       : http://news.torilmud.com/
+05:38:47.068 Issues     : https://github.com/torilmud/issues
+
+05:38:47.142 Retrieving rented items from storage...
+
+05:38:47.142         Welcome to TorilMUD
+
+05:38:47.143                
+
+05:38:47.147 The Gentle Moon - Common Area
+05:38:47.147 Exits: -N -E           [327] 
+05:38:47.148 Mizes - Fuzzybottom of the Valkurian Blades (Yuan-Ti) stands in mid-air here.
+05:38:47.149 Riloesa  (Moon Elf) stands here.
+05:38:47.151 A tradesperson rests here with a drink in hand. (x3)
+05:38:47.152 A scantily-dressed server moves about the room looking awkward.
+05:38:47.152 The innkeeper stands behind the counter renting out rooms.
+
+Log session ending at 05:38:47 on Tuesday, 9 December 2025.

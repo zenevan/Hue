@@ -1,0 +1,266 @@
+Log session starting at 11:12:31 on Friday, 5 December 2025.
+01:37:03.031 < T: Wonpopolidle TC: excellent E: automaton EC: few scratches EP: rcl P: std > 
+11:12:31.807 < 264h/264H 150v/150V |bs +|ds +|dc +|lh +|rc +| |3|1| >
+11:12:31.807 [Spellqueue cleared.]
+11:12:31.987 < P: std > You are hungry.
+11:12:31.988 You are thirsty.
+11:12:31.988 You will no longer see the mini-map when moving.
+
+11:12:32.036 < 264h/264H 150v/150V |bs +|ds +|dc +|lh +|rc +| |3|1| >
+11:12:32.238 < P: std > You will now see the new prompt.
+11:12:32.488 < 264h/264H 150v/150V |3|1| P: std >Prompt option newline enabled.
+
+11:12:32.571 < 264h/264H 150v/150V |3|1| P: std >     
+
+11:12:32.820 Smartprompt toggled on.
+
+11:12:32.821 < 264h/264H 150v/150V |3|1| P: std >     
+
+11:12:41.832 There are no sub-classes currently available to your class.
+
+11:12:41.834 < 264h/264H 150v/150V |3|1| P: std >     
+
+11:12:41.834           Character attributes for Wonpopolidle
+
+11:12:41.835 Level: 12   Race: Gnome   Class: Paladin     
+11:12:41.855 Size: Small
+11:12:41.855 STR: perfect     AGI: perfect     DEX: mighty      CON: perfect
+11:12:41.855 POW: average     INT: average     WIS: average     CHA: average
+11:12:41.856 Armor Class: -60  (100 to -100)  Agility Bonus: -25
+11:12:41.857 Magic Resistance: 0 percent
+11:12:41.857 Hitroll: 25   Damroll: 43
+11:12:41.857 Alignment: Lawful Good
+11:12:41.857 Saving Throws: PAR[-8]  ROD[0]  PET[0]  BRE[0]  SPE[-5]
+11:12:41.858    Wimpy: 10
+11:12:41.858 Load carried: Very Light
+11:12:41.858 Damage Resistance:
+11:12:41.858 Unarmd:   11% Slash :   11% Bludgn:   11% Pierce:   11% Range :   11% 
+11:12:41.859 Spells:    0% Fire  :   10% Cold  :   10% Elect :    0% Acid  :   15% 
+11:12:41.860 Sonic :    0% Poison:    5% Pos   :    0% Neg   :    0% Psi   :    0% 
+11:12:41.861 Mental:    0% Good  :    0% Evil  :    5% Law   :    0% Chaos :    0% 
+11:12:41.862 Force :    0% 
+
+11:12:41.862 < 264h/264H 150v/150V |3|1| P: std >     
+
+11:12:41.863           Score information for Wonpopolidle
+
+11:12:41.863 Level: 12   Race: Gnome   Class: Paladin     
+11:12:41.868 Hit points: 264(264)  Moves: 150(150)
+11:12:41.868 Experience Progress: 87 % 
+11:12:41.869 Coins carried:    0 platinum     0 gold     0 silver     4 copper
+11:12:41.869 Coins in bank:    0 platinum     0 gold     0 silver     0 copper
+11:12:41.870 Prestige: 1900   Acheron Kill Count: 0
+11:12:41.871 Name status: Pending
+11:12:41.871 Citizen of:   Ashrumite
+11:12:41.871 Outcast from: Leuthilspar
+11:12:41.871 Playing time: 0 days / 10 hours / 56 minutes
+11:12:41.872 Title: 
+11:12:41.872 Status:  Standing.
+11:12:41.872 Detecting:       Evil Magic Heat
+11:12:41.872 Protected from:  Evil Fire Cold Acid
+11:12:41.873 Enchantments:    Farsee Haste
+
+11:12:41.873 < 264h/264H 150v/150V |3|1| P: std >     
+
+11:12:41.874 You are using:
+11:12:41.874 <worn as a badge>    a badge in the shape of a skull (illuminating)
+11:12:41.875 <worn on head>       an iron crown of fireballs (magic)
+11:12:41.875 <worn on eyes>       blazing yellow eyes
+11:12:41.876 <worn in ear>        a chainmail earring studded with rubies (magic)
+11:12:41.877 <worn in ear>        a teardrop earring of solid jade
+11:12:41.877 <worn on face>       the mask of the scorpion
+11:12:41.879 <worn around neck>   the medallion of the hive king (x2)
+11:12:41.879 <worn on body>       a lightweight suit of linked mail body armor
+11:12:41.880 <worn about body>    a cloak of shadow dragon hide (magic)
+11:12:41.881 <component bag>      a stout dragonhide pack (magic)
+11:12:41.882 <worn about waist>   a supple leather girdle with golden studs
+11:12:41.883 <worn on arms>       some lightweight metal sleeves (illuminating)
+11:12:41.884 <held as shield>     the blood-soaked bastion of defense (magic)
+11:12:41.893 <worn around wrist>  a black iron wristguard with protruding razors (magic)
+11:12:41.894 <worn around wrist>  a darkwood bracer covered in glowing sigils (magic)
+11:12:41.896 <worn on hands>      a pair of spiked adamantine gauntlets
+11:12:41.897 <worn on finger>     a gold, white gemstone ring (magic)
+11:12:41.897 <worn on finger>     a shiny golden ring (magic)
+11:12:41.898 <primary weapon>     a pair of screaming nunchaku crackling with electricity (magic)
+11:12:41.922 <worn on legs>       a pair of thunderbeast leggings
+11:12:41.923 <worn on feet>       a pair of taut red leather boots with adamantine buckles (magic)
+11:12:41.924 < 264h/264H 150v/150V |3|1| P: std >     
+
+11:12:41.929 < 264h/264H 150v/150V |3|1| P: std >     
+
+11:12:41.934 < 264h/264H 150v/150V |3|1| P: std >     
+
+11:12:41.934 You are 14,458 XP (12.85%) away from your next level.
+
+11:12:41.935 < 264h/264H 150v/150V |3|1| P: std >     
+
+11:12:41.935 You haven't consented to anyone.
+
+11:12:41.937 Wonpopolidle is consenting you.
+
+11:12:41.937 < 264h/264H 150v/150V |3|1| P: std >     
+
+11:12:41.938 You will now see the mini-map when moving.
+
+11:12:41.938 < 264h/264H 150v/150V |3|1| P: std >     
+
+11:12:41.939 Prompt option newline disabled.
+
+11:12:41.940 < 264h/264H 150v/150V |3|1| P: std >Smartprompt toggled off.
+
+11:12:41.942 [Setting statname to unset]
+11:12:41.946 [Setting rescuetype to basic]
+11:12:41.951 [All train triggers disabled]
+11:12:42.252 < 264h/264H 150v/150V |3|1| P: std >
+11:12:42.307 Prompt option newline enabled.
+
+11:12:42.517 < 264h/264H 150v/150V |3|1| P: std >     
+11:12:42.727 The Upstairs of the Wayward House Inn
+11:12:42.734 < 264h/264H 150v/150V |3|1| P: std >     
+11:12:42.938 You are carrying:
+11:12:42.938 Nothing.
+
+11:12:42.938 < 264h/264H 150v/150V |3|1| P: std >     
+
+11:12:44.847 [Searching... Match found: Silverymoon, Gem of the North : The Upstairs of the Wayward House Inn : 48604]
+11:12:45.006 Pardon?
+
+11:12:45.091 < 264h/264H 150v/150V |3|1| P: std >     
+11:12:47.260 You are carrying:
+11:12:47.260 Nothing.
+
+11:12:47.342 < 264h/264H 150v/150V |3|1| P: std >     
+11:12:50.768 You stop using a stout dragonhide pack.
+
+11:12:50.857 < 264h/264H 150v/150V |3|1| P: std >     
+
+11:12:54.799 You gain access to Suhu's storage cache.  
+11:12:54.800 In order to use your own cache again, you must first close this cache by entering: 'storage access close'.
+
+11:12:54.886 < 264h/264H 150v/150V |3|1| P: std >     
+11:12:58.531 You store a stout dragonhide pack in Suhu's storage cache.
+11:12:58.532 Autosaving...
+
+11:12:58.580 < 264h/264H 150v/150V |3|1| P: std >     
+11:12:58.775 It is 4pm, on the Day of the Moon
+11:12:58.775 The 14th Day of the Month of Horthos (of the Abandoned), Year 1300.
+11:12:58.776 Time elapsed since boot-up: 12:41:18
+11:12:58.777 Current time is: Fri Dec  5 11:35:33 2025
+
+11:12:58.864 < 264h/264H 150v/150V |3|1| P: std >     
+11:13:01.535 Jhalessa Shorncrown tells you 'It will cost you nothing to rent.'
+11:13:01.547 Jhalessa Shorncrown stores your stuff in the safe, and shows you to your room.
+
+11:13:01.549 Characters:
+11:13:01.549 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+11:13:01.607   1) Rufa                      Level 16 Warrior (Troll)
+11:13:01.608   2) Sedesee                   Level 18 Necromancer (Drow Elf)
+11:13:01.609   3) Zaba                      Level  1 Shaman (Ogre)
+11:13:01.610   4) Pukadito                  Level  1 Cleric (Duergar)
+11:13:01.611   5) Fibba                     Level  1 Battlechanter (Orc)
+11:13:01.611   6) Zissato                   Level  1 Sorcerer (Yuan-Ti)
+11:13:01.612   7) Sesesa                    Level  1 Invoker (Drow Elf)
+11:13:01.613   8) Cillicissin               Level  1 Psionicist (Illithid)
+11:13:01.614   9) Sulonwuka                 Level  1 Hexblade (Duergar)
+11:13:01.614  10) Tusso                     Level  1 Elementalist (Yuan-Ti)
+11:13:01.615  11) Milore                    Level 19 Rogue (Human)
+11:13:01.616  12) Unamimo                   Level  1 Ranger (Moon Elf)
+11:13:01.616  13) Cameshu                   Level  1 Druid (Moon Elf)
+11:13:01.617  14) Lirayu                    Level  1 Enchanter (Moon Elf)
+11:13:01.618  15) Tahane                    Level  1 Wizard (Moon Elf)
+11:13:01.618  16) Bonya                     Level  1 Wizard (Human)
+11:13:01.619  17) Belele                    Level  1 Paladin (Halfling)
+11:13:01.620  18) Oneba                     Level  1 Blackguard (Drow Elf)
+11:13:01.620  19) Elbama                    Level  1 Bard (Moon Elf)
+11:13:01.621  20) Noleamca                  Level  1 Paladin (Moon Elf)
+11:13:01.622  21) Tiku                      Level  1 Battlechanter (Orc)
+11:13:01.622  22) Hivo                      Level  5 Blackguard (Half-Orc)
+11:13:01.623  23) Dapo                      Level 16 Hexblade (Orc)
+11:13:01.624  24) Bitule                    Level  1 Ranger (Halfling)
+11:13:01.625  25) Moge                      Level  1 Shaman (Orc)
+11:13:01.626  26) Ssamo                     Level  7 Cleric (Yuan-Ti)
+11:13:01.626  27) Inapa                     Level  1 Ranger (Half-Orc)
+11:13:01.627  28) Cudu                      Level  1 Shaman (Troll)
+11:13:01.628  29) Hufu                      Level 19 Warrior (Troll)
+11:13:01.628  30) Elsesa                    Level  1 Warrior (Drow Elf)
+11:13:01.629  31) Zanga                     Level 19 Warrior (Ogre)
+11:13:01.629  32) Sibbi                     Level 19 Hexblade (Orc)
+11:13:01.630  33) Rupi                      Level  1 Paladin (Shield Dwarf)
+11:13:01.630  34) Asli                      Level 19 Rogue (Human)
+11:13:01.631  35) Ageka                     Level  8 Rogue (Half-Orc)
+11:13:01.632  36) Juja                      Level 15 Warrior (Orc)
+11:13:01.632  37) Puwa                      Level  7 Shaman (Troll)
+11:13:01.633  38) Kazgabope                 Level 50 Blackguard (Duergar)
+11:13:01.633  39) Renelay                   Level  1 Bard (Half-Elf)
+11:13:01.634  40) Yuneme                    Level  1 Bard (Human)
+11:13:01.635  41) Atase                     Level  1 Bard (Human)
+11:13:01.635  42) Nefe                      Level 18 Rogue (Human)
+11:13:01.636  43) Rassa                     Level  1 Sorcerer (Human)
+11:13:01.637  44) Medo                      Level  5 Elementalist (Human)
+11:13:01.637  45) Tafla                     Level 19 Bard (Half-Orc)
+11:13:01.638  46) Biha                      Level 50 Rogue (Human)
+11:13:01.638  47) Suhu                      Level 50 Warrior (Troll)
+11:13:01.639  48) Newotee                   Level 32 Hexblade (Drow Elf)
+11:13:01.640  49) Tararotuta                Level  1 Wizard (Duergar)
+11:13:01.640  50) Bobaroru                  Level  9 Elementalist (Duergar)
+11:13:01.641  51) Yazassa                   Level 50 Cleric (Yuan-Ti)
+11:13:01.642  52) Meliya                    Level  1 Paladin (Moon Elf)
+11:13:01.643  53) Giwa                      Level 39 Battlechanter (Orc)
+11:13:01.643  54) Mivo                      Level 46 Shaman (Orc)
+11:13:01.644  55) Farda                     Level  8 Bard (Shield Dwarf)
+11:13:01.645  56) Elbana                    Level  1 Paladin (Half-Orc)
+11:13:01.646  57) Pagmixa                   Level  1 Sorcerer (Drow Elf)
+11:13:01.647  58) Nusu                      Level 50 Warrior (Ogre)
+11:13:01.647  59) Eqasebee                  Level  1 Enchanter (Drow Elf)
+11:13:01.648  60) Firumokag                 Level 15 Warrior (Duergar)
+11:13:01.649  61) Bopinbolil                Level 38 Enchanter (Gnome)
+11:13:01.649  62) Wonpopolidle              Level 12 Paladin (Gnome)
+11:13:01.650 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+11:13:01.650 Type the # or name of a character above to login or choose an action below.
+11:13:01.651 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+11:13:01.651 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+11:13:01.652 (E)nter description    | (D)elete character | (C)hange password
+11:13:01.653 (M)odify email address | (Q)uit
+11:13:01.654 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+11:13:01.654 Account email: zenevan420@gmail.com
+11:13:01.654 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+11:13:01.954 Your choice: 
+11:13:11.286 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+11:13:11.286                            Wizards
+11:13:11.287 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+11:13:11.287 The new Wizard class has arrived, with Illusionist as the first subclass. For
+11:13:11.288 more details on this update, please see the news link below.
+
+11:13:11.289 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+11:13:11.289 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+11:13:11.290 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+11:13:11.290 - http://www.torilmud.com/news/arcane-companions/
+
+11:13:11.290 Resources
+
+11:13:11.290 Discord    : https://discord.gg/t7edjzM
+11:13:11.291 Web Client : http://www.torilmud.com/login
+11:13:11.291 News       : http://news.torilmud.com/
+11:13:11.291 Issues     : https://github.com/torilmud/issues
+
+11:13:11.369 Retrieving rented items from storage...
+
+11:13:11.370         Welcome to TorilMUD
+
+11:13:11.370                
+
+11:13:11.375 The Upstairs of the Wayward House Inn
+11:13:11.376    Like most of the building the upstairs is made of maple, a rich wood
+11:13:11.377 that gives the inn a warm feel.  The boards have been well carved and
+11:13:11.378 fit closely together, only admitting light through the shuttered
+11:13:11.378 windows.  This floor consists of several rooms available for rent.
+11:13:11.379 Each room has its own lock on the door to ensure privacy.
+11:13:11.380 Exits: - Down          [48604] 
+11:13:11.380 Grxx - Einherjar - Riders of Faerun (AFK) (RP) (Troll) stands here.
+11:13:11.381 Ixehixxih  (Illithid) stands here.
+11:13:11.382 Sylvana  (Half-Elf) stands here.
+11:13:11.382 Jhalessa Shorncrown stands here tidying up.
+
+Log session ending at 11:13:11 on Friday, 5 December 2025.

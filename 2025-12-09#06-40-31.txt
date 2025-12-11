@@ -1,0 +1,258 @@
+Log session starting at 06:40:31 on Tuesday, 9 December 2025.
+
+06:40:31.057 < 615h/615H 165v/175V P: std >     
+06:40:31.057 [Spellqueue cleared.]
+06:40:31.264 It is 9pm, on the Day of Freedom
+06:40:31.265 The 32nd Day of the Month of Mirtul (the Melting), Year 1301.
+06:40:31.266 Time elapsed since boot-up: 78:10:22
+06:40:31.266 Current time is: Tue Dec  9 07:03:01 2025
+
+06:40:31.350 < 615h/615H 165v/175V P: std >     
+06:40:31.511 You will now see the classic prompt.
+
+06:40:31.764 < 615h/615H 165v/175V P: std > 
+06:40:31.765  Prompt Command Usage:
+06:40:31.766   prompt                             - Display this help
+06:40:31.766   prompt layout                      - List available layouts
+06:40:31.767   prompt layout <layout>             - Set your layout
+06:40:31.768   prompt fields                      - List available fields
+06:40:31.769   prompt add <field>                 - Add a field to your current layout
+06:40:31.770   prompt remove <field>              - Remove a field from your current layout
+06:40:31.771   prompt options                     - Show a list of prompt option flags
+06:40:31.772   prompt options <flag>              - Toggle a prompt option
+06:40:31.773   prompt power <power> <slot>        - Add a power to a prompt slot
+06:40:31.773   prompt power auto                  - Set the default suggested power prompts
+06:40:31.774   prompt power clear <power, all>    - Clear a power from the prompt
+06:40:31.775   prompt color                       - List available prompt power colors
+06:40:31.776   prompt color <power, slot> <color> - Set the ready power color for a specific power or slot
+06:40:31.778   prompt color <type> <color>        - Set color for: <ready, cooldown, special, default, combo>
+06:40:31.779   prompt color <type> <clear>        - Clear color for <ready, cooldown, special, default, combo> 
+06:40:31.781   prompt color reset                 - Reset all prompt colors to default
+06:40:31.782   prompt help                        - Display this help
+
+06:40:31.858 To use the prompt command, first toggle on NEWPROMPT.
+
+06:40:32.012 < 615h/615H 166v/175V P: std > 
+06:40:32.091 Smartprompt toggled on.
+
+06:40:32.262 < 615h/615H 166v/175V P: std > 
+06:40:32.354 There are no sub-classes currently available to your class.
+
+06:40:32.513 < 615h/615H 166v/175V P: std > 
+
+06:40:32.606           Character attributes for Poromople
+
+06:40:32.606 Level: 49   Race: Gnome   Class: Invoker   
+06:40:32.608 Size: Small
+06:40:32.609 STR:  83  AGI: 100  DEX:  70  CON: 100
+06:40:32.609 POW:  70  INT: 109  WIS:  75  CHA:  70
+06:40:32.609 Armor Class: -3  (100 to -100)  Agility Bonus: -22
+06:40:32.610 Magic Resistance: 5 percent
+06:40:32.610 Hitroll: 9   Damroll: 2
+06:40:32.610 Alignment: Neutral Good
+06:40:32.610 Saving Throws: PAR[-18]  ROD[0]  PET[0]  BRE[-2]  SPE[-17]
+06:40:32.611    Wimpy: 669
+06:40:32.611 Load carried: Paltry
+06:40:32.611 Damage Resistance:
+06:40:32.612 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+06:40:32.612 Spells:    0% Fire  :    5% Cold  :    5% Elect :   10% Acid  :    7% 
+06:40:32.614 Sonic :    0% Poison:    5% Pos   :    0% Neg   :    0% Psi   :    0% 
+06:40:32.615 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+06:40:32.616 Force :    0% 
+
+06:40:32.764 < 615h/615H 166v/175V P: std > 
+
+06:40:32.850           Score information for Poromople
+
+06:40:32.851 Level: 49   Race: Gnome   Class: Invoker   
+06:40:32.852 Hit points: 615(615)  Moves: 167(175)
+06:40:32.854 Experience Progress: 48 % 
+06:40:32.854 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+06:40:32.855 Coins in bags: 1000 platinum     0 gold     0 silver     0 copper
+06:40:32.856 Coins in bank: 1428 platinum     5 gold     0 silver     6 copper
+06:40:32.856 Prestige: 5480   Acheron Kill Count: 0
+06:40:32.857 Name status: Approved
+06:40:32.857 Citizen of:   Ashrumite
+06:40:32.857 Outcast from: Leuthilspar
+06:40:32.857 Playing time: 3 days / 5 hours / 49 minutes
+06:40:32.858 Title: 
+06:40:32.858 Group Name: Gerupar and Company
+06:40:32.858 Group Leader: Gerupar
+06:40:32.858 Status:  Standing.
+06:40:32.859 Detecting:       Magic Heat
+06:40:32.859 Protected from:  Fire Cold Acid
+06:40:32.859 Enchantments:    No Summon
+
+06:40:33.024 < 615h/615H 167v/175V P: std > 
+06:40:33.116 You are using:
+06:40:33.116 <worn as a badge>    a badge in the shape of a skull (illuminating)
+06:40:33.118 <worn on head>       the mystical circlet of the facile chimera (magic)
+06:40:33.119 <worn in ear>        the crystallized tear of an astral deva (magic)
+06:40:33.120 <worn in ear>        an opal earring
+06:40:33.121 <worn around neck>   the medallion of the hive king (x2)
+06:40:33.122 <worn on body>       ringmail emblazoned with a mace and skull emblem (illuminating)
+06:40:33.123 <worn about body>    an icy white robe with blue piping (illuminating)
+06:40:33.124 <component bag>      a fine silk haversack stitched with platinum thread
+06:40:33.125 <worn on arms>       sleeves of stretched drow-skin
+06:40:33.125 <held as shield>     a githyanki shield etched with silver runes
+06:40:33.126 <worn around wrist>  a band of slaadi skin
+06:40:33.127 <worn around wrist>  a blue topaz bracelet (magic)
+06:40:33.127 <worn on hands>      a pair of black leather sap gloves (illuminating)
+06:40:33.128 <worn on finger>     a ring of seven stars (magic)
+06:40:33.129 <worn on finger>     a silver ring encrusted with a black sapphire (magic)
+06:40:33.130 <primary weapon>     a staff of radiance (magic) (glowing)
+06:40:33.146 <worn on legs>       some adamantine greaves inlayed with rubies
+06:40:33.147 <worn on feet>       a pair of midnight blue riding boots shod in steel
+06:40:33.264 < 615h/615H 167v/175V P: std > 
+
+06:40:33.514 < 615h/615H 167v/175V P: std > 
+06:40:33.594 You have no followers.
+
+06:40:33.764 < 615h/615H 167v/175V P: std > 
+
+06:40:34.016 < 615h/615H 167v/175V P: std > 
+06:40:34.104 You are 26,158,798 XP (51.70%) away from your next level.
+
+06:40:34.265 < 615h/615H 168v/175V P: std > 
+06:40:34.350 You have consented to Gerupar.
+
+06:40:34.351 Poromople is consenting you.
+
+06:40:34.516 < 615h/615H 168v/175V P: std > 
+06:40:34.599 You will now see the new prompt.
+
+06:40:34.600 < 615h/615H 168v/175V P: std >     
+06:40:34.766 Smartprompt toggled off.
+
+06:40:34.847 < 615h/615H 168v/175V P: std >     
+06:40:35.016 The Ashstone Casino
+06:40:35.017 Exits: -N -S -W        [87263] 
+06:40:35.026 A wooden club lies here. 
+06:40:35.027 Puzos  (Yuan-Ti) stands here.
+06:40:35.027 Gerupar  (Half-Orc) stands here.
+06:40:35.027 A gambler from Calimport stands here trying his luck.
+06:40:35.059 [Setting statname to unset]
+06:40:35.059 [All train triggers disabled]
+
+06:40:35.104 < 615h/615H 169v/175V P: std >     
+06:40:35.271 Prompt option newline disabled.
+
+06:40:35.526 < 615h/615H 169v/175V P: std >Prompt option newline enabled.
+
+06:40:35.611 < 615h/615H 169v/175V P: std >     
+
+06:40:36.364 Gerupar leaves west.
+06:40:36.365 You follow Gerupar west.
+
+06:40:36.365                
+
+06:40:36.369 The Casino Bar
+06:40:36.370 Exits: -E -S           [87265] 
+06:40:36.370 Gerupar  (Half-Orc) stands here.
+06:40:36.370 A man is standing here tending the bar.
+06:40:36.371 Puzos slithers in from the east.
+
+06:40:36.371 < 615h/615H 169v/175V P: std >     
+
+06:40:36.601 Gerupar leaves south.
+06:40:36.601 You follow Gerupar south.
+
+06:40:36.602                
+
+06:40:36.606 The House of Pleasure Bar
+06:40:36.607 Exits: -N -S -W        [87266] 
+06:40:36.607 A sign hangs here on a string. 
+06:40:36.607 Gerupar  (Half-Orc) stands here.
+06:40:36.608 The brothel manager is here keeping a watchful eye on things.
+06:40:36.608 Puzos slithers in from the north.
+
+06:40:36.609 < 615h/615H 168v/175V P: std >     
+
+06:40:36.848 Gerupar leaves south.
+06:40:36.849 You follow Gerupar south.
+
+06:40:36.849                
+
+06:40:36.855 The House of Pleasure
+06:40:36.855 Exits: -N -S -W        [87270] 
+06:40:36.855 Corpse of A burly bouncer is lying here. 
+06:40:36.856 A gray rock here catches your attention. 
+06:40:36.856 Gerupar  (Half-Orc) stands here.
+06:40:36.856 A burly bouncer is standing here screening the customers.
+06:40:36.857 Puzos slithers in from the north.
+
+06:40:36.858 < 615h/615H 167v/175V P: std >     
+
+06:40:37.112 Gerupar leaves south.
+06:40:37.113 You follow Gerupar south.
+
+06:40:37.114                
+
+06:40:37.118 The House of Pleasure
+06:40:37.118 Exits: -N -S -W        [87271] 
+06:40:37.118 Gerupar  (Half-Orc) stands here.
+06:40:37.118 A naked man is sleeping here, looking quite exhausted.
+06:40:37.119 Puzos slithers in from the north.
+
+06:40:37.120 < 615h/615H 166v/175V P: std >     
+
+06:40:37.359 Gerupar leaves west.
+06:40:37.360 You follow Gerupar west.
+
+06:40:37.360                
+
+06:40:37.365 The House of Pleasure
+06:40:37.365 Exits: -N -E -S        [87276] 
+06:40:37.366 A simple wooden staff lies here. 
+06:40:37.366 Gerupar  (Half-Orc) stands here.
+06:40:37.366 A naked woman is laying here seductively.
+06:40:37.367 Puzos slithers in from the east.
+
+06:40:37.367 < 615h/615H 166v/175V P: std >     
+
+06:40:39.606 Gerupar group-says '[Attacking: Naked]'
+
+06:40:39.608 < 615h/615H 168v/175V P: std >     
+
+06:40:39.857 Gerupar's weapon explodes in a peal of roaring thunder as he strikes A naked woman!
+06:40:39.858 A naked woman is thrown to the ground by the shockwave!
+
+06:40:39.859 < 615h/615H 168v/175V P: std >     
+
+06:40:40.601 Gerupar's a golden-edged moonstone blade detonates in a crackling torrent of electricity!
+06:40:40.604 Gerupar's a golden-edged moonstone blade flashes white in a burst of holy power!
+06:40:40.605 Gerupar's a golden-edged moonstone blade lashes out wildly in a burst of chaotic energy!
+06:40:40.607 Gerupar's a golden-edged moonstone blade erupts in a dazzling flash of brilliant light!
+
+06:40:40.610 < 615h/615H 168v/175V P: std >     
+06:40:40.864 < 615h/615H 169v/175V P: std >     
+
+06:40:44.604 Gerupar's a golden-edged moonstone blade detonates in a crackling torrent of electricity!
+06:40:44.606 Gerupar's a golden-edged moonstone blade flashes white in a burst of holy power!
+06:40:44.607 Gerupar's a golden-edged moonstone blade lashes out wildly in a burst of chaotic energy!
+06:40:44.609 Gerupar's a golden-edged moonstone blade erupts in a dazzling flash of brilliant light!
+06:40:44.611 Gerupar partially deflects A naked woman's lunge at him.
+06:40:44.612 A naked woman barely wounds Gerupar with her average hit.
+
+06:40:44.613 < 615h/615H 172v/175V P: std >     
+
+06:40:44.869 < 615h/615H 172v/175V P: std >     
+
+06:40:45.133 A searing, divine light radiates from Gerupar as he confronts A naked woman.
+06:40:45.134 A naked woman turns her attention to Gerupar.
+
+06:40:45.135 < 615h/615H 173v/175V P: std >     
+06:40:48.615 < 615h/615H 175v/175V P: std >     
+
+06:40:49.127 Gerupar's weapon flares with a burst of divine radiance as he strikes A naked woman!
+06:40:49.127 A naked woman recoils from the searing light, singed by the fires of righteousness.
+06:40:49.129 A naked woman is dazzled and unable to see well!
+
+06:40:49.129 < 615h/615H 175v/175V P: std >     
+
+06:40:51.306 [Saved CharData table]
+------------ 
+06:40:51.830 [Saved map: C:/Users/zenev/.config/mudlet/profiles/Torilmud/toril.map]
+06:40:52.146 "disconnectevent"
+06:40:52.146 [DisconnectEvent was just called]
+06:40:52.146 [Reconnect is not enabled. Type @set reconnect charnumber to enable]

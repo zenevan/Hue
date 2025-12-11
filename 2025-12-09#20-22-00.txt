@@ -1,0 +1,220 @@
+Log session starting at 20:22:00 on Tuesday, 9 December 2025.
+
+20:22:00.407 < 482h/416H 176v/145V P: std >     
+20:22:00.407 [Spellqueue cleared.]
+20:22:00.614 You will now see the classic prompt.
+
+20:22:00.865 < 482h/416H 176v/145V P: std > 
+20:22:00.865  Prompt Command Usage:
+20:22:00.865   prompt                             - Display this help
+20:22:00.866   prompt layout                      - List available layouts
+20:22:00.867   prompt layout <layout>             - Set your layout
+20:22:00.868   prompt fields                      - List available fields
+20:22:00.868   prompt add <field>                 - Add a field to your current layout
+20:22:00.869   prompt remove <field>              - Remove a field from your current layout
+20:22:00.871   prompt options                     - Show a list of prompt option flags
+20:22:00.872   prompt options <flag>              - Toggle a prompt option
+20:22:00.873   prompt power <power> <slot>        - Add a power to a prompt slot
+20:22:00.873   prompt power auto                  - Set the default suggested power prompts
+20:22:00.875   prompt power clear <power, all>    - Clear a power from the prompt
+20:22:00.876   prompt color                       - List available prompt power colors
+20:22:00.877   prompt color <power, slot> <color> - Set the ready power color for a specific power or slot
+20:22:00.878   prompt color <type> <color>        - Set color for: <ready, cooldown, special, default, combo>
+20:22:00.881   prompt color <type> <clear>        - Clear color for <ready, cooldown, special, default, combo> 
+20:22:00.882   prompt color reset                 - Reset all prompt colors to default
+20:22:00.883   prompt help                        - Display this help
+
+20:22:00.955 To use the prompt command, first toggle on NEWPROMPT.
+
+20:22:01.134 < 482h/416H 176v/145V P: std > 
+20:22:01.218 Smartprompt toggled on.
+
+20:22:01.364 < 482h/416H 176v/145V P: std > 
+20:22:01.451 There are no sub-classes currently available to your class.
+
+20:22:01.614 < 482h/416H 176v/145V P: std > 
+
+20:22:01.709           Character attributes for Newple
+
+20:22:01.709 Level: 50   Race: Halfling   Class: Rogue       
+20:22:01.827 Size: Small
+20:22:01.827 STR:  95  AGI: 100  DEX: 100  CON:  93
+20:22:01.827 POW:  70  INT:  70  WIS:  70  CHA:  70
+20:22:01.827 Armor Class: 100  (100 to -100)  Agility Bonus: -19
+20:22:01.828 Magic Resistance: 0 percent
+20:22:01.828 Hitroll: 10   Damroll: 3
+20:22:01.828 Alignment: True Neutral
+20:22:01.829 Saving Throws: PAR[0]  ROD[0]  PET[0]  BRE[0]  SPE[0]
+20:22:01.829    Wimpy: not set
+20:22:01.829 Load carried: What load?
+20:22:01.830 Damage Resistance:
+20:22:01.830 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+20:22:01.831 Spells:    0% Fire  :    0% Cold  :    0% Elect :    0% Acid  :    0% 
+20:22:01.832 Sonic :    0% Poison:    0% Pos   :    0% Neg   :    0% Psi   :    0% 
+20:22:01.833 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+20:22:01.833 Force :    0% 
+
+20:22:01.865 < 482h/416H 176v/145V P: std > 
+
+20:22:01.950           Score information for Newple
+
+20:22:01.950 Level: 50   Race: Halfling   Class: Rogue       
+20:22:01.952 Hit points: 482(416)  Moves: 176(145)
+20:22:01.952 Experience Progress: 6861 % 
+20:22:01.953 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+20:22:01.953 Coins in bank:    0 platinum  48378 gold  19931 silver  16333 copper
+20:22:01.954 Prestige: 12702   Acheron Kill Count: 0
+20:22:01.955 Name status: Approved
+20:22:01.955 Citizen of:   Beluir
+20:22:01.955 Outcast from: Leuthilspar
+20:22:01.955 Playing time: 96 days / 13 hours / 27 minutes
+20:22:01.955 Title: 
+20:22:01.955 Status:  Standing.
+20:22:01.956 Detecting:       Heat
+
+20:22:02.115 < 482h/416H 176v/145V P: std > 
+20:22:02.201 You aren't wearing anything!
+
+20:22:02.365 < 482h/416H 176v/145V P: std > 
+
+20:22:02.618 < 482h/416H 176v/145V P: std > 
+20:22:02.712 You have no followers.
+
+20:22:02.867 < 482h/416H 176v/145V P: std > 
+
+20:22:03.117 < 482h/416H 176v/145V P: std > 
+20:22:03.209 You are 0 XP (0.00%) away from your next level.
+
+20:22:03.369 < 481h/416H 176v/145V P: std > 
+20:22:03.453 You haven't consented to anyone.
+
+20:22:03.454 Newple is consenting you.
+
+20:22:03.619 < 481h/416H 176v/145V P: std > 
+20:22:03.701 You will now see the new prompt.
+
+20:22:03.702 < 481h/416H 176v/145V P: std >     
+20:22:03.867 Smartprompt toggled off.
+
+20:22:03.949 < 481h/416H 176v/145V P: std >     
+20:22:04.119 The Gentle Moon - Common Area
+20:22:03.949 < 481h/416H 176v/145V P: std >     
+20:22:04.216 < 481h/416H 175v/145V P: std >     
+20:22:04.369 Prompt option newline disabled.
+20:22:04.408 [Setting statname to unset]
+20:22:04.411 [All train triggers disabled]
+
+20:22:04.619 < 481h/416H 175v/145V P: std >Prompt option newline enabled.
+
+20:22:04.710 < 481h/416H 175v/145V P: std >     
+
+20:22:04.820 [Searching... Match found: Westgate : The Gentle Moon - Common Area : 327]
+20:22:05.875 The innkeeper tells you 'It will cost you nothing to rent.'
+20:22:05.891 The innkeeper stores your stuff in the safe, and shows you to your room.
+
+20:22:05.892 Characters:
+20:22:05.892 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+20:22:05.940   1) Afu                       Level 50 Warrior (Troll)
+20:22:05.941   2) Deabnue                   Level 50 Invoker (Human)
+20:22:05.941   3) Gizep                     Level 50 Enchanter (Drow Elf)
+20:22:05.942   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+20:22:05.943   5) Newple                    Level 50 Rogue (Halfling)
+20:22:05.943   6) Mattah                    Level 50 Necromancer (Human)
+20:22:05.945   7) Rafi                      Level 50 Blackguard (Human)
+20:22:05.945   8) Digun                     Level 50 Warrior (Shield Dwarf)
+20:22:05.946   9) Risor                     Level 50 Rogue (Human)
+20:22:05.947  10) Islala                    Level 50 Bard (Moon Elf)
+20:22:05.947  11) Minolai                   Level 50 Ranger (Moon Elf)
+20:22:05.948  12) Poppibble                 Level 50 Ranger (Halfling)
+20:22:05.949  13) Simasel                   Level 50 Cleric (Moon Elf)
+20:22:05.949  14) Giru                      Level 50 Hexblade (Orc)
+20:22:05.950  15) Xaniver                   Level 50 Ranger (Half-Orc)
+20:22:05.951  16) Waf                       Level 49 Shaman (Barbarian)
+20:22:05.951  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+20:22:05.952  18) Gomble                    Level 50 Paladin (Halfling)
+20:22:05.953  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+20:22:05.954  20) Siho                      Level 50 Paladin (Half-Orc)
+20:22:05.954  21) Nidipizil                 Level 50 Paladin (Gnome)
+20:22:05.955  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+20:22:05.955  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+20:22:05.956  24) Naleni                    Level 50 Warrior (Moon Elf)
+20:22:05.957  25) Gukonata                  Level 50 Blackguard (Duergar)
+20:22:05.958  26) Uspi                      Level 50 Blackguard (Half-Orc)
+20:22:05.958  27) Tonga                     Level 50 Warrior (Ogre)
+20:22:05.959  28) Popebople                 Level 48 Enchanter (Gnome)
+20:22:05.960  29) Bago                      Level 50 Shaman (Ogre)
+20:22:05.960  30) Loyol                     Level 50 Bard (Halfling)
+20:22:05.961  31) Irsen                     Level 50 Druid (Human)
+20:22:05.961  32) Fanal                     Level 50 Rogue (Orc)
+20:22:05.962  33) Poromople                 Level 50 Invoker (Gnome)
+20:22:05.963  34) Coruduwat                 Level 43 Elementalist (Duergar)
+20:22:05.963  35) Luso                      Level 41 Paladin (Human)
+20:22:05.964  36) Ssassur                   Level 44 Wizard (Yuan-Ti)
+20:22:05.964  37) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+20:22:05.965  38) Gorkl                     Level 29 Warrior (Ogre)
+20:22:05.966  39) Gapa                      Level 28 Battlechanter (Orc)
+20:22:05.966  40) Tazfap                    Level  1 Warrior (Drow Elf)
+20:22:05.967  41) Igunnokio                 Level 16 Ranger (Moon Elf)
+20:22:05.968  42) Tihep                     Level  6 Rogue (Drow Elf)
+20:22:05.968  43) Dobokin                   Level  1 Paladin (Half-Orc)
+20:22:05.969  44) Tamad                     Level  7 Paladin (Human)
+20:22:05.970  45) Pilferos                  Level  6 Rogue (Human)
+20:22:05.970  46) Tubor                     Level  1 Warrior (Ogre)
+20:22:05.971  47) Zorrax                    Level 13 Warrior (Troll)
+20:22:05.972  48) Muwede                    Level  1 Illusionist (Drow Elf)
+20:22:05.972  49) Woso                      Level 16 Druid (Half-Orc)
+20:22:05.973  50) Anisa                     Level 15 Blackguard (Half-Orc)
+20:22:05.974  51) Vodbadadva                Level 18 Rogue (Duergar)
+20:22:05.974  52) Lahla                     Level  1 Bard (Half-Orc)
+20:22:05.976  53) Lewo                      Level  8 Bard (Half-Orc)
+20:22:05.976  54) Dedad                     Level 11 Warrior (Drow Elf)
+20:22:05.977  55) Pige                      Level  1 Blackguard (Human)
+20:22:05.977  56) Bowo                      Level  1 Ranger (Half-Orc)
+20:22:05.978  57) Susu                      Level  7 Warrior (Ogre)
+20:22:05.979  58) Ohu                       Level 18 Warrior (Troll)
+20:22:05.979  59) Docuh                     Level  8 Warrior (Ogre)
+20:22:05.980  60) Simeramma                 Level 13 Ranger (Moon Elf)
+20:22:05.981  61) Efera                     Level  5 Necromancer (Drow Elf)
+20:22:05.981  62) Sehe                      Level 50 Rogue (Human)
+20:22:05.982  63) Haxu                      Level 12 Shaman (Troll)
+20:22:05.983  64) Lolele                    Level 20 Warrior (Halfling)
+20:22:05.983  65) Ssississa                 Level 17 Invoker (Yuan-Ti)
+20:22:05.983  66) Rifu                      Level 18 Hexblade (Half-Orc)
+20:22:05.984  67) Ginxa                     Level 14 Rogue (Half-Orc)
+20:22:05.985  68) Dogga                     Level 12 Warrior (Ogre)
+20:22:05.985  69) Ibo                       Level 12 Warrior (Barbarian)
+20:22:05.986  70) Cometa                    Level 11 Hexblade (Half-Orc)
+20:22:05.987  71) Amamal                    Level 18 Paladin (Moon Elf)
+20:22:05.988  72) Samile                    Level 14 Invoker (Drow Elf)
+20:22:05.988  73) Xulu                      Level 17 Shaman (Troll)
+20:22:05.989  74) Enyema                    Level 10 Invoker (Drow Elf)
+20:22:05.990  75) Nino                      Level  8 Shaman (Half-Orc)
+20:22:05.990  76) Upraeleolno               Level  1 Ranger (Moon Elf)
+20:22:05.991  77) Atesa                     Level 17 Necromancer (Drow Elf)
+20:22:05.992  78) Zic                       Level 12 Warrior (Barbarian)
+20:22:05.992  79) Eyata                     Level 12 Warrior (Drow Elf)
+20:22:05.993  80) Wowidomble                Level  3 Illusionist (Gnome)
+20:22:05.994  81) Hatra                     Level 10 Shaman (Half-Orc)
+20:22:05.995  82) Gobra                     Level 35 Shaman (Half-Orc)
+20:22:05.996  83) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+20:22:05.997  84) Legil                     Level  1 Invoker (Halfling)
+20:22:05.997  85) Onre                      Level  5 Rogue (Human)
+20:22:05.998  86) Krainor                   Level 17 Paladin (Human)
+20:22:05.998  87) Pipippaple                Level 50 Ranger (Gnome)
+20:22:05.999  88) Sijita                    Level 12 Necromancer (Drow Elf)
+20:22:06.000  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+20:22:06.001  90) Sewothe                   Level 20 Rogue (Drow Elf)
+20:22:06.001  91) Ixap                      Level 41 Hexblade (Half-Orc)
+20:22:06.002 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+20:22:06.002 Type the # or name of a character above to login or choose an action below.
+20:22:06.003 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+20:22:06.003 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+20:22:06.004 (E)nter description    | (D)elete character | (C)hange password
+20:22:06.005 (M)odify email address | (Q)uit
+20:22:06.005 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+20:22:06.318 Your choice: 
+20:22:07.440 Autosaving...
+20:22:07.441 Reconnecting...
+
+Log session ending at 20:22:07 on Tuesday, 9 December 2025.

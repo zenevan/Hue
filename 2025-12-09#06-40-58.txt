@@ -1,0 +1,205 @@
+Log session starting at 06:40:58 on Tuesday, 9 December 2025.
+06:40:58.729 [  OK  ]  - Mudlet-lua API & Geyser Layout manager loaded.
+------------ 
+------------ 
+------------ 
+06:40:58.749 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TOTHE 
+------------ WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THEAUTHORS OR 
+------------ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,TORT OR 
+------------ OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS INTHE SOFTWARE.
+------------ 
+------------ 
+06:40:58.750 [Initializing NyyLIB...]
+------------ 
+06:40:58.750 Script version: 6/27/2023 NyyLIB013dev https://github.com/Nyyrazzilyss/NyyLIB
+06:40:58.796 [Loaded charData]
+06:41:00.293 [Consumable database cached: Potions, Scrolls, Poisons]
+06:41:00.293 [Initializing chat windows...]
+06:41:00.384 [Chat containers created]
+06:41:00.387 "map loaded from @map init"
+06:41:00.387 [Creating mapper window and loading mudlet saved data]
+06:41:00.406 [ INFO ]  - Reading map. Format version: 20. File:
+06:41:00.406             "C:/Users/zenev/.config/mudlet/profiles/Torilmud/map/2025-12-09#06-40-52map.dat",
+06:41:00.406             please wait...
+06:41:00.593 [ INFO ]  - Successfully read the map file (0.19s), checking some
+06:41:00.593             consistency details...
+06:41:00.593 [ INFO ]  - Map audit starting...
+06:41:00.744 [  OK  ]  - Auditing of map completed (0.15s). Enjoy your game...
+06:41:00.744 [  OK  ]  - Map loaded successfully (0.34s).
+------------ 
+06:41:00.795 [Resetting stats counters.]
+06:41:00.795 [NyyLIB initialized.]
+06:41:00.808 [ INFO ]  - Reading map. Format version: 20. File:
+06:41:00.808             "C:/Users/zenev/.config/mudlet/profiles/Torilmud/map/2025-12-09#06-40-52map.dat",
+06:41:00.808             please wait...
+06:41:00.958 [ INFO ]  - Successfully read the map file (0.15s), checking some
+06:41:00.958             consistency details...
+06:41:00.958 [ INFO ]  - Map audit starting...
+06:41:01.106 [  OK  ]  - Auditing of map completed (0.15s). Enjoy your game...
+06:41:01.106 [  OK  ]  - Map loaded successfully (0.3s).
+06:41:01.110 [ INFO ]  - Looking up the IP address of server: torilmud.org:9999 ...
+06:41:01.112 [ INFO ]  - The IP address of torilmud.org has been found. It is: 104.236.2.214
+06:41:01.112 [ INFO ]  - Trying to connect to 104.236.2.214:9999 ...
+06:41:01.151 [ INFO ]  - A connection has been established successfully.
+06:41:01.151                 
+06:41:01.151                 
+06:41:01.151 [Autoroller disabled.]
+
+06:41:01.803                            .,:7I::,.
+06:41:01.803                            :cTKKWWWWUOWm
+06:41:01.804                        .2ZWWWWWWWWWWWWAI        ,,..
+06:41:01.804                     .:mAWWWWW: 7..   .        2W2
+06:41:01.805                     7WWWAWG                  ,WWWBEAEAmGmUoII;..
+06:41:01.805                     NWEmAG                .cWWWEEBWBANEWWWWWWWWWWO.
+06:41:01.806                     pWBANp7;;.        .7SWWWWAKAmDDDmmOUOOSGGKmOSWWm:
+06:41:01.807       7Gm        .:.mWKmKmAWWWWWWWWWWWWWWWWApSGNpSOU2DKD2U222OKAD2DEWWt
+06:41:01.807       ,2B       ;2I,IWADKBAAEBEBBEEEWBEANKGpSDmKpSODDZSAD22ZZZCOKG2UmWWWI
+06:41:01.808       .,IU:..;CKBW7.;GAApKpKAAEEAANNAAANKKKKKNNKGGDODOUKK222CCTCTmKSK0TEWW
+06:41:01.808     ,.17;oGGpmmDGD:,.IWESUpKKKNBBEEBWWWWWWAKKAEKAANANKpKKGGGSmmmpUKWo    SW.
+06:41:01.809    ,,.o7I000ZTTCDO;.:.IWBmmNGGGmEWWWZZSKEWWWBAWWWWWWWBAABBWWNO22ONWWW     ,A
+06:41:01.810   .,,,tIco00T0ZUmBO.,::UKWKNNW7  ;0T       7AWK7,..:tKWEWWD.      .UW:     ;
+06:41:01.811   ,::,c0IctCTOKNpZO2:.,,0BEEEKN             Zp        7WW:          WW
+06:41:01.812  .;7;;;ZottZKS;    GN;.,II12BWW7 WWK.       .          AW           ;W
+06:41:01.814 ..;oot7722DS,       SAI7;.;IItZWWWWWW;.                WT           I.
+06:41:01.815  .;12C2CcWW          oWp:.;:t1;;77SKWWWZG.:.           0
+06:41:01.815   ;;TUT  .G;          ;0,;;IWWWp1,   ;ICUSWpo2Ao,.;
+06:41:01.816   ;;;G:    .         .c0:7KWK72WWWWASZIt117IZU2OmmANSKK7,7.
+06:41:01.816   .1tt2              ,KcUWW.      :12DKKEABWWWWWWWWWWWWWWWWKmO,.
+06:41:01.817    Im,W1              7KDAU;0.                ...:;7tZOKNWWWWWWWWO2;
+06:41:01.818    17:;W:              ,;T2DWW:                            .:7ZGEWWWAA;.
+06:41:01.819    .W   0;                  cWW7                                  ,I2EWWpI,
+06:41:01.820     :S.                      .IEBC1.                                  .1SNWG:
+06:41:01.821       ;                        7Wt                                        7OKG
+06:41:01.822                                 KWWc.                                       :SW
+06:41:01.822                                  OSc,                                         KS
+06:41:01.823                                                                               .E
+06:41:01.824                                                                               ,E
+06:41:01.826                                                                               T
+
+06:41:01.827    |''||''|  ..|''||   '||''|.   '||' '||'      '||    ||' '||'  '|' '||''|.
+06:41:01.828       ||    .|'    ||   ||   ||   ||   ||        |||  |||   ||    |   ||   ||
+06:41:01.829       ||    ||      ||  ||''|'    ||   ||        |'|..'||   ||    |   ||    ||
+06:41:01.830       ||    '|.     ||  ||   |.   ||   ||        | '|' ||   ||    |   ||    ||
+06:41:01.831      .||.    ''|...|'  .||.  '|' .||. .||.....| .|. | .||.   '|..'   .||...|'
+
+06:41:01.832                Original Diku Base: Hans Henrik, Katja Nyboe,
+06:41:01.833              Tom Madsen, Michael Seifert, and Sebastian Hammer.
+
+06:41:01.834                 Join us on Discord: https://discord.gg/t7edjzM
+06:41:01.835 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+06:41:01.835           Enter your account name or "new" to create a new account
+06:41:01.836   Existing players: Create a new account OR login with your primary character
+06:41:01.836   to get started. You can then link all of your characters to your new account.
+06:41:01.855 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+06:41:02.168 Account name: 
+
+06:41:03.458 Entering compressed mode.
+06:41:03.774 Password: 
+
+06:41:04.645 Characters:
+06:41:04.645 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+06:41:04.645   1) Afu                       Level 50 Warrior (Troll)
+06:41:04.646   2) Deabnue                   Level 50 Invoker (Human)
+06:41:04.647   3) Gizep                     Level 50 Enchanter (Drow Elf)
+06:41:04.648   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+06:41:04.648   5) Newple                    Level 50 Rogue (Halfling)
+06:41:04.649   6) Mattah                    Level 50 Necromancer (Human)
+06:41:04.650   7) Rafi                      Level 50 Blackguard (Human)
+06:41:04.650   8) Digun                     Level 50 Warrior (Shield Dwarf)
+06:41:04.651   9) Risor                     Level 50 Rogue (Human)
+06:41:04.652  10) Islala                    Level 50 Bard (Moon Elf)
+06:41:04.652  11) Minolai                   Level 50 Ranger (Moon Elf)
+06:41:04.653  12) Poppibble                 Level 50 Ranger (Halfling)
+06:41:04.653  13) Simasel                   Level 50 Cleric (Moon Elf)
+06:41:04.655  14) Giru                      Level 50 Hexblade (Orc)
+06:41:04.655  15) Xaniver                   Level 50 Ranger (Half-Orc)
+06:41:04.656  16) Waf                       Level 49 Shaman (Barbarian)
+06:41:04.657  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+06:41:04.657  18) Gomble                    Level 50 Paladin (Halfling)
+06:41:04.657  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+06:41:04.659  20) Siho                      Level 50 Paladin (Half-Orc)
+06:41:04.659  21) Nidipizil                 Level 50 Paladin (Gnome)
+06:41:04.660  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+06:41:04.660  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+06:41:04.661  24) Naleni                    Level 50 Warrior (Moon Elf)
+06:41:04.661  25) Gukonata                  Level 50 Blackguard (Duergar)
+06:41:04.663  26) Uspi                      Level 50 Blackguard (Half-Orc)
+06:41:04.663  27) Tonga                     Level 50 Warrior (Ogre)
+06:41:04.664  28) Popebople                 Level 48 Enchanter (Gnome)
+06:41:04.665  29) Bago                      Level 50 Shaman (Ogre)
+06:41:04.665  30) Loyol                     Level 50 Bard (Halfling)
+06:41:04.666  31) Irsen                     Level 50 Druid (Human)
+06:41:04.666  32) Fanal                     Level 50 Rogue (Orc)
+06:41:04.667  33) Poromople                 Level 49 Invoker (Gnome)
+06:41:04.668  34) Coruduwat                 Level 43 Elementalist (Duergar)
+06:41:04.668  35) Luso                      Level 41 Paladin (Human)
+06:41:04.669  36) Ssassur                   Level 44 Wizard (Yuan-Ti)
+06:41:04.670  37) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+06:41:04.670  38) Gorkl                     Level 29 Warrior (Ogre)
+06:41:04.671  39) Gapa                      Level 28 Battlechanter (Orc)
+06:41:04.672  40) Tazfap                    Level  1 Warrior (Drow Elf)
+06:41:04.673  41) Igunnokio                 Level 16 Ranger (Moon Elf)
+06:41:04.674  42) Tihep                     Level  6 Rogue (Drow Elf)
+06:41:04.674  43) Dobokin                   Level  1 Paladin (Half-Orc)
+06:41:04.675  44) Tamad                     Level  7 Paladin (Human)
+06:41:04.676  45) Pilferos                  Level  6 Rogue (Human)
+06:41:04.676  46) Tubor                     Level  1 Warrior (Ogre)
+06:41:04.677  47) Zorrax                    Level 13 Warrior (Troll)
+06:41:04.677  48) Muwede                    Level  1 Illusionist (Drow Elf)
+06:41:04.678  49) Woso                      Level 16 Druid (Half-Orc)
+06:41:04.679  50) Anisa                     Level 15 Blackguard (Half-Orc)
+06:41:04.680  51) Vodbadadva                Level 18 Rogue (Duergar)
+06:41:04.680  52) Lahla                     Level  1 Bard (Half-Orc)
+06:41:04.681  53) Lewo                      Level  8 Bard (Half-Orc)
+06:41:04.681  54) Dedad                     Level 11 Warrior (Drow Elf)
+06:41:04.682  55) Pige                      Level  1 Blackguard (Human)
+06:41:04.682  56) Bowo                      Level  1 Ranger (Half-Orc)
+06:41:04.683  57) Susu                      Level  7 Warrior (Ogre)
+06:41:04.684  58) Ohu                       Level 18 Warrior (Troll)
+06:41:04.684  59) Docuh                     Level  8 Warrior (Ogre)
+06:41:04.685  60) Simeramma                 Level 13 Ranger (Moon Elf)
+06:41:04.685  61) Efera                     Level  5 Necromancer (Drow Elf)
+06:41:04.686  62) Sehe                      Level 50 Rogue (Human)
+06:41:04.687  63) Haxu                      Level 12 Shaman (Troll)
+06:41:04.687  64) Lolele                    Level 20 Warrior (Halfling)
+06:41:04.688  65) Ssississa                 Level 17 Invoker (Yuan-Ti)
+06:41:04.689  66) Rifu                      Level 18 Hexblade (Half-Orc)
+06:41:04.689  67) Ginxa                     Level 14 Rogue (Half-Orc)
+06:41:04.690  68) Dogga                     Level 12 Warrior (Ogre)
+06:41:04.691  69) Ibo                       Level 12 Warrior (Barbarian)
+06:41:04.691  70) Cometa                    Level 11 Hexblade (Half-Orc)
+06:41:04.692  71) Amamal                    Level 18 Paladin (Moon Elf)
+06:41:04.693  72) Samile                    Level 14 Invoker (Drow Elf)
+06:41:04.694  73) Xulu                      Level 17 Shaman (Troll)
+06:41:04.695  74) Enyema                    Level 10 Invoker (Drow Elf)
+06:41:04.695  75) Nino                      Level  8 Shaman (Half-Orc)
+06:41:04.696  76) Upraeleolno               Level  1 Ranger (Moon Elf)
+06:41:04.697  77) Atesa                     Level 17 Necromancer (Drow Elf)
+06:41:04.697  78) Zic                       Level 12 Warrior (Barbarian)
+06:41:04.698  79) Eyata                     Level 12 Warrior (Drow Elf)
+06:41:04.699  80) Wowidomble                Level  3 Illusionist (Gnome)
+06:41:04.699  81) Hatra                     Level 10 Shaman (Half-Orc)
+06:41:04.700  82) Gobra                     Level 35 Shaman (Half-Orc)
+06:41:04.701  83) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+06:41:04.702  84) Legil                     Level  1 Invoker (Halfling)
+06:41:04.702  85) Onre                      Level  5 Rogue (Human)
+06:41:04.703  86) Krainor                   Level 17 Paladin (Human)
+06:41:04.704  87) Pipippaple                Level 50 Ranger (Gnome)
+06:41:04.705  88) Sijita                    Level 12 Necromancer (Drow Elf)
+06:41:04.705  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+06:41:04.706  90) Sewothe                   Level 20 Rogue (Drow Elf)
+06:41:04.707  91) Ixap                      Level 41 Hexblade (Half-Orc)
+06:41:04.708 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+06:41:04.708 Type the # or name of a character above to login or choose an action below.
+06:41:04.709 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+06:41:04.709 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+06:41:04.710 (E)nter description    | (D)elete character | (C)hange password
+06:41:04.711 (M)odify email address | (Q)uit
+06:41:04.712 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+06:41:05.023 Your choice: 
+06:41:07.674 Autosaving...
+06:41:07.675 Reconnecting...
+
+Log session ending at 06:41:07 on Tuesday, 9 December 2025.

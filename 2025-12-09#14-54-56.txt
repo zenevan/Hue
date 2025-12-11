@@ -1,0 +1,941 @@
+Log session starting at 14:54:56 on Tuesday, 9 December 2025.
+
+14:54:56.532 < 344h/344H 160v/160V P: std >     
+14:54:56.532 [Spellqueue cleared.]
+14:54:56.747 You will no longer see the mini-map when moving.
+
+14:54:56.790 < 344h/344H 160v/160V P: std >     
+14:54:56.996 You will now see the classic prompt.
+
+14:54:57.247 < 344h/344H 160v/160V P: std > 
+14:54:57.248  Prompt Command Usage:
+14:54:57.248   prompt                             - Display this help
+14:54:57.248   prompt layout                      - List available layouts
+14:54:57.249   prompt layout <layout>             - Set your layout
+14:54:57.250   prompt fields                      - List available fields
+14:54:57.251   prompt add <field>                 - Add a field to your current layout
+14:54:57.252   prompt remove <field>              - Remove a field from your current layout
+14:54:57.253   prompt options                     - Show a list of prompt option flags
+14:54:57.254   prompt options <flag>              - Toggle a prompt option
+14:54:57.255   prompt power <power> <slot>        - Add a power to a prompt slot
+14:54:57.256   prompt power auto                  - Set the default suggested power prompts
+14:54:57.257   prompt power clear <power, all>    - Clear a power from the prompt
+14:54:57.258   prompt color                       - List available prompt power colors
+14:54:57.259   prompt color <power, slot> <color> - Set the ready power color for a specific power or slot
+14:54:57.260   prompt color <type> <color>        - Set color for: <ready, cooldown, special, default, combo>
+14:54:57.262   prompt color <type> <clear>        - Clear color for <ready, cooldown, special, default, combo> 
+14:54:57.264   prompt color reset                 - Reset all prompt colors to default
+14:54:57.265   prompt help                        - Display this help
+
+14:54:57.324 To use the prompt command, first toggle on NEWPROMPT.
+
+14:54:57.495 < 344h/344H 160v/160V P: std > 
+14:54:57.586 Smartprompt toggled on.
+
+14:54:57.747 < 344h/344H 160v/160V P: std > 
+14:54:57.838 There are no sub-classes currently available to your class.
+
+14:54:57.998 < 344h/344H 160v/160V P: std > 
+
+14:54:58.074           Character attributes for Irsen
+
+14:54:58.075 Level: 50   Race: Human   Class: Druid       
+14:54:58.116 Size: Medium
+14:54:58.116 STR:  90  AGI:  90  DEX:  70  CON:  90
+14:54:58.117 POW:  70  INT:  90  WIS: 100  CHA:  72
+14:54:58.117 Armor Class: 100  (100 to -100)  Agility Bonus: -10
+14:54:58.117 Magic Resistance: 0 percent
+14:54:58.119 Hitroll: 3   Damroll: 4
+14:54:58.119 Alignment: True Neutral
+14:54:58.119 Saving Throws: PAR[0]  ROD[0]  PET[0]  BRE[0]  SPE[0]
+14:54:58.120    Wimpy: not set
+14:54:58.120 Load carried: What load?
+14:54:58.120 Damage Resistance:
+14:54:58.120 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+14:54:58.121 Spells:    0% Fire  :    0% Cold  :    0% Elect :    0% Acid  :    0% 
+14:54:58.122 Sonic :    0% Poison:    0% Pos   :    0% Neg   :    0% Psi   :    0% 
+14:54:58.123 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+14:54:58.124 Force :    0% 
+
+14:54:58.250 < 344h/344H 160v/160V P: std > 
+
+14:54:58.339           Score information for Irsen
+
+14:54:58.339 Level: 50   Race: Human   Class: Druid       
+14:54:58.340 Hit points: 344(344)  Moves: 160(160)
+14:54:58.341 Experience Progress: 0 % 
+14:54:58.341 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+14:54:58.342 Coins in bank:  391 platinum  1580 gold     6 silver     3 copper
+14:54:58.343 Prestige: 5420   Acheron Kill Count: 0
+14:54:58.343 Name status: Approved
+14:54:58.343 Citizen of:   Waterdeep
+14:54:58.344 Outcast from: Leuthilspar
+14:54:58.344 Playing time: 17 days / 17 hours / 55 minutes
+14:54:58.344 Title: 
+14:54:58.344 Status:  Standing.
+14:54:58.345 Enchantments:    Waterbreath
+
+14:54:58.345 Active Powers:
+14:54:58.345 --------------
+14:54:58.346 Water Breathing
+
+14:54:58.496 < 344h/344H 160v/160V P: std > 
+14:54:58.584 You aren't wearing anything!
+
+14:54:58.748 < 344h/344H 160v/160V P: std > 
+
+14:54:59.001 < 344h/344H 160v/160V P: std > 
+
+14:54:59.252 < 344h/344H 160v/160V P: std > 
+14:54:59.344 You are 40,624,942 XP (99.82%) away from your next level.
+
+14:54:59.500 < 344h/344H 160v/160V P: std > 
+14:54:59.593 You haven't consented to anyone.
+
+14:54:59.594 Irsen is consenting you.
+
+14:54:59.750 < 344h/344H 160v/160V P: std > 
+14:54:59.842 You will now see the mini-map when moving.
+
+14:55:00.001 < 344h/344H 160v/160V P: std > 
+14:55:00.090 You will now see the new prompt.
+
+14:55:00.092 < 344h/344H 160v/160V P: std >     
+14:55:00.253 Smartprompt toggled off.
+
+14:55:00.340 < 344h/344H 160v/160V P: std >     
+14:55:00.503 The Crow's Nest of the Spirit Raven
+14:55:00.340 < 344h/344H 160v/160V P: std >     
+14:55:00.534 [Setting statname to unset]
+14:55:00.541 [All train triggers disabled]
+14:55:00.595 < 344h/344H 160v/160V P: std >     
+14:55:00.755 Prompt option newline disabled.
+
+14:55:01.006 < 344h/344H 160v/160V P: std >Prompt option newline enabled.
+
+14:55:01.086 [Searching... Match found: The Spirit Raven : The Crow's Nest of the Spirit Raven : 85877]
+
+14:55:01.092 < 344h/344H 160v/160V P: std >     
+
+14:55:09.853 You are hungry.
+14:55:09.853 You are thirsty.
+
+14:55:09.854 < 344h/344H 160v/160V P: std >     
+
+14:55:47.658 Your ship docks here.
+
+14:55:47.658 < 344h/344H 160v/160V P: std >     
+14:55:48.826  Listing of the Staff
+14:55:48.827 -=-=-=-=-=-=-=-=-=-=-
+14:55:48.827 [ FORGER CODER  ] Shevarash -The Black Archer, Vengeful Hunter of Drow
+
+14:55:48.829 There are 1 visible staff member(s) on.
+
+14:55:48.829  Listing of the Mortals!
+14:55:48.829 -=-=-=-=-=-=-=-=-=-=-=-=-
+14:55:48.829 [48 Ctr] Tabmur  (Orc)
+14:55:48.834 [50 Dru] Irsen  (Human)
+14:55:48.835 [50 Dru] Lilithelle - Valkyrie - Shadows of Imphras (Moon Elf)
+14:55:48.835 [50 Pal] Gerupar  (Half-Orc)
+14:55:48.839 [50 Rog] Lorle - Captain of the Valkurian Blades (Human) (AFK)
+14:55:48.840 [50 Sor] Teyolalil  (Gnome)
+14:55:48.844 [50 Enc] Fokle Fuzzybottom (Halfling) (RP)
+14:55:48.848 [50 Psi] Nyyrazzilyss - Head Jailer of the Valkurian Blades (Illithid) (AFK)
+14:55:48.849 [50 Bar] Kegor  (Human)
+14:55:48.850 [50 Ele] Sihwanni  (Moon Elf) (AFK)
+14:55:48.853 [50 Pal] Riloesa  (Moon Elf)
+14:55:48.856 [50 Bar] Rerole  (Halfling)
+14:55:48.857 [ 1 Bar] Katumi  (Half-Elf)
+14:55:48.858 [50 War] Grxx Krush Skul Einherjar Riders of Faerun (Troll) (AFK) (RP)
+14:55:48.859 [50 Wiz] Nonale  (Halfling)
+14:55:48.863 [50 Cle] Heroh  (Halfling)
+14:55:48.864 [50 Wiz] Raunppoble - Crew of the Valkurian Blades (Halfling) (AFK)
+14:55:48.868 [50 Hex] Kunathe  (Moon Elf)
+14:55:48.872 [50 Cle] Mizes - Fuzzybottom of the Valkurian Blades (Yuan-Ti)
+14:55:48.876 [50 Ran] Sylvana  (Half-Elf)
+14:55:48.879 [50 Psi] Ynndchiarhlizz - The Nexus (Illithid)
+
+14:55:48.880 There are 21 mortal(s) on.
+
+14:55:48.880 Total players online: 23.
+14:55:48.881 Record number of players on this boot:  32.
+
+14:55:48.914 < 344h/344H 160v/160V P: std >     
+
+14:56:00.168 Someone shouts, 'We have arrived at our destination! Prepare to disembark!'
+
+14:56:00.169 < 344h/344H 160v/160V P: std >     
+
+14:56:09.185 You receive Detrez's storage cube from Riloesa.
+
+14:56:09.186 < 344h/344H 160v/160V P: std >     
+14:56:20.367 You see nothing here.
+
+14:56:20.458 < 344h/344H 160v/160V P: std >     
+14:56:20.614 You wear some stuff.
+
+14:56:20.704 < 344h/344H 160v/160V P: std >     
+14:56:20.869 You see nothing here.
+
+14:56:20.952 < 344h/344H 160v/160V P: std >     
+14:56:21.113 You don't have anything you can put on.
+
+14:56:21.200 < 344h/344H 160v/160V P: std >     
+14:56:21.368 You see nothing here.
+
+14:56:21.462 < 344h/344H 160v/160V P: std >     
+14:56:21.614 You don't have anything you can put on.
+
+14:56:21.694 < 344h/344H 160v/160V P: std >     
+14:56:21.869 You see nothing here.
+
+14:56:21.956 < 344h/344H 160v/160V P: std >     
+14:56:22.117 You don't have anything you can put on.
+
+14:56:22.206 < 344h/344H 160v/160V P: std >     
+14:56:22.371 You see nothing here.
+
+14:56:22.456 < 344h/344H 160v/160V P: std >     
+14:56:22.618 You don't have anything you can put on.
+
+14:56:22.703 < 344h/344H 160v/160V P: std >     
+14:56:22.871 You see nothing here.
+
+14:56:22.950 < 344h/344H 160v/160V P: std >     
+14:56:23.117 You don't have anything you can put on.
+
+14:56:23.197 < 344h/344H 160v/160V P: std >     
+14:56:25.871 You are using:
+14:56:25.872 <held>               Detrez's storage cube
+14:56:25.965 < 344h/344H 160v/160V P: std >     
+14:56:30.876 You are carrying:
+14:56:30.876 a goodberry 
+
+14:56:30.954 < 344h/344H 160v/160V P: std >     
+14:56:33.380 You do not see that here.
+
+14:56:33.465 < 344h/344H 160v/160V P: std >     
+14:56:39.894 You get a fine silk haversack stitched with platinum thread from Detrez's storage cube.
+14:56:39.895 You get an icy white robe with blue piping from Detrez's storage cube.
+14:56:39.983 You get a belt of golden dragonscales with a bone clasp from Detrez's storage cube.
+14:56:39.985 You get a band of slaadi skin from Detrez's storage cube.
+14:56:39.986 You get a blue topaz bracelet from Detrez's storage cube.
+14:56:39.987 You get a heavy flail of meteoric iron from Detrez's storage cube.
+14:56:39.988 You get an eyepatch with the symbol of Ashstone from Detrez's storage cube.
+14:56:39.990 You get a badge in the shape of a skull from Detrez's storage cube.
+14:56:39.991 You get a suit of mithril platemail armor from Detrez's storage cube.
+14:56:39.992 You can't carry any more.
+
+14:56:39.992 < 344h/344H 160v/160V P: std >     
+14:56:40.140 You wear a bunch of stuff.
+
+14:56:40.204 < 344h/344H 160v/160V P: std >     
+14:56:40.396 You get the mystical circlet of the facile chimera from Detrez's storage cube.
+14:56:40.398 You get some adamantine greaves inlayed with rubies from Detrez's storage cube.
+14:56:40.478 You get a pair of midnight blue riding boots shod in steel from Detrez's storage cube.
+14:56:40.480 You get some gloves of flayed planetar hide from Detrez's storage cube.
+14:56:40.481 You get a set of adamantite chain sleeves from Detrez's storage cube.
+14:56:40.482 You get a blackened gold dragon scale shield from Detrez's storage cube.
+14:56:40.484 You get the medallion of the hive king from Detrez's storage cube. (x2)
+14:56:40.485 You get a red leather whip from Detrez's storage cube.
+14:56:40.486 You can't carry any more.
+
+14:56:40.486 < 344h/465H 160v/185V P: std >     
+14:56:40.640 You wear a bunch of stuff.
+
+14:56:40.726 < 344h/465H 160v/185V P: std >     
+14:56:40.895 You get a sheet of paper from Detrez's storage cube.
+14:56:40.896 You get a silver ring with mirrored finish from Detrez's storage cube.
+14:56:40.898 You get a ring of seven stars from Detrez's storage cube.
+14:56:40.988 You get a greater holy symbol hung on a silver chain from Detrez's storage cube.
+
+14:56:40.990 < 344h/567H 160v/185V P: std >     
+14:56:41.140 You wear some stuff.
+
+14:56:41.220 < 344h/567H 160v/185V P: std >     
+14:56:41.396 Detrez's storage cube appears to be empty.
+
+14:56:41.452 < 344h/707H 161v/185V P: std >     
+14:56:41.641 You wear some stuff.
+
+14:56:41.730 < 344h/707H 161v/185V P: std >     
+14:56:41.896 Detrez's storage cube appears to be empty.
+
+14:56:41.979 < 345h/707H 161v/185V P: std >     
+14:56:42.141 You wear some stuff.
+
+14:56:42.227 < 345h/707H 161v/185V P: std >     
+14:56:42.399 Detrez's storage cube appears to be empty.
+
+14:56:42.490 < 345h/707H 161v/185V P: std >     
+14:56:42.643 You wear some stuff.
+
+14:56:42.723 < 345h/707H 162v/185V P: std >     
+14:56:42.899 Detrez's storage cube appears to be empty.
+
+14:56:42.986 < 345h/707H 162v/185V P: std >     
+14:56:43.142 You wear some stuff.
+
+14:56:43.235 < 346h/707H 162v/185V P: std >     
+14:56:44.144 You are using:
+14:56:44.145 <worn as a badge>    a badge in the shape of a skull (illuminating)
+14:56:44.146 <worn on head>       the mystical circlet of the facile chimera (magic)
+14:56:44.147 <worn on eyes>       an eyepatch with the symbol of Ashstone (magic)
+14:56:44.149 <worn around neck>   the medallion of the hive king (illuminating) (x2)
+14:56:44.150 <worn on body>       a suit of mithril platemail armor (magic)
+14:56:44.151 <worn about body>    an icy white robe with blue piping (illuminating)
+14:56:44.152 <component bag>      a fine silk haversack stitched with platinum thread
+14:56:44.153 <worn about waist>   a belt of golden dragonscales with a bone clasp (magic)
+14:56:44.154 <worn on arms>       a set of adamantite chain sleeves (magic)
+14:56:44.155 <worn around wrist>  a band of slaadi skin
+14:56:44.156 <worn around wrist>  a blue topaz bracelet (magic)
+14:56:44.156 <worn on hands>      some gloves of flayed planetar hide
+14:56:44.156 <worn on finger>     a silver ring with mirrored finish (magic)
+14:56:44.157 <worn on finger>     a ring of seven stars (magic)
+14:56:44.158 <primary weapon>     a heavy flail of meteoric iron (magic)
+14:56:44.205 <held>               Detrez's storage cube (magic)
+14:56:44.206 <worn on legs>       some adamantine greaves inlayed with rubies
+14:56:44.206 <worn on feet>       a pair of midnight blue riding boots shod in steel
+14:56:44.230 < 346h/707H 163v/185V P: std >     
+14:56:51.153 You don't have that spell memorized. [Casting: HEAL ME ()]
+
+14:56:51.240 < 352h/707H 169v/185V P: std >     
+14:56:53.661 You have memorized the following spells:
+14:56:53.662 (10th circle)  3 - Moonwell
+14:56:53.662 ( 9th circle)  5 - Hailstorm
+14:56:53.663 ( 8th circle)  4 - Spiked Stones
+14:56:53.663                1 - Water Breathing
+14:56:53.664 ( 7th circle)  6 - Flame Blade
+14:56:53.664 ( 6th circle)  5 - Continual Light
+14:56:53.664 ( 5th circle)  7 - Harm
+14:56:53.665                1 - Dispel Magic
+14:56:53.665 ( 4th circle)  8 - Cause Critical
+14:56:53.665                1 - Cure Critic
+14:56:53.666 ( 3rd circle)  9 - Barkskin
+14:56:53.666 ( 2nd circle)  5 - Faerie Fire
+14:56:53.666                4 - Sticks To Snakes
+14:56:53.667 ( 1st circle)  6 - Goodberry
+14:56:53.668                4 - Shillelagh
+
+14:56:53.668 And you are currently praying for the following spells:
+14:56:53.669     6 seconds:  ( 6th) Continual Light
+14:56:53.669     9 seconds:  ( 1st) Goodberry
+14:56:53.670    16 seconds:  ( 6th) Continual Light
+14:56:53.670    20 seconds:  ( 2nd) Word of Recall
+14:56:53.671    30 seconds:  (10th) Moonwell
+
+14:56:53.671 You can pray for no more spells.
+
+14:56:53.754 < 353h/707H 171v/185V P: std >     
+14:57:02.918 You forget all the spells you are trying to memorize.
+
+14:57:03.009 < 360h/707H 180v/185V P: std >     
+14:57:04.420 You sit down and relax.
+14:57:04.420 [Spellqueue cleared.]
+
+14:57:04.508 < 361h/707H 181v/185V P: sit >     
+
+14:57:08.486 [Checking status on group]
+
+14:57:08.758 < 365h/707H 185v/185V P: sit >     
+
+14:57:09.534 [All flee triggers are turned off.]
+
+14:57:10.267 Someone shouts, 'Alright, we are ready to sail!'
+
+14:57:10.268 < 366h/707H 185v/185V P: sit >     
+
+14:57:11.262 [Assist commands will not be sent.]
+14:57:19.938 You give your consent to Riloesa.
+
+14:57:20.021 < 373h/707H 185v/185V P: sit >     
+
+14:57:20.285 Riloesa is now a member of Riloesa and Company.
+14:57:20.285 [Setting autoloot to off]
+14:57:20.285 [Setting autoassist to false]
+
+14:57:20.304 < 373h/707H 185v/185V P: sit >     
+
+14:57:20.522 < 373h/707H 185v/185V P: sit >     
+
+14:57:20.693   HP/Max           [Group Size: 2]              MV/Max  PSP/Max    Hit (Total) Rescue (Total)
+14:57:20.693  610/599 [Pal] Riloesa          @Stlmyth        170/170     /      89.6% (2440)
+14:57:20.693  610/599 [Pal] Riloesa          @Stlmyth        170/170     /      89.6% (2440)
+14:57:20.693  373/707 [Dru] Irsen            @Afu            185/185     /       nan% (   0)
+
+14:57:20.785 < 373h/707H 185v/185V P: sit >     
+
+14:57:27.794 Riloesa has disbanded the group.
+
+14:57:27.795 < 378h/707H 185v/185V P: sit >     
+
+14:57:28.041 < 378h/707H 185v/185V P: sit >     
+14:57:33.959 You now follow Riloesa.
+
+14:57:34.047 < 382h/707H 185v/185V P: sit >     
+
+14:57:49.563 Riloesa is now a member of Sojourn Assassination Squad.
+14:57:49.563 [Setting autoloot to off]
+14:57:49.563 [Setting autoassist to false]
+14:57:49.583 Tabmur is now a member of Sojourn Assassination Squad.
+
+14:57:49.584 < 394h/707H 185v/185V P: sit >     
+
+14:57:49.830 < 394h/707H 185v/185V P: sit >     
+
+14:57:49.980   HP/Max           [Group Size: 3]              MV/Max  PSP/Max    Hit (Total) Rescue (Total)
+14:57:49.980  608/599 [Pal] Riloesa          @Stlmyth        170/170     /      89.6% (2440)
+14:57:49.980  608/599 [Pal] Riloesa          @Stlmyth        170/170     /      89.6% (2440)
+14:57:49.980  592/566 [Ctr] Tabmur           @Anthonymo      160/160  284/419   88.0% (1955)
+14:57:49.980  592/566 [Ctr] Tabmur           @Anthonymo      160/160  284/419   88.0% (1955)
+14:57:49.980  394/707 [Dru] Irsen            @Afu            185/185     /       nan% (   0)
+
+14:57:50.066 < 394h/707H 185v/185V P: sit >     
+
+14:59:03.672 Riloesa stops using the blood-soaked bastion of defense.
+
+14:59:03.673 < 447h/707H 185v/185V P: sit >     
+
+14:59:21.943 Riloesa stops using a pair of screaming nunchaku crackling with electricity.
+
+14:59:21.944 < 461h/707H 185v/185V P: sit >     
+
+14:59:29.323 Riloesa wields a blessed adamantine lance of dragon slaying.
+
+14:59:29.324 < 466h/707H 185v/185V P: sit >     
+
+14:59:59.737 Autosaving...
+
+14:59:59.737 < 488h/707H 185v/185V P: sit >     
+14:59:59.907 It is 2pm, on the Day of Freedom
+14:59:59.908 The 18th Day of the Month of Bestanth (the Renewal), Year 1301.
+14:59:59.909 Time elapsed since boot-up: 86:29:51
+14:59:59.909 Current time is: Tue Dec  9 15:22:30 2025
+
+14:59:59.989 < 488h/707H 185v/185V P: sit >     
+
+15:00:32.746 Tabmur group-says 'yo'
+
+15:00:32.747 < 512h/707H 185v/185V P: sit >     
+15:04:36.586 You group-say 'yo bro'
+
+15:04:36.675 < 690h/707H 185v/185V P: sit >     
+15:04:43.349 You group-say 'u made it'
+
+15:04:43.431 < 695h/707H 185v/185V P: sit >     
+15:04:44.597 You are using:
+15:04:44.598 <worn as a badge>    a badge in the shape of a skull (illuminating)
+15:04:44.599 <worn on head>       the mystical circlet of the facile chimera (magic)
+15:04:44.600 <worn on eyes>       an eyepatch with the symbol of Ashstone (magic)
+15:04:44.601 <worn around neck>   the medallion of the hive king (illuminating) (x2)
+15:04:44.602 <worn on body>       a suit of mithril platemail armor (magic)
+15:04:44.603 <worn about body>    an icy white robe with blue piping (illuminating)
+15:04:44.604 <component bag>      a fine silk haversack stitched with platinum thread
+15:04:44.605 <worn about waist>   a belt of golden dragonscales with a bone clasp (magic)
+15:04:44.606 <worn on arms>       a set of adamantite chain sleeves (magic)
+15:04:44.607 <worn around wrist>  a band of slaadi skin
+15:04:44.608 <worn around wrist>  a blue topaz bracelet (magic)
+15:04:44.608 <worn on hands>      some gloves of flayed planetar hide
+15:04:44.610 <worn on finger>     a silver ring with mirrored finish (magic)
+15:04:44.610 <worn on finger>     a ring of seven stars (magic)
+15:04:44.611 <primary weapon>     a heavy flail of meteoric iron (magic)
+15:04:44.658 <held>               Detrez's storage cube (magic)
+15:04:44.659 <worn on legs>       some adamantine greaves inlayed with rubies
+15:04:44.660 <worn on feet>       a pair of midnight blue riding boots shod in steel
+15:04:44.677 < 696h/707H 185v/185V P: sit >     
+15:04:45.598 Order who to do what?
+
+15:04:45.691 < 697h/707H 185v/185V P: sit >     
+
+15:04:46.688 < 697h/707H 185v/185V P: sit >     
+15:04:47.601 The Crow's Nest of the Spirit Raven
+15:04:47.602 Exits: - Down          [85877] 
+15:04:47.603 A seven dragons tabbard lies here. 
+15:04:47.603 Tabmur  (Orc) stands here.
+15:04:47.604 Riloesa  (Moon Elf) stands here.
+15:04:47.604 A lookout is posted here, scanning the seas.
+
+15:04:47.682 < 698h/707H 185v/185V P: sit >     
+15:04:56.363 You group-say 'can we call'
+
+15:04:56.442 < 704h/707H 185v/185V P: sit >     
+
+15:05:00.714 Autosaving...
+
+15:05:00.714 < 707h/707H 185v/185V P: sit >     
+15:05:00.878 It is 7pm, on the Day of Freedom
+15:05:00.879 The 18th Day of the Month of Bestanth (the Renewal), Year 1301.
+15:05:00.880 Time elapsed since boot-up: 86:34:52
+15:05:00.880 Current time is: Tue Dec  9 15:27:31 2025
+
+15:05:00.972 < 707h/707H 185v/185V P: sit >     
+
+15:05:10.326 Tabmur group-says 'yea'
+
+15:05:10.328 < 707h/707H 185v/185V P: sit >     
+
+15:07:49.305 Your ship docks here.
+
+15:07:49.306 < 707h/707H 185v/185V P: sit >     
+
+15:08:01.822 Someone shouts, 'We have arrived at our destination! Prepare to disembark!'
+
+15:08:01.824 < 707h/707H 185v/185V P: sit >     
+
+15:09:11.979 Someone shouts, 'Alright, we are ready to sail!'
+
+15:09:11.980 < 707h/707H 185v/185V P: sit >     
+
+15:09:25.187 Tabmur begins singing.
+
+15:09:25.188 < 707h/707H 185v/185V P: sit >     
+
+15:09:29.434 Tabmur's quickening chant fills his cohort with awesome determination.
+15:09:29.437 Tabmur's song dramatically increases the movements of his companions!
+
+15:09:29.438 < 707h/707H 185v/185V P: sit >     
+
+15:09:41.460 Tabmur's quickening chant fills his cohort with awesome determination.
+15:09:41.461 Tabmur's song dramatically increases the movements of his companions!
+
+15:09:41.462 < 707h/707H 185v/185V P: sit >     
+
+15:09:53.494 Tabmur's quickening chant fills his cohort with awesome determination.
+15:09:53.496 Tabmur's song dramatically increases the movements of his companions!
+
+15:09:53.497 < 707h/707H 185v/185V P: sit >     
+
+15:10:01.250 Autosaving...
+
+15:10:01.250 < 707h/707H 185v/185V P: sit >     
+15:10:01.415 It is 12am, on the day of the Great Gods
+15:10:01.416 The 19th Day of the Month of Bestanth (the Renewal), Year 1301.
+15:10:01.417 Time elapsed since boot-up: 86:39:52
+15:10:01.417 Current time is: Tue Dec  9 15:32:31 2025
+
+15:10:01.499 < 707h/707H 185v/185V P: sit >     
+
+15:10:05.514 Tabmur's quickening chant fills his cohort with awesome determination.
+15:10:05.516 Tabmur's song dramatically increases the movements of his companions!
+
+15:10:05.517 < 707h/707H 185v/185V P: sit >     
+
+15:10:15.277 Tabmur stops singing abruptly.
+
+15:10:15.278 < 707h/707H 185v/185V P: sit >     
+
+15:10:24.244 Tabmur stops using a small oaken drum wrapped with dragonhide.
+
+15:10:24.245 < 707h/707H 185v/185V P: sit >     
+
+15:10:36.274 Tabmur grabs a boneshell balalaika strung with elven hair.
+
+15:10:36.275 < 707h/707H 185v/185V P: sit >     
+
+15:10:55.301 Tabmur begins singing.
+
+15:10:55.302 < 707h/707H 185v/185V P: sit >     
+
+15:10:59.565 A harmonious combination of notes from Tabmur soothes your wounds.
+
+15:10:59.566 < 707h/707H 185v/185V P: sit >     
+
+15:10:59.815 < 707h/707H 185v/185V P: sit >     
+
+15:11:11.586 A harmonious combination of notes from Tabmur soothes your wounds.
+
+15:11:11.588 < 707h/707H 185v/185V P: sit >     
+
+15:11:11.839 < 707h/707H 185v/185V P: sit >     
+
+15:11:20.599 Tabmur stops singing abruptly.
+
+15:11:20.599 < 707h/707H 185v/185V P: sit >     
+
+15:11:43.375 Tabmur begins singing.
+
+15:11:43.375 < 707h/707H 185v/185V P: sit >     
+
+15:11:47.657 Lifting and refreshing notes eminate from Tabmur, invigorating you.
+
+15:11:47.658 < 707h/707H 185v/185V P: sit >     
+
+15:11:59.672 Lifting and refreshing notes eminate from Tabmur, invigorating you.
+
+15:11:59.675 < 707h/707H 185v/185V P: sit >     
+
+15:12:11.690 Lifting and refreshing notes eminate from Tabmur, invigorating you.
+
+15:12:11.691 < 707h/707H 185v/185V P: sit >     
+
+15:12:24.195 Lifting and refreshing notes eminate from Tabmur, invigorating you.
+
+15:12:24.196 < 707h/707H 185v/185V P: sit >     
+
+15:12:36.225 Lifting and refreshing notes eminate from Tabmur, invigorating you.
+
+15:12:36.226 < 707h/707H 185v/185V P: sit >     
+15:12:47.147 You start setting up camp...
+
+15:12:47.148 You will be logged out in 15 seconds.
+
+15:12:47.231 < 707h/707H 185v/185V P: sit >     
+
+15:12:48.228 Lifting and refreshing notes eminate from Tabmur, invigorating you.
+
+15:12:48.229 < 707h/707H 185v/185V P: sit >     
+15:12:52.153 Nah... You feel too relaxed to do that...
+
+15:12:52.206 < 707h/707H 185v/185V P: sit >     
+15:12:52.404 You sit up straight and start to pay attention.
+
+15:12:52.497 < 707h/707H 185v/185V P: sit >     
+15:12:52.905 Perhaps you should get on your feet first?
+
+15:12:52.999 < 707h/707H 185v/185V P: sit >     
+15:12:55.158 You clamber to your feet.
+
+15:12:55.200 < 707h/707H 185v/185V P: std >     
+
+15:12:55.496 < 707h/707H 185v/185V P: std >     
+15:12:55.658 The Crow's Nest of the Spirit Raven
+15:12:55.746 < 707h/707H 185v/185V P: std >     
+15:12:56.410 You are carrying:
+15:12:56.410 a greater holy symbol hung on a silver chain (magic) 
+15:12:56.411 a sheet of paper 
+15:12:56.411 a red leather whip 
+15:12:56.411 a blackened gold dragon scale shield (magic) 
+15:12:56.411 a goodberry (magic) 
+
+15:12:56.490 < 707h/707H 185v/185V P: std >     
+
+15:12:57.491 Logout cancelled.
+
+15:12:57.492 < 707h/707H 185v/185V P: std >     
+
+15:13:00.247 Lifting and refreshing notes eminate from Tabmur, invigorating you.
+
+15:13:00.248 < 707h/707H 185v/185V P: std >     
+15:13:07.953 You are using:
+15:13:07.954 <worn as a badge>    a badge in the shape of a skull (illuminating)
+15:13:07.955 <worn on head>       the mystical circlet of the facile chimera (magic)
+15:13:07.956 <worn on eyes>       an eyepatch with the symbol of Ashstone (magic)
+15:13:07.958 <worn around neck>   the medallion of the hive king (illuminating) (x2)
+15:13:07.958 <worn on body>       a suit of mithril platemail armor (magic)
+15:13:07.959 <worn about body>    an icy white robe with blue piping (illuminating)
+15:13:07.960 <component bag>      a fine silk haversack stitched with platinum thread
+15:13:07.961 <worn about waist>   a belt of golden dragonscales with a bone clasp (magic)
+15:13:07.962 <worn on arms>       a set of adamantite chain sleeves (magic)
+15:13:07.963 <worn around wrist>  a band of slaadi skin
+15:13:07.963 <worn around wrist>  a blue topaz bracelet (magic)
+15:13:07.964 <worn on hands>      some gloves of flayed planetar hide
+15:13:07.965 <worn on finger>     a silver ring with mirrored finish (magic)
+15:13:07.965 <worn on finger>     a ring of seven stars (magic)
+15:13:07.966 <primary weapon>     a heavy flail of meteoric iron (magic)
+15:13:08.012 <held>               Detrez's storage cube (magic)
+15:13:08.012 <worn on legs>       some adamantine greaves inlayed with rubies
+15:13:08.013 <worn on feet>       a pair of midnight blue riding boots shod in steel
+15:13:08.038 < 707h/707H 185v/185V P: std >     
+15:13:12.200 Lifting and refreshing notes eminate from Tabmur, invigorating you.
+15:13:12.202 You stop using a fine silk haversack stitched with platinum thread.
+
+15:13:12.290 < 707h/707H 185v/160V P: std >     
+15:13:16.455 You are carrying:
+15:13:16.455 a fine silk haversack stitched with platinum thread 
+15:13:16.456 a greater holy symbol hung on a silver chain (magic) 
+15:13:16.457 a sheet of paper 
+15:13:16.457 a red leather whip 
+15:13:16.538 a blackened gold dragon scale shield (magic) 
+15:13:16.539 a goodberry (magic) 
+
+15:13:16.539 < 707h/707H 185v/160V P: std >     
+15:13:22.220 The a fine silk haversack stitched with platinum thread does not contain the cube.
+
+15:13:22.300 < 707h/707H 185v/160V P: std >     
+
+15:13:24.308 Lifting and refreshing notes eminate from Tabmur, invigorating you.
+
+15:13:24.310 < 707h/707H 160v/160V P: std >     
+15:13:24.468 You are carrying:
+15:13:24.469 a fine silk haversack stitched with platinum thread 
+15:13:24.469 a greater holy symbol hung on a silver chain (magic) 
+15:13:24.470 a sheet of paper 
+15:13:24.470 a red leather whip 
+15:13:24.558 a blackened gold dragon scale shield (magic) 
+15:13:24.559 a goodberry (magic) 
+
+15:13:24.559 < 707h/707H 160v/160V P: std >     
+15:13:27.722 You are using:
+15:13:27.723 <worn as a badge>    a badge in the shape of a skull (illuminating)
+15:13:27.724 <worn on head>       the mystical circlet of the facile chimera (magic)
+15:13:27.725 <worn on eyes>       an eyepatch with the symbol of Ashstone (magic)
+15:13:27.726 <worn around neck>   the medallion of the hive king (illuminating) (x2)
+15:13:27.727 <worn on body>       a suit of mithril platemail armor (magic)
+15:13:27.728 <worn about body>    an icy white robe with blue piping (illuminating)
+15:13:27.729 <worn about waist>   a belt of golden dragonscales with a bone clasp (magic)
+15:13:27.730 <worn on arms>       a set of adamantite chain sleeves (magic)
+15:13:27.732 <worn around wrist>  a band of slaadi skin
+15:13:27.732 <worn around wrist>  a blue topaz bracelet (magic)
+15:13:27.733 <worn on hands>      some gloves of flayed planetar hide
+15:13:27.733 <worn on finger>     a silver ring with mirrored finish (magic)
+15:13:27.734 <worn on finger>     a ring of seven stars (magic)
+15:13:27.735 <primary weapon>     a heavy flail of meteoric iron (magic)
+15:13:27.779 <held>               Detrez's storage cube (magic)
+15:13:27.779 <worn on legs>       some adamantine greaves inlayed with rubies
+15:13:27.780 <worn on feet>       a pair of midnight blue riding boots shod in steel
+15:13:27.811 < 707h/707H 160v/160V P: std >     
+
+15:13:29.555 Tabmur stops singing abruptly.
+
+15:13:29.556 < 707h/707H 160v/160V P: std >     
+15:13:30.475 You stop using Detrez's storage cube.
+
+15:13:30.568 < 707h/707H 160v/160V P: std >     
+15:13:36.985 You are carrying:
+15:13:36.986 Detrez's storage cube (magic) 
+15:13:36.986 a fine silk haversack stitched with platinum thread 
+15:13:36.987 a greater holy symbol hung on a silver chain (magic) 
+15:13:37.078 a sheet of paper 
+15:13:37.079 a red leather whip 
+15:13:37.079 a blackened gold dragon scale shield (magic) 
+15:13:37.080 a goodberry (magic) 
+
+15:13:37.080 < 707h/707H 160v/160V P: std >     
+15:13:40.239 You wear some stuff.
+
+15:13:40.319 < 707h/707H 160v/160V P: std >     
+15:13:40.988 You are using:
+15:13:40.989 <worn as a badge>    a badge in the shape of a skull (illuminating)
+15:13:40.990 <worn on head>       the mystical circlet of the facile chimera (magic)
+15:13:40.992 <worn on eyes>       an eyepatch with the symbol of Ashstone (magic)
+15:13:40.994 <worn around neck>   the medallion of the hive king (illuminating) (x2)
+15:13:40.995 <worn on body>       a suit of mithril platemail armor (magic)
+15:13:40.996 <worn about body>    an icy white robe with blue piping (illuminating)
+15:13:40.997 <component bag>      a fine silk haversack stitched with platinum thread
+15:13:40.998 <worn about waist>   a belt of golden dragonscales with a bone clasp (magic)
+15:13:40.999 <worn on arms>       a set of adamantite chain sleeves (magic)
+15:13:41.000 <held as shield>     a blackened gold dragon scale shield (magic)
+15:13:41.028 <worn around wrist>  a band of slaadi skin
+15:13:41.029 <worn around wrist>  a blue topaz bracelet (magic)
+15:13:41.030 <worn on hands>      some gloves of flayed planetar hide
+15:13:41.030 <worn on finger>     a silver ring with mirrored finish (magic)
+15:13:41.032 <worn on finger>     a ring of seven stars (magic)
+15:13:41.032 <primary weapon>     a heavy flail of meteoric iron (magic)
+15:13:41.077 <worn on legs>       some adamantine greaves inlayed with rubies
+15:13:41.078 <worn on feet>       a pair of midnight blue riding boots shod in steel
+15:13:41.097 < 707h/727H 160v/185V P: std >     
+15:13:57.513 You can't carry that many items.
+15:13:57.514 You stop using a bunch of stuff.
+
+15:13:57.597 < 719h/527H 160v/185V P: std >     
+15:13:57.763 You put in 10 items into fine silk haversack stitched with platinum thread.
+
+15:13:57.845 < 719h/527H 160v/185V P: std >     
+15:13:58.264 You can't carry that many items.
+15:13:58.265 You stop using a bunch of stuff.
+
+15:13:58.372 < 719h/354H 160v/185V P: std >     
+15:13:58.515 You put in 10 items into fine silk haversack stitched with platinum thread.
+
+15:13:58.608 < 719h/354H 160v/185V P: std >     
+15:13:58.765 You stop using some stuff.
+
+15:13:58.856 < 719h/344H 160v/160V P: std >     
+15:13:59.017 You put in 3 items into fine silk haversack stitched with platinum thread.
+
+15:13:59.104 < 719h/344H 160v/160V P: std >     
+15:13:59.264 You aren't wearing anything!
+
+15:13:59.355 < 718h/344H 160v/160V P: std >     
+15:13:59.516 You don't have anything to put in it.
+
+15:13:59.604 < 718h/344H 160v/160V P: std >     
+15:13:59.765 You are carrying:
+15:13:59.765 a fine silk haversack stitched with platinum thread 
+
+15:13:59.851 < 717h/344H 160v/160V P: std >     
+15:14:00.516 You aren't wearing anything!
+
+15:14:00.601 < 715h/344H 160v/160V P: std >     
+15:14:30.308 You are carrying:
+15:14:30.308 a fine silk haversack stitched with platinum thread 
+
+15:14:30.400 < 663h/344H 160v/160V P: std >     
+15:14:32.811 You are carrying:
+15:14:32.811 a fine silk haversack stitched with platinum thread 
+
+15:14:32.897 < 659h/344H 160v/160V P: std >     
+15:14:35.063 The Crow's Nest of the Spirit Raven
+15:14:35.063 Exits: - Down          [85877] 
+15:14:35.064 A seven dragons tabbard lies here. 
+15:14:35.064 Tabmur  (Orc) stands here.
+15:14:35.065 Riloesa  (Moon Elf) stands here.
+15:14:35.065 A lookout is posted here, scanning the seas.
+
+15:14:35.148 < 655h/344H 160v/160V P: std >     
+15:14:47.347 You give a fine silk haversack stitched with platinum thread to Riloesa.
+
+15:14:47.425 < 636h/344H 160v/160V P: std >     
+15:14:49.842 You start setting up camp...
+
+15:14:49.843 You will be logged out in 15 seconds.
+
+15:14:49.926 < 632h/344H 160v/160V P: std >     
+
+15:15:00.191 You will be logged out in 5 seconds.
+
+15:15:00.192 < 616h/344H 160v/160V P: std >     
+
+15:15:01.941 Autosaving...
+
+15:15:01.942 < 614h/344H 160v/160V P: std >     
+15:15:02.110 It is 5am, on the day of the Great Gods
+15:15:02.110 The 19th Day of the Month of Bestanth (the Renewal), Year 1301.
+15:15:02.111 Time elapsed since boot-up: 86:44:53
+15:15:02.111 Current time is: Tue Dec  9 15:37:32 2025
+
+15:15:02.189 < 613h/344H 160v/160V P: std >     
+15:15:05.121 You complete setting up your camp and settle in.
+15:15:05.123 You stop following Riloesa.
+
+15:15:05.123 Characters:
+15:15:05.123 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+15:15:05.133   1) Afu                       Level 50 Warrior (Troll)
+15:15:05.133   2) Deabnue                   Level 50 Invoker (Human)
+15:15:05.134   3) Gizep                     Level 50 Enchanter (Drow Elf)
+15:15:05.135   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+15:15:05.135   5) Newple                    Level 50 Rogue (Halfling)
+15:15:05.136   6) Mattah                    Level 50 Necromancer (Human)
+15:15:05.137   7) Rafi                      Level 50 Blackguard (Human)
+15:15:05.138   8) Digun                     Level 50 Warrior (Shield Dwarf)
+15:15:05.138   9) Risor                     Level 50 Rogue (Human)
+15:15:05.139  10) Islala                    Level 50 Bard (Moon Elf)
+15:15:05.139  11) Minolai                   Level 50 Ranger (Moon Elf)
+15:15:05.140  12) Poppibble                 Level 50 Ranger (Halfling)
+15:15:05.140  13) Simasel                   Level 50 Cleric (Moon Elf)
+15:15:05.141  14) Giru                      Level 50 Hexblade (Orc)
+15:15:05.142  15) Xaniver                   Level 50 Ranger (Half-Orc)
+15:15:05.142  16) Waf                       Level 49 Shaman (Barbarian)
+15:15:05.143  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+15:15:05.144  18) Gomble                    Level 50 Paladin (Halfling)
+15:15:05.144  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+15:15:05.145  20) Siho                      Level 50 Paladin (Half-Orc)
+15:15:05.146  21) Nidipizil                 Level 50 Paladin (Gnome)
+15:15:05.146  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+15:15:05.147  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+15:15:05.148  24) Naleni                    Level 50 Warrior (Moon Elf)
+15:15:05.149  25) Gukonata                  Level 50 Blackguard (Duergar)
+15:15:05.149  26) Uspi                      Level 50 Blackguard (Half-Orc)
+15:15:05.150  27) Tonga                     Level 50 Warrior (Ogre)
+15:15:05.151  28) Popebople                 Level 48 Enchanter (Gnome)
+15:15:05.151  29) Bago                      Level 50 Shaman (Ogre)
+15:15:05.152  30) Loyol                     Level 50 Bard (Halfling)
+15:15:05.153  31) Irsen                     Level 50 Druid (Human)
+15:15:05.153  32) Fanal                     Level 50 Rogue (Orc)
+15:15:05.154  33) Poromople                 Level 50 Invoker (Gnome)
+15:15:05.155  34) Coruduwat                 Level 43 Elementalist (Duergar)
+15:15:05.155  35) Luso                      Level 41 Paladin (Human)
+15:15:05.156  36) Ssassur                   Level 44 Wizard (Yuan-Ti)
+15:15:05.157  37) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+15:15:05.157  38) Gorkl                     Level 29 Warrior (Ogre)
+15:15:05.158  39) Gapa                      Level 28 Battlechanter (Orc)
+15:15:05.159  40) Tazfap                    Level  1 Warrior (Drow Elf)
+15:15:05.159  41) Igunnokio                 Level 16 Ranger (Moon Elf)
+15:15:05.160  42) Tihep                     Level  6 Rogue (Drow Elf)
+15:15:05.161  43) Dobokin                   Level  1 Paladin (Half-Orc)
+15:15:05.161  44) Tamad                     Level  7 Paladin (Human)
+15:15:05.162  45) Pilferos                  Level  6 Rogue (Human)
+15:15:05.163  46) Tubor                     Level  1 Warrior (Ogre)
+15:15:05.163  47) Zorrax                    Level 13 Warrior (Troll)
+15:15:05.164  48) Muwede                    Level  1 Illusionist (Drow Elf)
+15:15:05.165  49) Woso                      Level 16 Druid (Half-Orc)
+15:15:05.165  50) Anisa                     Level 15 Blackguard (Half-Orc)
+15:15:05.166  51) Vodbadadva                Level 18 Rogue (Duergar)
+15:15:05.167  52) Lahla                     Level  1 Bard (Half-Orc)
+15:15:05.167  53) Lewo                      Level  8 Bard (Half-Orc)
+15:15:05.168  54) Dedad                     Level 11 Warrior (Drow Elf)
+15:15:05.169  55) Pige                      Level  1 Blackguard (Human)
+15:15:05.169  56) Bowo                      Level  1 Ranger (Half-Orc)
+15:15:05.170  57) Susu                      Level  7 Warrior (Ogre)
+15:15:05.171  58) Ohu                       Level 18 Warrior (Troll)
+15:15:05.172  59) Docuh                     Level  8 Warrior (Ogre)
+15:15:05.172  60) Simeramma                 Level 13 Ranger (Moon Elf)
+15:15:05.173  61) Efera                     Level  5 Necromancer (Drow Elf)
+15:15:05.174  62) Sehe                      Level 50 Rogue (Human)
+15:15:05.174  63) Haxu                      Level 12 Shaman (Troll)
+15:15:05.175  64) Lolele                    Level 20 Warrior (Halfling)
+15:15:05.176  65) Ssississa                 Level 17 Invoker (Yuan-Ti)
+15:15:05.176  66) Rifu                      Level 18 Hexblade (Half-Orc)
+15:15:05.177  67) Ginxa                     Level 14 Rogue (Half-Orc)
+15:15:05.178  68) Dogga                     Level 12 Warrior (Ogre)
+15:15:05.178  69) Ibo                       Level 12 Warrior (Barbarian)
+15:15:05.179  70) Cometa                    Level 11 Hexblade (Half-Orc)
+15:15:05.179  71) Amamal                    Level 18 Paladin (Moon Elf)
+15:15:05.180  72) Samile                    Level 14 Invoker (Drow Elf)
+15:15:05.181  73) Xulu                      Level 17 Shaman (Troll)
+15:15:05.181  74) Enyema                    Level 10 Invoker (Drow Elf)
+15:15:05.182  75) Nino                      Level  8 Shaman (Half-Orc)
+15:15:05.183  76) Upraeleolno               Level  1 Ranger (Moon Elf)
+15:15:05.183  77) Atesa                     Level 17 Necromancer (Drow Elf)
+15:15:05.184  78) Zic                       Level 12 Warrior (Barbarian)
+15:15:05.185  79) Eyata                     Level 12 Warrior (Drow Elf)
+15:15:05.185  80) Wowidomble                Level  3 Illusionist (Gnome)
+15:15:05.186  81) Hatra                     Level 10 Shaman (Half-Orc)
+15:15:05.187  82) Gobra                     Level 35 Shaman (Half-Orc)
+15:15:05.187  83) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+15:15:05.189  84) Legil                     Level  1 Invoker (Halfling)
+15:15:05.189  85) Onre                      Level  5 Rogue (Human)
+15:15:05.191  86) Krainor                   Level 17 Paladin (Human)
+15:15:05.191  87) Pipippaple                Level 50 Ranger (Gnome)
+15:15:05.192  88) Sijita                    Level 12 Necromancer (Drow Elf)
+15:15:05.193  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+15:15:05.193  90) Sewothe                   Level 20 Rogue (Drow Elf)
+15:15:05.194  91) Ixap                      Level 41 Hexblade (Half-Orc)
+15:15:05.195 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+15:15:05.195 Type the # or name of a character above to login or choose an action below.
+15:15:05.196 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+15:15:05.197 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+15:15:05.198 (E)nter description    | (D)elete character | (C)hange password
+15:15:05.199 (M)odify email address | (Q)uit
+15:15:05.199 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+15:15:05.503 Your choice: 
+15:15:48.885 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+15:15:48.885                            Wizards
+15:15:48.886 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+15:15:48.886 The new Wizard class has arrived, with Illusionist as the first subclass. For
+15:15:48.887 more details on this update, please see the news link below.
+
+15:15:48.888 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+15:15:48.888 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+15:15:48.889 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+15:15:48.889 - http://www.torilmud.com/news/arcane-companions/
+
+15:15:48.889 Resources
+
+15:15:48.890 Discord    : https://discord.gg/t7edjzM
+15:15:48.890 Web Client : http://www.torilmud.com/login
+15:15:48.890 News       : http://news.torilmud.com/
+15:15:48.890 Issues     : https://github.com/torilmud/issues
+
+15:15:48.968 Retrieving rented items from storage...
+
+15:15:48.969         Welcome to TorilMUD
+
+15:15:48.969                
+
+15:15:48.973 The Upstairs of the Wayward House Inn
+15:15:48.974    Like most of the building the upstairs is made of maple, a rich wood
+15:15:48.975 that gives the inn a warm feel.  The boards have been well carved and
+15:15:48.976 fit closely together, only admitting light through the shuttered
+15:15:48.977 windows.  This floor consists of several rooms available for rent.
+15:15:48.978 Each room has its own lock on the door to ensure privacy.
+15:15:48.978 Exits: - Down  [Error: mud 'The Upstairs of the Wayward House Inn' doesn't match mapper 'The Crow's Nest of the Spirit
+15:15:48.978  Raven' at '85877']          [85877] 
+15:15:48.979 A steel longsword lies on the ground. 
+15:15:48.980 An elaborately decorated key lies here. 
+15:15:48.980 Sylvana  (Half-Elf) stands here.
+15:15:48.981 Jhalessa Shorncrown stands here tidying up.
+
+Log session ending at 15:15:48 on Tuesday, 9 December 2025.

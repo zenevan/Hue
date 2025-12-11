@@ -1,0 +1,445 @@
+Log session starting at 14:52:59 on Tuesday, 9 December 2025.
+
+14:52:59.913 < 899h/899H 190v/190V P: std >     
+14:52:59.913 [Spellqueue cleared.]
+14:53:00.088 You will no longer see the mini-map when moving.
+
+14:53:00.131 < 899h/899H 190v/190V P: std >     
+14:53:00.336 You will now see the classic prompt.
+
+14:53:00.586 < 899h/899H 190v/190V P: std > 
+14:53:00.587  Prompt Command Usage:
+14:53:00.587   prompt                             - Display this help
+14:53:00.588   prompt layout                      - List available layouts
+14:53:00.588   prompt layout <layout>             - Set your layout
+14:53:00.589   prompt fields                      - List available fields
+14:53:00.590   prompt add <field>                 - Add a field to your current layout
+14:53:00.591   prompt remove <field>              - Remove a field from your current layout
+14:53:00.593   prompt options                     - Show a list of prompt option flags
+14:53:00.594   prompt options <flag>              - Toggle a prompt option
+14:53:00.594   prompt power <power> <slot>        - Add a power to a prompt slot
+14:53:00.595   prompt power auto                  - Set the default suggested power prompts
+14:53:00.596   prompt power clear <power, all>    - Clear a power from the prompt
+14:53:00.597   prompt color                       - List available prompt power colors
+14:53:00.598   prompt color <power, slot> <color> - Set the ready power color for a specific power or slot
+14:53:00.600   prompt color <type> <color>        - Set color for: <ready, cooldown, special, default, combo>
+14:53:00.601   prompt color <type> <clear>        - Clear color for <ready, cooldown, special, default, combo> 
+14:53:00.603   prompt color reset                 - Reset all prompt colors to default
+14:53:00.604   prompt help                        - Display this help
+
+14:53:00.668 To use the prompt command, first toggle on NEWPROMPT.
+
+14:53:00.836 < 899h/899H 190v/190V P: std > 
+14:53:00.916 Smartprompt toggled on.
+
+14:53:01.085 < 899h/899H 190v/190V P: std > 
+14:53:01.168 There are no sub-classes currently available to your class.
+
+14:53:01.337 < 899h/899H 190v/190V P: std > 
+
+14:53:01.417           Character attributes for Waf
+
+14:53:01.418 Level: 49   Race: Barbarian   Class: Shaman      
+14:53:01.451 Size: Medium
+14:53:01.451 STR:  84  AGI: 100  DEX:  71  CON: 100
+14:53:01.452 POW:  70  INT:  71  WIS: 110  CHA:  71
+14:53:01.452 Armor Class: -47  (100 to -100)  Agility Bonus: -15
+14:53:01.452 Magic Resistance: 5 percent
+14:53:01.453 Hitroll: 7   Damroll: 7
+14:53:01.453 Spell Focus: [Healing: +19%] 
+14:53:01.453 Alignment: Chaotic Neutral
+14:53:01.453 Saving Throws: PAR[-14]  ROD[0]  PET[0]  BRE[-2]  SPE[-14]
+14:53:01.454    Wimpy: not set
+14:53:01.454 Load carried: Not a problem
+14:53:01.455 Damage Resistance:
+14:53:01.455 Unarmd:    1% Slash :   11% Bludgn:    1% Pierce:    1% Range :    1% 
+14:53:01.456 Spells:    3% Fire  :   15% Cold  :    5% Elect :   15% Acid  :    7% 
+14:53:01.457 Sonic :    0% Poison:   10% Pos   :    0% Neg   :    0% Psi   :    0% 
+14:53:01.457 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+14:53:01.458 Force :    5% 
+
+14:53:01.587 < 899h/899H 190v/190V P: std > 
+
+14:53:01.668           Score information for Waf
+
+14:53:01.669 Level: 49   Race: Barbarian   Class: Shaman      
+14:53:01.670 Hit points: 899(899)  Moves: 190(190)
+14:53:01.671 Experience Progress: 89 % 
+14:53:01.671 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+14:53:01.671 Coins in bags: 1012 platinum    30 gold     6 silver     1 copper
+14:53:01.672 Coins in bank:   95 platinum  1661 gold  2235 silver     8 copper
+14:53:01.673 Prestige: 5605   Acheron Kill Count: 0
+14:53:01.674 Name status: Approved
+14:53:01.674 Citizen of:   Griffon's Nest
+14:53:01.674 Outcast from: Leuthilspar
+14:53:01.674 Playing time: 15 days / 14 hours / 26 minutes
+14:53:01.675 Title: Ragingboar
+14:53:01.675 Status:  Standing.
+14:53:01.675 Detecting:       Magic Life Heat
+14:53:01.676 Protected from:  Evil Fire Cold Acid
+14:53:01.676 Enchantments:    No Charm No Summon
+
+14:53:01.676 Active Powers:
+14:53:01.677 --------------
+14:53:01.677 Vitality, Stoneskin
+
+14:53:01.835 < 899h/899H 190v/190V P: std > 
+14:53:01.917 You are using:
+14:53:01.918 <worn as a badge>    a badge in the shape of a skull (illuminating)
+14:53:01.919 <worn on head>       the mystical circlet of the facile chimera (magic)
+14:53:01.921 <worn on eyes>       an eyepatch with the symbol of Ashstone (magic)
+14:53:01.922 <worn around neck>   a greater holy symbol hung on a silver chain (magic)
+14:53:01.923 <worn around neck>   the medallion of the hive king (illuminating)
+14:53:01.924 <worn on body>       a suit of mithril platemail armor (magic)
+14:53:01.925 <worn about body>    an icy white robe with blue piping (illuminating)
+14:53:01.926 <component bag>      a fine silk haversack stitched with platinum thread
+14:53:01.927 <worn about waist>   a belt of golden dragonscales with a bone clasp (magic)
+14:53:01.928 <worn on arms>       a set of adamantite chain sleeves (magic)
+14:53:01.929 <held as shield>     a blackened gold dragon scale shield (magic)
+14:53:01.953 <worn around wrist>  a band of slaadi skin
+14:53:01.954 <worn around wrist>  a blue topaz bracelet (magic)
+14:53:01.954 <worn on hands>      some gloves of flayed planetar hide
+14:53:01.955 <worn on finger>     a silver ring with mirrored finish (magic)
+14:53:01.956 <worn on finger>     a ring of seven stars (magic)
+14:53:01.956 <primary weapon>     a heavy flail of meteoric iron (magic)
+14:53:01.997 <worn on legs>       some adamantine greaves inlayed with rubies
+14:53:01.998 <worn on feet>       a pair of midnight blue riding boots shod in steel
+14:53:02.086 < 899h/899H 190v/190V P: std > 
+
+14:53:02.339 < 899h/899H 190v/190V P: std > 
+
+14:53:02.646 < 899h/899H 190v/190V P: std > 
+14:53:02.733 You are 4,358,360 XP (10.71%) away from your next level.
+
+14:53:02.838 < 899h/899H 190v/190V P: std > 
+14:53:02.923 You haven't consented to anyone.
+
+14:53:02.924 Waf is consenting you.
+
+14:53:03.090 < 899h/899H 190v/190V P: std > 
+14:53:03.173 You will now see the mini-map when moving.
+
+14:53:03.340 < 899h/899H 190v/190V P: std > 
+14:53:03.425 You will now see the new prompt.
+
+14:53:03.426 < 899h/899H 190v/190V P: std >     
+14:53:03.589 Smartprompt toggled off.
+
+14:53:03.675 < 899h/899H 190v/190V P: std >     
+14:53:03.839 The Crow's Nest of the Spirit Raven
+14:53:03.675 < 899h/899H 190v/190V P: std >     
+14:53:03.915 [Setting statname to unset]
+14:53:03.922 [All train triggers disabled]
+14:53:03.922 < 899h/899H 190v/190V P: std >     
+14:53:04.090 Prompt option newline disabled.
+
+14:53:04.341 < 899h/899H 190v/190V P: std >Prompt option newline enabled.
+
+14:53:04.425 < 899h/899H 190v/190V P: std >     
+
+14:53:04.435 [Searching... Match found: The Spirit Raven : The Crow's Nest of the Spirit Raven : 85877]
+14:53:05.344  Listing of the Staff
+14:53:05.344 -=-=-=-=-=-=-=-=-=-=-
+14:53:05.344 [ FORGER CODER  ] Shevarash -The Black Archer, Vengeful Hunter of Drow
+
+14:53:05.345 There are 1 visible staff member(s) on.
+
+14:53:05.346  Listing of the Mortals!
+14:53:05.346 -=-=-=-=-=-=-=-=-=-=-=-=-
+14:53:05.346 [48 Ctr] Tabmur  (Orc)
+14:53:05.352 [49 Sha] Waf Ragingboar (Barbarian) (RP)
+14:53:05.353 [50 Dru] Lilithelle - Valkyrie - Shadows of Imphras (Moon Elf)
+14:53:05.354 [50 Pal] Gerupar  (Half-Orc)
+14:53:05.358 [50 Rog] Lorle - Captain of the Valkurian Blades (Human) (AFK)
+14:53:05.359 [50 Sor] Teyolalil  (Gnome)
+14:53:05.363 [50 Enc] Fokle Fuzzybottom (Halfling) (RP)
+14:53:05.367 [50 Psi] Nyyrazzilyss - Head Jailer of the Valkurian Blades (Illithid) (AFK)
+14:53:05.368 [50 Bar] Kegor  (Human)
+14:53:05.369 [50 Ele] Sihwanni  (Moon Elf) (AFK)
+14:53:05.372 [50 Pal] Riloesa  (Moon Elf)
+14:53:05.375 [50 Bar] Rerole  (Halfling)
+14:53:05.376 [ 1 Bar] Katumi  (Half-Elf)
+14:53:05.377 [50 War] Grxx Krush Skul Einherjar Riders of Faerun (Troll) (AFK) (RP)
+14:53:05.378 [50 Wiz] Nonale  (Halfling)
+14:53:05.381 [50 Cle] Heroh  (Halfling)
+14:53:05.382 [50 Wiz] Raunppoble - Crew of the Valkurian Blades (Halfling) (AFK)
+14:53:05.386 [50 Hex] Kunathe  (Moon Elf)
+14:53:05.391 [50 Cle] Mizes - Fuzzybottom of the Valkurian Blades (Yuan-Ti)
+14:53:05.395 [50 Ran] Sylvana  (Half-Elf)
+14:53:05.398 [50 Psi] Ynndchiarhlizz - The Nexus (Illithid)
+
+14:53:05.399 There are 21 mortal(s) on.
+
+14:53:05.399 Total players online: 23.
+14:53:05.399 Record number of players on this boot:  32.
+
+14:53:05.437 < 899h/899H 190v/190V P: std >     
+
+14:53:09.686 You are hungry.
+14:53:09.687 You are thirsty.
+
+14:53:09.687 < 899h/899H 190v/190V P: std >     
+14:53:14.355 Standing over six feet tall, his hair is matted with dreadlocks,
+14:53:14.356 which point in almost every direction. A tattoo of a boar covers 
+14:53:14.357 his face. His eyelids have the eyes of the boar detailed closely. 
+14:53:14.358 The red ink of his fangs is the color of fresh blood. Runes are 
+14:53:14.359 tattooed into each knuckle of his right hand.
+14:53:14.443 Waf is a medium-sized level 49 Barbarian.
+14:53:14.444 He is in excellent condition.
+14:53:14.444 His body seems to be made of stone!
+
+14:53:14.445 <worn as a badge>    a badge in the shape of a skull (illuminating) 
+14:53:14.446 <worn on head>       the mystical circlet of the facile chimera (magic) 
+14:53:14.447 <worn on eyes>       an eyepatch with the symbol of Ashstone (magic) 
+14:53:14.448 <worn around neck>   a greater holy symbol hung on a silver chain (magic) 
+14:53:14.448 <worn around neck>   the medallion of the hive king (illuminating) 
+14:53:14.450 <worn on body>       a suit of mithril platemail armor (magic) 
+14:53:14.451 <worn about body>    an icy white robe with blue piping (illuminating) 
+14:53:14.452 <component bag>      a fine silk haversack stitched with platinum thread 
+14:53:14.453 <worn about waist>   a belt of golden dragonscales with a bone clasp (magic) 
+14:53:14.454 <worn on arms>       a set of adamantite chain sleeves (magic) 
+14:53:14.455 <held as shield>     a blackened gold dragon scale shield (magic) 
+14:53:14.456 <worn around wrist>  a band of slaadi skin 
+14:53:14.457 <worn around wrist>  a blue topaz bracelet (magic) 
+14:53:14.457 <worn on hands>      some gloves of flayed planetar hide 
+14:53:14.458 <worn on finger>     a silver ring with mirrored finish (magic) 
+14:53:14.459 <worn on finger>     a ring of seven stars (magic) 
+14:53:14.459 <primary weapon>     a heavy flail of meteoric iron (magic) 
+14:53:14.461 <worn on legs>       some adamantine greaves inlayed with rubies 
+14:53:14.462 <worn on feet>       a pair of midnight blue riding boots shod in steel 
+14:53:14.463 < 899h/899H 190v/190V P: std >     
+14:53:29.130 You get Detrez's storage cube from a fine silk haversack stitched with platinum thread.
+
+14:53:29.219 < 899h/899H 190v/190V P: std >     
+14:53:34.880 You can't carry that many items.
+14:53:34.881 You stop using some stuff.
+
+14:53:34.972 < 899h/734H 190v/190V P: std >     
+14:53:35.130 You can't do that. Perhaps that item is cursed?
+14:53:35.131 You put in 7 items into Detrez's storage cube.
+
+14:53:35.224 < 899h/734H 190v/190V P: std >     
+14:53:35.381 You can't carry that many items.
+14:53:35.382 You stop using a bunch of stuff.
+
+14:53:35.473 < 899h/612H 190v/190V P: std >     
+14:53:35.631 You can't do that. Perhaps that item is cursed?
+14:53:35.632 You put in 7 items into Detrez's storage cube.
+
+14:53:35.722 < 899h/612H 190v/190V P: std >     
+14:53:35.881 You can't carry that many items.
+14:53:35.882 You stop using a bunch of stuff.
+
+14:53:35.972 < 899h/521H 190v/190V P: std >     
+14:53:36.133 You can't do that. Perhaps that item is cursed?
+14:53:36.134 You put in 7 items into Detrez's storage cube.
+
+14:53:36.221 < 899h/521H 190v/190V P: std >     
+14:53:36.381 You stop using some stuff.
+
+14:53:36.471 < 899h/521H 190v/165V P: std >     
+14:53:36.634 You can't do that. Perhaps that item is cursed?
+14:53:36.635 You put in 1 items into Detrez's storage cube.
+
+14:53:36.719 < 898h/521H 190v/165V P: std >     
+14:53:36.883 You aren't wearing anything!
+
+14:53:36.969 < 897h/521H 190v/165V P: std >     
+14:53:37.134 You can't do that. Perhaps that item is cursed?
+14:53:37.135 You don't have anything to put in it.
+
+14:53:37.219 < 897h/521H 190v/165V P: std >     
+14:53:37.383 You aren't wearing anything!
+
+14:53:37.467 < 896h/521H 189v/165V P: std >     
+14:53:37.634 You can't do that. Perhaps that item is cursed?
+14:53:37.635 You don't have anything to put in it.
+
+14:53:37.717 < 896h/521H 189v/165V P: std >     
+14:53:37.884 You aren't wearing anything!
+
+14:53:37.965 < 895h/521H 188v/165V P: std >     
+14:53:38.134 You can't do that. Perhaps that item is cursed?
+14:53:38.135 You don't have anything to put in it.
+
+14:53:38.214 < 894h/521H 188v/165V P: std >     
+14:53:38.384 You aren't wearing anything!
+
+14:53:38.466 < 894h/521H 188v/165V P: std >     
+14:53:38.759 You can't do that. Perhaps that item is cursed?
+14:53:38.761 You don't have anything to put in it.
+
+14:53:38.840 < 893h/521H 187v/165V P: std >     
+14:53:38.932 You aren't wearing anything!
+
+14:53:38.981 < 892h/521H 187v/165V P: std >     
+14:53:39.135 You can't do that. Perhaps that item is cursed?
+14:53:39.136 You don't have anything to put in it.
+
+14:53:39.229 < 892h/521H 186v/165V P: std >     
+14:53:39.386 You aren't wearing anything!
+
+14:53:39.477 < 891h/521H 186v/165V P: std >     
+14:53:39.636 You can't do that. Perhaps that item is cursed?
+14:53:39.637 You don't have anything to put in it.
+
+14:53:39.726 < 891h/521H 186v/165V P: std >     
+14:53:42.147 You give Detrez's storage cube to Riloesa.
+
+14:53:42.231 < 885h/521H 182v/165V P: std >     
+14:53:48.398 You start setting up camp...
+
+14:53:48.399 You will be logged out in 15 seconds.
+
+14:53:48.489 < 875h/521H 172v/165V P: std >     
+
+14:53:54.740 Your vitality drains away.
+
+14:53:54.740 < 864h/308H 165v/165V P: std >     
+
+14:53:58.745 You will be logged out in 5 seconds.
+
+14:53:58.746 < 854h/308H 165v/165V P: std >     
+14:54:03.676 You complete setting up your camp and settle in.
+
+14:54:03.677 Characters:
+14:54:03.677 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+14:54:03.686   1) Afu                       Level 50 Warrior (Troll)
+14:54:03.687   2) Deabnue                   Level 50 Invoker (Human)
+14:54:03.687   3) Gizep                     Level 50 Enchanter (Drow Elf)
+14:54:03.688   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+14:54:03.688   5) Newple                    Level 50 Rogue (Halfling)
+14:54:03.690   6) Mattah                    Level 50 Necromancer (Human)
+14:54:03.691   7) Rafi                      Level 50 Blackguard (Human)
+14:54:03.691   8) Digun                     Level 50 Warrior (Shield Dwarf)
+14:54:03.692   9) Risor                     Level 50 Rogue (Human)
+14:54:03.693  10) Islala                    Level 50 Bard (Moon Elf)
+14:54:03.693  11) Minolai                   Level 50 Ranger (Moon Elf)
+14:54:03.694  12) Poppibble                 Level 50 Ranger (Halfling)
+14:54:03.695  13) Simasel                   Level 50 Cleric (Moon Elf)
+14:54:03.695  14) Giru                      Level 50 Hexblade (Orc)
+14:54:03.696  15) Xaniver                   Level 50 Ranger (Half-Orc)
+14:54:03.697  16) Waf                       Level 49 Shaman (Barbarian)
+14:54:03.698  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+14:54:03.699  18) Gomble                    Level 50 Paladin (Halfling)
+14:54:03.699  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+14:54:03.700  20) Siho                      Level 50 Paladin (Half-Orc)
+14:54:03.700  21) Nidipizil                 Level 50 Paladin (Gnome)
+14:54:03.701  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+14:54:03.701  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+14:54:03.702  24) Naleni                    Level 50 Warrior (Moon Elf)
+14:54:03.703  25) Gukonata                  Level 50 Blackguard (Duergar)
+14:54:03.704  26) Uspi                      Level 50 Blackguard (Half-Orc)
+14:54:03.704  27) Tonga                     Level 50 Warrior (Ogre)
+14:54:03.705  28) Popebople                 Level 48 Enchanter (Gnome)
+14:54:03.706  29) Bago                      Level 50 Shaman (Ogre)
+14:54:03.707  30) Loyol                     Level 50 Bard (Halfling)
+14:54:03.708  31) Irsen                     Level 50 Druid (Human)
+14:54:03.708  32) Fanal                     Level 50 Rogue (Orc)
+14:54:03.709  33) Poromople                 Level 50 Invoker (Gnome)
+14:54:03.709  34) Coruduwat                 Level 43 Elementalist (Duergar)
+14:54:03.710  35) Luso                      Level 41 Paladin (Human)
+14:54:03.710  36) Ssassur                   Level 44 Wizard (Yuan-Ti)
+14:54:03.711  37) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+14:54:03.712  38) Gorkl                     Level 29 Warrior (Ogre)
+14:54:03.712  39) Gapa                      Level 28 Battlechanter (Orc)
+14:54:03.713  40) Tazfap                    Level  1 Warrior (Drow Elf)
+14:54:03.714  41) Igunnokio                 Level 16 Ranger (Moon Elf)
+14:54:03.715  42) Tihep                     Level  6 Rogue (Drow Elf)
+14:54:03.715  43) Dobokin                   Level  1 Paladin (Half-Orc)
+14:54:03.716  44) Tamad                     Level  7 Paladin (Human)
+14:54:03.717  45) Pilferos                  Level  6 Rogue (Human)
+14:54:03.717  46) Tubor                     Level  1 Warrior (Ogre)
+14:54:03.718  47) Zorrax                    Level 13 Warrior (Troll)
+14:54:03.718  48) Muwede                    Level  1 Illusionist (Drow Elf)
+14:54:03.720  49) Woso                      Level 16 Druid (Half-Orc)
+14:54:03.721  50) Anisa                     Level 15 Blackguard (Half-Orc)
+14:54:03.721  51) Vodbadadva                Level 18 Rogue (Duergar)
+14:54:03.722  52) Lahla                     Level  1 Bard (Half-Orc)
+14:54:03.723  53) Lewo                      Level  8 Bard (Half-Orc)
+14:54:03.723  54) Dedad                     Level 11 Warrior (Drow Elf)
+14:54:03.724  55) Pige                      Level  1 Blackguard (Human)
+14:54:03.725  56) Bowo                      Level  1 Ranger (Half-Orc)
+14:54:03.725  57) Susu                      Level  7 Warrior (Ogre)
+14:54:03.726  58) Ohu                       Level 18 Warrior (Troll)
+14:54:03.727  59) Docuh                     Level  8 Warrior (Ogre)
+14:54:03.727  60) Simeramma                 Level 13 Ranger (Moon Elf)
+14:54:03.728  61) Efera                     Level  5 Necromancer (Drow Elf)
+14:54:03.729  62) Sehe                      Level 50 Rogue (Human)
+14:54:03.730  63) Haxu                      Level 12 Shaman (Troll)
+14:54:03.730  64) Lolele                    Level 20 Warrior (Halfling)
+14:54:03.731  65) Ssississa                 Level 17 Invoker (Yuan-Ti)
+14:54:03.731  66) Rifu                      Level 18 Hexblade (Half-Orc)
+14:54:03.732  67) Ginxa                     Level 14 Rogue (Half-Orc)
+14:54:03.733  68) Dogga                     Level 12 Warrior (Ogre)
+14:54:03.733  69) Ibo                       Level 12 Warrior (Barbarian)
+14:54:03.734  70) Cometa                    Level 11 Hexblade (Half-Orc)
+14:54:03.735  71) Amamal                    Level 18 Paladin (Moon Elf)
+14:54:03.735  72) Samile                    Level 14 Invoker (Drow Elf)
+14:54:03.736  73) Xulu                      Level 17 Shaman (Troll)
+14:54:03.737  74) Enyema                    Level 10 Invoker (Drow Elf)
+14:54:03.737  75) Nino                      Level  8 Shaman (Half-Orc)
+14:54:03.738  76) Upraeleolno               Level  1 Ranger (Moon Elf)
+14:54:03.738  77) Atesa                     Level 17 Necromancer (Drow Elf)
+14:54:03.740  78) Zic                       Level 12 Warrior (Barbarian)
+14:54:03.741  79) Eyata                     Level 12 Warrior (Drow Elf)
+14:54:03.742  80) Wowidomble                Level  3 Illusionist (Gnome)
+14:54:03.742  81) Hatra                     Level 10 Shaman (Half-Orc)
+14:54:03.743  82) Gobra                     Level 35 Shaman (Half-Orc)
+14:54:03.744  83) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+14:54:03.745  84) Legil                     Level  1 Invoker (Halfling)
+14:54:03.745  85) Onre                      Level  5 Rogue (Human)
+14:54:03.746  86) Krainor                   Level 17 Paladin (Human)
+14:54:03.747  87) Pipippaple                Level 50 Ranger (Gnome)
+14:54:03.747  88) Sijita                    Level 12 Necromancer (Drow Elf)
+14:54:03.748  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+14:54:03.749  90) Sewothe                   Level 20 Rogue (Drow Elf)
+14:54:03.750  91) Ixap                      Level 41 Hexblade (Half-Orc)
+14:54:03.750 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+14:54:03.765 Type the # or name of a character above to login or choose an action below.
+14:54:03.766 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+14:54:03.766 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+14:54:03.767 (E)nter description    | (D)elete character | (C)hange password
+14:54:03.768 (M)odify email address | (Q)uit
+14:54:03.768 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+14:54:04.084 Your choice: 
+14:54:56.424 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+14:54:56.425                            Wizards
+14:54:56.425 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+14:54:56.425 The new Wizard class has arrived, with Illusionist as the first subclass. For
+14:54:56.426 more details on this update, please see the news link below.
+
+14:54:56.427 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+14:54:56.428 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+14:54:56.428 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+14:54:56.428 - http://www.torilmud.com/news/arcane-companions/
+
+14:54:56.429 Resources
+
+14:54:56.429 Discord    : https://discord.gg/t7edjzM
+14:54:56.430 Web Client : http://www.torilmud.com/login
+14:54:56.430 News       : http://news.torilmud.com/
+14:54:56.430 Issues     : https://github.com/torilmud/issues
+
+14:54:56.519 You break camp and get ready to move on...
+
+14:54:56.519         Welcome to TorilMUD
+
+14:54:56.520                
+
+14:54:56.524 The Crow's Nest of the Spirit Raven
+14:54:56.524    The crow's nest is located at the top of the ship's single mast,
+14:54:56.525 almost forty feet from the deck.  As one would expect, the crow's nest
+14:54:56.527 is very cramped and very unsteady.  Even the slightest breeze sends the
+14:54:56.528 small platform wobbling.  From here one can see far in every direction,
+14:54:56.529 even farther with the help of a looking glass.  A rope ladder leads
+14:54:56.530 down onto the deck.
+14:54:56.530 Exits: - Down          [85877] 
+14:54:56.531 A seven dragons tabbard lies here. 
+14:54:56.531 Tabmur  (Orc) stands here.
+14:54:56.531 Riloesa  (Moon Elf) stands here.
+14:54:56.532 A lookout is posted here, scanning the seas.
+
+Log session ending at 14:54:56 on Tuesday, 9 December 2025.

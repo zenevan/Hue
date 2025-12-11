@@ -1,0 +1,2173 @@
+Log session starting at 17:27:36 on Tuesday, 9 December 2025.
+
+17:27:36.220 < 595h/595H 185v/185V P: std >     
+17:27:36.220 [Spellqueue cleared.]
+17:27:36.530 You will now see the classic prompt.
+
+17:27:36.768 < 595h/595H 185v/185V P: std > 
+17:27:36.768  Prompt Command Usage:
+17:27:36.769   prompt                             - Display this help
+17:27:36.769   prompt layout                      - List available layouts
+17:27:36.770   prompt layout <layout>             - Set your layout
+17:27:36.771   prompt fields                      - List available fields
+17:27:36.771   prompt add <field>                 - Add a field to your current layout
+17:27:36.772   prompt remove <field>              - Remove a field from your current layout
+17:27:36.774   prompt options                     - Show a list of prompt option flags
+17:27:36.775   prompt options <flag>              - Toggle a prompt option
+17:27:36.775   prompt power <power> <slot>        - Add a power to a prompt slot
+17:27:36.776   prompt power auto                  - Set the default suggested power prompts
+17:27:36.777   prompt power clear <power, all>    - Clear a power from the prompt
+17:27:36.778   prompt color                       - List available prompt power colors
+17:27:36.779   prompt color <power, slot> <color> - Set the ready power color for a specific power or slot
+17:27:36.781   prompt color <type> <color>        - Set color for: <ready, cooldown, special, default, combo>
+17:27:36.782   prompt color <type> <clear>        - Clear color for <ready, cooldown, special, default, combo> 
+17:27:36.784   prompt color reset                 - Reset all prompt colors to default
+17:27:36.785   prompt help                        - Display this help
+
+17:27:36.850 To use the prompt command, first toggle on NEWPROMPT.
+
+17:27:37.017 < 595h/595H 185v/185V P: std > 
+17:27:37.099 Smartprompt toggled on.
+
+17:27:37.266 < 595h/595H 185v/185V P: std > 
+17:27:37.345 There are no sub-classes currently available to your class.
+
+17:27:37.516 < 595h/595H 185v/185V P: std > 
+
+17:27:37.599           Character attributes for Mattah
+
+17:27:37.600 Level: 50   Race: Human   Class: Necromancer 
+17:27:37.752 Size: Medium
+17:27:37.752 STR:  91  AGI:  94  DEX:  70  CON: 100
+17:27:37.753 POW:  70  INT: 100  WIS:  70  CHA:  70
+17:27:37.753 Armor Class: -20  (100 to -100)  Agility Bonus: -15
+17:27:37.754 Magic Resistance: 10 percent
+17:27:37.754 Hitroll: 6   Damroll: 6   Undead Points: 0/60
+17:27:37.754 Spell Focus: [Healing: +8%] [Necromancy: +4%] 
+17:27:37.755 Alignment: Chaotic Evil
+17:27:37.755 Saving Throws: PAR[-14]  ROD[0]  PET[0]  BRE[-10]  SPE[-15]
+17:27:37.756    Wimpy: not set
+17:27:37.756 Load carried: No Sweat
+17:27:37.756 Damage Resistance:
+17:27:37.757 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+17:27:37.758 Spells:    0% Fire  :   15% Cold  :    5% Elect :   15% Acid  :    7% 
+17:27:37.759 Sonic :    0% Poison:    5% Pos   :    0% Neg   :    0% Psi   :    0% 
+17:27:37.759 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+17:27:37.760 Force :    0% 
+
+17:27:37.785 < 595h/595H 185v/185V P: std > 
+
+17:27:37.832           Score information for Mattah
+
+17:27:37.832 Level: 50   Race: Human   Class: Necromancer 
+17:27:37.833 Hit points: 595(595)  Moves: 185(185)
+17:27:37.834 Experience Progress: 508 % 
+17:27:37.834 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+17:27:37.835 Coins in bank:  158 platinum     2 gold     2 silver     7 copper
+17:27:37.836 Prestige: 6023   Acheron Kill Count: 0
+17:27:37.836 Name status: Approved
+17:27:37.836 Citizen of:   Baldur's Gate
+17:27:37.837 Outcast from: Leuthilspar
+17:27:37.837 Playing time: 54 days / 2 hours / 56 minutes
+17:27:37.837 Title: 
+17:27:37.837 Status:  Standing.
+17:27:37.838 Detecting:       Magic Life Heat
+17:27:37.838 Protected from:  Evil Good Fire Cold Acid
+17:27:37.838 Enchantments:    Farsee No Summon
+
+17:27:38.017 < 595h/595H 185v/185V P: std > 
+17:27:38.107 You are using:
+17:27:38.108 <worn on head>       the mystical circlet of the facile chimera (magic)
+17:27:38.109 <worn on eyes>       an eyepatch with the symbol of Ashstone (magic)
+17:27:38.110 <worn in ear>        the crystallized tear of an astral deva (magic)
+17:27:38.111 <worn in ear>        a flaming earring (magic) (damaged)
+17:27:38.111 <worn around neck>   an iron gorget studded with bloodstones (magic)
+17:27:38.112 <worn around neck>   the medallion of the hive king (illuminating)
+17:27:38.113 <worn on body>       a silvery suit of elven chainmail (magic)
+17:27:38.114 <worn about body>    an icy white robe with blue piping (illuminating)
+17:27:38.115 <component bag>      a fine silk haversack stitched with platinum thread
+17:27:38.117 <worn on arms>       sleeves stitched with the veins of a unicorn
+17:27:38.118 <worn around wrist>  a blue topaz bracelet (magic)
+17:27:38.118 <worn around wrist>  a band of slaadi skin
+17:27:38.119 <worn on hands>      some gloves of flayed planetar hide
+17:27:38.119 <worn on finger>     a silver ring encrusted with a black sapphire (magic)
+17:27:38.120 <worn on finger>     a ring of seven stars (magic)
+17:27:38.121 <held>               a dark raven feather quill
+17:27:38.122 <worn on legs>       some adamantine greaves inlayed with rubies
+17:27:38.269 < 595h/595H 185v/185V P: std > 
+
+17:27:38.518 < 595h/595H 185v/185V P: std > 
+17:27:38.603 You have no followers.
+
+17:27:38.768 < 595h/595H 185v/185V P: std > 
+
+17:27:39.018 < 595h/595H 185v/185V P: std > 
+17:27:39.099 Your guildmaster says 'I expect you to level anytime now!'
+17:27:39.102 Your guildmaster grins with anticipation.
+
+17:27:39.269 < 595h/595H 185v/185V P: std > 
+17:27:39.363 You haven't consented to anyone.
+
+17:27:39.364 Mattah is consenting you.
+
+17:27:39.519 < 595h/595H 185v/185V P: std > 
+17:27:39.607 You will now see the new prompt.
+
+17:27:39.608 < 595h/595H 185v/185V P: std >     
+17:27:39.769 Smartprompt toggled off.
+
+17:27:39.859 < 595h/595H 185v/185V P: std >     
+17:27:40.019 A Drafty Bedroom
+17:27:40.108 < 595h/595H 185v/185V P: std >     
+17:27:40.222 [Setting statname to unset]
+17:27:40.231 [All train triggers disabled]
+17:27:40.270 Prompt option newline disabled.
+
+17:27:40.521 < 595h/595H 185v/185V P: std >Prompt option newline enabled.
+
+17:27:40.601 < 595h/595H 185v/185V P: std >     
+
+17:27:40.728 [Searching... Exits matched room#: 7016 : A Drafty Bedroom]
+
+17:28:03.399 You are hungry.
+17:28:03.400 You are thirsty.
+
+17:28:03.400 < 595h/595H 185v/185V P: std >     
+17:28:05.314 A Drafty Bedroom
+17:28:05.314 Exits: - South#        [7016] 
+17:28:05.314 Nraak, the ogre magi, lays sprawled out on the mattress here.
+
+17:28:05.404 < 595h/595H 185v/185V P: std >     
+17:28:08.322 You can practice any of the following skills/spells:
+
+17:28:08.324 Generic Spells:
+
+17:28:08.324 minor creation             2nd circle  5 g, 1 s, and 6 c coins
+17:28:08.325 ventriloquate              1st circle  
+17:28:08.325 preserve                   1st circle  
+17:28:08.326 command undead             2nd circle  5 g, 1 s, and 6 c coins
+17:28:08.326 vampiric touch             6th circle  27 p, 8 g, 6 s, and 4 c coins
+17:28:08.328 command horde              4th circle  8 p, 2 g, 5 s, and 6 c coins
+17:28:08.329 erase                      1st circle  
+
+17:28:08.329 Healing Spells:
+
+17:28:08.329 heal undead                5th circle  16 p, 1 g, 2 s, and 5 c coins
+
+17:28:08.330 Protection Spells:
+
+17:28:08.331 protection from cold       2nd circle  5 g, 1 s, and 6 c coins
+17:28:08.331 protect undead             7th circle  44 p, 2 g, 4 s, and 7 c coins
+17:28:08.332 protection from undead     2nd circle  5 g, 1 s, and 6 c coins
+
+17:28:08.333 Enchantment Spells:
+
+17:28:08.333 sleep                      4th circle  8 p, 2 g, 5 s, and 6 c coins
+17:28:08.333 strength                   4th circle  8 p, 2 g, 5 s, and 6 c coins
+17:28:08.334 haste                      7th circle  44 p, 2 g, 4 s, and 7 c coins
+17:28:08.336 minor globe of invulnerability  6th circle  27 p, 8 g, 6 s, and 4 c coins
+17:28:08.337 rejuvenate major           6th circle  27 p, 8 g, 6 s, and 4 c coins
+17:28:08.338 ray of enfeeblement        5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:08.339 rejuvenate minor           3rd circle  3 p, 4 g, 8 s, and 3 c coins
+17:28:08.340 age                        6th circle  27 p, 8 g, 6 s, and 4 c coins
+17:28:08.341 levitate                   5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:08.341 dispel magic               4th circle  8 p, 2 g, 5 s, and 6 c coins
+17:28:08.342 wither                     4th circle  8 p, 2 g, 5 s, and 6 c coins
+17:28:08.343 infravision                5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:08.344 feeblemind                 5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:08.345 coldshield                 5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:08.347 globe of invulnerability   9th circle  94 p, 4 s, and 1 c coins
+17:28:08.347 mage flame                 1st circle  
+
+17:28:08.348 Divination Spells:
+
+17:28:08.348 detect invisibility        1st circle  
+17:28:08.349 detect magic               1st circle  
+
+17:28:08.349 Teleportation Spells:
+
+17:28:08.349 teleport                   5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:08.350 dimension door             7th circle  44 p, 2 g, 4 s, and 7 c coins
+
+17:28:08.351 Invocation Spells:
+
+17:28:08.352 chill touch                2nd circle  5 g, 1 s, and 6 c coins
+17:28:08.352 cone of cold               5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:08.353 magic missile              1st circle  
+17:28:08.354 ice storm                  5th circle  16 p, 1 g, 2 s, and 5 c coins
+
+17:28:08.355 Illusion Spells:
+
+17:28:08.355 invisibility               2nd circle  5 g, 1 s, and 6 c coins
+17:28:08.355 corpse glamor              7th circle  44 p, 2 g, 4 s, and 7 c coins
+
+17:28:08.356 Necromancy Spells:
+
+17:28:08.357 energy drain               5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:08.358 animate skeleton           1st circle  
+17:28:08.358 pain touch                 3rd circle  3 p, 4 g, 8 s, and 3 c coins
+17:28:08.359 nerve dance                6th circle  27 p, 8 g, 6 s, and 4 c coins
+17:28:08.360 spectral hand              4th circle  8 p, 2 g, 5 s, and 6 c coins
+17:28:08.361 rain of blood             10th circle  129 p coins
+17:28:08.361 banshee wail              10th circle  129 p coins
+17:28:08.362 animate ghost              9th circle  94 p, 4 s, and 1 c coins
+17:28:08.363 animate ghast              6th circle  27 p, 8 g, 6 s, and 4 c coins
+17:28:08.364 animate zombie             2nd circle  5 g, 1 s, and 6 c coins
+17:28:08.364 animate spectre            8th circle  66 p, 4 s, and 8 c coins
+17:28:08.365 animate wraith             7th circle  44 p, 2 g, 4 s, and 7 c coins
+17:28:08.367 animate ghoul              3rd circle  3 p, 4 g, 8 s, and 3 c coins
+17:28:08.368 animate shadow             4th circle  8 p, 2 g, 5 s, and 6 c coins
+17:28:08.370 animate wight              5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:08.371 soul bind                  3rd circle  3 p, 4 g, 8 s, and 3 c coins
+17:28:08.372 snapping teeth             5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:08.372 beltyns burning blood      7th circle  44 p, 2 g, 4 s, and 7 c coins
+17:28:08.373 abi dalzims horrid wilting  9th circle  94 p, 4 s, and 1 c coins
+17:28:08.374 blackmantle                8th circle  66 p, 4 s, and 8 c coins
+17:28:08.375 ward undead                6th circle  27 p, 8 g, 6 s, and 4 c coins
+17:28:08.376 destroy undead             8th circle  66 p, 4 s, and 8 c coins
+17:28:08.376 eradicate undead           9th circle  94 p, 4 s, and 1 c coins
+17:28:08.377 boneshatter               10th circle  129 p coins
+17:28:08.378 soul shackles              8th circle  66 p, 4 s, and 8 c coins
+17:28:08.379 contagion                  8th circle  66 p, 4 s, and 8 c coins
+
+17:28:08.379 Intelligence Based Skills:
+
+17:28:08.380 meditate                  (very good)     (89) 851 p, 6 g, and 1 s coins
+17:28:08.381 scribe                    (above average) (63) 66 p, 3 g, 6 s, and 2 c coins
+17:28:08.381 quick chant               (master)        (99) 1221 p, 1 g, 2 s, and 4 c coins
+17:28:08.383 spellcast generic         (very good)     (90) 1113 p, 1 g, 7 s, and 1 c coins
+17:28:08.385 spellcast necromancy      (master)        (95) 1105 p, 2 g, 8 s, and 8 c coins
+17:28:08.386 spellcast invocation      (below average) (44) 33 p, 4 g, and 9 s coins
+17:28:08.387 spellcast illusion        (below average) (38) 12 p, 9 g, 2 s, and 3 c coins
+17:28:08.387 spellcast healing         (average)       (48) 67 p, 8 g, and 5 s coins
+17:28:08.388 spellcast teleportation   (poor)          (31) 10 p, 1 g, 1 s, and 2 c coins
+17:28:08.390 spellcast summoning       (bad)           (20) 2 p, 1 g, 7 s, and 4 c coins
+17:28:08.391 spellcast protection      (poor)          (27) 4 p, 1 g, and 1 s coins
+17:28:08.392 spellcast divination      (average)       (52) 51 p, 7 g, 5 s, and 7 c coins
+17:28:08.393 spellcast enchantment     (good)          (68) 155 p, 2 g, 7 s, and 3 c coins
+17:28:08.394 spellcast spirit          (bad)           (20) 2 p, 1 g, 7 s, and 4 c coins
+17:28:08.395 spellcast nature          (bad)           (20) 2 p, 1 g, 7 s, and 4 c coins
+17:28:08.396 specialize necromancy     (very good)     (89) 458 p, 5 g, 5 s, and 9 c coins
+17:28:08.398 spellcast elemental       (bad)           (20) 2 p, 1 g, 7 s, and 4 c coins
+17:28:08.399 sorcerous spell knowledge (very good)     (90) 890 p, 5 g, 3 s, and 7 c coins
+
+17:28:08.400 Wisdom Based Skills:
+
+17:28:08.400 bandage                   (above average) (56) 719 p, 2 g, and 8 s coins
+
+17:28:08.401 Strength Based Skills:
+
+17:28:08.402 swimming                  (bad)           (16) 1 s coin
+17:28:08.402 1h bludgeon               (below average) (39) 15 p, 9 g, 8 s, and 4 c coins
+17:28:08.403 1h piercing               (average)       (50) 203 p, 8 g, 7 s, and 7 c coins
+
+17:28:08.404 Constitution Based Skills:
+
+17:28:08.405 mount                     (above average) (59) 160 p, 3 g, 8 s, and 3 c coins
+
+17:28:08.405 Dexterity Based Skills:
+
+17:28:08.406 unbind                    (bad)           (16) 1 s coin
+
+17:28:08.406 Agility Based Skills:
+
+17:28:08.407 dodge                     (bad)           (16) 1 s coin
+
+17:28:08.408 Available powers:
+17:28:08.408 Banshee Wail              10th circle [in spellbook]
+17:28:08.408 Rain of Blood             10th circle 129 p coins
+17:28:08.409 Boneshatter               10th circle 129 p coins
+17:28:08.409 Eradicate Undead           9th circle [in spellbook]
+17:28:08.410 Animate Ghost              9th circle 94 p, 4 s, and 1 c coins
+17:28:08.411 Abi Dalzims Horrid Wilting  9th circle 94 p, 4 s, and 1 c coins
+17:28:08.412 Globe of Invulnerability   9th circle 94 p, 4 s, and 1 c coins
+17:28:08.413 Contagion                  8th circle [in spellbook]
+17:28:08.413 Soul Shackles              8th circle [in spellbook]
+17:28:08.414 Destroy Undead             8th circle [in spellbook]
+17:28:08.414 Animate Spectre            8th circle [in spellbook]
+17:28:08.415 Blackmantle                8th circle [in spellbook]
+17:28:08.416 Beltyns Burning Blood      7th circle 44 p, 2 g, 4 s, and 7 c coins
+17:28:08.417 Protect Undead             7th circle 44 p, 2 g, 4 s, and 7 c coins
+17:28:08.418 Corpse Glamor              7th circle [in spellbook]
+17:28:08.419 Haste                      7th circle 44 p, 2 g, 4 s, and 7 c coins
+17:28:08.420 Animate Wraith             7th circle 44 p, 2 g, 4 s, and 7 c coins
+17:28:08.420 Dimension Door             7th circle [in spellbook]
+17:28:08.421 Minor Globe of Invulnerability  6th circle [in spellbook]
+17:28:08.422 Ward Undead                6th circle [in spellbook]
+17:28:08.422 Vampiric Touch             6th circle 27 p, 8 g, 6 s, and 4 c coins
+17:28:08.423 Animate Ghast              6th circle 27 p, 8 g, 6 s, and 4 c coins
+17:28:08.424 Nerve Dance                6th circle 27 p, 8 g, 6 s, and 4 c coins
+17:28:08.425 Teleport                   5th circle [in spellbook]
+17:28:08.425 Levitate                   5th circle [in spellbook]
+17:28:08.426 Infravision                5th circle 16 p, 1 g, 2 s, and 5 c coins
+17:28:08.427 Coldshield                 5th circle [in spellbook]
+17:28:08.427 Ice Storm                  5th circle [in spellbook]
+17:28:08.428 Heal Undead                5th circle [in spellbook]
+17:28:08.428 Cone of Cold               5th circle [in spellbook]
+17:28:08.429 Energy Drain               5th circle 16 p, 1 g, 2 s, and 5 c coins
+17:28:08.430 Ray of Enfeeblement        5th circle 16 p, 1 g, 2 s, and 5 c coins
+17:28:08.431 Feeblemind                 5th circle [in spellbook]
+17:28:08.432 Animate Wight              5th circle [in spellbook]
+17:28:08.432 Snapping Teeth             5th circle 16 p, 1 g, 2 s, and 5 c coins
+17:28:08.433 Dispel Magic               4th circle 8 p, 2 g, 5 s, and 6 c coins
+17:28:08.434 Sleep                      4th circle [in spellbook]
+17:28:08.435 Strength                   4th circle 8 p, 2 g, 5 s, and 6 c coins
+17:28:08.435 Animate Shadow             4th circle [in spellbook]
+17:28:08.437 Command Horde              4th circle 8 p, 2 g, 5 s, and 6 c coins
+17:28:08.437 Wither                     4th circle 8 p, 2 g, 5 s, and 6 c coins
+17:28:08.438 Spectral Hand              4th circle [in spellbook]
+17:28:08.439 Soul Bind                  3rd circle 3 p, 4 g, 8 s, and 3 c coins
+17:28:08.440 Animate Ghoul              3rd circle [in spellbook]
+17:28:08.440 Pain Touch                 3rd circle [in spellbook]
+17:28:08.441 Command Undead             2nd circle [in spellbook]
+17:28:08.441 Protection From Undead     2nd circle [in spellbook]
+17:28:08.442 Protection From Cold       2nd circle 5 g, 1 s, and 6 c coins
+17:28:08.443 Chill Touch                2nd circle [in spellbook]
+17:28:08.443 Minor Creation             2nd circle [in spellbook]
+17:28:08.444 Animate Zombie             2nd circle 5 g, 1 s, and 6 c coins
+17:28:08.445 Invisibility               2nd circle [in spellbook]
+17:28:08.445 Detect Magic               1st circle 
+17:28:08.445 Detect Invisibility        1st circle [in spellbook]
+17:28:08.446 Erase                      1st circle 
+17:28:08.446 Magic Missile              1st circle [in spellbook]
+17:28:08.447 Mage Flame                 1st circle 
+17:28:08.447 Preserve                   1st circle 
+17:28:08.448 Ray of Frost               1st circle [in spellbook]
+17:28:08.448 Acid Splash                1st circle [in spellbook]
+17:28:08.449 Animate Skeleton           1st circle 
+17:28:08.449 Light                      1st circle [in spellbook]
+17:28:08.450 Fire Bolt                  1st circle [in spellbook]
+
+17:28:08.451 < 595h/595H 185v/185V P: std >     
+17:28:20.349 You don't feel comfortable enough to start to scribe.
+
+17:28:20.391 < 595h/595H 185v/185V P: std >     
+17:28:20.599 You sit down and relax.
+17:28:20.599 [Spellqueue cleared.]
+
+17:28:20.680 < 595h/595H 185v/185V P: sit >     
+17:28:23.861 You lack one of the necessary implements for scribing!
+
+17:28:23.948 < 595h/595H 185v/185V P: sit >     
+17:28:26.609 You can practice any of the following skills/spells:
+
+17:28:26.610 Generic Spells:
+
+17:28:26.610 minor creation             2nd circle  5 g, 1 s, and 6 c coins
+17:28:26.611 ventriloquate              1st circle  
+17:28:26.611 preserve                   1st circle  
+17:28:26.612 command undead             2nd circle  5 g, 1 s, and 6 c coins
+17:28:26.613 vampiric touch             6th circle  27 p, 8 g, 6 s, and 4 c coins
+17:28:26.614 command horde              4th circle  8 p, 2 g, 5 s, and 6 c coins
+17:28:26.614 erase                      1st circle  
+
+17:28:26.614 Healing Spells:
+
+17:28:26.616 heal undead                5th circle  16 p, 1 g, 2 s, and 5 c coins
+
+17:28:26.617 Protection Spells:
+
+17:28:26.617 protection from cold       2nd circle  5 g, 1 s, and 6 c coins
+17:28:26.618 protect undead             7th circle  44 p, 2 g, 4 s, and 7 c coins
+17:28:26.619 protection from undead     2nd circle  5 g, 1 s, and 6 c coins
+
+17:28:26.619 Enchantment Spells:
+
+17:28:26.620 sleep                      4th circle  8 p, 2 g, 5 s, and 6 c coins
+17:28:26.621 strength                   4th circle  8 p, 2 g, 5 s, and 6 c coins
+17:28:26.621 haste                      7th circle  44 p, 2 g, 4 s, and 7 c coins
+17:28:26.622 minor globe of invulnerability  6th circle  27 p, 8 g, 6 s, and 4 c coins
+17:28:26.623 rejuvenate major           6th circle  27 p, 8 g, 6 s, and 4 c coins
+17:28:26.624 ray of enfeeblement        5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:26.625 rejuvenate minor           3rd circle  3 p, 4 g, 8 s, and 3 c coins
+17:28:26.626 age                        6th circle  27 p, 8 g, 6 s, and 4 c coins
+17:28:26.627 levitate                   5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:26.627 dispel magic               4th circle  8 p, 2 g, 5 s, and 6 c coins
+17:28:26.628 wither                     4th circle  8 p, 2 g, 5 s, and 6 c coins
+17:28:26.629 infravision                5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:26.630 feeblemind                 5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:26.631 coldshield                 5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:26.632 globe of invulnerability   9th circle  94 p, 4 s, and 1 c coins
+17:28:26.633 mage flame                 1st circle  
+
+17:28:26.633 Divination Spells:
+
+17:28:26.634 detect invisibility        1st circle  
+17:28:26.634 detect magic               1st circle  
+
+17:28:26.634 Teleportation Spells:
+
+17:28:26.634 teleport                   5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:26.636 dimension door             7th circle  44 p, 2 g, 4 s, and 7 c coins
+
+17:28:26.637 Invocation Spells:
+
+17:28:26.637 chill touch                2nd circle  5 g, 1 s, and 6 c coins
+17:28:26.638 cone of cold               5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:26.639 magic missile              1st circle  
+17:28:26.640 ice storm                  5th circle  16 p, 1 g, 2 s, and 5 c coins
+
+17:28:26.641 Illusion Spells:
+
+17:28:26.641 invisibility               2nd circle  5 g, 1 s, and 6 c coins
+17:28:26.642 corpse glamor              7th circle  44 p, 2 g, 4 s, and 7 c coins
+
+17:28:26.643 Necromancy Spells:
+
+17:28:26.643 energy drain               5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:26.644 animate skeleton           1st circle  
+17:28:26.644 pain touch                 3rd circle  3 p, 4 g, 8 s, and 3 c coins
+17:28:26.645 nerve dance                6th circle  27 p, 8 g, 6 s, and 4 c coins
+17:28:26.646 spectral hand              4th circle  8 p, 2 g, 5 s, and 6 c coins
+17:28:26.646 rain of blood             10th circle  129 p coins
+17:28:26.647 banshee wail              10th circle  129 p coins
+17:28:26.648 animate ghost              9th circle  94 p, 4 s, and 1 c coins
+17:28:26.648 animate ghast              6th circle  27 p, 8 g, 6 s, and 4 c coins
+17:28:26.649 animate zombie             2nd circle  5 g, 1 s, and 6 c coins
+17:28:26.650 animate spectre            8th circle  66 p, 4 s, and 8 c coins
+17:28:26.651 animate wraith             7th circle  44 p, 2 g, 4 s, and 7 c coins
+17:28:26.652 animate ghoul              3rd circle  3 p, 4 g, 8 s, and 3 c coins
+17:28:26.653 animate shadow             4th circle  8 p, 2 g, 5 s, and 6 c coins
+17:28:26.654 animate wight              5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:26.654 soul bind                  3rd circle  3 p, 4 g, 8 s, and 3 c coins
+17:28:26.656 snapping teeth             5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:26.657 beltyns burning blood      7th circle  44 p, 2 g, 4 s, and 7 c coins
+17:28:26.658 abi dalzims horrid wilting  9th circle  94 p, 4 s, and 1 c coins
+17:28:26.659 blackmantle                8th circle  66 p, 4 s, and 8 c coins
+17:28:26.659 ward undead                6th circle  27 p, 8 g, 6 s, and 4 c coins
+17:28:26.660 destroy undead             8th circle  66 p, 4 s, and 8 c coins
+17:28:26.661 eradicate undead           9th circle  94 p, 4 s, and 1 c coins
+17:28:26.662 boneshatter               10th circle  129 p coins
+17:28:26.663 soul shackles              8th circle  66 p, 4 s, and 8 c coins
+17:28:26.664 contagion                  8th circle  66 p, 4 s, and 8 c coins
+
+17:28:26.665 Intelligence Based Skills:
+
+17:28:26.665 meditate                  (very good)     (89) 851 p, 6 g, and 1 s coins
+17:28:26.666 scribe                    (above average) (63) 66 p, 3 g, 6 s, and 2 c coins
+17:28:26.667 quick chant               (master)        (99) 1221 p, 1 g, 2 s, and 4 c coins
+17:28:26.668 spellcast generic         (very good)     (90) 1113 p, 1 g, 7 s, and 1 c coins
+17:28:26.669 spellcast necromancy      (master)        (95) 1105 p, 2 g, 8 s, and 8 c coins
+17:28:26.670 spellcast invocation      (below average) (44) 33 p, 4 g, and 9 s coins
+17:28:26.671 spellcast illusion        (below average) (38) 12 p, 9 g, 2 s, and 3 c coins
+17:28:26.672 spellcast healing         (average)       (48) 67 p, 8 g, and 5 s coins
+17:28:26.673 spellcast teleportation   (poor)          (31) 10 p, 1 g, 1 s, and 2 c coins
+17:28:26.674 spellcast summoning       (bad)           (20) 2 p, 1 g, 7 s, and 4 c coins
+17:28:26.676 spellcast protection      (poor)          (27) 4 p, 1 g, and 1 s coins
+17:28:26.677 spellcast divination      (average)       (52) 51 p, 7 g, 5 s, and 7 c coins
+17:28:26.678 spellcast enchantment     (good)          (68) 155 p, 2 g, 7 s, and 3 c coins
+17:28:26.679 spellcast spirit          (bad)           (20) 2 p, 1 g, 7 s, and 4 c coins
+17:28:26.680 spellcast nature          (bad)           (20) 2 p, 1 g, 7 s, and 4 c coins
+17:28:26.681 specialize necromancy     (very good)     (89) 458 p, 5 g, 5 s, and 9 c coins
+17:28:26.682 spellcast elemental       (bad)           (20) 2 p, 1 g, 7 s, and 4 c coins
+17:28:26.683 sorcerous spell knowledge (very good)     (90) 890 p, 5 g, 3 s, and 7 c coins
+
+17:28:26.685 Wisdom Based Skills:
+
+17:28:26.685 bandage                   (above average) (56) 719 p, 2 g, and 8 s coins
+
+17:28:26.686 Strength Based Skills:
+
+17:28:26.686 swimming                  (bad)           (16) 1 s coin
+17:28:26.687 1h bludgeon               (below average) (39) 15 p, 9 g, 8 s, and 4 c coins
+17:28:26.688 1h piercing               (average)       (50) 203 p, 8 g, 7 s, and 7 c coins
+
+17:28:26.689 Constitution Based Skills:
+
+17:28:26.689 mount                     (above average) (59) 160 p, 3 g, 8 s, and 3 c coins
+
+17:28:26.691 Dexterity Based Skills:
+
+17:28:26.691 unbind                    (bad)           (16) 1 s coin
+
+17:28:26.692 Agility Based Skills:
+
+17:28:26.692 dodge                     (bad)           (16) 1 s coin
+
+17:28:26.693 Available powers:
+17:28:26.693 Banshee Wail              10th circle [in spellbook]
+17:28:26.693 Rain of Blood             10th circle 129 p coins
+17:28:26.694 Boneshatter               10th circle 129 p coins
+17:28:26.694 Eradicate Undead           9th circle [in spellbook]
+17:28:26.696 Animate Ghost              9th circle 94 p, 4 s, and 1 c coins
+17:28:26.697 Abi Dalzims Horrid Wilting  9th circle 94 p, 4 s, and 1 c coins
+17:28:26.697 Globe of Invulnerability   9th circle 94 p, 4 s, and 1 c coins
+17:28:26.698 Contagion                  8th circle [in spellbook]
+17:28:26.699 Soul Shackles              8th circle [in spellbook]
+17:28:26.699 Destroy Undead             8th circle [in spellbook]
+17:28:26.700 Animate Spectre            8th circle [in spellbook]
+17:28:26.701 Blackmantle                8th circle [in spellbook]
+17:28:26.701 Beltyns Burning Blood      7th circle 44 p, 2 g, 4 s, and 7 c coins
+17:28:26.702 Protect Undead             7th circle 44 p, 2 g, 4 s, and 7 c coins
+17:28:26.703 Corpse Glamor              7th circle [in spellbook]
+17:28:26.704 Haste                      7th circle 44 p, 2 g, 4 s, and 7 c coins
+17:28:26.705 Animate Wraith             7th circle 44 p, 2 g, 4 s, and 7 c coins
+17:28:26.705 Dimension Door             7th circle [in spellbook]
+17:28:26.706 Minor Globe of Invulnerability  6th circle [in spellbook]
+17:28:26.706 Ward Undead                6th circle [in spellbook]
+17:28:26.707 Vampiric Touch             6th circle 27 p, 8 g, 6 s, and 4 c coins
+17:28:26.708 Animate Ghast              6th circle 27 p, 8 g, 6 s, and 4 c coins
+17:28:26.709 Nerve Dance                6th circle 27 p, 8 g, 6 s, and 4 c coins
+17:28:26.710 Teleport                   5th circle [in spellbook]
+17:28:26.710 Levitate                   5th circle [in spellbook]
+17:28:26.711 Infravision                5th circle 16 p, 1 g, 2 s, and 5 c coins
+17:28:26.712 Coldshield                 5th circle [in spellbook]
+17:28:26.713 Ice Storm                  5th circle [in spellbook]
+17:28:26.713 Heal Undead                5th circle [in spellbook]
+17:28:26.714 Cone of Cold               5th circle [in spellbook]
+17:28:26.714 Energy Drain               5th circle 16 p, 1 g, 2 s, and 5 c coins
+17:28:26.715 Ray of Enfeeblement        5th circle 16 p, 1 g, 2 s, and 5 c coins
+17:28:26.716 Feeblemind                 5th circle [in spellbook]
+17:28:26.716 Animate Wight              5th circle [in spellbook]
+17:28:26.717 Snapping Teeth             5th circle 16 p, 1 g, 2 s, and 5 c coins
+17:28:26.718 Dispel Magic               4th circle 8 p, 2 g, 5 s, and 6 c coins
+17:28:26.719 Sleep                      4th circle [in spellbook]
+17:28:26.719 Strength                   4th circle 8 p, 2 g, 5 s, and 6 c coins
+17:28:26.720 Animate Shadow             4th circle [in spellbook]
+17:28:26.721 Command Horde              4th circle 8 p, 2 g, 5 s, and 6 c coins
+17:28:26.722 Wither                     4th circle 8 p, 2 g, 5 s, and 6 c coins
+17:28:26.723 Spectral Hand              4th circle [in spellbook]
+17:28:26.724 Soul Bind                  3rd circle 3 p, 4 g, 8 s, and 3 c coins
+17:28:26.724 Animate Ghoul              3rd circle [in spellbook]
+17:28:26.725 Pain Touch                 3rd circle [in spellbook]
+17:28:26.725 Command Undead             2nd circle [in spellbook]
+17:28:26.727 Protection From Undead     2nd circle [in spellbook]
+17:28:26.727 Protection From Cold       2nd circle 5 g, 1 s, and 6 c coins
+17:28:26.728 Chill Touch                2nd circle [in spellbook]
+17:28:26.729 Minor Creation             2nd circle [in spellbook]
+17:28:26.729 Animate Zombie             2nd circle 5 g, 1 s, and 6 c coins
+17:28:26.730 Invisibility               2nd circle [in spellbook]
+17:28:26.731 Detect Magic               1st circle 
+17:28:26.731 Detect Invisibility        1st circle [in spellbook]
+17:28:26.732 Erase                      1st circle 
+17:28:26.732 Magic Missile              1st circle [in spellbook]
+17:28:26.733 Mage Flame                 1st circle 
+17:28:26.733 Preserve                   1st circle 
+17:28:26.734 Ray of Frost               1st circle [in spellbook]
+17:28:26.734 Acid Splash                1st circle [in spellbook]
+17:28:26.735 Animate Skeleton           1st circle 
+17:28:26.735 Light                      1st circle [in spellbook]
+17:28:26.736 Fire Bolt                  1st circle [in spellbook]
+
+17:28:26.737 < 595h/595H 185v/185V P: sit >     
+17:28:28.109 You are carrying:
+17:28:28.110 Detrez's storage cube (magic) 
+17:28:28.110 a small wooden box 
+17:28:28.110 [4] a papyrus scroll spellbook 
+
+17:28:28.195 < 595h/595H 185v/185V P: sit >     
+17:28:35.871 It contains no spells you recognize outright and has 80 free pages.
+
+17:28:35.965 < 595h/595H 185v/185V P: sit >     
+17:28:40.125 It contains no spells you recognize outright and has 80 free pages.
+
+17:28:40.212 < 595h/595H 185v/185V P: sit >     
+17:28:43.471 It contains the spells: Detect Invisibility, Fire Bolt, Light, Minor Creation, Teleport, Eradicate Undead, Soul
+17:28:43.471 Shackles, Acid Splash, Animate Ghoul, Minor Globe of Invulnerability, Ice Storm, Heal Undead, Protection From Undead, 
+17:28:43.471 Coldshield, Command Undead, Magic Missile, Chill Touch, Ray of Frost, Dimension Door, Spectral Hand, Blackmantle and has 
+17:28:43.471 1 free pages.
+
+17:28:43.491 < 595h/595H 185v/185V P: sit >     
+17:28:47.387 It contains the spells: Pain Touch, Feeblemind, Cone of Cold, Invisibility, Sleep, Animate Spectre, Animate Shadow,
+17:28:47.387 Corpse Glamor, Animate Wight, Ward Undead, Destroy Undead, Contagion, Levitate, Banshee Wail and has no free pages.
+
+17:28:47.474 < 595h/595H 185v/185V P: sit >     
+17:28:52.483 It contains the spells: Detect Invisibility, Fire Bolt, Light, Minor Creation, Teleport, Eradicate Undead, Soul
+17:28:52.483 Shackles, Acid Splash, Animate Ghoul, Minor Globe of Invulnerability, Ice Storm, Heal Undead, Protection From Undead, 
+17:28:52.483 Coldshield, Command Undead, Magic Missile, Chill Touch, Ray of Frost, Dimension Door, Spectral Hand, Blackmantle and has 
+17:28:52.483 1 free pages.
+
+17:28:52.503 < 595h/595H 185v/185V P: sit >     
+17:28:55.399 You can practice any of the following skills/spells:
+
+17:28:55.400 Generic Spells:
+
+17:28:55.400 minor creation             2nd circle  5 g, 1 s, and 6 c coins
+17:28:55.401 ventriloquate              1st circle  
+17:28:55.401 preserve                   1st circle  
+17:28:55.402 command undead             2nd circle  5 g, 1 s, and 6 c coins
+17:28:55.403 vampiric touch             6th circle  27 p, 8 g, 6 s, and 4 c coins
+17:28:55.403 command horde              4th circle  8 p, 2 g, 5 s, and 6 c coins
+17:28:55.404 erase                      1st circle  
+
+17:28:55.404 Healing Spells:
+
+17:28:55.404 heal undead                5th circle  16 p, 1 g, 2 s, and 5 c coins
+
+17:28:55.405 Protection Spells:
+
+17:28:55.406 protection from cold       2nd circle  5 g, 1 s, and 6 c coins
+17:28:55.406 protect undead             7th circle  44 p, 2 g, 4 s, and 7 c coins
+17:28:55.407 protection from undead     2nd circle  5 g, 1 s, and 6 c coins
+
+17:28:55.408 Enchantment Spells:
+
+17:28:55.409 sleep                      4th circle  8 p, 2 g, 5 s, and 6 c coins
+17:28:55.409 strength                   4th circle  8 p, 2 g, 5 s, and 6 c coins
+17:28:55.410 haste                      7th circle  44 p, 2 g, 4 s, and 7 c coins
+17:28:55.411 minor globe of invulnerability  6th circle  27 p, 8 g, 6 s, and 4 c coins
+17:28:55.412 rejuvenate major           6th circle  27 p, 8 g, 6 s, and 4 c coins
+17:28:55.413 ray of enfeeblement        5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:55.414 rejuvenate minor           3rd circle  3 p, 4 g, 8 s, and 3 c coins
+17:28:55.415 age                        6th circle  27 p, 8 g, 6 s, and 4 c coins
+17:28:55.416 levitate                   5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:55.417 dispel magic               4th circle  8 p, 2 g, 5 s, and 6 c coins
+17:28:55.418 wither                     4th circle  8 p, 2 g, 5 s, and 6 c coins
+17:28:55.419 infravision                5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:55.420 feeblemind                 5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:55.421 coldshield                 5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:55.422 globe of invulnerability   9th circle  94 p, 4 s, and 1 c coins
+17:28:55.423 mage flame                 1st circle  
+
+17:28:55.423 Divination Spells:
+
+17:28:55.423 detect invisibility        1st circle  
+17:28:55.424 detect magic               1st circle  
+
+17:28:55.424 Teleportation Spells:
+
+17:28:55.424 teleport                   5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:55.425 dimension door             7th circle  44 p, 2 g, 4 s, and 7 c coins
+
+17:28:55.426 Invocation Spells:
+
+17:28:55.426 chill touch                2nd circle  5 g, 1 s, and 6 c coins
+17:28:55.427 cone of cold               5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:55.428 magic missile              1st circle  
+17:28:55.428 ice storm                  5th circle  16 p, 1 g, 2 s, and 5 c coins
+
+17:28:55.429 Illusion Spells:
+
+17:28:55.429 invisibility               2nd circle  5 g, 1 s, and 6 c coins
+17:28:55.430 corpse glamor              7th circle  44 p, 2 g, 4 s, and 7 c coins
+
+17:28:55.431 Necromancy Spells:
+
+17:28:55.431 energy drain               5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:55.432 animate skeleton           1st circle  
+17:28:55.433 pain touch                 3rd circle  3 p, 4 g, 8 s, and 3 c coins
+17:28:55.434 nerve dance                6th circle  27 p, 8 g, 6 s, and 4 c coins
+17:28:55.435 spectral hand              4th circle  8 p, 2 g, 5 s, and 6 c coins
+17:28:55.436 rain of blood             10th circle  129 p coins
+17:28:55.436 banshee wail              10th circle  129 p coins
+17:28:55.437 animate ghost              9th circle  94 p, 4 s, and 1 c coins
+17:28:55.438 animate ghast              6th circle  27 p, 8 g, 6 s, and 4 c coins
+17:28:55.439 animate zombie             2nd circle  5 g, 1 s, and 6 c coins
+17:28:55.440 animate spectre            8th circle  66 p, 4 s, and 8 c coins
+17:28:55.440 animate wraith             7th circle  44 p, 2 g, 4 s, and 7 c coins
+17:28:55.441 animate ghoul              3rd circle  3 p, 4 g, 8 s, and 3 c coins
+17:28:55.442 animate shadow             4th circle  8 p, 2 g, 5 s, and 6 c coins
+17:28:55.443 animate wight              5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:55.444 soul bind                  3rd circle  3 p, 4 g, 8 s, and 3 c coins
+17:28:55.444 snapping teeth             5th circle  16 p, 1 g, 2 s, and 5 c coins
+17:28:55.445 beltyns burning blood      7th circle  44 p, 2 g, 4 s, and 7 c coins
+17:28:55.446 abi dalzims horrid wilting  9th circle  94 p, 4 s, and 1 c coins
+17:28:55.447 blackmantle                8th circle  66 p, 4 s, and 8 c coins
+17:28:55.448 ward undead                6th circle  27 p, 8 g, 6 s, and 4 c coins
+17:28:55.449 destroy undead             8th circle  66 p, 4 s, and 8 c coins
+17:28:55.450 eradicate undead           9th circle  94 p, 4 s, and 1 c coins
+17:28:55.450 boneshatter               10th circle  129 p coins
+17:28:55.451 soul shackles              8th circle  66 p, 4 s, and 8 c coins
+17:28:55.452 contagion                  8th circle  66 p, 4 s, and 8 c coins
+
+17:28:55.453 Intelligence Based Skills:
+
+17:28:55.453 meditate                  (very good)     (89) 851 p, 6 g, and 1 s coins
+17:28:55.454 scribe                    (above average) (63) 66 p, 3 g, 6 s, and 2 c coins
+17:28:55.456 quick chant               (master)        (99) 1221 p, 1 g, 2 s, and 4 c coins
+17:28:55.457 spellcast generic         (very good)     (90) 1113 p, 1 g, 7 s, and 1 c coins
+17:28:55.458 spellcast necromancy      (master)        (95) 1105 p, 2 g, 8 s, and 8 c coins
+17:28:55.459 spellcast invocation      (below average) (44) 33 p, 4 g, and 9 s coins
+17:28:55.460 spellcast illusion        (below average) (38) 12 p, 9 g, 2 s, and 3 c coins
+17:28:55.461 spellcast healing         (average)       (48) 67 p, 8 g, and 5 s coins
+17:28:55.462 spellcast teleportation   (poor)          (31) 10 p, 1 g, 1 s, and 2 c coins
+17:28:55.463 spellcast summoning       (bad)           (20) 2 p, 1 g, 7 s, and 4 c coins
+17:28:55.464 spellcast protection      (poor)          (27) 4 p, 1 g, and 1 s coins
+17:28:55.465 spellcast divination      (average)       (52) 51 p, 7 g, 5 s, and 7 c coins
+17:28:55.466 spellcast enchantment     (good)          (68) 155 p, 2 g, 7 s, and 3 c coins
+17:28:55.467 spellcast spirit          (bad)           (20) 2 p, 1 g, 7 s, and 4 c coins
+17:28:55.468 spellcast nature          (bad)           (20) 2 p, 1 g, 7 s, and 4 c coins
+17:28:55.470 specialize necromancy     (very good)     (89) 458 p, 5 g, 5 s, and 9 c coins
+17:28:55.471 spellcast elemental       (bad)           (20) 2 p, 1 g, 7 s, and 4 c coins
+17:28:55.472 sorcerous spell knowledge (very good)     (90) 890 p, 5 g, 3 s, and 7 c coins
+
+17:28:55.473 Wisdom Based Skills:
+
+17:28:55.473 bandage                   (above average) (56) 719 p, 2 g, and 8 s coins
+
+17:28:55.474 Strength Based Skills:
+
+17:28:55.474 swimming                  (bad)           (16) 1 s coin
+17:28:55.475 1h bludgeon               (below average) (39) 15 p, 9 g, 8 s, and 4 c coins
+17:28:55.476 1h piercing               (average)       (50) 203 p, 8 g, 7 s, and 7 c coins
+
+17:28:55.477 Constitution Based Skills:
+
+17:28:55.477 mount                     (above average) (59) 160 p, 3 g, 8 s, and 3 c coins
+
+17:28:55.478 Dexterity Based Skills:
+
+17:28:55.479 unbind                    (bad)           (16) 1 s coin
+
+17:28:55.480 Agility Based Skills:
+
+17:28:55.480 dodge                     (bad)           (16) 1 s coin
+
+17:28:55.481 Available powers:
+17:28:55.481 Banshee Wail              10th circle [in spellbook]
+17:28:55.481 Rain of Blood             10th circle 129 p coins
+17:28:55.482 Boneshatter               10th circle 129 p coins
+17:28:55.483 Eradicate Undead           9th circle [in spellbook]
+17:28:55.483 Animate Ghost              9th circle 94 p, 4 s, and 1 c coins
+17:28:55.484 Abi Dalzims Horrid Wilting  9th circle 94 p, 4 s, and 1 c coins
+17:28:55.485 Globe of Invulnerability   9th circle 94 p, 4 s, and 1 c coins
+17:28:55.486 Contagion                  8th circle [in spellbook]
+17:28:55.487 Soul Shackles              8th circle [in spellbook]
+17:28:55.487 Destroy Undead             8th circle [in spellbook]
+17:28:55.488 Animate Spectre            8th circle [in spellbook]
+17:28:55.488 Blackmantle                8th circle [in spellbook]
+17:28:55.489 Beltyns Burning Blood      7th circle 44 p, 2 g, 4 s, and 7 c coins
+17:28:55.490 Protect Undead             7th circle 44 p, 2 g, 4 s, and 7 c coins
+17:28:55.491 Corpse Glamor              7th circle [in spellbook]
+17:28:55.491 Haste                      7th circle 44 p, 2 g, 4 s, and 7 c coins
+17:28:55.492 Animate Wraith             7th circle 44 p, 2 g, 4 s, and 7 c coins
+17:28:55.493 Dimension Door             7th circle [in spellbook]
+17:28:55.494 Minor Globe of Invulnerability  6th circle [in spellbook]
+17:28:55.494 Ward Undead                6th circle [in spellbook]
+17:28:55.495 Vampiric Touch             6th circle 27 p, 8 g, 6 s, and 4 c coins
+17:28:55.495 Animate Ghast              6th circle 27 p, 8 g, 6 s, and 4 c coins
+17:28:55.496 Nerve Dance                6th circle 27 p, 8 g, 6 s, and 4 c coins
+17:28:55.497 Teleport                   5th circle [in spellbook]
+17:28:55.498 Levitate                   5th circle [in spellbook]
+17:28:55.498 Infravision                5th circle 16 p, 1 g, 2 s, and 5 c coins
+17:28:55.499 Coldshield                 5th circle [in spellbook]
+17:28:55.500 Ice Storm                  5th circle [in spellbook]
+17:28:55.500 Heal Undead                5th circle [in spellbook]
+17:28:55.501 Cone of Cold               5th circle [in spellbook]
+17:28:55.502 Energy Drain               5th circle 16 p, 1 g, 2 s, and 5 c coins
+17:28:55.503 Ray of Enfeeblement        5th circle 16 p, 1 g, 2 s, and 5 c coins
+17:28:55.503 Feeblemind                 5th circle [in spellbook]
+17:28:55.504 Animate Wight              5th circle [in spellbook]
+17:28:55.505 Snapping Teeth             5th circle 16 p, 1 g, 2 s, and 5 c coins
+17:28:55.506 Dispel Magic               4th circle 8 p, 2 g, 5 s, and 6 c coins
+17:28:55.507 Sleep                      4th circle [in spellbook]
+17:28:55.508 Strength                   4th circle 8 p, 2 g, 5 s, and 6 c coins
+17:28:55.509 Animate Shadow             4th circle [in spellbook]
+17:28:55.509 Command Horde              4th circle 8 p, 2 g, 5 s, and 6 c coins
+17:28:55.510 Wither                     4th circle 8 p, 2 g, 5 s, and 6 c coins
+17:28:55.511 Spectral Hand              4th circle [in spellbook]
+17:28:55.512 Soul Bind                  3rd circle 3 p, 4 g, 8 s, and 3 c coins
+17:28:55.513 Animate Ghoul              3rd circle [in spellbook]
+17:28:55.513 Pain Touch                 3rd circle [in spellbook]
+17:28:55.514 Command Undead             2nd circle [in spellbook]
+17:28:55.514 Protection From Undead     2nd circle [in spellbook]
+17:28:55.515 Protection From Cold       2nd circle 5 g, 1 s, and 6 c coins
+17:28:55.516 Chill Touch                2nd circle [in spellbook]
+17:28:55.516 Minor Creation             2nd circle [in spellbook]
+17:28:55.516 Animate Zombie             2nd circle 5 g, 1 s, and 6 c coins
+17:28:55.517 Invisibility               2nd circle [in spellbook]
+17:28:55.518 Detect Magic               1st circle 
+17:28:55.518 Detect Invisibility        1st circle [in spellbook]
+17:28:55.519 Erase                      1st circle 
+17:28:55.519 Magic Missile              1st circle [in spellbook]
+17:28:55.520 Mage Flame                 1st circle 
+17:28:55.520 Preserve                   1st circle 
+17:28:55.520 Ray of Frost               1st circle [in spellbook]
+17:28:55.521 Acid Splash                1st circle [in spellbook]
+17:28:55.522 Animate Skeleton           1st circle 
+17:28:55.522 Light                      1st circle [in spellbook]
+17:28:55.523 Fire Bolt                  1st circle [in spellbook]
+
+17:28:55.524 < 595h/595H 185v/185V P: sit >     
+17:28:59.406 You are using:
+17:28:59.407 <worn on head>       the mystical circlet of the facile chimera (magic)
+17:28:59.408 <worn on eyes>       an eyepatch with the symbol of Ashstone (magic)
+17:28:59.409 <worn in ear>        the crystallized tear of an astral deva (magic)
+17:28:59.410 <worn in ear>        a flaming earring (magic) (damaged)
+17:28:59.411 <worn around neck>   an iron gorget studded with bloodstones (magic)
+17:28:59.412 <worn around neck>   the medallion of the hive king (illuminating)
+17:28:59.413 <worn on body>       a silvery suit of elven chainmail (magic)
+17:28:59.414 <worn about body>    an icy white robe with blue piping (illuminating)
+17:28:59.414 <component bag>      a fine silk haversack stitched with platinum thread
+17:28:59.415 <worn on arms>       sleeves stitched with the veins of a unicorn
+17:28:59.416 <worn around wrist>  a blue topaz bracelet (magic)
+17:28:59.417 <worn around wrist>  a band of slaadi skin
+17:28:59.418 <worn on hands>      some gloves of flayed planetar hide
+17:28:59.418 <worn on finger>     a silver ring encrusted with a black sapphire (magic)
+17:28:59.419 <worn on finger>     a ring of seven stars (magic)
+17:28:59.420 <held>               a dark raven feather quill
+17:28:59.421 <worn on legs>       some adamantine greaves inlayed with rubies
+17:28:59.487 < 595h/595H 185v/185V P: sit >     
+17:29:05.411 You hold a papyrus scroll spellbook.
+
+17:29:05.497 < 595h/595H 185v/185V P: sit >     
+
+17:29:10.762 Nraak starts casting a spell called 'coldshield'.
+
+17:29:10.763 < 595h/595H 185v/185V P: sit >     
+17:29:13.420 You start to scribe the spell Beltyns Burning Blood...
+17:29:13.421 You start to copy down the spell..
+
+17:29:13.500 < 595h/595H 185v/185V P: sit >     
+
+17:29:17.756 Nraak completes his spell...
+17:29:17.757 Nraak utters the words, 'coldshield'.
+17:29:17.758 Nraak is surrounded by an aura of deadly cold!
+
+17:29:17.758 < 595h/595H 185v/185V P: sit >     
+
+17:29:22.018 You have completed page 1 out of 7 of Beltyns Burning Blood into your spellbook.
+
+17:29:22.020 < 595h/595H 185v/185V P: sit >     
+
+17:29:30.278 You have completed page 2 out of 7 of Beltyns Burning Blood into your spellbook.
+
+17:29:30.280 < 595h/595H 185v/185V P: sit >     
+
+17:29:38.550 You have completed page 3 out of 7 of Beltyns Burning Blood into your spellbook.
+
+17:29:38.552 < 595h/595H 185v/185V P: sit >     
+
+17:29:46.806 You have completed page 4 out of 7 of Beltyns Burning Blood into your spellbook.
+
+17:29:46.808 < 595h/595H 185v/185V P: sit >     
+
+17:29:55.063 You have completed page 5 out of 7 of Beltyns Burning Blood into your spellbook.
+
+17:29:55.065 < 595h/595H 185v/185V P: sit >     
+
+17:30:03.326 You have completed page 6 out of 7 of Beltyns Burning Blood into your spellbook.
+
+17:30:03.328 < 595h/595H 185v/185V P: sit >     
+
+17:30:12.000 You finish scribing spell Beltyns Burning Blood to a papyrus scroll spellbook.
+17:30:12.002 The spell uses 7 pages in a papyrus scroll spellbook, leaving 73 more pages free.
+
+17:30:12.003 < 595h/595H 185v/185V P: sit >     
+17:30:12.160 A Drafty Bedroom
+17:30:12.248 < 595h/595H 185v/185V P: sit >     
+17:30:12.409 You start to scribe the spell Erase...
+17:30:12.410 You start to copy down the spell..
+
+17:30:12.498 < 595h/595H 185v/185V P: sit >     
+
+17:30:13.760 You finish scribing spell Erase to a papyrus scroll spellbook.
+17:30:13.762 The spell uses 1 pages in a papyrus scroll spellbook, leaving 72 more pages free.
+
+17:30:13.764 < 595h/595H 185v/185V P: sit >     
+17:30:24.683 A Drafty Bedroom
+17:30:24.774 < 595h/595H 185v/185V P: sit >     
+17:30:24.935 You start to scribe the spell Animate Ghast...
+17:30:24.936 You start to copy down the spell..
+
+17:30:25.024 < 595h/595H 185v/185V P: sit >     
+
+17:30:32.274 You have completed page 1 out of 6 of Animate Ghast into your spellbook.
+
+17:30:32.275 < 595h/595H 185v/185V P: sit >     
+
+17:30:39.288 You have completed page 2 out of 6 of Animate Ghast into your spellbook.
+
+17:30:39.290 < 595h/595H 185v/185V P: sit >     
+
+17:30:46.303 You have completed page 3 out of 6 of Animate Ghast into your spellbook.
+
+17:30:46.305 < 595h/595H 185v/185V P: sit >     
+
+17:30:53.311 You have completed page 4 out of 6 of Animate Ghast into your spellbook.
+
+17:30:53.312 < 595h/595H 185v/185V P: sit >     
+
+17:31:00.310 You have completed page 5 out of 6 of Animate Ghast into your spellbook.
+
+17:31:00.312 < 595h/595H 185v/185V P: sit >     
+
+17:31:07.325 You finish scribing spell Animate Ghast to a papyrus scroll spellbook.
+17:31:07.327 The spell uses 6 pages in a papyrus scroll spellbook, leaving 66 more pages free.
+
+17:31:07.329 < 595h/595H 185v/185V P: sit >     
+17:31:07.492 A Drafty Bedroom
+17:31:07.573 < 595h/595H 185v/185V P: sit >     
+17:31:07.741 Nraak starts casting a spell.
+17:31:07.742 You start to scribe the spell Nerve Dance...
+17:31:07.743 You start to copy down the spell..
+
+17:31:07.834 < 595h/595H 185v/185V P: sit >     
+
+17:31:15.083 You have completed page 1 out of 6 of Nerve Dance into your spellbook.
+
+17:31:15.085 < 595h/595H 185v/185V P: sit >     
+
+17:31:16.839 Nraak completes his spell...
+17:31:16.839 Nraak utters the words, 'globe of invulnerability'.
+17:31:16.840 Nraak begins to shimmer.
+
+17:31:16.840 < 595h/595H 185v/185V P: sit >     
+17:31:20.014 You're busy scribing a spell into your spellbook!
+
+17:31:20.104 < 595h/595H 185v/185V P: sit >     
+
+17:31:20.351 Nraak starts casting a spell called 'stoneskin'.
+
+17:31:20.352 < 595h/595H 185v/185V P: sit >     
+
+17:31:22.109 You have completed page 2 out of 6 of Nerve Dance into your spellbook.
+
+17:31:22.110 < 595h/595H 185v/185V P: sit >     
+
+17:31:26.620 Nraak completes his spell...
+17:31:26.620 Nraak utters the words, 'stoneskin'.
+17:31:26.621 Nraak's skin seems to turn to stone.
+
+17:31:26.621 < 595h/595H 185v/185V P: sit >     
+
+17:31:29.115 You have completed page 3 out of 6 of Nerve Dance into your spellbook.
+
+17:31:29.117 < 595h/595H 185v/185V P: sit >     
+
+17:31:29.613 Nraak starts casting a spell.
+
+17:31:29.613 < 595h/595H 185v/185V P: sit >     
+
+17:31:36.146 You have completed page 4 out of 6 of Nerve Dance into your spellbook.
+
+17:31:36.148 < 595h/595H 185v/185V P: sit >     
+
+17:31:36.651 Nraak completes his spell...
+17:31:36.651 Nraak utters the words, 'haste'.
+17:31:36.652 Nraak starts to move with uncanny speed!
+
+17:31:36.652 < 595h/595H 185v/185V P: sit >     
+
+17:31:43.158 You have completed page 5 out of 6 of Nerve Dance into your spellbook.
+
+17:31:43.159 < 595h/595H 185v/185V P: sit >     
+
+17:31:50.166 You finish scribing spell Nerve Dance to a papyrus scroll spellbook.
+17:31:50.168 The spell uses 6 pages in a papyrus scroll spellbook, leaving 60 more pages free.
+
+17:31:50.169 < 595h/595H 185v/185V P: sit >     
+17:31:50.333 A Drafty Bedroom
+17:31:50.417 < 595h/595H 185v/185V P: sit >     
+17:31:50.584 You start to scribe the spell Infravision...
+17:31:50.585 You start to copy down the spell..
+
+17:31:50.678 < 595h/595H 185v/185V P: sit >     
+
+17:31:56.680 You have completed page 1 out of 5 of Infravision into your spellbook.
+
+17:31:56.682 < 595h/595H 185v/185V P: sit >     
+
+17:32:02.452 You have completed page 2 out of 5 of Infravision into your spellbook.
+
+17:32:02.454 < 595h/595H 185v/185V P: sit >     
+
+17:32:09.702 Nraak starts casting a spell.
+
+17:32:09.703 < 595h/595H 185v/185V P: sit >     
+
+17:32:10.199 You have completed page 3 out of 5 of Infravision into your spellbook.
+
+17:32:10.200 < 595h/595H 185v/185V P: sit >     
+
+17:32:15.958 You have completed page 4 out of 5 of Infravision into your spellbook.
+
+17:32:15.960 < 595h/595H 185v/185V P: sit >     
+
+17:32:16.701 Nraak completes his spell...
+17:32:16.701 Nraak utters the words, 'coldshield'.
+17:32:16.702 Nraak is surrounded by an aura of deadly cold!
+
+17:32:16.703 < 595h/595H 185v/185V P: sit >     
+
+17:32:21.881 You finish scribing spell Infravision to a papyrus scroll spellbook.
+17:32:21.884 The spell uses 5 pages in a papyrus scroll spellbook, leaving 55 more pages free.
+
+17:32:21.885 < 595h/595H 185v/185V P: sit >     
+17:32:22.040 A Drafty Bedroom
+17:32:22.131 < 595h/595H 185v/185V P: sit >     
+17:32:22.298 You start to scribe the spell Protection From Cold...
+17:32:22.299 You start to copy down the spell..
+
+17:32:22.378 < 595h/595H 185v/185V P: sit >     
+
+17:32:24.881 You have completed page 1 out of 2 of Protection From Cold into your spellbook.
+
+17:32:24.883 < 595h/595H 185v/185V P: sit >     
+
+17:32:27.137 You finish scribing spell Protection From Cold to a papyrus scroll spellbook.
+17:32:27.139 The spell uses 2 pages in a papyrus scroll spellbook, leaving 53 more pages free.
+
+17:32:27.141 < 595h/595H 185v/185V P: sit >     
+
+17:32:34.557 ANSI:  Sojourn Assassination Squad
+17:32:34.649 256 :  Sojourn Assassination Squad
+17:32:34.650 True:  Sojourn Assassination Squad
+
+17:32:34.650 < 595h/595H 185v/185V P: sit >     
+17:32:34.808 A Drafty Bedroom
+17:32:34.900 < 595h/595H 185v/185V P: sit >     
+17:32:35.061 You start to scribe the spell Animate Skeleton...
+17:32:35.063 You start to copy down the spell..
+
+17:32:35.144 < 595h/595H 185v/185V P: sit >     
+
+17:32:36.399 You finish scribing spell Animate Skeleton to a papyrus scroll spellbook.
+17:32:36.402 The spell uses 1 pages in a papyrus scroll spellbook, leaving 52 more pages free.
+
+17:32:36.404 < 595h/595H 185v/185V P: sit >     
+
+17:32:37.400 Autosaving...
+
+17:32:37.400 < 595h/595H 185v/185V P: sit >     
+17:32:47.324 A Drafty Bedroom
+17:32:47.406 < 595h/595H 185v/185V P: sit >     
+17:32:47.575 You start to scribe the spell Mage Flame...
+17:32:47.576 You start to copy down the spell..
+
+17:32:47.667 < 595h/595H 185v/185V P: sit >     
+
+17:32:48.906 You finish scribing spell Mage Flame to a papyrus scroll spellbook.
+17:32:48.908 The spell uses 1 pages in a papyrus scroll spellbook, leaving 51 more pages free.
+
+17:32:48.910 < 595h/595H 185v/185V P: sit >     
+17:32:59.841 It is 1pm, on the Day of Freedom
+17:32:59.842 The 25th Day of the Month of Bestanth (the Renewal), Year 1301.
+17:32:59.842 Time elapsed since boot-up: 0:08:12
+17:32:59.843 Current time is: Tue Dec  9 17:55:30 2025
+
+17:32:59.924 < 595h/595H 185v/185V P: sit >     
+17:33:00.091 A Drafty Bedroom
+17:33:00.177 < 595h/595H 185v/185V P: sit >     
+17:33:00.344 You start to scribe the spell Preserve...
+17:33:00.344 You start to copy down the spell..
+
+17:33:00.423 < 595h/595H 185v/185V P: sit >     
+
+17:33:01.680 You finish scribing spell Preserve to a papyrus scroll spellbook.
+17:33:01.683 The spell uses 1 pages in a papyrus scroll spellbook, leaving 50 more pages free.
+17:33:01.684 You have learned something new about scribe!
+
+17:33:01.685 < 595h/595H 185v/185V P: sit >     
+17:33:12.620 A Drafty Bedroom
+17:33:12.712 < 595h/595H 185v/185V P: sit >     
+17:33:12.870 You start to scribe the spell Ray of Enfeeblement...
+17:33:12.871 You start to copy down the spell..
+
+17:33:12.954 < 595h/595H 185v/185V P: sit >     
+
+17:33:19.018 You have completed page 1 out of 5 of Ray of Enfeeblement into your spellbook.
+
+17:33:19.020 < 595h/595H 185v/185V P: sit >     
+
+17:33:24.776 You have completed page 2 out of 5 of Ray of Enfeeblement into your spellbook.
+
+17:33:24.778 < 595h/595H 185v/185V P: sit >     
+
+17:33:30.542 You have completed page 3 out of 5 of Ray of Enfeeblement into your spellbook.
+
+17:33:30.544 < 595h/595H 185v/185V P: sit >     
+
+17:33:36.391 You have completed page 4 out of 5 of Ray of Enfeeblement into your spellbook.
+
+17:33:36.393 < 595h/595H 185v/185V P: sit >     
+
+17:33:42.151 You finish scribing spell Ray of Enfeeblement to a papyrus scroll spellbook.
+17:33:42.153 The spell uses 5 pages in a papyrus scroll spellbook, leaving 45 more pages free.
+
+17:33:42.155 < 595h/595H 185v/185V P: sit >     
+17:33:42.319 A Drafty Bedroom
+17:33:42.402 < 595h/595H 185v/185V P: sit >     
+17:33:42.569 You start to scribe the spell Animate Zombie...
+17:33:42.570 You start to copy down the spell..
+
+17:33:42.650 < 595h/595H 185v/185V P: sit >     
+
+17:33:45.155 You have completed page 1 out of 2 of Animate Zombie into your spellbook.
+
+17:33:45.156 < 595h/595H 185v/185V P: sit >     
+
+17:33:47.414 You finish scribing spell Animate Zombie to a papyrus scroll spellbook.
+17:33:47.417 The spell uses 2 pages in a papyrus scroll spellbook, leaving 43 more pages free.
+
+17:33:47.418 < 595h/595H 185v/185V P: sit >     
+17:33:54.848 A Drafty Bedroom
+17:33:54.930 < 595h/595H 185v/185V P: sit >     
+17:33:55.098 You start to scribe the spell Soul Bind...
+17:33:55.099 You start to copy down the spell..
+
+17:33:55.177 < 595h/595H 185v/185V P: sit >     
+
+17:33:58.944 You have completed page 1 out of 3 of Soul Bind into your spellbook.
+
+17:33:58.946 < 595h/595H 185v/185V P: sit >     
+
+17:34:02.438 You have completed page 2 out of 3 of Soul Bind into your spellbook.
+
+17:34:02.439 < 595h/595H 185v/185V P: sit >     
+
+17:34:05.946 You finish scribing spell Soul Bind to a papyrus scroll spellbook.
+17:34:05.948 The spell uses 3 pages in a papyrus scroll spellbook, leaving 40 more pages free.
+
+17:34:05.949 < 595h/595H 185v/185V P: sit >     
+17:34:07.366 A Drafty Bedroom
+17:34:07.453 < 595h/595H 185v/185V P: sit >     
+17:34:07.618 You start to scribe the spell Wither...
+17:34:07.619 You start to copy down the spell..
+
+17:34:07.701 < 595h/595H 185v/185V P: sit >     
+
+17:34:12.713 You have completed page 1 out of 4 of Wither into your spellbook.
+
+17:34:12.715 < 595h/595H 185v/185V P: sit >     
+17:34:14.368 {{gradient saddlebrown goldenrod}}Sojourn{{/}} {{gradient black darkred}}Assassination{{/}} {{gradient darkred 
+
+17:34:17.470 You have completed page 2 out of 4 of Wither into your spellbook.
+
+17:34:17.472 < 595h/595H 185v/185V P: sit >     
+
+17:34:22.229 You have completed page 3 out of 4 of Wither into your spellbook.
+
+17:34:22.231 < 595h/595H 185v/185V P: sit >     
+
+17:34:26.974 You finish scribing spell Wither to a papyrus scroll spellbook.
+17:34:26.977 The spell uses 4 pages in a papyrus scroll spellbook, leaving 36 more pages free.
+
+17:34:26.978 < 595h/595H 185v/185V P: sit >     
+17:34:27.142 A Drafty Bedroom
+17:34:27.223 < 595h/595H 185v/185V P: sit >     
+17:34:27.393 You start to scribe the spell Rain of Blood...
+17:34:27.394 You start to copy down the spell..
+
+17:34:27.473 < 595h/595H 185v/185V P: sit >     
+
+17:34:39.494 You have completed page 1 out of 10 of Rain of Blood into your spellbook.
+
+17:34:39.496 < 595h/595H 185v/185V P: sit >     
+
+17:34:51.267 You have completed page 2 out of 10 of Rain of Blood into your spellbook.
+
+17:34:51.268 < 595h/595H 185v/185V P: sit >     
+17:35:00.690 Pardon?
+
+17:35:00.780 < 595h/595H 185v/185V P: sit >     
+
+17:35:03.000 You have completed page 3 out of 10 of Rain of Blood into your spellbook.
+
+17:35:03.001 < 595h/595H 185v/185V P: sit >     
+17:35:03.190 Pardon? No ansi chars allowed as input.
+
+17:35:03.281 < 595h/595H 185v/185V P: sit >     
+
+17:35:13.549 Nraak starts casting a spell called 'coldshield'.
+
+17:35:13.550 < 595h/595H 185v/185V P: sit >     
+
+17:35:14.809 You have completed page 4 out of 10 of Rain of Blood into your spellbook.
+
+17:35:14.811 < 595h/595H 185v/185V P: sit >     
+
+17:35:20.712 Nraak completes his spell...
+17:35:20.712 Nraak utters the words, 'coldshield'.
+17:35:20.713 Nraak is surrounded by an aura of deadly cold!
+
+17:35:20.713 < 595h/595H 185v/185V P: sit >     
+
+17:35:26.727 You have completed page 5 out of 10 of Rain of Blood into your spellbook.
+
+17:35:26.728 < 595h/595H 185v/185V P: sit >     
+17:35:29.145 You're busy scribing a spell into your spellbook!
+
+17:35:29.230 < 595h/595H 185v/185V P: sit >     
+
+17:35:38.490 You have completed page 6 out of 10 of Rain of Blood into your spellbook.
+
+17:35:38.492 < 595h/595H 185v/185V P: sit >     
+
+17:35:50.252 You have completed page 7 out of 10 of Rain of Blood into your spellbook.
+
+17:35:50.254 < 595h/595H 185v/185V P: sit >     
+
+17:36:02.035 You have completed page 8 out of 10 of Rain of Blood into your spellbook.
+
+17:36:02.037 < 595h/595H 185v/185V P: sit >     
+
+17:36:05.276 Nraak starts casting a spell called 'vampiric touch'.
+
+17:36:05.276 < 595h/595H 185v/185V P: sit >     
+
+17:36:13.787 You have completed page 9 out of 10 of Rain of Blood into your spellbook.
+
+17:36:13.788 < 595h/595H 185v/185V P: sit >     
+
+17:36:14.287 Nraak completes his spell...
+17:36:14.287 Nraak utters the words, 'vampiric touch'.
+17:36:14.288 Nraak's hand starts to glow RED as blood.
+
+17:36:14.288 < 595h/595H 185v/185V P: sit >     
+
+17:36:16.788 Nraak starts casting a spell.
+
+17:36:16.789 < 595h/595H 185v/185V P: sit >     
+
+17:36:25.599 You finish scribing spell Rain of Blood to a papyrus scroll spellbook.
+17:36:25.601 The spell uses 10 pages in a papyrus scroll spellbook, leaving 26 more pages free.
+
+17:36:25.603 < 595h/595H 185v/185V P: sit >     
+17:36:25.720 Nraak completes his spell...
+17:36:25.721 Nraak utters the words, 'vampiric touch'.
+17:36:25.721 A Drafty Bedroom
+17:36:25.721 Nraak utters the words, 'vampiric touch'.
+17:36:25.800 < 595h/595H 185v/185V P: sit >     
+17:36:25.971 You start to scribe the spell Abi Dalzims Horrid Wilting...
+17:36:25.973 You start to copy down the spell..
+
+17:36:26.061 < 595h/595H 185v/185V P: sit >     
+
+17:36:29.052 Nraak starts casting a spell called 'globe of invulnerability'.
+
+17:36:29.053 < 595h/595H 185v/185V P: sit >     
+
+17:36:36.828 You have completed page 1 out of 9 of Abi Dalzims Horrid Wilting into your spellbook.
+
+17:36:36.829 < 595h/595H 185v/185V P: sit >     
+
+17:36:38.077 Nraak completes his spell...
+17:36:38.078 Nraak utters the words, 'globe of invulnerability'.
+17:36:38.078 Nraak begins to shimmer.
+
+17:36:38.079 < 595h/595H 185v/185V P: sit >     
+
+17:36:40.830 Nraak starts casting a spell called 'stoneskin'.
+
+17:36:40.831 < 595h/595H 185v/185V P: sit >     
+
+17:36:47.082 Nraak completes his spell...
+17:36:47.083 Nraak utters the words, 'stoneskin'.
+17:36:47.083 Nraak's skin seems to turn to stone.
+
+17:36:47.084 < 595h/595H 185v/185V P: sit >     
+
+17:36:47.328 You have completed page 2 out of 9 of Abi Dalzims Horrid Wilting into your spellbook.
+
+17:36:47.331 < 595h/595H 185v/185V P: sit >     
+
+17:36:51.840 Nraak starts casting a spell.
+
+17:36:51.840 < 595h/595H 185v/185V P: sit >     
+
+17:36:57.853 You have completed page 3 out of 9 of Abi Dalzims Horrid Wilting into your spellbook.
+
+17:36:57.855 < 595h/595H 185v/185V P: sit >     
+
+17:36:58.850 Nraak completes his spell...
+17:36:58.850 Nraak utters the words, 'haste'.
+17:36:58.851 Nraak starts to move with uncanny speed!
+
+17:36:58.851 < 595h/595H 185v/185V P: sit >     
+
+17:37:08.378 You have completed page 4 out of 9 of Abi Dalzims Horrid Wilting into your spellbook.
+
+17:37:08.379 < 595h/595H 185v/185V P: sit >     
+
+17:37:18.936 You have completed page 5 out of 9 of Abi Dalzims Horrid Wilting into your spellbook.
+
+17:37:18.939 < 595h/595H 185v/185V P: sit >     
+
+17:37:29.450 You have completed page 6 out of 9 of Abi Dalzims Horrid Wilting into your spellbook.
+
+17:37:29.452 < 595h/595H 185v/185V P: sit >     
+
+17:37:38.207 Autosaving...
+
+17:37:38.208 < 595h/595H 185v/185V P: sit >     
+17:37:38.378 You're busy scribing a spell into your spellbook!
+
+17:37:38.458 < 595h/595H 185v/185V P: sit >     
+
+17:37:39.955 You have completed page 7 out of 9 of Abi Dalzims Horrid Wilting into your spellbook.
+
+17:37:39.957 < 595h/595H 185v/185V P: sit >     
+
+17:37:50.476 You have completed page 8 out of 9 of Abi Dalzims Horrid Wilting into your spellbook.
+
+17:37:50.478 < 595h/595H 185v/185V P: sit >     
+
+17:38:00.990 You finish scribing spell Abi Dalzims Horrid Wilting to a papyrus scroll spellbook.
+17:38:00.993 The spell uses 9 pages in a papyrus scroll spellbook, leaving 17 more pages free.
+
+17:38:00.994 < 595h/595H 185v/185V P: sit >     
+17:38:01.154 A Drafty Bedroom
+17:38:01.236 < 595h/595H 185v/185V P: sit >     
+17:38:01.404 You start to scribe the spell Haste...
+17:38:01.405 You start to copy down the spell..
+
+17:38:01.489 < 595h/595H 185v/185V P: sit >     
+
+17:38:10.509 You have completed page 1 out of 7 of Haste into your spellbook.
+
+17:38:10.510 < 595h/595H 185v/185V P: sit >     
+
+17:38:11.509 Nraak starts casting a spell called 'coldshield'.
+
+17:38:11.510 < 595h/595H 185v/185V P: sit >     
+
+17:38:18.537 Nraak completes his spell...
+17:38:18.537 Nraak utters the words, 'coldshield'.
+17:38:18.537 Nraak is surrounded by an aura of deadly cold!
+
+17:38:18.538 < 595h/595H 185v/185V P: sit >     
+
+17:38:18.793 You have completed page 2 out of 7 of Haste into your spellbook.
+
+17:38:18.795 < 595h/595H 185v/185V P: sit >     
+
+17:38:27.062 You have completed page 3 out of 7 of Haste into your spellbook.
+
+17:38:27.063 < 595h/595H 185v/185V P: sit >     
+
+17:38:35.310 You have completed page 4 out of 7 of Haste into your spellbook.
+
+17:38:35.311 < 595h/595H 185v/185V P: sit >     
+
+17:38:43.678 You have completed page 5 out of 7 of Haste into your spellbook.
+
+17:38:43.680 < 595h/595H 185v/185V P: sit >     
+
+17:38:51.929 You have completed page 6 out of 7 of Haste into your spellbook.
+
+17:38:51.931 < 595h/595H 185v/185V P: sit >     
+
+17:39:00.391 You finish scribing spell Haste to a papyrus scroll spellbook.
+17:39:00.393 The spell uses 7 pages in a papyrus scroll spellbook, leaving 10 more pages free.
+
+17:39:00.394 < 595h/595H 185v/185V P: sit >     
+
+17:39:00.394 Shevarash GCC: 'campiagn was already up btw!'
+
+17:39:00.405 < 595h/595H 185v/185V P: sit >     
+17:39:00.612 A Drafty Bedroom
+17:39:00.703 < 595h/595H 185v/185V P: sit >     
+17:39:00.863 You start to scribe the spell Boneshatter...
+17:39:00.864 You start to copy down the spell..
+
+17:39:00.950 < 595h/595H 185v/185V P: sit >     
+
+17:39:09.741 Grxx GCC: 'good work'
+
+17:39:09.742 < 595h/595H 185v/185V P: sit >     
+
+17:39:13.236 You have completed page 1 out of 10 of Boneshatter into your spellbook.
+
+17:39:13.238 < 595h/595H 185v/185V P: sit >     
+
+17:39:22.773 Shevarash GCC: 'yeah! go System!'
+
+17:39:22.783 < 595h/595H 185v/185V P: sit >     
+
+17:39:25.032 You have completed page 2 out of 10 of Boneshatter into your spellbook.
+
+17:39:25.034 < 595h/595H 185v/185V P: sit >     
+
+17:39:31.784 Riloesa GCC: 'what is camppain jeremy doesnt know'
+
+17:39:31.786 < 595h/595H 185v/185V P: sit >     
+
+17:39:34.045 Grxx GCC: 'any word on snake pants?'
+
+17:39:34.046 < 595h/595H 185v/185V P: sit >     
+
+17:39:36.794 You have completed page 3 out of 10 of Boneshatter into your spellbook.
+
+17:39:36.795 < 595h/595H 185v/185V P: sit >     
+
+17:39:37.544 Pilple GCC: 'Cheer system!'
+
+17:39:37.545 < 595h/595H 185v/185V P: sit >     
+
+17:39:39.304 Grxx GCC: 'whoot! system!'
+
+17:39:39.304 < 595h/595H 185v/185V P: sit >     
+
+17:39:48.562 You have completed page 4 out of 10 of Boneshatter into your spellbook.
+
+17:39:48.563 < 595h/595H 185v/185V P: sit >     
+
+17:40:00.324 You have completed page 5 out of 10 of Boneshatter into your spellbook.
+
+17:40:00.326 < 595h/595H 185v/185V P: sit >     
+
+17:40:12.095 You have completed page 6 out of 10 of Boneshatter into your spellbook.
+
+17:40:12.097 < 595h/595H 185v/185V P: sit >     
+
+17:40:23.863 You have completed page 7 out of 10 of Boneshatter into your spellbook.
+
+17:40:23.864 < 595h/595H 185v/185V P: sit >     
+
+17:40:35.626 You have completed page 8 out of 10 of Boneshatter into your spellbook.
+
+17:40:35.627 < 595h/595H 185v/185V P: sit >     
+
+17:40:38.383 Grxx GCC: 'campaign is awesome'
+
+17:40:38.383 < 595h/595H 185v/185V P: sit >     
+
+17:40:47.688 You have completed page 9 out of 10 of Boneshatter into your spellbook.
+
+17:40:47.690 < 595h/595H 185v/185V P: sit >     
+
+17:40:48.436 Riloesa GCC: 'i got to workin 20 min :( next time my rescue be over 50 by then i hope'
+
+17:40:48.439 < 595h/595H 185v/185V P: sit >     
+
+17:40:57.199 Grxx GCC: 'its like a zone only different'
+
+17:40:57.200 < 595h/595H 185v/185V P: sit >     
+
+17:40:59.458 You finish scribing spell Boneshatter to a papyrus scroll spellbook.
+17:40:59.461 The spell used the rest of the empty pages in the book.
+
+17:40:59.461 < 595h/595H 185v/185V P: sit >     
+17:40:59.620 A Drafty Bedroom
+17:40:59.707 < 595h/595H 185v/185V P: sit >     
+17:40:59.869 Sorry, the spellbook at hand has no room for more spells.
+
+17:40:59.953 < 595h/595H 185v/185V P: sit >     
+
+17:41:11.472 Nraak starts casting a spell called 'coldshield'.
+
+17:41:11.473 < 595h/595H 185v/185V P: sit >     
+
+17:41:18.481 Nraak completes his spell...
+17:41:18.482 Nraak utters the words, 'coldshield'.
+17:41:18.482 Nraak is surrounded by an aura of deadly cold!
+
+17:41:18.484 < 595h/595H 185v/185V P: sit >     
+
+17:41:21.479 Nraak starts casting a spell called 'fireshield'.
+
+17:41:21.480 < 595h/595H 185v/185V P: sit >     
+
+17:41:28.485 Nraak completes his spell...
+17:41:28.486 Nraak utters the words, 'fireshield'.
+
+17:41:28.486 < 595h/595H 185v/185V P: sit >     
+
+17:41:32.131 Nraak starts casting a spell called 'globe of invulnerability'.
+
+17:41:32.132 < 595h/595H 185v/185V P: sit >     
+
+17:41:33.629 Riloesa GCC: 'he zone is dragons and stuff sounds fun i cant wait to learn'
+
+17:41:33.631 < 595h/595H 185v/185V P: sit >     
+
+17:41:41.214 Nraak completes his spell...
+17:41:41.214 Nraak utters the words, 'globe of invulnerability'.
+17:41:41.215 Nraak begins to shimmer.
+
+17:41:41.215 < 595h/595H 185v/185V P: sit >     
+
+17:41:43.768 Nraak starts casting a spell.
+
+17:41:43.769 < 595h/595H 185v/185V P: sit >     
+
+17:41:50.019 Nraak completes his spell...
+17:41:50.020 Nraak utters the words, 'stoneskin'.
+17:41:50.020 Nraak's skin seems to turn to stone.
+
+17:41:50.021 < 595h/595H 185v/185V P: sit >     
+
+17:41:52.773 Nraak starts casting a spell.
+
+17:41:52.774 < 595h/595H 185v/185V P: sit >     
+
+17:41:59.789 Nraak completes his spell...
+17:41:59.790 Nraak utters the words, 'haste'.
+17:41:59.790 Nraak starts to move with uncanny speed!
+
+17:41:59.791 < 595h/595H 185v/185V P: sit >     
+
+17:42:01.547 Riloesa GCC: 'my aunt katie want to learn to code too and this is how jheremy teaching us'
+
+17:42:01.550 < 595h/595H 185v/185V P: sit >     
+
+17:42:27.323 Riloesa GCC: 'tony come to pship@'
+
+17:42:27.324 < 595h/595H 185v/185V P: sit >     
+
+17:42:39.338 Autosaving...
+
+17:42:39.339 < 595h/595H 185v/185V P: sit >     
+17:42:39.508 It is 11pm, on the Day of Freedom
+17:42:39.508 The 25th Day of the Month of Bestanth (the Renewal), Year 1301.
+17:42:39.509 Time elapsed since boot-up: 0:17:52
+17:42:39.510 Current time is: Tue Dec  9 18:05:10 2025
+
+17:42:39.589 < 595h/595H 185v/185V P: sit >     
+17:42:55.781 You GCC: 'almost done scribing bro brt'
+
+17:42:55.860 < 595h/595H 185v/185V P: sit >     
+
+17:42:58.616 Grxx GCC: 'i dont think you guys are on the pirate ship'
+
+17:42:58.617 < 595h/595H 185v/185V P: sit >     
+17:43:03.545 You stop using a papyrus scroll spellbook.
+
+17:43:03.631 < 595h/595H 185v/185V P: sit >     
+17:43:04.548 You are carrying:
+17:43:04.548 Detrez's storage cube (magic) 
+17:43:04.548 a small wooden box 
+17:43:04.549 [4] a papyrus scroll spellbook 
+
+17:43:04.630 < 595h/595H 185v/185V P: sit >     
+17:43:10.557 It contains no spells you recognize outright and has 80 free pages.
+
+17:43:10.647 < 595h/595H 185v/185V P: sit >     
+17:43:14.562 You hold a papyrus scroll spellbook.
+
+17:43:14.649 < 595h/595H 185v/185V P: sit >     
+17:43:15.316 You are using:
+17:43:15.317 <worn on head>       the mystical circlet of the facile chimera (magic)
+17:43:15.318 <worn on eyes>       an eyepatch with the symbol of Ashstone (magic)
+17:43:15.319 <worn in ear>        the crystallized tear of an astral deva (magic)
+17:43:15.320 <worn in ear>        a flaming earring (magic) (damaged)
+17:43:15.321 <worn around neck>   an iron gorget studded with bloodstones (magic)
+17:43:15.322 <worn around neck>   the medallion of the hive king (illuminating)
+17:43:15.322 <worn on body>       a silvery suit of elven chainmail (magic)
+17:43:15.323 <worn about body>    an icy white robe with blue piping (illuminating)
+17:43:15.324 <component bag>      a fine silk haversack stitched with platinum thread
+17:43:15.325 <worn on arms>       sleeves stitched with the veins of a unicorn
+17:43:15.326 <worn around wrist>  a blue topaz bracelet (magic)
+17:43:15.326 <worn around wrist>  a band of slaadi skin
+17:43:15.327 <worn on hands>      some gloves of flayed planetar hide
+17:43:15.328 <worn on finger>     a silver ring encrusted with a black sapphire (magic)
+17:43:15.329 <worn on finger>     a ring of seven stars (magic)
+17:43:15.329 <held>               a papyrus scroll spellbook
+17:43:15.330 <held>               a dark raven feather quill
+17:43:15.330 <worn on legs>       some adamantine greaves inlayed with rubies
+17:43:15.408 < 595h/595H 185v/185V P: sit >     
+
+17:43:16.398 Grxx GCC: 'the pirate ships never leaves havenport'
+
+17:43:16.399 < 595h/595H 185v/185V P: sit >     
+17:43:16.814 You are carrying:
+17:43:16.814 Detrez's storage cube (magic) 
+17:43:16.815 a small wooden box 
+17:43:16.815 [3] a papyrus scroll spellbook 
+
+17:43:16.902 < 595h/595H 185v/185V P: sit >     
+
+17:43:23.663 Grxx GCC: 'lazy pirates'
+
+17:43:23.664 < 595h/595H 185v/185V P: sit >     
+
+17:43:27.163 Pilple GCC: 'since when'
+
+17:43:27.164 < 595h/595H 185v/185V P: sit >     
+17:43:30.583 You GCC: 'rusty gonna run pship from work in drive through atr macdonalds'
+
+17:43:30.665 < 595h/595H 185v/185V P: sit >     
+
+17:43:36.069 Grxx GCC: 'it has never'
+
+17:43:36.070 < 595h/595H 185v/185V P: sit >     
+17:43:39.492  Listing of the Staff
+17:43:39.493 -=-=-=-=-=-=-=-=-=-=-
+17:43:39.493 [ FORGER CODER  ] Shevarash -The Black Archer, Vengeful Hunter of Drow
+
+17:43:39.494 There are 1 visible staff member(s) on.
+
+17:43:39.494  Listing of the Mortals!
+17:43:39.495 -=-=-=-=-=-=-=-=-=-=-=-=-
+17:43:39.495 [34 Enc] Teysad  (Drow Elf)
+17:43:39.499 [48 Ctr] Tabmur  (Orc)
+17:43:39.504 [50 Psi] Nyyrazzilyss - Head Jailer of the Valkurian Blades (Illithid) (AFK)
+17:43:39.505 [50 Pal] Riloesa  (Moon Elf)
+17:43:39.509 [50 Nec] Mattah  (Human)
+17:43:39.510 [50 Hex] Duanyk  (Duergar)
+17:43:39.513 [50 Enc] Fokle Fuzzybottom (Halfling) (RP)
+17:43:39.517 [50 War] Garru  (Troll)
+17:43:39.520 [50 Ran] Sylvana  (Half-Elf)
+17:43:39.522 [50 Pal] Gerupar  (Half-Orc)
+17:43:39.525 [50 War] Grxx Krush Skul Einherjar Riders of Faerun (Troll) (RP)
+17:43:39.526 [50 Sor] Pilple  (Halfling)
+17:43:39.530 [50 Bar] Kegor  (Human)
+17:43:39.531 [50 Psi] Ynndchiarhlizz - The Nexus (Illithid)
+17:43:39.531 [ 1 Bar] Katumi  (Half-Elf)
+
+17:43:39.532 There are 15 mortal(s) on.
+
+17:43:39.532 Total players online: 15.
+17:43:39.532 Record number of players on this boot:  16.
+
+17:43:39.586 < 595h/595H 185v/185V P: sit >     
+17:43:40.743 You are carrying:
+17:43:40.743 Detrez's storage cube (magic) 
+17:43:40.744 a small wooden box 
+17:43:40.744 [3] a papyrus scroll spellbook 
+
+17:43:40.825 < 595h/595H 185v/185V P: sit >     
+
+17:43:41.994           Score information for Mattah
+
+17:43:41.995 Level: 50   Race: Human   Class: Necromancer 
+17:43:41.996 Hit points: 595(595)  Moves: 185(185)
+17:43:41.996 Experience Progress: 508 % 
+17:43:41.996 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+17:43:42.074 Coins in bank:   13 platinum     2 gold     3 silver     1 copper
+17:43:42.075 Prestige: 6023   Acheron Kill Count: 0
+17:43:42.075 Name status: Approved
+17:43:42.075 Citizen of:   Baldur's Gate
+17:43:42.077 Outcast from: Leuthilspar
+17:43:42.077 Playing time: 54 days / 3 hours / 12 minutes
+17:43:42.077 Title: 
+17:43:42.077 Status:  Sitting around, resting.
+17:43:42.078 Detecting:       Magic Life Heat
+17:43:42.078 Protected from:  Evil Good Fire Cold Acid
+17:43:42.078 Enchantments:    Farsee No Summon
+
+17:43:42.079 < 595h/595H 185v/185V P: sit >     
+17:43:50.507 You tell Ynndchiarhlizz 'hole me'
+
+17:43:50.588 < 595h/595H 185v/185V P: sit >     
+
+17:43:50.864 The area darkens and the air shimmers slightly as a wormhole opens here.
+
+17:43:50.866 < 595h/595H 185v/185V P: sit >     
+
+17:43:51.351 Pilple GCC: 'different pirate ship Grxx'
+
+17:43:51.352 < 595h/595H 185v/185V P: sit >     
+17:43:51.507 You clamber to your feet.
+
+17:43:51.555 < 595h/595H 185v/185V P: std >     
+17:43:51.763 A Drafty Bedroom (Shadowed)
+17:43:51.845 < 595h/595H 185v/185V P: std >     
+17:43:53.261 You enter something and reappear elsewhere...
+17:43:53.262                
+
+17:43:53.358 Wayward House Inn (Shadowed)
+17:43:53.359    This elegant wood building has been constructed on the stone
+17:43:53.359 foundation of the Inn of Wayward Sages.  Charring can still be seen on
+17:43:53.360 the stone from when the original building burned down.  Originally an
+17:43:53.362 inn with less then reputable clientele the inn has become more classy
+17:43:53.363 with a well stocked wine cellar.  A number of tables and chairs lie
+17:43:53.364 about the room casually and a long oak counter fills one end of the
+17:43:53.365 room.
+17:43:53.365 Exits: - North - Up     [7016] 
+17:43:53.366 A gaping hole in the ground leads into darkness. (magic) 
+17:43:53.366 Pilple  (Halfling) stands in mid-air here.
+17:43:53.367 Fokle Fuzzybottom (RP) (Halfling) stands here.
+17:43:53.367 Ynndchiarhlizz - The Nexus (Illithid) sits resting.
+17:43:53.368 Havorr Merendil stands behind the counter ready to serve.
+17:43:53.370 A showy merchant sits here looking smug. (x3)
+17:43:53.371 A dapper noble is here socializing. (x3)
+
+17:43:53.371 < 595h/595H 185v/185V P: std >     
+
+17:43:54.763 [Searching... Match found: Silverymoon, Gem of the North : Wayward House Inn : 48603]
+
+17:44:03.117 Pilple GCC: 'They talking about Spirit Raven'
+
+17:44:03.118 < 595h/595H 185v/185V P: std >     
+
+17:44:04.362 Havorr polishes the bar while waiting for the next order.
+
+17:44:04.363 < 595h/595H 185v/185V P: std >     
+17:44:06.786 You tell Ynndchiarhlizz 'hole vt'
+
+17:44:06.873 < 595h/595H 185v/185V P: std >     
+
+17:44:07.136 The area darkens and the air shimmers slightly as a wormhole opens before Ynndchiarhlizz.
+
+17:44:07.138 < 595h/595H 185v/185V P: std >     
+
+17:44:08.757 Grxx GCC: 'the pirate ship and the spirit raven are different places'
+
+17:44:08.759 < 595h/595H 185v/185V P: std >     
+
+17:44:10.253 Aelleriaell has entered the game.
+
+17:44:10.254 < 595h/595H 185v/185V P: std >     
+17:44:22.736 You GCC: 'i do old content, gonna do the cm mine train next is my favorite for necro'
+
+17:44:22.908 < 595h/595H 185v/185V P: std >     
+
+17:44:24.220 Grxx GCC: 'i know, thats why i said'
+
+17:44:24.221 < 595h/595H 185v/185V P: std >     
+17:44:24.430 You are already standing.
+
+17:44:24.431 < 595h/595H 185v/185V P: std >     
+
+17:44:24.643 Havorr polishes the bar while waiting for the next order.
+17:44:24.644 Grxx GCC: 'i dont think you guys are on the pirate ship'
+
+17:44:24.646 < 595h/595H 185v/185V P: std >     
+17:44:27.227 There is no hoke here.
+
+17:44:27.312 < 595h/595H 185v/185V P: std >     
+17:44:30.232 You enter something and reappear elsewhere...
+17:44:30.233                
+
+17:44:30.319 The Viperstongue Tavern
+17:44:30.320    The ground floor of this ruined building has been converted into a
+17:44:30.321 sprawling, seedy tavern.  In the center of the stone floor there rests a
+17:44:30.321 dilapidated circular wooden bar, around which is placed a variety of
+17:44:30.322 splintered old stools.  Scattered throughout the bare stone room are
+17:44:30.323 several wobbly wooden tables, all spaced far apart for maximum privacy. 
+17:44:30.324 A motley collection of thoroughly seedy patrons occupy the tavern, from
+17:44:30.326 pirates to bounty hunters and every other sort of assorted scum.  This
+17:44:30.327 outpost seems to serve as a base and meeting place for some of the most
+17:44:30.328 villainous criminals of the southern coast.  Several dim lanterns
+17:44:30.329 provide a dim, flickering illumination here, ideal for conducting shady
+17:44:30.330 business in private.   Dreary music coming from a makeshift stage to the
+17:44:30.331 north accompanies the raucous laughter of the tavern patrons, who seem
+17:44:30.331 to be constantly on the verge of a wide-scale brawl.
+17:44:30.332 Exits: - North - East  - South - West                  [48603] 
+17:44:30.333 A gaping hole in the ground leads into darkness. (magic) 
+17:44:30.333 A handsome smuggler sprawls across a chair here, laughing drunkenly.
+17:44:30.334 A Thayvian bounty hunter stands in the corner, fingering his dagger.
+17:44:30.336 A vicious mercenary sits here, chugging a bottle of ale. (x2)
+17:44:30.337 A drow assassin sits here, looking around suspiciously.
+17:44:30.338 A half-orc bartender stands behind the bar serving drinks.
+17:44:30.339 Krelg Blackshield stands here, practicing a swordstroke.
+
+17:44:30.339 < 595h/595H 185v/185V P: std >     
+
+17:44:31.733 [Searching... Match found: Viperstongue Outpost : The Viperstongue Tavern : 7008]
+
+17:45:00.627 A wormhole crumbles to dust and blows away.
+
+17:45:00.628 < 595h/595H 185v/185V P: std >     
+17:45:15.566 You GCC: 'if u ever play with me back then was the naked necro train, dagger of oblivion only'
+
+17:45:15.730 < 595h/595H 185v/185V P: std >     
+
+17:45:24.414 Pilple GCC: 'pship has always colloquially meant Spirit Raven'
+
+17:45:24.415 < 595h/595H 185v/185V P: std >     
+17:45:38.607 You GCC: 'btw my shaman spirit is spirit raven'
+
+17:45:38.693 < 595h/595H 185v/185V P: std >     
+
+17:45:43.954 The area darkens and the air shimmers slightly as a wormhole opens here.
+
+17:45:43.956 < 595h/595H 185v/185V P: std >     
+
+17:45:45.696 Grxx steps out of a wormhole.
+
+17:45:45.697 < 595h/595H 185v/185V P: std >     
+17:45:49.863 You are carrying:
+17:45:49.864 Detrez's storage cube (magic) 
+17:45:49.864 a small wooden box 
+17:45:49.864 [3] a papyrus scroll spellbook 
+
+17:45:49.951 < 595h/595H 185v/185V P: std >     
+
+17:45:50.200 You receive a sharpened granite dagger from Grxx.
+
+17:45:50.201 < 595h/595H 185v/185V P: std >     
+17:45:50.613 You are using:
+17:45:50.614 <worn on head>       the mystical circlet of the facile chimera (magic)
+17:45:50.615 <worn on eyes>       an eyepatch with the symbol of Ashstone (magic)
+17:45:50.616 <worn in ear>        the crystallized tear of an astral deva (magic)
+17:45:50.617 <worn in ear>        a flaming earring (magic) (damaged)
+17:45:50.617 <worn around neck>   an iron gorget studded with bloodstones (magic)
+17:45:50.618 <worn around neck>   the medallion of the hive king (illuminating)
+17:45:50.620 <worn on body>       a silvery suit of elven chainmail (magic)
+17:45:50.621 <worn about body>    an icy white robe with blue piping (illuminating)
+17:45:50.622 <component bag>      a fine silk haversack stitched with platinum thread
+17:45:50.623 <worn on arms>       sleeves stitched with the veins of a unicorn
+17:45:50.624 <worn around wrist>  a blue topaz bracelet (magic)
+17:45:50.624 <worn around wrist>  a band of slaadi skin
+17:45:50.625 <worn on hands>      some gloves of flayed planetar hide
+17:45:50.625 <worn on finger>     a silver ring encrusted with a black sapphire (magic)
+17:45:50.626 <worn on finger>     a ring of seven stars (magic)
+17:45:50.627 <held>               a papyrus scroll spellbook
+17:45:50.628 <held>               a dark raven feather quill
+17:45:50.628 <worn on legs>       some adamantine greaves inlayed with rubies
+17:45:50.702 < 595h/595H 185v/185V P: std >     
+
+17:45:51.713 A wormhole suddenly pulses rhythmically!
+17:45:51.714 Grxx enters a wormhole and disappears among the darkness.
+
+17:45:51.714 < 595h/595H 185v/185V P: std >     
+
+17:45:51.957 Fokle GCC: 'your shaman spirit is a pirate ship?'
+
+17:45:51.958 < 595h/595H 185v/185V P: std >     
+
+17:46:00.216 Pilple GCC: 'I want one!'
+
+17:46:00.217 < 595h/595H 185v/185V P: std >     
+
+17:46:01.728 Fokle GCC: 'bc thats different than the one in havenport'
+
+17:46:01.729 < 595h/595H 185v/185V P: std >     
+17:46:08.144 You GCC: 'the it is a "spirit raven" all lower..'
+
+17:46:08.235 < 595h/595H 185v/185V P: std >     
+
+17:46:13.733 Shevarash GCC: 'hey i remember havenport'
+
+17:46:13.744 < 595h/595H 185v/185V P: std >     
+
+17:46:21.160 ANSI:  Sojourn Assassination Squad
+17:46:21.250 256 :  Sojourn Assassination Squad
+17:46:21.251 True:  Sojourn Assassination Squad
+
+17:46:21.251 < 595h/595H 185v/185V P: std >     
+
+17:46:25.500 Pilple GCC: 'Wait.. his shaman spirit never leaves Havenport?'
+
+17:46:25.502 < 595h/595H 185v/185V P: std >     
+
+17:46:26.010 Fokle GCC: 'some OG wrote it, devious!'
+
+17:46:26.012 < 595h/595H 185v/185V P: std >     
+17:46:33.934 You GCC: 'i want a guild hall near there'
+
+17:46:34.024 < 595h/595H 185v/185V P: std >     
+
+17:46:36.271 A wormhole crumbles to dust and blows away.
+17:46:36.272 The sky's light begins shining in from above, dissipating the dark shadow above!
+
+17:46:36.274 < 595h/595H 185v/185V P: std >     
+
+17:46:45.043 Fokle GCC: 'havenport spirit pirate ship is different from raven spirit raven ship'
+
+17:46:45.045 < 595h/595H 185v/185V P: std >     
+17:46:50.214 A scruffy mercenary enters from the west.
+17:46:50.219 You GCC: 'almost have enough cash and family coming to play, just to talk to me'
+
+17:46:50.304 < 595h/595H 185v/185V P: std >     
+
+17:46:56.056 Grxx GCC: 'i used to own that ship and i have been here since like 96'
+
+17:46:56.058 < 595h/595H 185v/185V P: std >     
+
+17:47:06.324 Pilple GCC: 'Ooooo WTB spirit pirate ship zone'
+
+17:47:06.326 < 595h/595H 185v/185V P: std >     
+17:47:15.242 You GCC: 'thats my brother in law tony, tabmur'
+
+17:47:15.326 < 595h/595H 185v/185V P: std >     
+
+17:47:22.332 Grxx GCC: 'i disagree with the spirit raven being known as the pirate ship'
+
+17:47:22.335 < 595h/595H 185v/185V P: std >     
+17:47:33.518 You GCC: 'rilosa is my nephew, teaching to code and arduino'
+
+17:47:33.607 < 595h/595H 185v/185V P: std >     
+
+17:47:41.112 Autosaving...
+
+17:47:41.112 < 595h/595H 185v/185V P: std >     
+17:47:41.277 It is 4am, on the day of the Great Gods
+17:47:41.278 The 26th Day of the Month of Bestanth (the Renewal), Year 1301.
+17:47:41.278 Time elapsed since boot-up: 0:22:53
+17:47:41.279 Current time is: Tue Dec  9 18:10:11 2025
+
+17:47:41.362 < 595h/595H 185v/185V P: std >     
+17:48:01.814 You GCC: 'katie is a national champion ice skater that loves dnd...'
+
+17:48:01.907 < 595h/595H 185v/185V P: std >     
+17:48:13.832 You GCC: 'also wants to be a paladin or cleric, i was laughin'
+
+17:48:13.913 < 595h/595H 185v/185V P: std >     
+
+17:48:23.438 Fokle GCC: 'the spirit raven and havenport ships are very different, almost exactly the same'
+
+17:48:23.441 < 595h/595H 185v/185V P: std >     
+
+17:48:31.699 Grxx GCC: 'cant all be trolls thats for sure'
+
+17:48:31.700 < 595h/595H 185v/185V P: std >     
+17:48:42.873 You GCC: 'yes, its how i level 1 to 50 natural'
+
+17:48:42.961 < 595h/595H 185v/185V P: std >     
+17:48:48.881 You GCC: 'my favorite way'
+
+17:48:48.964 < 595h/595H 185v/185V P: std >     
+17:49:08.158 You GCC: 'bg docks till i whoop commanders, off to hp'
+
+17:49:08.241 < 595h/595H 185v/185V P: std >     
+
+17:49:10.255 Grxx GCC: 'some people dont Mattah but you do'
+
+17:49:10.257 < 595h/595H 185v/185V P: std >     
+17:49:29.947 You GCC: 'i do like scardale'
+
+17:49:30.036 < 595h/595H 185v/185V P: std >     
+
+17:49:44.299 Grxx GCC: 'i call it scaredale'
+
+17:49:44.301 < 595h/595H 185v/185V P: std >     
+
+17:49:44.796 A scruffy mercenary leaves east.
+
+17:49:44.797 < 595h/595H 185v/185V P: std >     
+
+17:49:55.571 Fokle GCC: 'dale is easy to scare'
+
+17:49:55.573 < 595h/595H 185v/185V P: std >     
+
+17:50:15.349 A scruffy mercenary enters from the east.
+
+17:50:15.355 < 595h/595H 185v/185V P: std >     
+17:50:17.763 You GCC: 'writing a script tour guide in mudlet stand alone, all my scripts are stand alone, publishing atlas by next
+17:50:17.763 friday'
+
+17:50:17.843 < 595h/595H 185v/185V P: std >     
+
+17:50:24.865 A scruffy mercenary leaves east.
+
+17:50:24.865 < 595h/595H 185v/185V P: std >     
+
+17:50:44.150 Fokle GCC: 'i always wanted to write a WoW like quest helper'
+
+17:50:44.152 < 595h/595H 185v/185V P: std >     
+17:50:46.311 You GCC: 'im doing this as a template for my own game named intergalactic'
+
+17:50:46.625 < 595h/595H 185v/185V P: std >     
+
+17:51:07.383 Grxx GCC: 'intergalactic planetary'
+
+17:51:07.386 < 595h/595H 185v/185V P: std >     
+
+17:51:12.882 Grxx GCC: 'planetary intergalactic'
+
+17:51:12.883 < 595h/595H 185v/185V P: std >     
+17:51:17.805 You GCC: 'this is a perfect environment to build gui interfaces man'
+
+17:51:17.895 < 595h/595H 185v/185V P: std >     
+17:51:39.582 You GCC: 'i have a letter to the beastie boys remaining members to let me have it'
+
+17:51:39.668 < 595h/595H 185v/185V P: std >     
+17:51:51.846 You GCC: 'with like alot going to cancer research'
+
+17:51:51.932 < 595h/595H 185v/185V P: std >     
+17:52:12.459 You GCC: 'cus i might not make the year, but i am fighting'
+
+17:52:12.539 < 595h/595H 185v/185V P: std >     
+17:52:22.727 You GCC: 'bad couple days :('
+
+17:52:22.818 < 595h/595H 185v/185V P: std >     
+
+17:52:30.074 Grxx GCC: 'fight on brother'
+
+17:52:30.075 < 595h/595H 185v/185V P: std >     
+17:52:32.490 You cannot practice here!
+
+17:52:32.574 < 595h/595H 185v/185V P: std >     
+
+17:52:36.996           Score information for Mattah
+
+17:52:36.997 Level: 50   Race: Human   Class: Necromancer 
+17:52:36.998 Hit points: 595(595)  Moves: 185(185)
+17:52:36.998 Experience Progress: 508 % 
+17:52:36.998 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+17:52:37.090 Coins in bank:   13 platinum     2 gold     3 silver     1 copper
+17:52:37.091 Prestige: 6023   Acheron Kill Count: 0
+17:52:37.091 Name status: Approved
+17:52:37.092 Citizen of:   Baldur's Gate
+17:52:37.092 Outcast from: Leuthilspar
+17:52:37.092 Playing time: 54 days / 3 hours / 21 minutes
+17:52:37.092 Title: 
+17:52:37.092 Status:  Standing.
+17:52:37.092 Detecting:       Magic Life Heat
+17:52:37.093 Protected from:  Evil Good Fire Cold Acid
+17:52:37.093 Enchantments:    Farsee No Summon
+
+17:52:37.094 < 595h/595H 185v/185V P: std >     
+17:52:37.997 You are carrying:
+17:52:37.997 a sharpened granite dagger 
+17:52:37.998 Detrez's storage cube (magic) 
+17:52:37.998 a small wooden box 
+17:52:37.998 [3] a papyrus scroll spellbook 
+
+17:52:38.090 < 595h/595H 185v/185V P: std >     
+17:52:40.500 You are carrying:
+17:52:40.501 a sharpened granite dagger 
+17:52:40.501 Detrez's storage cube (magic) 
+17:52:40.502 a small wooden box 
+17:52:40.502 [3] a papyrus scroll spellbook 
+
+17:52:40.591 < 595h/595H 185v/185V P: std >     
+17:52:41.001 Pardon?
+
+17:52:41.091 < 595h/595H 185v/185V P: std >     
+17:52:42.001 Autosaving...
+17:52:42.002 The Viperstongue Tavern
+17:52:42.002 Exits: - North - East  - South - West                  [7008] 
+17:52:42.003 A handsome smuggler sprawls across a chair here, laughing drunkenly.
+17:52:42.003 A Thayvian bounty hunter stands in the corner, fingering his dagger.
+17:52:42.054 A vicious mercenary sits here, chugging a bottle of ale. (x2)
+17:52:42.055 A drow assassin sits here, looking around suspiciously.
+17:52:42.056 A half-orc bartender stands behind the bar serving drinks.
+17:52:42.057 Krelg Blackshield stands here, practicing a swordstroke.
+
+17:52:42.057 < 595h/595H 185v/185V P: std >     
+17:52:42.252 It is 9am, on the day of the Great Gods
+17:52:42.253 The 26th Day of the Month of Bestanth (the Renewal), Year 1301.
+17:52:42.253 Time elapsed since boot-up: 0:27:54
+17:52:42.254 Current time is: Tue Dec  9 18:15:12 2025
+
+17:52:42.337 < 595h/595H 185v/185V P: std >     
+17:52:43.524                
+
+17:52:43.619 The Viperstongue Reception
+17:52:43.619    This room, actually little more than an oversized niche in the tavern's
+17:52:43.620 wall, houses a short scratched-up wooden counter, and a three-legged
+17:52:43.621 stool.  Numerous cobwebs occupy the thin space between the counter and
+17:52:43.622 the crumbling stone wall, infested with dozens of tiny black and red
+17:52:43.623 spiders.  Bloodstains and foul smelling chunks of vomit mar the stone
+17:52:43.624 floor's surface, and a small wooden torch bracketed to the wall casts a
+17:52:43.625 sickly green light across the counter.
+17:52:43.625 Exits: - North         [7018] 
+17:52:43.626 A large bulletin board is mounted here. 
+17:52:43.626 Kegor  (Human) stands here.
+17:52:43.627 A disgusting hag sits behind the counter here, picking a scab.
+
+17:52:43.627 < 595h/595H 184v/185V P: std >     
+17:52:45.031 The hag tells you 'It will cost you nothing to rent.'
+17:52:45.054 The hag stores your stuff in the safe, and shows you to your room.
+
+17:52:45.056 Characters:
+17:52:45.056 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+17:52:45.056   1) Afu                       Level 50 Warrior (Troll)
+17:52:45.057   2) Deabnue                   Level 50 Invoker (Human)
+17:52:45.058   3) Gizep                     Level 50 Enchanter (Drow Elf)
+17:52:45.058   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+17:52:45.059   5) Newple                    Level 50 Rogue (Halfling)
+17:52:45.060   6) Mattah                    Level 50 Necromancer (Human)
+17:52:45.060   7) Rafi                      Level 50 Blackguard (Human)
+17:52:45.061   8) Digun                     Level 50 Warrior (Shield Dwarf)
+17:52:45.062   9) Risor                     Level 50 Rogue (Human)
+17:52:45.063  10) Islala                    Level 50 Bard (Moon Elf)
+17:52:45.064  11) Minolai                   Level 50 Ranger (Moon Elf)
+17:52:45.064  12) Poppibble                 Level 50 Ranger (Halfling)
+17:52:45.065  13) Simasel                   Level 50 Cleric (Moon Elf)
+17:52:45.066  14) Giru                      Level 50 Hexblade (Orc)
+17:52:45.066  15) Xaniver                   Level 50 Ranger (Half-Orc)
+17:52:45.067  16) Waf                       Level 49 Shaman (Barbarian)
+17:52:45.068  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+17:52:45.069  18) Gomble                    Level 50 Paladin (Halfling)
+17:52:45.069  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+17:52:45.070  20) Siho                      Level 50 Paladin (Half-Orc)
+17:52:45.071  21) Nidipizil                 Level 50 Paladin (Gnome)
+17:52:45.071  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+17:52:45.072  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+17:52:45.072  24) Naleni                    Level 50 Warrior (Moon Elf)
+17:52:45.073  25) Gukonata                  Level 50 Blackguard (Duergar)
+17:52:45.074  26) Uspi                      Level 50 Blackguard (Half-Orc)
+17:52:45.075  27) Tonga                     Level 50 Warrior (Ogre)
+17:52:45.075  28) Popebople                 Level 48 Enchanter (Gnome)
+17:52:45.076  29) Bago                      Level 50 Shaman (Ogre)
+17:52:45.077  30) Loyol                     Level 50 Bard (Halfling)
+17:52:45.077  31) Irsen                     Level 50 Druid (Human)
+17:52:45.078  32) Fanal                     Level 50 Rogue (Orc)
+17:52:45.078  33) Poromople                 Level 50 Invoker (Gnome)
+17:52:45.080  34) Coruduwat                 Level 43 Elementalist (Duergar)
+17:52:45.081  35) Luso                      Level 41 Paladin (Human)
+17:52:45.081  36) Ssassur                   Level 44 Wizard (Yuan-Ti)
+17:52:45.082  37) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+17:52:45.083  38) Gorkl                     Level 29 Warrior (Ogre)
+17:52:45.083  39) Gapa                      Level 28 Battlechanter (Orc)
+17:52:45.084  40) Tazfap                    Level  1 Warrior (Drow Elf)
+17:52:45.085  41) Igunnokio                 Level 16 Ranger (Moon Elf)
+17:52:45.085  42) Tihep                     Level  6 Rogue (Drow Elf)
+17:52:45.086  43) Dobokin                   Level  1 Paladin (Half-Orc)
+17:52:45.087  44) Tamad                     Level  7 Paladin (Human)
+17:52:45.087  45) Pilferos                  Level  6 Rogue (Human)
+17:52:45.088  46) Tubor                     Level  1 Warrior (Ogre)
+17:52:45.089  47) Zorrax                    Level 13 Warrior (Troll)
+17:52:45.089  48) Muwede                    Level  1 Illusionist (Drow Elf)
+17:52:45.090  49) Woso                      Level 16 Druid (Half-Orc)
+17:52:45.091  50) Anisa                     Level 15 Blackguard (Half-Orc)
+17:52:45.092  51) Vodbadadva                Level 18 Rogue (Duergar)
+17:52:45.092  52) Lahla                     Level  1 Bard (Half-Orc)
+17:52:45.093  53) Lewo                      Level  8 Bard (Half-Orc)
+17:52:45.094  54) Dedad                     Level 11 Warrior (Drow Elf)
+17:52:45.095  55) Pige                      Level  1 Blackguard (Human)
+17:52:45.095  56) Bowo                      Level  1 Ranger (Half-Orc)
+17:52:45.096  57) Susu                      Level  7 Warrior (Ogre)
+17:52:45.097  58) Ohu                       Level 18 Warrior (Troll)
+17:52:45.098  59) Docuh                     Level  8 Warrior (Ogre)
+17:52:45.098  60) Simeramma                 Level 13 Ranger (Moon Elf)
+17:52:45.099  61) Efera                     Level  5 Necromancer (Drow Elf)
+17:52:45.099  62) Sehe                      Level 50 Rogue (Human)
+17:52:45.100  63) Haxu                      Level 12 Shaman (Troll)
+17:52:45.101  64) Lolele                    Level 20 Warrior (Halfling)
+17:52:45.101  65) Ssississa                 Level 17 Invoker (Yuan-Ti)
+17:52:45.102  66) Rifu                      Level 18 Hexblade (Half-Orc)
+17:52:45.103  67) Ginxa                     Level 14 Rogue (Half-Orc)
+17:52:45.104  68) Dogga                     Level 12 Warrior (Ogre)
+17:52:45.104  69) Ibo                       Level 12 Warrior (Barbarian)
+17:52:45.105  70) Cometa                    Level 11 Hexblade (Half-Orc)
+17:52:45.106  71) Amamal                    Level 18 Paladin (Moon Elf)
+17:52:45.106  72) Samile                    Level 14 Invoker (Drow Elf)
+17:52:45.107  73) Xulu                      Level 17 Shaman (Troll)
+17:52:45.108  74) Enyema                    Level 10 Invoker (Drow Elf)
+17:52:45.109  75) Nino                      Level  8 Shaman (Half-Orc)
+17:52:45.109  76) Upraeleolno               Level  1 Ranger (Moon Elf)
+17:52:45.110  77) Atesa                     Level 17 Necromancer (Drow Elf)
+17:52:45.111  78) Zic                       Level 12 Warrior (Barbarian)
+17:52:45.111  79) Eyata                     Level 12 Warrior (Drow Elf)
+17:52:45.112  80) Wowidomble                Level  3 Illusionist (Gnome)
+17:52:45.113  81) Hatra                     Level 10 Shaman (Half-Orc)
+17:52:45.114  82) Gobra                     Level 35 Shaman (Half-Orc)
+17:52:45.115  83) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+17:52:45.115  84) Legil                     Level  1 Invoker (Halfling)
+17:52:45.116  85) Onre                      Level  5 Rogue (Human)
+17:52:45.117  86) Krainor                   Level 17 Paladin (Human)
+17:52:45.118  87) Pipippaple                Level 50 Ranger (Gnome)
+17:52:45.119  88) Sijita                    Level 12 Necromancer (Drow Elf)
+17:52:45.119  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+17:52:45.120  90) Sewothe                   Level 20 Rogue (Drow Elf)
+17:52:45.121  91) Ixap                      Level 41 Hexblade (Half-Orc)
+17:52:45.122 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+17:52:45.122 Type the # or name of a character above to login or choose an action below.
+17:52:45.122 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+17:52:45.123 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+17:52:45.124 (E)nter description    | (D)elete character | (C)hange password
+17:52:45.125 (M)odify email address | (Q)uit
+17:52:45.125 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+17:52:45.425 Your choice: 
+17:52:49.552 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+17:52:49.553                            Wizards
+17:52:49.553 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+17:52:49.553 The new Wizard class has arrived, with Illusionist as the first subclass. For
+17:52:49.555 more details on this update, please see the news link below.
+
+17:52:49.555 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+17:52:49.556 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+17:52:49.556 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+17:52:49.556 - http://www.torilmud.com/news/arcane-companions/
+
+17:52:49.557 Resources
+
+17:52:49.557 Discord    : https://discord.gg/t7edjzM
+17:52:49.557 Web Client : http://www.torilmud.com/login
+17:52:49.558 News       : http://news.torilmud.com/
+17:52:49.558 Issues     : https://github.com/torilmud/issues
+
+17:52:49.638 Retrieving rented items from storage...
+
+17:52:49.639         Welcome to TorilMUD
+
+17:52:49.639                
+
+17:52:49.644 The Gentle Moon - Common Area
+17:52:49.644 Exits: -N -E [Error: mud 'The Gentle Moon - Common Area' doesn't match mapper 'The Viperstongue Reception' at '7018']   
+17:52:49.644          [7018] 
+17:52:49.645 Nyyrazzilyss - Head Jailer of the Valkurian Blades (AFK) (Illithid) sits resting in mid-air.
+17:52:49.647 A tradesperson rests here with a drink in hand. (x3)
+17:52:49.647 A scantily-dressed server moves about the room looking awkward.
+17:52:49.648 The innkeeper stands behind the counter renting out rooms.
+
+Log session ending at 17:52:49 on Tuesday, 9 December 2025.

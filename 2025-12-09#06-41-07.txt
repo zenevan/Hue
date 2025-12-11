@@ -1,0 +1,269 @@
+Log session starting at 06:41:07 on Tuesday, 9 December 2025.
+
+06:41:07.715 < 615h/615H 175v/175V P: std >     
+06:41:07.715 [Spellqueue cleared.]
+06:41:07.920 It is 9pm, on the Day of Freedom
+06:41:07.921 The 32nd Day of the Month of Mirtul (the Melting), Year 1301.
+06:41:07.922 Time elapsed since boot-up: 78:10:59
+06:41:07.922 Current time is: Tue Dec  9 07:03:38 2025
+
+06:41:08.011 < 615h/615H 175v/175V P: std >     
+06:41:08.170 You will now see the classic prompt.
+
+06:41:08.421 < 615h/615H 175v/175V P: std > 
+06:41:08.422  Prompt Command Usage:
+06:41:08.422   prompt                             - Display this help
+06:41:08.422   prompt layout                      - List available layouts
+06:41:08.423   prompt layout <layout>             - Set your layout
+06:41:08.424   prompt fields                      - List available fields
+06:41:08.425   prompt add <field>                 - Add a field to your current layout
+06:41:08.426   prompt remove <field>              - Remove a field from your current layout
+06:41:08.427   prompt options                     - Show a list of prompt option flags
+06:41:08.428   prompt options <flag>              - Toggle a prompt option
+06:41:08.429   prompt power <power> <slot>        - Add a power to a prompt slot
+06:41:08.430   prompt power auto                  - Set the default suggested power prompts
+06:41:08.431   prompt power clear <power, all>    - Clear a power from the prompt
+06:41:08.432   prompt color                       - List available prompt power colors
+06:41:08.433   prompt color <power, slot> <color> - Set the ready power color for a specific power or slot
+06:41:08.435   prompt color <type> <color>        - Set color for: <ready, cooldown, special, default, combo>
+06:41:08.437   prompt color <type> <clear>        - Clear color for <ready, cooldown, special, default, combo> 
+06:41:08.438   prompt color reset                 - Reset all prompt colors to default
+06:41:08.439   prompt help                        - Display this help
+
+06:41:08.509 To use the prompt command, first toggle on NEWPROMPT.
+
+06:41:08.670 < 615h/615H 175v/175V P: std > 
+06:41:08.760 A naked woman misses Gerupar with her hit. (x2)
+06:41:08.760 Puzos misses A naked woman with his bludgeon.
+06:41:08.760 Gerupar barely wounds A naked woman with his massive shocking slash.
+06:41:08.761 Gerupar's a golden-edged moonstone blade detonates in a crackling torrent of electricity!
+06:41:08.762 Gerupar's a golden-edged moonstone blade flashes white in a burst of holy power!
+06:41:08.763 Gerupar's a golden-edged moonstone blade lashes out wildly in a burst of chaotic energy!
+06:41:08.764 Gerupar's a golden-edged moonstone blade erupts in a dazzling flash of brilliant light!
+06:41:08.766 Gerupar slightly wounds A naked woman with his massive shocking slash.
+06:41:08.766 Gerupar barely wounds A naked woman with his massive shocking slash.
+06:41:08.767 Smartprompt toggled on.
+
+06:41:08.920 < 615h/615H 175v/175V P: std > 
+06:41:09.006 There are no sub-classes currently available to your class.
+06:41:09.008 The brilliant flash of Gerupar's weapon is dampened as it glances off of A naked woman's armor!
+06:41:09.009 Puzos group-says 'enemy has nasty wounds'
+
+06:41:09.171 < 615h/615H 175v/175V P: std > 
+
+06:41:09.257           Character attributes for Poromople
+
+06:41:09.258 Level: 49   Race: Gnome   Class: Invoker   
+06:41:09.260 Size: Small
+06:41:09.260 STR:  83  AGI: 100  DEX:  70  CON: 100
+06:41:09.261 POW:  70  INT: 109  WIS:  75  CHA:  70
+06:41:09.261 Armor Class: -3  (100 to -100)  Agility Bonus: -22
+06:41:09.262 Magic Resistance: 5 percent
+06:41:09.262 Hitroll: 9   Damroll: 2
+06:41:09.262 Alignment: Neutral Good
+06:41:09.262 Saving Throws: PAR[-18]  ROD[0]  PET[0]  BRE[-2]  SPE[-17]
+06:41:09.263    Wimpy: 669
+06:41:09.263 Load carried: Paltry
+06:41:09.263 Damage Resistance:
+06:41:09.263 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+06:41:09.264 Spells:    0% Fire  :    5% Cold  :    5% Elect :   10% Acid  :    7% 
+06:41:09.265 Sonic :    0% Poison:    5% Pos   :    0% Neg   :    0% Psi   :    0% 
+06:41:09.266 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+06:41:09.266 Force :    0% 
+06:41:09.267 Gerupar group-says '[Naked Woman has nasty wounds!]'
+
+06:41:09.425 < 615h/615H 175v/175V P: std > 
+
+06:41:09.508           Score information for Poromople
+
+06:41:09.509 Level: 49   Race: Gnome   Class: Invoker   
+06:41:09.510 Hit points: 615(615)  Moves: 175(175)
+06:41:09.511 Experience Progress: 48 % 
+06:41:09.511 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+06:41:09.512 Coins in bags: 1000 platinum     0 gold     0 silver     0 copper
+06:41:09.513 Coins in bank: 1428 platinum     5 gold     0 silver     6 copper
+06:41:09.514 Prestige: 5480   Acheron Kill Count: 0
+06:41:09.515 Name status: Approved
+06:41:09.515 Citizen of:   Ashrumite
+06:41:09.515 Outcast from: Leuthilspar
+06:41:09.515 Playing time: 3 days / 5 hours / 50 minutes
+06:41:09.516 Title: 
+06:41:09.516 Group Name: Gerupar and Company
+06:41:09.516 Group Leader: Gerupar
+06:41:09.516 Status:  Standing.
+06:41:09.516 Detecting:       Magic Heat
+06:41:09.517 Protected from:  Fire Cold Acid
+06:41:09.517 Enchantments:    No Summon
+
+06:41:09.672 < 615h/615H 175v/175V P: std > 
+06:41:09.759 You are using:
+06:41:09.760 <worn as a badge>    a badge in the shape of a skull (illuminating)
+06:41:09.761 <worn on head>       the mystical circlet of the facile chimera (magic)
+06:41:09.761 <worn in ear>        the crystallized tear of an astral deva (magic)
+06:41:09.763 <worn in ear>        an opal earring
+06:41:09.765 <worn around neck>   the medallion of the hive king (x2)
+06:41:09.765 <worn on body>       ringmail emblazoned with a mace and skull emblem (illuminating)
+06:41:09.767 <worn about body>    an icy white robe with blue piping (illuminating)
+06:41:09.768 <component bag>      a fine silk haversack stitched with platinum thread
+06:41:09.769 <worn on arms>       sleeves of stretched drow-skin
+06:41:09.770 <held as shield>     a githyanki shield etched with silver runes
+06:41:09.771 <worn around wrist>  a band of slaadi skin
+06:41:09.771 <worn around wrist>  a blue topaz bracelet (magic)
+06:41:09.772 <worn on hands>      a pair of black leather sap gloves (illuminating)
+06:41:09.773 <worn on finger>     a ring of seven stars (magic)
+06:41:09.773 <worn on finger>     a silver ring encrusted with a black sapphire (magic)
+06:41:09.774 <primary weapon>     a staff of radiance (magic) (glowing)
+06:41:09.790 <worn on legs>       some adamantine greaves inlayed with rubies
+06:41:09.791 <worn on feet>       a pair of midnight blue riding boots shod in steel
+06:41:09.931 < 615h/615H 175v/175V P: std > 
+
+06:41:10.171 < 615h/615H 175v/175V P: std > 
+06:41:10.255 You have no followers.
+
+06:41:10.420 < 615h/615H 175v/175V P: std > 
+
+06:41:10.670 < 615h/615H 175v/175V P: std > 
+06:41:10.750 You are 26,158,798 XP (51.70%) away from your next level.
+
+06:41:10.922 < 615h/615H 175v/175V P: std > 
+06:41:11.011 You have consented to Gerupar.
+
+06:41:11.011 Poromople is consenting you.
+
+06:41:11.175 < 615h/615H 175v/175V P: std > 
+06:41:11.258 You will now see the new prompt.
+
+06:41:11.259 < 615h/615H 175v/175V P: std >     
+06:41:11.423 Smartprompt toggled off.
+
+06:41:11.507 < 615h/615H 175v/175V P: std >     
+06:41:11.664 Usage: @set key value Example: @set loot off - turns off autoloot
+06:41:11.664 ------------
+06:41:11.664           [sound] on                    off|limited|on  play sounds
+06:41:11.664             [tts] 0                                  #  speak mud text
+06:41:11.665             [map] on                            on|off  display map
+06:41:11.665        [maperror] false                     true|false  suppress map room errors
+06:41:11.665      [roomwindow] false                     true|false  display room window
+06:41:11.665        [winGroup] false                     true|false  display group window
+06:41:11.665         [winChat] true                      true|false  display chat window
+06:41:11.665          [winMap] true                      true|false  display map window
+06:41:11.665      [winMinimap] false                     true|false  display minimap window
+06:41:11.665      [winIconbar] true                      true|false  display iconbar window
+06:41:11.665         [swedish] false                     true|false  translate acc/etc to swedish
+06:41:11.665           [style] true                      true|false  use Qt icon stylesheet
+06:41:11.665       [hideequip] true                      true|false  hide left equip icon bar
+06:41:11.665          [border] default                            *  file, default, or colour
+06:41:11.665        [numcolor] orange                             *  color of numbers on buttons
+06:41:11.665      [numcolcool] red                                *  color of numbers on buttons in cooldown
+06:41:11.665    [colbuttonoff] #ff815a                            *  color of button when off
+06:41:11.665     [colbuttonon] white                              *  color of button when on
+06:41:11.665            [font] AvQest                             *  font to use for buttons
+06:41:11.665        [statname] unset                              *  
+06:41:11.665        [autoopen] false                     true|false  auto-open doors
+06:41:11.665      [autoportal] false                     true|false  auto enter rifts/portals/etc
+06:41:11.665      [movebuffer] 10                                 #  maximum movements to send before buffering
+06:41:11.665       [priospell] vt                                 *  Prioritize this spell when memming
+06:41:11.665       [condensed]
+06:41:11.665              misc       true | combat     true | spells     true | items      true |
+06:41:11.665              spellout   true | duplicate  true | debug     false | echosend  false |
+06:41:11.665              arrows     true | dragon     true |
+06:41:11.665            [vnum] true                      true|false  display room vnum
+06:41:11.666    [chatfontsize] auto                          auto|#  fontsize to use for the chat window
+06:41:11.666     [grpfontsize] 14                            auto|#  fontsize to use for the group window
+06:41:11.666       [reconnect] false                        false|#  auto login this char number
+06:41:11.666        [endspell] vit             vit|dsp|pwt|fly|grp|pfu|hst|dop|cbm  
+06:41:11.666            [gcmd] false                     true|false  use gcmd instead of gsay
+06:41:11.666           [group] true                      true|false  updated group display
+06:41:11.666       [assocchar]                                    *  connect to association chat, storage
+06:41:11.666         [blurout] /\o_O/\ Blur Out /\O_o/\                    *  
+06:41:11.666     [displaceout] /\o_O/\ Displace Out /\O_o/\                    *  
+06:41:11.666        [globeout] /\o_O/\ Globe Out /\O_o/\                    *  
+06:41:11.666        [hasteout] /\o_O/\ Haste Out /\O_o/\                    *  
+06:41:11.666        [scaleout] /\o_O/\ Scale Out /\O_o/\                    *  
+06:41:11.666        [stoneout] /\o_O/\ Stone Out /\O_o/\                    *  
+06:41:11.666          [vitout] /\o_O/\ Vit Out /\O_o/\                    *  
+06:41:11.666         [barkout] /\o_O/\ Bark Out /\O_o/\                    *  
+06:41:11.666 --------------
+06:41:11.666      [autoweapon] auto            auto|Bow|Dual|TwoHand|Shield|None  weapon setup
+06:41:11.666        [autoproc] false                     true|false  autoproc equipment
+06:41:11.666       [container]                                    *  set the name of your main container
+06:41:11.666        [autoloot] off                    off|coins|all  
+06:41:11.666            [flee] on                on|off|dragon|lich  
+06:41:11.666      [autoassist] false                     true|false  assist people in combat
+06:41:11.666       [petrescue] ME                       NONE|ALL|ME  
+06:41:11.666 --------------
+06:41:11.667            [wuss]                                    *  always rescue and spell wuss
+06:41:11.682 The House of Pleasure
+06:41:11.683 Exits: -N -E -S        [87276] 
+06:41:11.692 Huge puddles of blood cover the ground. 
+06:41:11.692 A simple wooden staff lies here. 
+06:41:11.693 Puzos  (Yuan-Ti) stands here, fighting A naked woman.
+06:41:11.693 Gerupar  (Half-Orc) stands here, fighting A naked woman.
+06:41:11.717 [Setting statname to unset]
+06:41:11.717 [All train triggers disabled]
+06:41:11.756 A naked woman is lying here, fighting Gerupar.
+
+06:41:11.757 < 615h/615H 175v/175V P: std >     
+06:41:11.923 Prompt option newline disabled.
+
+06:41:12.174 < 615h/615H 175v/175V P: std >Prompt option newline enabled.
+
+06:41:12.268 < 615h/615H 175v/175V P: std >     
+
+06:41:12.768 A naked woman clambers to her feet.
+
+06:41:12.770 < 615h/615H 175v/175V P: std >     
+
+06:41:13.020 Gerupar's weapon explodes in a peal of roaring thunder as he strikes A naked woman!
+06:41:13.021 A naked woman is thrown to the ground by the shockwave!
+
+06:41:13.023 < 615h/615H 175v/175V P: std >     
+
+06:41:16.774 < 615h/615H 175v/175V P: std >     
+
+06:41:17.769 Gerupar's weapon ignites with a blazing holy light!
+06:41:17.770 Gerupar's powerful strike engulfs A naked woman in searing ribbons of divine radiance.
+
+06:41:17.771 < 615h/615H 175v/175V P: std >     
+
+06:41:20.778 < 615h/615H 175v/175V P: std >     
+
+06:41:24.776 < 615h/615H 175v/175V P: std >     
+
+06:41:25.284 Brilliant holy light explodes around Gerupar as he swings his weapon in a full circle!
+06:41:25.286 A naked woman is struck by Gerupar's dazzling full-circle smite!
+
+06:41:25.287 < 615h/615H 175v/175V P: std >     
+
+06:41:28.779 A naked woman clambers to her feet.
+
+06:41:28.781 < 615h/615H 175v/175V P: std >     
+
+06:41:29.042 Gerupar's weapon explodes in a peal of roaring thunder as he strikes A naked woman!
+06:41:29.043 A naked woman is thrown to the ground by the shockwave!
+
+06:41:29.044 < 615h/615H 175v/175V P: std >     
+
+06:41:32.793 Gerupar slightly wounds A naked woman with his massive shocking slash. (x3)
+
+06:41:32.793 < 615h/615H 175v/175V P: std >     
+
+06:41:33.290 Autosaving...
+06:41:33.290 Gerupar's eyes glow with a terrifying radiance as waves of divine dread wash over his enemies.
+06:41:33.293 Gerupar hounds A naked woman with a series of merciless attacks!
+06:41:33.293 A naked woman is shaken with fear!
+
+06:41:33.294 < 615h/615H 175v/175V P: std >     
+06:41:33.453 It is 10pm, on the Day of Freedom
+06:41:33.453 The 32nd Day of the Month of Mirtul (the Melting), Year 1301.
+06:41:33.454 Time elapsed since boot-up: 78:11:25
+06:41:33.455 Current time is: Tue Dec  9 07:04:04 2025
+
+06:41:33.538 < 615h/615H 175v/175V P: std >     
+
+06:41:34.337 [Saved CharData table]
+------------ 
+06:41:34.861 [Saved map: C:/Users/zenev/.config/mudlet/profiles/Torilmud/toril.map]
+06:41:35.176 "disconnectevent"
+06:41:35.176 [DisconnectEvent was just called]
+06:41:35.176 [Reconnect is not enabled. Type @set reconnect charnumber to enable]

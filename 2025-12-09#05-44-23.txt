@@ -1,0 +1,116 @@
+Log session starting at 05:44:23 on Tuesday, 9 December 2025.
+
+05:44:23.441 < 539h/443H 160v/160V |3|3|3|3|1| P: std > 
+05:44:23.441 [Spellqueue cleared.]
+05:44:23.639 You will now see the mini-map when moving.
+
+05:44:23.887 < 539h/443H 160v/160V |3|3|3|3|1| P: std > You will now see the new prompt.
+05:44:24.139 < 539h/443H 160v/160V |3|3|3|3|1| P: std >Prompt option newline enabled.
+
+05:44:24.225 < 539h/443H 160v/160V |3|3|3|3|1| P: std >     
+
+05:44:24.471 Smartprompt toggled on.
+
+05:44:24.472 < 539h/443H 160v/160V |3|3|3|3|1| P: std >     
+
+05:44:24.720 There are no sub-classes currently available to your class.
+
+05:44:24.721 < 539h/443H 160v/160V |3|3|3|3|1| P: std >     
+
+05:44:24.981           Character attributes for Luso
+
+05:44:24.982 Level: 41   Race: Human   Class: Paladin     
+05:44:24.982 [Creating self.Luso]
+05:44:25.001 Size: Medium
+05:44:25.001 STR:  95  AGI: 100  DEX:  90  CON: 100
+05:44:25.002 POW:  70  INT:  70  WIS:  70  CHA:  70
+05:44:25.002 Armor Class: 100  (100 to -100)  Agility Bonus: -15
+05:44:25.003 Magic Resistance: 0 percent
+05:44:25.003 Hitroll: 5   Damroll: 5
+05:44:25.003 Alignment: Lawful Good
+05:44:25.003 Saving Throws: PAR[0]  ROD[0]  PET[0]  BRE[0]  SPE[0]
+05:44:25.004    Wimpy: not set
+05:44:25.004 Load carried: What load?
+05:44:25.004 Damage Resistance:
+05:44:25.004 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+05:44:25.005 Spells:    0% Fire  :    0% Cold  :    0% Elect :    0% Acid  :    0% 
+05:44:25.006 Sonic :    0% Poison:    0% Pos   :    0% Neg   :    0% Psi   :    0% 
+05:44:25.007 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+05:44:25.008 Force :    0% 
+
+05:44:25.008 < 539h/443H 160v/160V |3|3|3|3|1| P: std >     
+
+05:44:25.235           Score information for Luso
+
+05:44:25.236 Level: 41   Race: Human   Class: Paladin     
+05:44:25.237 Hit points: 538(443)  Moves: 160(160)
+05:44:25.237 Experience Progress: 27 % 
+05:44:25.238 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+05:44:25.239 Coins in bank:    0 platinum     0 gold     4 silver     8 copper
+05:44:25.240 Prestige: 4560   Acheron Kill Count: 0
+05:44:25.240 Name status: Approved
+05:44:25.240 Citizen of:   Waterdeep
+05:44:25.240 Outcast from: Leuthilspar
+05:44:25.241 Playing time: 10 days / 9 hours / 24 minutes
+05:44:25.241 Title: 
+05:44:25.241 Status:  Standing.
+05:44:25.241 Detecting:       Evil
+
+05:44:25.242 < 538h/443H 160v/160V |3|3|3|3|1| P: std >     
+
+05:44:25.483 You aren't wearing anything!
+
+05:44:25.504 < 538h/443H 160v/160V |3|3|3|3|1| P: std >     
+
+05:44:25.733 < 538h/443H 160v/160V |3|3|3|3|1| P: std >     
+
+05:44:25.984 < 538h/443H 160v/160V |3|3|3|3|1| P: std >     
+
+05:44:26.237 You are 7,803,654 XP (72.26%) away from your next level.
+
+05:44:26.238 < 538h/443H 160v/160V |3|3|3|3|1| P: std >     
+
+05:44:26.483 You haven't consented to anyone.
+
+05:44:26.484 Luso is consenting you.
+
+05:44:26.484 < 538h/443H 160v/160V |3|3|3|3|1| P: std >     
+
+05:44:26.734 Prompt option newline disabled.
+
+05:44:26.892 < 538h/443H 160v/160V |3|3|3|3|1| P: std >Smartprompt toggled off.
+05:44:27.142 < 538h/443H 160v/160V |3|3|3|3|1| P: std >The Upstairs of the Wayward House Inn
+05:44:27.144 Exits: - Down 
+05:44:27.144 An elaborately decorated key lies here. 
+05:44:27.144 Sylvana  (Half-Elf) stands here.
+05:44:27.144 Jhalessa Shorncrown stands here tidying up.
+
+05:44:27.392 < 537h/443H 160v/160V |3|3|3|3|1| P: std >               
+
+05:44:27.444 [Setting statname to unset]
+05:44:27.449 [Setting rescuetype to basic]
+05:44:27.454 [All train triggers disabled]
+05:44:27.476   |.-.+.-.+.-.|.-.+.-.+.-.|.-.+  
+05:44:27.477 -- ----   ---- ----   ---- ----  
+05:44:27.477    *-* .-.|.-.|.-.+.-.|.-.|.-.+  
+05:44:27.478 +---+--   | + |-+--   | + | + |  
+05:44:27.478    .-. .-. .-. .!. .-. .-. .-.   
+05:44:27.478   | + |   |   | + |   --------   
+05:44:27.479   |.-.+.-.|*-*|.@.+.-. *-* *-*#  
+05:44:27.479    ----   |    ---|   ----    |  
+05:44:27.479   |.-.+.-.|*-* *-*|.-.+.-.|*-*+  
+05:44:27.480 -------   --------|   --------| #
+05:44:27.480   |^-^ ^-^ ^-^|   |.-.|       |  
+05:44:27.480 -- -----------    |   |--- ------
+05:44:27.481                 (x2)
+
+
+05:44:27.990 [Searching... 
+
+
+05:44:47.724 [Saved CharData table]
+------------ 
+05:44:48.254 [Saved map: C:/Users/zenev/.config/mudlet/profiles/Torilmud/toril.map]
+05:44:48.601 "disconnectevent"
+05:44:48.601 [DisconnectEvent was just called]
+05:44:48.601 [Reconnect is not enabled. Type @set reconnect charnumber to enable]

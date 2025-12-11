@@ -1,0 +1,980 @@
+Log session starting at 16:21:17 on Tuesday, 9 December 2025.
+
+16:21:17.969 < 215h/215H 689p/689P 140v/140V P: std >     
+16:21:17.969 [Spellqueue cleared.]
+16:21:18.168 You will no longer see the mini-map when moving.
+
+16:21:18.211 < 215h/215H 689p/689P 140v/140V P: std >     
+16:21:18.419 You will now see the classic prompt.
+
+16:21:18.671 < 215h/215H 689p/689P 140v/140V P: std > 
+16:21:18.672  Prompt Command Usage:
+16:21:18.672   prompt                             - Display this help
+16:21:18.673   prompt layout                      - List available layouts
+16:21:18.674   prompt layout <layout>             - Set your layout
+16:21:18.675   prompt fields                      - List available fields
+16:21:18.675   prompt add <field>                 - Add a field to your current layout
+16:21:18.677   prompt remove <field>              - Remove a field from your current layout
+16:21:18.678   prompt options                     - Show a list of prompt option flags
+16:21:18.679   prompt options <flag>              - Toggle a prompt option
+16:21:18.679   prompt power <power> <slot>        - Add a power to a prompt slot
+16:21:18.680   prompt power auto                  - Set the default suggested power prompts
+16:21:18.681   prompt power clear <power, all>    - Clear a power from the prompt
+16:21:18.682   prompt color                       - List available prompt power colors
+16:21:18.683   prompt color <power, slot> <color> - Set the ready power color for a specific power or slot
+16:21:18.685   prompt color <type> <color>        - Set color for: <ready, cooldown, special, default, combo>
+16:21:18.686   prompt color <type> <clear>        - Clear color for <ready, cooldown, special, default, combo> 
+16:21:18.687   prompt color reset                 - Reset all prompt colors to default
+16:21:18.689   prompt help                        - Display this help
+
+16:21:18.756 To use the prompt command, first toggle on NEWPROMPT.
+
+16:21:18.919 < 215h/215H 689p/689P 140v/140V P: std > 
+16:21:19.007 Smartprompt toggled on.
+
+16:21:19.171 < 215h/215H 689p/689P 140v/140V P: std > 
+16:21:19.261 There are no sub-classes currently available to your class.
+
+16:21:19.432 < 215h/215H 689p/689P 140v/140V P: std > 
+
+16:21:19.512           Character attributes for Ilinnimon
+
+16:21:19.512 Level: 50   Race: Illithid   Class: Psionicist  
+16:21:19.529 Size: Medium
+16:21:19.529 STR:  84  AGI: 100  DEX:  70  CON: 100
+16:21:19.529 POW: 100  INT:  71  WIS:  70  CHA:  70
+16:21:19.529 Armor Class: 100  (100 to -100)  Agility Bonus: -6
+16:21:19.530 Magic Resistance: 0 percent
+16:21:19.530 Hitroll: 4   Damroll: 1
+16:21:19.530 Alignment: Chaotic Evil
+16:21:19.531 Saving Throws: PAR[0]  ROD[0]  PET[0]  BRE[0]  SPE[0]
+16:21:19.531    Wimpy: not set
+16:21:19.531 Load carried: What load?
+16:21:19.532 Damage Resistance:
+16:21:19.532 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+16:21:19.533 Spells:    0% Fire  :    0% Cold  :    0% Elect :    0% Acid  :    0% 
+16:21:19.534 Sonic :    0% Poison:    0% Pos   :    0% Neg   :    0% Psi   :    0% 
+16:21:19.535 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+16:21:19.535 Force :    0% 
+
+16:21:19.671 < 215h/215H 689p/689P 140v/140V P: std > 
+
+16:21:19.756           Score information for Ilinnimon
+
+16:21:19.757 Level: 50   Race: Illithid   Class: Psionicist  
+16:21:19.759 Hit points: 215(215)   PSP's: 689(689)   Moves: 140(140)
+16:21:19.760 Experience Progress: 6 % 
+16:21:19.760 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+16:21:19.761 Coins in bank:   32 platinum    30 gold   647 silver   959 copper
+16:21:19.762 Prestige: 5476   Acheron Kill Count: 0
+16:21:19.762 Name status: Approved
+16:21:19.763 Citizen of:   Ixarkon
+16:21:19.763 Outcast from: Griffon's Nest
+16:21:19.763 Playing time: 19 days / 22 hours / 18 minutes
+16:21:19.764 Title: 
+16:21:19.764 Status:  Standing.
+16:21:19.764 Enchantments:    Ultravision
+
+16:21:19.974 < 215h/215H 689p/689P 140v/140V P: std > 
+16:21:20.061 You aren't wearing anything!
+
+16:21:20.172 < 215h/215H 689p/689P 140v/140V P: std > 
+
+16:21:20.421 < 215h/215H 689p/689P 140v/140V P: std > 
+
+16:21:20.673 < 215h/215H 689p/689P 140v/140V P: std > 
+16:21:20.756 You are 47,458,619 XP (93.79%) away from your next level.
+
+16:21:20.924 < 215h/215H 689p/689P 140v/140V P: std > 
+16:21:21.004 You haven't consented to anyone.
+
+16:21:21.005 Ilinnimon is consenting you.
+
+16:21:21.174 < 215h/215H 689p/689P 140v/140V P: std > 
+16:21:21.270 You will now see the mini-map when moving.
+
+16:21:21.435 < 215h/215H 689p/689P 140v/140V P: std > 
+16:21:21.515 You will now see the new prompt.
+
+16:21:21.516 < 215h/215H 689p/689P 140v/140V P: std >     
+16:21:21.678 Smartprompt toggled off.
+
+16:21:21.761 < 215h/215H 689p/689P 140v/140V P: std >     
+16:21:21.929 The Gentle Moon - Common Area
+16:21:21.761 < 215h/215H 689p/689P 140v/140V P: std >     
+16:21:21.972 [Setting statname to unset]
+16:21:21.978 [All train triggers disabled]
+16:21:22.012 < 215h/215H 689p/689P 140v/140V P: std >     
+16:21:22.179 Prompt option newline disabled.
+
+16:21:22.429 < 215h/215H 689p/689P 140v/140V P: std >Prompt option newline enabled.
+
+16:21:22.520 [Searching... Match found: Westgate : The Gentle Moon - Common Area : 327]
+
+16:21:22.526 < 215h/215H 689p/689P 140v/140V P: std >     
+
+16:21:23.019 You are hungry.
+16:21:23.020 You are thirsty.
+
+16:21:23.020 < 215h/215H 689p/689P 140v/140V P: std >     
+16:21:31.214 Everything shimmers madly as you are enveloped by blackness.
+16:21:31.216 Suddenly the darkness falls revealing different surroundings.
+
+16:21:31.217                
+
+16:21:31.302 The Stern Observation Deck
+16:21:31.302     This is used as an observation deck, but also appears to double as
+16:21:31.303 a battlements deck.  There are four larger ballistas mounted here, as
+16:21:31.304 well as two large catapults.  These weapons are mainly used to harass
+16:21:31.305 enemy ships on the tail of the smugglers, in the hopes the pursuing
+16:21:31.306 ship will break away.  Dozens of heavy ballista missiles are stored in
+16:21:31.307 a rack for such purposes.  A steel barrel of pitch stands next to the
+16:21:31.308 catapults.  Soaking catapult projectiles in pitch and lighting them is
+16:21:31.309 a very deadly way of setting enemy ships afire, and is seldom done by
+16:21:31.309 honorable seafarers. A few small benches are bolted to the side here,
+16:21:31.310 offering a place for observers to sit.  The aft deck is west.
+16:21:31.311 Exits: - West          [327] 
+16:21:31.312 A single bloody smear mars the ground. 
+16:21:31.312 Tabmur  (Orc) stands here, fighting the Chultean slaver.
+16:21:31.312 Riloesa  (Moon Elf) stands here, fighting the Chultean slaver.
+16:21:31.313 The Chultean slaver stands here, fighting Riloesa.
+16:21:31.313 You have learned something new about shift!
+
+16:21:31.314 < 215h/215H 643p/689P 140v/140V P: std >     
+
+16:21:31.530 Brilliant rays of light stream from Riloesa's shield as she charges into the Chultean slaver!
+16:21:31.532 The Chultean slaver is knocked to the ground!
+16:21:31.533 The blinding radiance of Riloesa's charge sets the Chultean slaver alight with holy flames.
+
+16:21:31.535 < 215h/215H 643p/689P 140v/140V P: std >     
+
+16:21:32.716 [Searching... Match found: The Spirit Raven : The Stern Observation Deck : 85879]
+
+16:21:35.283 The Chultean slaver misses Riloesa with his hit. (x2)
+16:21:35.283 Tabmur barely wounds the Chultean slaver with his awesome pierce.
+16:21:35.284 Tabmur barely wounds the Chultean slaver with his massive pierce.
+16:21:35.284 Riloesa barely wounds the Chultean slaver with her powerful sonic bludgeon.
+16:21:35.285 Riloesa's a pair of screaming nunchaku crackling with electricity detonates in a crackling torrent of electricity!
+16:21:35.287 Riloesa slightly wounds the Chultean slaver with her massive sonic bludgeon.
+
+16:21:35.287 < 215h/215H 644p/689P 140v/140V P: std >     
+
+16:21:39.288 The Chultean slaver misses Riloesa with his hit. (x2)
+16:21:39.288 Tabmur barely wounds the Chultean slaver with his awesome pierce.
+16:21:39.289 With a flick of the wrist Tabmur sends his glaive deep into the Chultean slaver!
+16:21:39.291 Tabmur barely wounds the Chultean slaver with his awesome pierce. (x2)
+16:21:39.292 Riloesa barely wounds the Chultean slaver with her powerful sonic bludgeon. (x2)
+16:21:39.292 Riloesa misses the Chultean slaver with her sonic bludgeon.
+
+16:21:39.293 < 215h/215H 646p/689P 140v/140V P: std >     
+
+16:21:39.537 A translucent golden shield forms in front of Riloesa as she strikes the Chultean slaver.
+
+16:21:39.537 < 215h/215H 646p/689P 140v/140V P: std >     
+
+16:21:41.298 Tabmur's quickening chant fills his cohort with awesome determination.
+
+16:21:41.300 < 215h/215H 647p/689P 140v/140V P: std >     
+
+16:21:43.295 The Chultean slaver misses Riloesa with his hit. (x2)
+16:21:43.296 With a flick of the wrist Tabmur sends his glaive deep into the Chultean slaver!
+16:21:43.297 Tabmur barely wounds the Chultean slaver with his mighty pierce.
+16:21:43.297 Riloesa barely wounds the Chultean slaver with her mighty sonic bludgeon.
+
+16:21:43.298 < 215h/215H 648p/689P 140v/140V P: std >     
+
+16:21:43.541 A halo of divine light emanates from Riloesa, and her eyes flash with holy wrath.
+16:21:43.543 Riloesa's weapon explodes in a flash of searing holy light as she strikes the Chultean slaver!
+
+16:21:43.543 < 215h/215H 648p/689P 140v/140V P: std >     
+
+16:21:47.300 The Chultean slaver misses Riloesa with his hit. (x2)
+16:21:47.300 The Chultean slaver clambers to his feet.
+16:21:47.301 Tabmur misses the Chultean slaver with his pierce.
+16:21:47.301 Riloesa barely wounds the Chultean slaver with her strong sonic bludgeon.
+16:21:47.302 Riloesa misses the Chultean slaver with her sonic bludgeon.
+
+16:21:47.302 < 215h/215H 650p/689P 140v/140V P: std >     
+
+16:21:47.546 Brilliant rays of light stream from Riloesa's shield as she charges into the Chultean slaver!
+16:21:47.549 The Chultean slaver is knocked to the ground!
+16:21:47.549 The blinding radiance of Riloesa's charge sets the Chultean slaver alight with holy flames.
+
+16:21:47.551 < 215h/215H 650p/689P 140v/140V P: std >     
+
+16:21:51.306 The Chultean slaver misses Riloesa with his hit. (x2)
+16:21:51.306 Tabmur barely wounds the Chultean slaver with his awesome pierce.
+16:21:51.307 Riloesa barely wounds the Chultean slaver with her mighty sonic bludgeon.
+
+16:21:51.307 < 215h/215H 652p/689P 140v/140V P: std >     
+
+16:21:53.315 Tabmur's quickening chant fills his cohort with awesome determination.
+
+16:21:53.316 < 215h/215H 653p/689P 140v/140V P: std >     
+
+16:21:53.564 Riloesa strikes a glancing blow upon the Chultean slaver!
+
+16:21:53.565 < 215h/215H 653p/689P 140v/140V P: std >     
+
+16:21:55.305 The Chultean slaver misses Riloesa with his hit. (x2)
+16:21:55.306 Tabmur misses the Chultean slaver with his pierce.
+16:21:55.307 Riloesa barely wounds the Chultean slaver with her powerful sonic bludgeon. (x2)
+
+16:21:55.307 < 215h/215H 654p/689P 140v/140V P: std >     
+
+16:21:59.321 The Chultean slaver misses Riloesa with his hit. (x2)
+16:21:59.321 Tabmur barely wounds the Chultean slaver with his mighty pierce.
+16:21:59.321 Riloesa misses the Chultean slaver with her sonic bludgeon.
+
+16:21:59.322 < 215h/215H 656p/689P 140v/140V P: std >     
+
+16:21:59.569 Riloesa lands a mighty blow upon the Chultean slaver that leaves him staggering in pain.
+16:21:59.570 The Chultean slaver is weakened!
+
+16:21:59.572 < 215h/215H 656p/689P 140v/140V P: std >     
+
+16:22:03.324 The Chultean slaver misses Riloesa with his hit. (x2)
+16:22:03.324 The Chultean slaver clambers to his feet.
+16:22:03.325 Tabmur barely wounds the Chultean slaver with his mighty pierce.
+16:22:03.326 Riloesa barely wounds the Chultean slaver with her strong sonic bludgeon. (x2)
+
+16:22:03.326 < 215h/215H 658p/689P 140v/140V P: std >     
+
+16:22:03.572 Brilliant rays of light stream from Riloesa's shield as she charges into the Chultean slaver!
+16:22:03.574 The Chultean slaver is knocked to the ground!
+16:22:03.575 The blinding radiance of Riloesa's charge sets the Chultean slaver alight with holy flames.
+
+16:22:03.576 < 215h/215H 658p/689P 140v/140V P: std >     
+
+16:22:05.331 Tabmur's quickening chant fills his cohort with awesome determination.
+16:22:05.333 Tabmur's song dramatically increases the movements of his companions!
+
+16:22:05.334 < 215h/215H 659p/689P 140v/140V P: std >     
+
+16:22:07.326 The Chultean slaver misses Riloesa with his hit. (x2)
+16:22:07.327 Tabmur slightly wounds the Chultean slaver with his awesome pierce.
+16:22:07.327 Tabmur severely wounds the Chultean slaver with his massive pierce.
+16:22:07.328 Riloesa slightly wounds the Chultean slaver with her mighty sonic bludgeon. (x2)
+
+16:22:07.328 < 215h/215H 659p/689P 140v/140V P: std >     
+
+16:22:11.339 The Chultean slaver misses Riloesa with his hit. (x2)
+16:22:11.340 Tabmur slightly wounds the Chultean slaver with his awesome pierce. (x2)
+16:22:11.342 Riloesa slightly wounds the Chultean slaver with her powerful sonic bludgeon. (x3)
+
+16:22:11.343 < 215h/215H 661p/689P 140v/140V P: std >     
+
+16:22:11.600 A translucent golden shield forms in front of Riloesa as she strikes the Chultean slaver.
+
+16:22:11.601 < 215h/215H 661p/689P 140v/140V P: std >     
+
+16:22:11.849 The Chultean slaver looks strong again.
+
+16:22:11.850 < 215h/215H 661p/689P 140v/140V P: std >     
+
+16:22:15.341 The Chultean slaver misses Riloesa with his hit. (x2)
+16:22:15.342 Tabmur badly wounds the Chultean slaver with his awesome pierce. (x2)
+16:22:15.342 Riloesa slightly wounds the Chultean slaver with her powerful sonic bludgeon.
+16:22:15.343 Riloesa badly wounds the Chultean slaver with her mighty sonic bludgeon.
+
+16:22:15.343 < 215h/215H 663p/689P 140v/140V P: std >     
+
+16:22:15.604 Riloesa strikes the Chultean slaver with great accuracy, and is rewarded with a divine gift of health.
+
+16:22:15.605 < 215h/215H 663p/689P 140v/140V P: std >     
+
+16:22:17.346 Tabmur's quickening chant fills his cohort with awesome determination.
+
+16:22:17.348 < 215h/215H 664p/689P 140v/140V P: std >     
+
+16:22:19.345 Riloesa blocks the Chultean slaver's attack with her shield!
+16:22:19.346 The Chultean slaver misses Riloesa with his hit.
+16:22:19.348 The Chultean slaver clambers to his feet.
+16:22:19.348 The Chultean slaver is blinded by a bright flash along the blade of Tabmur's silver glaive!
+16:22:19.351 Tabmur barely wounds the Chultean slaver with his average pierce.
+16:22:19.351 Tabmur badly wounds the Chultean slaver with his powerful pierce.
+16:22:19.352 Riloesa slightly wounds the Chultean slaver with her strong sonic bludgeon.
+16:22:19.352 The Chultean slaver dodges Riloesa's attack.
+
+16:22:19.353 < 215h/215H 665p/689P 140v/140V P: std >     
+
+16:22:19.611 Brilliant rays of light stream from Riloesa's shield as she charges into the Chultean slaver!
+16:22:19.613 The Chultean slaver is knocked to the ground!
+16:22:19.614 The blinding radiance of Riloesa's charge sets the Chultean slaver alight with holy flames.
+
+16:22:19.616 < 215h/215H 665p/689P 140v/140V P: std >     
+
+16:22:23.362 The Chultean slaver misses Riloesa with his hit. (x2)
+16:22:23.363 With a flick of the wrist Tabmur sends his glaive deep into the Chultean slaver!
+16:22:23.364 Tabmur severely wounds the Chultean slaver with his awesome pierce.
+16:22:23.364 Riloesa misses the Chultean slaver with her sonic bludgeon.
+
+16:22:23.365 < 215h/215H 667p/689P 140v/140V P: std >     
+
+16:22:27.363 The Chultean slaver misses Riloesa with his hit. (x2)
+16:22:27.364 Tabmur wounds the Chultean slaver harshly with his awesome pierce.
+16:22:27.364 The Chultean slaver dodges Riloesa's attack.
+16:22:27.365 Riloesa severely wounds the Chultean slaver with her powerful sonic bludgeon.
+
+16:22:27.365 < 215h/215H 669p/689P 140v/140V P: std >     
+
+16:22:28.118 You receive Detrez's storage cube from Riloesa.
+
+16:22:28.119 < 215h/215H 669p/689P 140v/140V P: std >     
+
+16:22:29.372 Tabmur's quickening chant fills his cohort with awesome determination.
+
+16:22:29.374 < 215h/215H 670p/689P 140v/140V P: std >     
+
+16:22:29.622 A translucent golden shield forms in front of Riloesa as she strikes the Chultean slaver.
+
+16:22:29.623 < 215h/215H 670p/689P 140v/140V P: std >     
+
+16:22:31.374 The Chultean slaver misses Riloesa with his hit. (x2)
+16:22:31.376 Tabmur brutally wounds the Chultean slaver with his awesome pierce.
+16:22:31.376 Riloesa brutally wounds the Chultean slaver with her powerful sonic bludgeon.
+
+16:22:31.377 < 215h/215H 671p/689P 140v/140V P: std >     
+
+16:22:35.369 The Chultean slaver misses Riloesa with his hit. (x2)
+16:22:35.369 The Chultean slaver clambers to his feet.
+16:22:35.370 Tabmur brutally wounds the Chultean slaver with his powerful pierce.
+16:22:35.371 Riloesa brutally wounds the Chultean slaver with her strong sonic bludgeon.
+16:22:35.371 The Chultean slaver staggers from Riloesa's strong sonic bludgeon!
+
+16:22:35.372 < 215h/215H 672p/689P 140v/140V P: std >     
+
+16:22:35.622 Brilliant rays of light stream from Riloesa's shield as she charges into the Chultean slaver!
+16:22:35.624 The Chultean slaver is knocked to the ground!
+16:22:35.625 The blinding radiance of Riloesa's charge sets the Chultean slaver alight with holy flames.
+16:22:35.626 the Chultean slaver is dead! R.I.P.
+16:22:35.627 Your blood freezes as you hear the rattling death cry of the Chultean slaver.
+
+16:22:35.628 < 215h/215H 673p/689P 140v/140V P: std >     
+
+16:22:36.127 Riloesa gets a small pile of coins from corpse of the Chultean slaver.
+
+16:22:36.130 < 215h/215H 673p/689P 140v/140V P: std >     
+
+16:22:36.376 Riloesa puts some coins into a stout dragonhide pack.
+
+16:22:36.377 < 215h/215H 673p/689P 140v/140V P: std >     
+
+16:22:41.374 Tabmur's quickening chant fills his cohort with awesome determination.
+16:22:41.375 Tabmur's song dramatically increases the movements of his companions!
+
+16:22:41.376 < 215h/215H 675p/689P 140v/140V P: std >     
+16:22:43.064 Something prevents your projections from completing.
+
+16:22:43.148 < 215h/215H 676p/689P 140v/140V P: std >     
+
+16:22:44.886 Riloesa leaves west.
+16:22:44.886 Tabmur skulks west.
+
+16:22:44.887 < 215h/215H 677p/689P 140v/140V P: std >     
+16:22:48.325 Everything shimmers madly as you are enveloped by blackness.
+16:22:48.327 Suddenly the darkness falls revealing different surroundings.
+
+16:22:48.328                
+
+16:22:48.423 The Viperstongue Tavern
+16:22:48.423    The ground floor of this ruined building has been converted into a
+16:22:48.424 sprawling, seedy tavern.  In the center of the stone floor there rests a
+16:22:48.425 dilapidated circular wooden bar, around which is placed a variety of
+16:22:48.426 splintered old stools.  Scattered throughout the bare stone room are
+16:22:48.428 several wobbly wooden tables, all spaced far apart for maximum privacy. 
+16:22:48.429 A motley collection of thoroughly seedy patrons occupy the tavern, from
+16:22:48.430 pirates to bounty hunters and every other sort of assorted scum.  This
+16:22:48.431 outpost seems to serve as a base and meeting place for some of the most
+16:22:48.432 villainous criminals of the southern coast.  Several dim lanterns
+16:22:48.433 provide a dim, flickering illumination here, ideal for conducting shady
+16:22:48.434 business in private.   Dreary music coming from a makeshift stage to the
+16:22:48.435 north accompanies the raucous laughter of the tavern patrons, who seem
+16:22:48.436 to be constantly on the verge of a wide-scale brawl.
+16:22:48.437 Exits: - North - East  - South - West                  [85879] 
+16:22:48.437 A steel shortsword lays here in the dirt. 
+16:22:48.438 A ghostly spellbook lies here. 
+16:22:48.438 A scruffy mercenary stands guard here.
+16:22:48.439 A handsome smuggler sprawls across a chair here, laughing drunkenly.
+16:22:48.440 A Thayvian bounty hunter stands in the corner, fingering his dagger.
+16:22:48.442 A vicious mercenary sits here, chugging a bottle of ale. (x2)
+16:22:48.443 A drow assassin sits here, looking around suspiciously.
+16:22:48.444 A half-orc bartender stands behind the bar serving drinks.
+16:22:48.444 Krelg Blackshield stands here, practicing a swordstroke.
+
+16:22:48.445 < 215h/215H 633p/689P 140v/140V P: std >     
+
+16:22:49.828 [Searching... Match found: Viperstongue Outpost : The Viperstongue Tavern : 7008]
+16:22:56.563                
+
+16:22:56.656 The Viperstongue Reception
+16:22:56.656    This room, actually little more than an oversized niche in the tavern's
+16:22:56.657 wall, houses a short scratched-up wooden counter, and a three-legged
+16:22:56.658 stool.  Numerous cobwebs occupy the thin space between the counter and
+16:22:56.659 the crumbling stone wall, infested with dozens of tiny black and red
+16:22:56.660 spiders.  Bloodstains and foul smelling chunks of vomit mar the stone
+16:22:56.661 floor's surface, and a small wooden torch bracketed to the wall casts a
+16:22:56.662 sickly green light across the counter.
+16:22:56.662 Exits: - North         [7018] 
+16:22:56.663 A large bulletin board is mounted here. 
+16:22:56.663 Kegor  (Human) stands here.
+16:22:56.664 A disgusting hag sits behind the counter here, picking a scab.
+
+16:22:56.664 < 215h/215H 637p/689P 139v/140V P: std >     
+16:23:00.573 You get a star-metal chainmail hood of boundless thought from Detrez's storage cube.
+
+16:23:00.654 < 215h/215H 639p/689P 140v/140V P: std >     
+16:23:02.827 You don a star-metal chainmail hood of boundless thought on your head.
+
+16:23:02.913 < 215h/215H 640p/689P 140v/140V P: std >     
+16:23:03.828 You are using:
+16:23:03.829 <worn on head>       a star-metal chainmail hood of boundless thought
+16:23:03.909 < 215h/265H 640p/739P 140v/140V P: std >     
+16:23:11.088 The cube consists of...well...it is a complete blackness. It is not
+16:23:11.090 transparent. It is not even completely solid. It does not have weight,
+16:23:11.091 and stays wherever it is placed, even if it is placed in mid air.
+16:23:11.092 A side of the cube offers only the slightest resistance, and objects
+16:23:11.093 may be easily pushed inside the arcane device. The cube is about six
+16:23:11.094 inches in all dimensions, yet items much longer easily fit inside. The
+16:23:11.095 aperture through which items may be placed inside the cube is
+16:23:11.096 quite pliable and can accommodate even the largest of items.
+
+16:23:11.107 Looks like it can hold about 670 more lbs.
+16:23:11.108 When you look inside, you see:
+16:23:11.116 Detrez's storage cube (carried) : 
+16:23:11.116 a heart shaped box  (No_wear) * (Container) Holds:400 Wtless:50 * Wt:0 Val:0p * Zone: TK * Last ID: 2021-01-17
+16:23:11.122 [2] a coin pouch  (Component) * (Container) Holds:100 Wtless:100 * Magic * Wt:0 Val:1p * Zone: SM (Q) * Last ID: 2021-01
+16:23:11.122 -23
+16:23:11.129 a pair of thunderbeast leggings  (Legs) AC:10 Dam:3 Maxdex:5 * No_Burn * Wt:5 Val:10p * Zone: GN (Q) * Last ID: 2021-01
+16:23:11.129 -18
+16:23:11.134 an entirely encasing cloak of darkness  (About) AC:15 Dam:4 Mv:50 Blud:5% Pier:5% Rang:5% Slas:5% Unarm:5% INFRA SENSE *
+16:23:11.134  !Fighter !Good !Mage !Priest * Wt:0 Val:500p * Zone: TK * Last ID: 2021-01-02
+16:23:11.138 the infernal stiletto of bane  (Wield) Dam:4 Hit:5 HASTE SLOW_POI * (Weapon) Dice:4D4 Crit:6% Multi:2x (Class: Simple,
+16:23:11.138  Type: Dagger) * Procs: 'Dragonblind' effect: blind, 3 charge - 'Dragonpoison' effect: poison, 1 charge - 'Dragonslow' 
+16:23:11.138 effect: slow, 2 charge - 'Dragonstrike' effect: instant kill, 5 charge * Float Magic No_Burn No_Loc !Fighter !Mage 
+16:23:11.138 !Priest * Wt:5 Val:0p * Zone: Tiamat (R) * Last ID: 2021-01-16
+16:23:11.143 a chainmail earring studded with rubies  (Ear) Dam:2 Hit:1 Blud:2% Pier:2% Rang:2% Slas:2% Unarm:2% * Magic !Mage
+16:23:11.143  !Priest * Wt:1 Val:68p * Zone: Ashstone (Q) * Last ID: 2021-02-04
+16:23:11.151 an earring of jagged stone  (Ear) Armor:-5 Dam:3 * Wt:1 Val:0p * Zone: SM (I) * Last ID: 2021-01-23
+16:23:11.155 a fine silk haversack stitched with platinum thread  (Component) Armor:-5 Mv:25 * (Container) Holds:4000 Wtless:2000 *
+16:23:11.155  No_Burn * Wt:0 Val:999p * Zone: Bahamut * Last ID: 2020-12-16
+16:23:11.163 a small oaken drum wrapped with dragonhide (glowing)  (Held) Hp:35 Svsp:-5 * (Instrument) Quality:12 Stutter:10
+16:23:11.163  Min_Level:45 Type:Drums * Float Glow No_Burn No_Loc * Wt:1 Val:34p * Zone: Tiamat (R) * Last ID: 2021-01-22
+16:23:11.167 [15] a tiny blessed flask of magical armor  (No_wear) * (Potion) Lvl:4 armor - bless * Wt:1 Val:0p * Zone: Scardale (S)
+16:23:11.167  * Last ID: 2009-07-08
+16:23:11.174 a suit of amethyst armor 
+16:23:11.181 a lightweight suit of linked mail body armor  (On_body) AC:30 Dam:5 Hit:2 Acid:5% Cold:5% Fire:5% HASTE * Procs:
+16:23:11.181  'relocate' Relocate 1x/Day * !Mage !Priest !Thief * Wt:1 Val:1000p * Zone: Tiamat (R) * Last ID: 2021-01-13
+16:23:11.186 a potion of curing  2 (Held) * (Potion) Lvl:8 remove poison * Magic * Wt:2 Val:8p * Zone: EM Roads (S) * Last ID: 2008
+16:23:11.186 -05-28
+16:23:11.191 [8] a potion of dexterity  (No_wear) * (Potion) Lvl:15 dexterity - dexterity - dexterity * Float Magic No_Loc Transient
+16:23:11.191  * Wt:1 Val:2p * Zone: Common * Last ID: 2021-01-22
+16:23:11.197 a cringing mask of the trickster  (Face) AC:10 Hit:6 Hp:45 Acid:5% Cold:5% Elect:5% Fire:5% Pois:5% * !Fighter !Mage
+16:23:11.197  !Priest * Wt:1 Val:1000p * Zone: Tiamat (R) * Last ID: 2021-01-14
+16:23:11.201 the semblance of a fiery erinyes  (Face) AC:8 Dam:2 Hit:4 Fire:5% * No_Burn !Good * Wt:0 Val:500p * Zone: TK * Last ID:
+16:23:11.201  2021-01-14
+16:23:11.206 a blue topaz bracelet  (Wrist) AC:10 Hp:21 Svpar:-5 * Magic !Fighter !Thief * Wt:2 Val:2p * Zone: BC * Last ID: 2021-01
+16:23:11.206 -15
+16:23:11.211 a metal-mix chain bracelet  a metal-mix chain bracelet (Wrist) AC:3 Mana:4 * No_Sell Transient * Wt:1 Val:0p * Zone:
+16:23:11.211  Common * Last ID: 2021-01-24
+16:23:11.216 a pair of midnight blue riding boots shod in steel  (Feet) AC:7 Hp:15 Svbr:-2 * No_Loc !Fighter * Wt:5 Val:0p * Zone:
+16:23:11.216  Musp * Last ID: 2021-01-17
+16:23:11.221 a pair of emblazoned shadowy boots  (Feet) AC:5 Hit:3 Hp:5 * Float Magic No_Burn !Fighter !Mage !Priest * Wt:3 Val:0p *
+16:23:11.221  Zone: Musp (Q) * Last ID: 2006-01-21
+16:23:11.228 some demonscale boots  (Feet) AC:10 Con:13 Hit:4 PR_GOOD * Magic No_Burn No_Drop !Good !Neut * Wt:4 Val:20p * Zone:
+16:23:11.228  Avernus (U) * Last ID: 2021-01-18
+16:23:11.233 a pair of taut red leather boots with adamantine buckles  (Feet) AC:8 Dam:3 Hit:2 Acid:5% PR_EVIL * Magic No_Burn * Wt:5
+16:23:11.233  Val:500p * Zone: Trune * Last ID: 2021-01-14
+16:23:11.240 the mystical circlet of the facile chimera  (Head) AC:10 MR:5 Hp:30 Acid:5% Cold:5% Elect:5% Fire:5% Pois:5% NO_SUM *
+16:23:11.240  Procs: Chimera's Recall * Float Magic No_Burn No_Loc !Fighter !Thief * Wt:1 Val:1000p * Zone: Tiamat (R) * Last ID: 
+16:23:11.240 2021-01-14
+16:23:11.245 a banded tail circlet  (Tail) AC:4 Hp:10 * Wt:1 Val:0p * Zone: CM * Last ID: 2007-03-05
+16:23:11.251 some gloves of flayed planetar hide  (Hands) AC:8 Hp:12 Sf_heal:5 Elect:5% * Bless * Wt:1 Val:235p * Zone: SP (I) * Last
+16:23:11.251  ID: 2021-01-14
+16:23:11.256 a pair of black leather sap gloves (illuminating)  (Hands) AC:6 Hp:17 Maxwis:4 * !Fighter !Thief * Wt:4 Val:80p * Zone:
+16:23:11.256  IC2 * Last ID: 2021-01-17
+16:23:11.260 a set of adamantite chain sleeves  (Arms) AC:10 Maxwis:5 Force:5% Pois:5% Slas:10% Spells:3% * Magic No_Burn !Fighter
+16:23:11.260  !Thief * Wt:3 Val:100p * Zone: ChP (I) * Last ID: 2020-12-17
+16:23:11.265 a set of flayed dwarfhide sleeves  (Arms) AC:12 Dam:3 Svpet:-6 Fire:5% * Float Magic No_Burn !Barb !Dwarf !Elf !Gnome
+16:23:11.265  !Good !Halfelf !Halfling !Mage !Priest * Wt:5 Val:20p * Zone: BC * Last ID: 2021-01-14
+16:23:11.270 sleeves of stretched drow-skin  sleeves of stretched drow-skin (Arms) AC:5 Maxint:5 Svsp:-2 * No_Drop * Wt:1 Val:0p *
+16:23:11.270  Zone: Jot (U) * Last ID: 2021-01-17
+16:23:11.274 some lightweight metal sleeves (illuminating)  (Arms) AC:8 Hit:4 Maxdex:2 * !Mage * Wt:1 Val:200p * Zone: CPV (R) * Last
+16:23:11.274  ID: 2021-01-15
+16:23:11.280 sleeves stitched with the veins of a unicorn  (Arms) AC:8 Hp:20 Sf_nec:4 * !Good * Wt:3 Val:0p * Zone: Unknown * Last
+16:23:11.280  ID: 2020-12-17
+16:23:11.288 a heavy flail of meteoric iron  (Wield) Hit:5 Sf_heal:5 * (Weapon) Dice:3D6 Crit:3% Multi:2x (Class: Martial, Type:
+16:23:11.288  Flail) * Procs: Combat Special : Empyrean Malediction * Force 100% 100% -10 32 - Keen 100% 100% 0 0 - Sonic 100% 100% 0 
+16:23:11.288 0 - Sonic Burst 100% 100% 0 0 - Thundering 100% 100% -10 32 * Magic No_Burn !Fighter !Mage !Thief * Wt:10 Val:222p * 
+16:23:11.288 Zone: Bahamut * Last ID: 2020-12-17
+16:23:11.295 an eyepatch with the symbol of Ashstone  (Eyes) AC:5 Hp:10 Sf_heal:3 SENSE * Magic No_Burn !Fighter !Thief * Wt:1
+16:23:11.295  Val:28p * Zone: Ashstone (Q) * Last ID: 2021-01-20
+16:23:11.303 [2] a pirate's eyepatch  (Eyes) AC:3 Hit:1 * Wt:1 Val:0p * Zone: PShip * Last ID: 2010-01-31
+16:23:11.310 a belt of golden dragonscales with a bone clasp  (Waist) AC:12 Dam:2 Hp:20 Fire:5% * Magic No_Burn No_Loc * Wt:6
+16:23:11.310  Val:600p * Zone: KV (R) * Last ID: 2021-01-18
+16:23:11.316 an iron gorget studded with bloodstones  (Neck) AC:12 Hit:3 Svbr:-5 Fire:5% FARSEE PR_EVIL PR_GOOD * Hidden Magic No_Loc
+16:23:11.316  !Good * Wt:0 Val:0p * Zone: Llyrath Forest (Q) * Last ID: 2021-01-20
+16:23:11.320 [2] an amulet of combat  (Neck) AC:8 Dam:2 Hit:1 Cold:5% * Bless Magic No_Burn No_Loc !Good !Mage !Neut !Priest * Wt:3
+16:23:11.320  Val:84p * Zone: Clouds (R) * Last ID: 2021-01-15
+16:23:11.325 the black steel amulet of the crescent moon  (Neck) AC:10 Dam:3 Hp:15 INFRA NO_SUM SNEAK * Procs: 'Crescent Moon'
+16:23:11.325  Invisibility * Float Magic No_Burn !Fighter !Mage !Priest * Wt:1 Val:500p * Zone: Tiamat (R) * Last ID: 2021-01-13
+16:23:11.332 a flaming earring  (Ear) AC:0 Dam:2 Svbr:-5 Fire:5% FARSEE * Float Magic No_Burn No_Loc * Wt:0 Val:10p * Zone: FP (U) *
+16:23:11.332  Last ID: 2021-01-22
+16:23:11.336 a teardrop earring of solid jade  (Ear) AC:0 Dam:3 Maxstr:2 * No_Burn !Mage !Priest * Wt:1 Val:0p * Zone: SF (Q) * Last
+16:23:11.336  ID: 2021-01-17
+16:23:11.342 an opal earring  (Ear) Armor:-6 Hp:15 * No_Loc * Wt:1 Val:0p * Zone: Musp * Last ID: 2021-01-01
+16:23:11.347 a pouch of eternal pockets (illuminating)  (No_wear) * (Container) Holds:150 Wtless:53 * No_Burn * Wt:0 Val:3p * Zone:
+16:23:11.347  Scardale (UQ) * Last ID: 2021-01-22
+16:23:11.354 a pouch of eternal pockets  (No_wear) * (Container) Holds:150 Wtless:53 * No_Burn * Wt:0 Val:3p * Zone: Scardale (UQ) *
+16:23:11.354  Last ID: 2021-01-22
+16:23:11.361 a red velvet pouch  (Held) Karma:4 * (Container) Holds:80 Wtless:40 * Hidden * Wt:0 Val:0p * Zone: Izan's * Last ID:
+16:23:11.361  2021-01-23
+16:23:11.367 a large diamond  (No_wear) * Wt:1 Val:50p * Zone: Musp (U) * Last ID: 2006-03-11
+16:23:11.373 a large sapphire  2 (No_wear) * Wt:1 Val:50p * Zone: SF * Last ID: 2006-01-24
+16:23:11.377 a silver ring encrusted with a black sapphire  (Finger) Hp:54 * Magic No_Burn !Fighter !Neut !Priest !Thief * Wt:1
+16:23:11.377  Val:26p * Zone: Oakvale * Last ID: 2010-12-18
+16:23:11.382 a large emerald  2 (No_wear) * Wt:1 Val:50p * Zone: SF * Last ID: 2006-01-24
+16:23:11.387 the orb of the cloud giants  (Held) Hp:24 Maxint:3 * Bless Float Magic No_Burn !Fighter !Priest !Thief * Wt:4 Val:120p *
+16:23:11.387  Zone: Clouds * Last ID: 2021-01-17
+16:23:11.394 the starseed nebula (illuminating)  (Held) Hp:20 Maxint:4 * (Container) Holds:50 * Invis Lit Magic No_Burn No_Loc
+16:23:11.394  No_Sell !Fighter !Thief * Wt:1 Val:500p * Zone: IC1 (U) * Last ID: 2021-02-06
+16:23:11.398 the wings of the griffon  (About) FLY * Magic No_Burn * Wt:1 Val:20p * Zone: Brass * Last ID: 2021-01-14
+16:23:11.405 a quiver made of flayed human skin  (Quiver) Hp:1 * No_Sell * Wt:1 Val:0p * Zone: Trune * Last ID: 2021-01-01
+16:23:11.413 an ancient tooled dragonhide quiver  (Quiver) Maxdex:4 Acid:5% * Magic !Mage !Priest !Thief * Wt:1 Val:0p * Zone: Tiamat
+16:23:11.413  (R) * Last ID: 2020-12-24
+16:23:11.420 [6] an eelskin quiver  (Quiver) * Wt:1 Val:0p * Zone: Scorps * Last ID: 2021-02-10
+16:23:11.427 a squirming metallic string  (Held) * (Pick) Bonus:100% Break:0% * Magic * Wt:1 Val:1000p * Zone: Tiamat (R) * Last ID:
+16:23:11.427  2020-12-31
+16:23:11.434 [2] an enchanted khanjari dagger  (Wield) Dam:3 Hit:4 * (Weapon) Dice:4D4 Crit:6% Multi:2x (Class: Simple, Type: Dagger)
+16:23:11.434  * Procs: Khanjari Fury - Khanjari Power - Khanjari Rage * Float Magic !Fighter !Priest * Wt:1 Val:25p * Zone: MD (Q) * 
+16:23:11.434 Last ID: 2021-01-13
+16:23:11.439 a black longsword of destruction  (Wield) Dam:8 Hit:5 Fire:5% INFRA * (Weapon) Dice:8D6 Crit:6% Multi:2x (Class:
+16:23:11.439  Martial, Type: Longsword) * Procs: Battle Rage * Float Magic No_Burn No_Drop No_Loc Two_Hand !Mage !Pal !Priest !Rang 
+16:23:11.439 !Thief * Wt:15 Val:10p * Zone: Jot (I) * Last ID: 2021-01-13
+16:23:11.447 a blackened gold dragon scale shield 
+16:23:11.455 the blood-soaked bastion of defense  the blood-soaked bastion of defense (Shield) AC:25 Hp:25 Svsp:-5 Blud:3% Pier:3%
+16:23:11.455  Rang:3% Slas:3% Unarm:3% * Procs: Powers: Blessing of Gorm * Bless Magic !Mage !Priest !Thief * Wt:50 Val:777p * Zone: 
+16:23:11.455 Bahamut * Last ID: 2020-12-17
+16:23:11.464 a githyanki shield etched with silver runes  (Shield) AC:14 Hp:18 Maxint:4 * Wt:3 Val:24p * Zone: SP (I) * Last ID: 2021
+16:23:11.464 -01-14
+16:23:11.471 a dull black shield with protruding thorns  (Shield) AC:20 Hp:16 Maxstr:2 * Procs: Thorn Burst * No_Burn No_Loc !Mage
+16:23:11.471  !Priest !Thief * Wt:30 Val:0p * Zone: Musp (I) * Last ID: 2010-01-23
+16:23:11.477 a silver shield etched with elvish runes  (Shield) AC:15 Hp:21 Maxwis:1 * Float Hidden Magic No_Burn !Evil !Fighter
+16:23:11.477  !Good !Mage !Thief * Wt:5 Val:0p * Zone: Izan's (R) * Last ID: 2021-01-18
+16:23:11.484 a heavy silver plated shield with gold trim  (Shield) AC:15 Hp:24 Svpet:-1 * Hidden No_Burn !Mage !Thief * Wt:40 Val:0p
+16:23:11.484  * Zone: Izan's (R) * Last ID: 2021-01-17
+16:23:11.489 a crimson-edged obsidian blade  a crimson-edged obsidian blade (Wield) Dam:6 Hit:6 * (Weapon) Dice:6D6 Crit:6% Multi:2x
+16:23:11.489  (Class: Martial, Type: Greatsword) * Procs: Crimson Torment * Axiomatic Burst 100% 100% 0 0 - Flaming 150% 100% 0 0 - 
+16:23:11.489 Flaming Burst 150% 100% 0 0 - Keen 100% 100% 0 0 - Unholy Burst 100% 100% 0 0 - Vampiric 100% 100% -25 0 * Float Magic 
+16:23:11.489 No_Burn Two_Hand !Good !Mage !Neut !Priest !Thief * Wt:12 Val:1332p * Zone: Bahamut * Last ID: 2020-12-18
+16:23:11.497 a swampy battle-axe of the troll king  a swampy battle-axe of the troll king (Wield) Hp:17 Maxcon:5 Fire:50% * (Weapon)
+16:23:11.497  Dice:4D4 Crit:3% Multi:3x (Class: Martial, Type: Battleaxe) * Bless No_Burn !Drow !Duergar !Goodrace !Ogre !Orc !Squid 
+16:23:11.497 !Yuan * Wt:1 Val:200p * Zone: DT (Q) * Last ID: 2021-01-22
+16:23:11.503 a wicked battleaxe  (Wield) * (Weapon) Dice:2D6 * !Mage * Wt:2 Val:4p * Zone: PShip * Last ID: 2007-02-27
+16:23:11.510 a four-headed battleaxe of abyssal doom  a four-headed battleaxe of abyssal doom (Wield) Dam:7 Hit:7 * (Weapon) Dice:5D6
+16:23:11.510  Crit:3% Multi:3x (Class: Martial, Type: Battleaxe) * Procs: Negative Energy Burst * Magic No_Burn No_Drop No_Loc 
+16:23:11.510 Two_Hand !Mage !Priest !Thief * Wt:15 Val:0p * Zone: Tiamat * Last ID: 2021-01-17
+16:23:11.517 a white enameled battleaxe  (Wield) Dam:3 Hit:3 * (Weapon) Dice:2D6 Crit:3% Multi:3x (Class: Martial, Type: Battleaxe) *
+16:23:11.517  Vampiric 100% 100% 0 0 * Magic No_Drop !Mage !Priest !Thief * Wt:6 Val:25p * Zone: SP (Q) * Last ID: 2011-03-09
+16:23:11.522 a suit of black adamantine chainmail  (On_body) AC:8 * !Mage * Wt:3 Val:2p * Zone: DK * Last ID: 2010-01-16
+16:23:11.530 a star-metal chainmail hood of boundless thought  a star-metal chainmail hood of boundless thought (Head) AC:12 Hp:50
+16:23:11.530  Mana:50 * Procs: Effects : 'Boundless Thought' * Magic !Female !Male * Wt:2 Val:666p * Zone: Bahamut * Last ID: 2020-12-
+16:23:11.530 17
+16:23:11.538 a silvery suit of elven chainmail  (On_body) AC:32 MR:5 Hp:32 * Float Magic * Wt:1 Val:1000p * Zone: Tiamat (R) * Last
+16:23:11.538  ID: 2021-01-14
+16:23:11.544 [2] a concussive warmaul of the dwarven kings  (Wield) Dam:3 Hit:3 * (Weapon) Dice:3D5 Crit:2% Multi:5x (Class: Martial,
+16:23:11.544  Type: Maul) * Force 100% 75% 0 3 - Sonic 200% 100% 0 0 - Sonic Burst 200% 100% 0 0 * Magic * Wt:4 Val:7p * Zone: Scorps 
+16:23:11.544 * Last ID: 2021-01-23
+16:23:11.550 a strand of nine pearls  (Neck) AC:10 Hp:20 Maxwis:15 * Procs: Special Effects : Divine Inspiration * Bless Magic
+16:23:11.550  !Fighter !Mage !Thief * Wt:1 Val:900p * Zone: Bahamut * Last ID: 2020-12-17
+16:23:11.557 an ancient staff of divinity (illuminating)  2 (Wield) Hp:27 Maxwis:5 * (Weapon) Dice:4D4 Crit:3% Multi:2x (Class:
+16:23:11.557  Simple, Type: Quarterstaff) * Procs: Faerie's Radiance - Faerie's Thoughts * Float Lit Magic No_Drop !Fighter !Mage 
+16:23:11.557 !Thief * Wt:1 Val:948p * Zone: Faerie Realms (Q) * Last ID: 2013-05-14
+16:23:11.562 a staff of radiance (glowing)  (Wield) Hit:5 Hp:30 * (Weapon) Dice:4D4 Crit:3% Multi:2x (Class: Simple, Type:
+16:23:11.562  Quarterstaff) * Procs: Celestial Power, Radiant Pattern * Brilliant 100% 100% -5 2 - Keen 100% 100% 0 0 * Bless Float 
+16:23:11.562 Glow Magic !Evil !Fighter !Priest !Thief * Wt:2 Val:111p * Zone: Bahamut * Last ID: 2020-12-18
+16:23:11.570 a pair of spiked adamantine gauntlets  (Hands) AC:10 Dam:3 Maxcon:3 Evil:5% * !Mage * Wt:2 Val:22p * Zone: Unknown *
+16:23:11.570  Last ID: 2020-12-21
+16:23:11.578 the ancient crown of thunderous divinity (glowing)  (Head) AC:15 Hit:7 Hp:40 DET_EVIL DET_GOOD FARSEE INFRA SENSE *
+16:23:11.578  Bless Glow Magic No_Burn No_Loc !Fighter !Mage !Thief * Wt:4 Val:0p * Zone: Tiamat (R) * Last ID: 2021-01-13
+16:23:11.587 an iron crown of fireballs  (Head or Held) Armor:-12 Dam:3 Acid:5% Cold:5% Fire:5% Pois:5% * (Staff) Lvl:50 fireball
+16:23:11.587  Charges:4 * Magic No_Burn !Mage !Priest * Wt:5 Val:100p * Zone: SM (UI) * Last ID: 2021-01-15
+16:23:11.591 a pair of blued steel vambraces  (Arms) AC:10 Dam:1 Svsp:-3 * Magic !Mage !Thief * Wt:3 Val:300p * Zone: IC1 (U) * Last
+16:23:11.591  ID: 2021-01-19
+16:23:11.595 a torque of the Goddess  (Neck) AC:12 Hit:3 Svbr:-4 FARSEE PR_EVIL PR_GOOD * Magic No_Loc !Evil !Mage !Pal !Thief !Warr
+16:23:11.595  * Wt:0 Val:0p * Zone: Moonshaes (UR) * Last ID: 2007-10-15
+16:23:11.601 [2] a black iron wristguard with protruding razors  (Wrist) AC:10 Dam:3 * Hidden Magic !Mage * Wt:2 Val:0p * Zone:
+16:23:11.601  Izan's (R) * Last ID: 2021-01-14
+16:23:11.608 the crystallized tear of an astral deva  (Ear) Hp:20 Svsp:-5 * Procs: Powers: Celestial Purification * Bless Float Magic
+16:23:11.608  !Fighter !Priest !Thief * Wt:1 Val:777p * Zone: Bahamut * Last ID: 2020-12-17
+16:23:11.616 a band of slaadi skin  (Wrist) AC:5 Hp:10 Mana:10 Acid:2% * Float No_Burn No_Loc * Wt:1 Val:66p * Zone: Gith (I) * Last
+16:23:11.616  ID: 2021-01-20
+16:23:11.620 a voluminous black robe 
+16:23:11.631 an icy white robe with blue piping (illuminating)  (About) AC:15 Hp:30 Svsp:-5 * !Fighter !Thief * Wt:5 Val:400p * Zone:
+16:23:11.631  IC2 * Last ID: 2021-01-23
+16:23:11.636 a greater holy symbol hung on a silver chain  (Neck) AC:7 Hp:10 Sf_heal:2 NO_CHARM PR_EVIL * Procs: 'blessed protection'
+16:23:11.636  Protection from Undead 1/2 days * Bless Magic No_Burn No_Loc * Wt:1 Val:300p * Zone: KV (R) * Last ID: 2021-02-07
+16:23:11.642 a suit of mithril platemail armor  8 (On_body) AC:28 Hp:35 Svsp:-5 NO_SLEEP * Magic No_Burn !Mage !Thief * Wt:10 Val:0p
+16:23:11.642  * Zone: Bryn (Q) * Last ID: 2021-01-27
+16:23:11.648 a blessed scimitar etched with elvish runes  (Wield) Dam:4 Maxwis:5 NO_SLEEP * (Weapon) Dice:4D4 * Bless Hidden Magic
+16:23:11.648  No_Burn !Cleric !Fighter !Mage !Sham !Thief * Wt:5 Val:0p * Zone: Izan's (R) * Last ID: 2007-11-17
+16:23:11.652 [2] a ring of the hearth  (Finger) AC:0 Hp:53 Fire:5% PR_EVIL * Magic No_Loc * Wt:0 Val:10p * Zone: Unknown * Last ID:
+16:23:11.652  2021-01-15
+16:23:11.657 [2] a steel ring in the shape of a twisted root  (Finger) Armor:-1 Dex:4 * Wt:1 Val:3p * Zone: Mosswood (S) * Last ID:
+16:23:11.657  2021-02-10
+16:23:11.662 a glowing electrum ring (illuminating)  (Finger) AC:0 Armor:-4 Hp:30 * Lit Magic * Wt:1 Val:5p * Zone: Jot * Last ID:
+16:23:11.662  2021-02-17
+16:23:11.667 a gold, white gemstone ring  (Finger) AC:0 Dam:2 Hit:1 * Magic !Mage !Neut !Priest * Wt:0 Val:12p * Zone: Crypts * Last
+16:23:11.667  ID: 2021-01-15
+16:23:11.674 a shiny golden ring  (Finger) AC:0 Dam:1 * Magic * Wt:0 Val:5p * Zone: HP * Last ID: 2007-02-24
+16:23:11.678 a silver ring with mirrored finish  (Finger) Hp:75 Svsp:-4 Blud:1% Pier:1% Rang:1% Slas:1% Unarm:1% * Procs: Powers:
+16:23:11.678  Celestial Sanctuary * Magic !Fighter !Mage !Thief * Wt:1 Val:270p * Zone: Bahamut * Last ID: 2020-12-17
+16:23:11.686 a ring of seven stars  (Finger) Hp:65 Svsp:-5 * Magic !Fighter !Thief * Wt:0 Val:100p * Zone: SM (U) * Last ID: 2021-01
+16:23:11.686 -16
+16:23:11.690 a supple leather girdle with golden studs  (Waist) AC:10 Maxagi:6 Blud:3% Pier:3% Rang:3% Slas:3% Unarm:3% * Procs:
+16:23:11.690  'strength of stone' 1/3 days * !Mage !Priest * Wt:10 Val:100p * Zone: ChP (I) * Last ID: 2021-01-14
+16:23:11.695 the medallion of the hive king (illuminating)  (Neck) Hp:15 Svpar:-4 DM SLOW_POI * No_Burn * Wt:1 Val:1p * Zone: Scorps
+16:23:11.695  (U) * Last ID: 2021-01-14
+16:23:11.700 a large ruby  (No_wear) * Wt:1 Val:50p * Zone: Musp (U) * Last ID: 2006-03-11
+16:23:11.704 a ruby studded black dragonscale  (Ear) Hit:2 Hp:10 Pois:5% * Hidden Magic No_Loc !Good !Mage !Neut !Priest * Wt:2
+16:23:11.704  Val:45p * Zone: Clouds (R) * Last ID: 2021-01-17
+16:23:11.709 [2] the hollowed claw of a balor demon  (Finger) Dam:4 Hp:10 Elect:2% Fire:2% * Procs: Powers: Wings of the Balor *
+16:23:11.709  Magic No_Burn !Fighter !Good !Mage !Priest * Wt:1 Val:666p * Zone: Bahamut * Last ID: 2020-12-17
+16:23:11.717 a shining steel vambrace  (Wrist) AC:15 Hit:2 * Hidden No_Burn !Mage !Thief * Wt:1 Val:0p * Zone: AV (R) * Last ID: 2009
+16:23:11.717 -09-18
+16:23:11.721 a glass token  (Ear) AC:0 Hp:16 Svsp:-2 Elect:5% PR_GOOD * Hidden !Fighter !Thief * Wt:1 Val:0p * Zone: Izan's (R) *
+16:23:11.721  Last ID: 2021-01-17
+16:23:11.725 a long cloak of black scales  (Neck) AC:7 Hp:8 Svsp:-1 * !Fighter !Goodrace !Thief * Wt:0 Val:0p * Zone: DK * Last ID:
+16:23:11.725  2021-01-19
+16:23:11.730 ringmail emblazoned with a mace and skull emblem (illuminating)  (On_body) AC:10 Hp:30 * Wt:5 Val:2p * Zone: Jot (U) *
+16:23:11.730  Last ID: 2021-01-15
+16:23:11.737 a faded red sash  (Waist) AC:3 * No_Sell Transient * Wt:0 Val:0p * Zone: Unknown * Last ID: 2021-01-19
+16:23:11.745 a withered old wand  (Wield) * (Wand) Lvl:51 abi dalzims horrid wilting Charges:4 * Float Magic No_Burn Two_Hand
+16:23:11.745  !Fighter !Good !Neut !Priest !Thief * Wt:5 Val:10p * Zone: Avernus * Last ID: 2006-01-23
+16:23:11.754 a pair of spiked obsidian arm plates  (Arms) AC:8 Hit:1 * !Mage !Thief * Wt:2 Val:15p * Zone: HP * Last ID: 2021-02-10
+16:23:11.758 blazing yellow eyes  (Eyes) AC:0 Dam:4 Fire:5% FARSEE * !Mage !Priest * Wt:1 Val:100p * Zone: ChP (I) * Last ID: 2021-01
+16:23:11.758 -16
+16:23:11.762 a sharpened rapier studded with rubies  (Wield) Dam:4 Hit:2 * (Weapon) Dice:2D8 Crit:9% Multi:2x (Class: Martial, Type:
+16:23:11.762  Rapier) * Flaming 100% 100% 0 0 - Flaming Burst 100% 100% 0 0 - Keen 100% 100% 0 0 * Magic !Mage !Priest * Wt:3 Val:47p 
+16:23:11.762 * Zone: Ashstone * Last ID: 2020-12-17
+16:23:11.771 a fiery silk tattoo  (Eyes) AC:2 Hp:15 Svsp:-4 * !Fighter * Wt:0 Val:0p * Zone: FP * Last ID: 2021-01-17
+16:23:11.776 a hand carved blackoak longbow  (Wield) * Two_Hand !Mage !Priest !Thief * Wt:1 Val:0p * Zone: Scardale * Last ID: 2010
+16:23:11.776 -01-31
+16:23:11.783 a shoulder strap and pouches  (About) * (Container) Holds:10 * No_Sell * Wt:1 Val:0p * Zone: Scardale * Last ID: 2021-01
+16:23:11.783 -17
+16:23:11.791 a white tunic with a Scardale crest  (On_body) AC:3 Agi:4 * Wt:2 Val:0p * Zone: Scardale * Last ID: 2021-01-12
+16:23:11.797 a chunk of marble  (No_wear) * NoID * Zone: Unknown * Last ID: 2011-01-05
+16:23:11.802 [2] some hard candy  (Held) * Wt:0 Val:0p * Zone: Scorn (US) * Last ID: 2006-06-13
+16:23:11.809 a pair of bongo drums  (Held) * (Instrument) Quality:0 Stutter:0 Min_Level:0 * Wt:1 Val:0p * Zone: Global (S) * Last ID:
+16:23:11.809  2006-08-23
+
+16:23:11.815 < 219h/265H 644p/739P 140v/140V P: std >     
+16:23:37.992 You do not see or have the silk.
+
+16:23:38.077 < 235h/265H 656p/739P 140v/140V P: std >     
+16:23:41.497 You get a glass token from Detrez's storage cube.
+
+16:23:41.585 < 237h/265H 658p/739P 140v/140V P: std >     
+16:23:43.747 You wear a glass token on your left ear.
+
+16:23:43.828 < 239h/265H 659p/739P 140v/140V P: std >     
+16:24:12.039 You get a ring of the hearth from Detrez's storage cube.
+
+16:24:12.117 < 257h/281H 672p/739P 140v/140V P: std >     
+16:24:12.290 You get a ring of the hearth from Detrez's storage cube.
+
+16:24:12.384 < 257h/281H 672p/739P 140v/140V P: std >     
+16:24:14.788 You place a ring of the hearth on your left ring finger.
+
+16:24:14.858 < 258h/281H 673p/739P 140v/140V P: std >     
+16:24:15.038 You place a ring of the hearth on your right ring finger.
+
+16:24:15.126 < 259h/281H 673p/739P 140v/140V P: std >     
+16:24:30.312 You do not see or have the silk.
+
+16:24:30.404 < 268h/387H 681p/739P 140v/140V P: std >     
+16:24:34.570 You get a pair of black leather sap gloves from Detrez's storage cube.
+
+16:24:34.652 < 271h/387H 683p/739P 140v/140V P: std >     
+16:24:36.071 You get a set of flayed dwarfhide sleeves from Detrez's storage cube.
+
+16:24:36.152 < 272h/387H 683p/739P 140v/140V P: std >     
+16:24:36.822 You get a silver ring encrusted with a black sapphire from Detrez's storage cube.
+
+16:24:36.911 < 272h/387H 684p/739P 140v/140V P: std >     
+16:24:37.573 You get a black longsword of destruction from Detrez's storage cube.
+
+16:24:37.659 < 273h/387H 684p/739P 140v/140V P: std >     
+16:24:38.324 You get a dull black shield with protruding thorns from Detrez's storage cube.
+
+16:24:38.414 < 273h/387H 684p/739P 140v/140V P: std >     
+16:24:39.333 You get a suit of black adamantine chainmail from Detrez's storage cube.
+
+16:24:39.420 < 274h/387H 685p/739P 140v/140V P: std >     
+16:24:40.082 You get a black iron wristguard with protruding razors from Detrez's storage cube.
+
+16:24:40.162 < 274h/387H 685p/739P 140v/140V P: std >     
+16:24:40.839 You get a black iron wristguard with protruding razors from Detrez's storage cube.
+
+16:24:40.927 < 275h/387H 686p/739P 140v/140V P: std >     
+16:24:41.334 You get a voluminous black robe from Detrez's storage cube.
+
+16:24:41.416 < 275h/387H 686p/739P 140v/140V P: std >     
+16:24:42.085 You can't carry any more.
+
+16:24:42.174 < 275h/387H 686p/739P 140v/140V P: std >     
+16:24:44.334 You shrug into a voluminous black robe.
+
+16:24:44.416 < 277h/387H 687p/739P 140v/140V P: std >     
+16:24:47.842 You put 8 black(s) in cube.
+
+16:24:47.929 < 279h/387H 689p/739P 140v/140V P: std >     
+16:25:19.650 You do not see or have the silk.
+
+16:25:19.741 < 298h/387H 704p/739P 140v/140V P: std >     
+16:25:22.902 You get a belt of golden dragonscales with a bone clasp from Detrez's storage cube.
+
+16:25:22.992 < 300h/387H 705p/739P 140v/140V P: std >     
+16:25:23.654 You get a blackened gold dragon scale shield from Detrez's storage cube.
+
+16:25:23.739 < 301h/387H 706p/739P 140v/140V P: std >     
+16:25:24.155 You get a heavy silver plated shield with gold trim from Detrez's storage cube.
+
+16:25:24.238 < 301h/387H 706p/739P 140v/140V P: std >     
+16:25:27.153 You can't use a heavy silver plated shield with gold trim.
+
+16:25:27.236 < 303h/387H 707p/739P 140v/140V P: std >     
+16:25:33.663 You put 3 gold(s) in cube.
+
+16:25:33.743 < 307h/387H 710p/739P 140v/140V P: std >     
+16:26:06.220 You do not see or have the silk.
+
+16:26:06.301 < 328h/387H 726p/739P 140v/140V P: std >     
+16:26:10.726 The Detrez's storage cube does not contain the pirate.
+
+16:26:10.810 < 330h/387H 728p/739P 140v/140V P: std >     
+16:26:15.234 You get an eyepatch with the symbol of Ashstone from Detrez's storage cube.
+
+16:26:15.324 < 333h/387H 730p/739P 140v/140V P: std >     
+16:26:15.987 You get a pirate's eyepatch from Detrez's storage cube.
+
+16:26:16.068 < 334h/387H 730p/739P 140v/140V P: std >     
+16:26:16.735 You get a pirate's eyepatch from Detrez's storage cube.
+
+16:26:16.829 < 334h/387H 731p/739P 140v/140V P: std >     
+16:26:16.985 The Detrez's storage cube does not contain the eyepatch.
+
+16:26:17.078 < 334h/387H 731p/739P 140v/140V P: std >     
+16:26:17.486 The Detrez's storage cube does not contain the eyepatch.
+
+16:26:17.575 < 334h/387H 731p/739P 140v/140V P: std >     
+
+16:26:18.815 Autosaving...
+
+16:26:18.815 < 335h/387H 732p/739P 140v/140V P: std >     
+16:26:18.983 It is 4am, on the Day of the Bull
+16:26:18.984 The 22nd Day of the Month of Bestanth (the Renewal), Year 1301.
+16:26:18.985 Time elapsed since boot-up: 87:56:10
+16:26:18.985 Current time is: Tue Dec  9 16:48:49 2025
+
+16:26:19.064 < 335h/387H 732p/739P 140v/140V P: std >     
+16:26:20.235 You do not seem to have the 'eyeptach'.
+
+16:26:20.327 < 336h/387H 732p/739P 140v/140V P: std >     
+16:26:23.741 You wear a pirate's eyepatch over your eyes.
+
+16:26:23.833 < 338h/387H 734p/739P 140v/140V P: std >     
+16:26:30.249 You put 2 eyepatch(s) in cube.
+
+16:26:30.339 < 342h/387H 737p/739P 140v/140V P: std >     
+16:26:57.287 You get a metal-mix chain bracelet from Detrez's storage cube.
+
+16:26:57.377 < 359h/387H 739p/739P 140v/140V P: std >     
+16:27:00.538 You place a metal-mix chain bracelet around your left wrist.
+
+16:27:00.627 < 361h/387H 739p/739P 140v/140V P: std >     
+16:27:27.589   1.a lightweight suit of linked mail body armor inside Detrez's storage cube.
+
+16:27:27.678 < 378h/387H 743p/743P 140v/140V P: std >     
+
+16:27:35.100           Score information for Ilinnimon
+
+16:27:35.101 Level: 50   Race: Illithid   Class: Psionicist  
+16:27:35.102 Hit points: 382(387)   PSP's: 743(743)   Moves: 140(140)
+16:27:35.103 Experience Progress: 6 % 
+16:27:35.103 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+16:27:35.189 Coins in bags:  512 platinum    35 gold    52 silver    21 copper
+16:27:35.190 Coins in bank:   32 platinum    30 gold   647 silver   959 copper
+16:27:35.191 Prestige: 5476   Acheron Kill Count: 0
+16:27:35.191 Name status: Approved
+16:27:35.192 Citizen of:   Ixarkon
+16:27:35.192 Outcast from: Griffon's Nest
+16:27:35.192 Playing time: 19 days / 22 hours / 24 minutes
+16:27:35.193 Title: 
+16:27:35.193 Status:  Standing.
+16:27:35.193 Enchantments:    Ultravision
+
+16:27:35.193 < 382h/387H 743p/743P 140v/140V P: std >     
+16:27:36.348 You are carrying:
+16:27:36.349 Detrez's storage cube 
+
+16:27:36.439 < 383h/387H 743p/743P 140v/140V P: std >     
+
+16:27:43.631 You gain access to Afu's storage cache.  
+16:27:43.632 In order to use your own cache again, you must first close this cache by entering: 'storage access close'.
+
+16:27:43.716 < 387h/387H 743p/743P 140v/140V P: std >     
+16:27:47.369 You store Detrez's storage cube in Afu's storage cache.
+16:27:47.370 Autosaving...
+
+16:27:47.417 < 387h/387H 743p/743P 140v/140V P: std >     
+16:27:47.615 It is 6am, on the Day of the Bull
+16:27:47.616 The 22nd Day of the Month of Bestanth (the Renewal), Year 1301.
+16:27:47.617 Time elapsed since boot-up: 87:57:39
+16:27:47.617 Current time is: Tue Dec  9 16:50:18 2025
+
+16:27:47.703 < 387h/387H 743p/743P 140v/140V P: std >     
+16:27:48.366 The hag tells you 'It will cost you nothing to rent.'
+16:27:48.376 The hag stores your stuff in the safe, and shows you to your room.
+
+16:27:48.378 Characters:
+16:27:48.378 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+16:27:48.389   1) Afu                       Level 50 Warrior (Troll)
+16:27:48.390   2) Deabnue                   Level 50 Invoker (Human)
+16:27:48.390   3) Gizep                     Level 50 Enchanter (Drow Elf)
+16:27:48.391   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+16:27:48.391   5) Newple                    Level 50 Rogue (Halfling)
+16:27:48.393   6) Mattah                    Level 50 Necromancer (Human)
+16:27:48.394   7) Rafi                      Level 50 Blackguard (Human)
+16:27:48.395   8) Digun                     Level 50 Warrior (Shield Dwarf)
+16:27:48.395   9) Risor                     Level 50 Rogue (Human)
+16:27:48.396  10) Islala                    Level 50 Bard (Moon Elf)
+16:27:48.397  11) Minolai                   Level 50 Ranger (Moon Elf)
+16:27:48.397  12) Poppibble                 Level 50 Ranger (Halfling)
+16:27:48.398  13) Simasel                   Level 50 Cleric (Moon Elf)
+16:27:48.399  14) Giru                      Level 50 Hexblade (Orc)
+16:27:48.399  15) Xaniver                   Level 50 Ranger (Half-Orc)
+16:27:48.400  16) Waf                       Level 49 Shaman (Barbarian)
+16:27:48.401  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+16:27:48.401  18) Gomble                    Level 50 Paladin (Halfling)
+16:27:48.402  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+16:27:48.403  20) Siho                      Level 50 Paladin (Half-Orc)
+16:27:48.403  21) Nidipizil                 Level 50 Paladin (Gnome)
+16:27:48.404  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+16:27:48.404  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+16:27:48.405  24) Naleni                    Level 50 Warrior (Moon Elf)
+16:27:48.406  25) Gukonata                  Level 50 Blackguard (Duergar)
+16:27:48.407  26) Uspi                      Level 50 Blackguard (Half-Orc)
+16:27:48.407  27) Tonga                     Level 50 Warrior (Ogre)
+16:27:48.408  28) Popebople                 Level 48 Enchanter (Gnome)
+16:27:48.409  29) Bago                      Level 50 Shaman (Ogre)
+16:27:48.409  30) Loyol                     Level 50 Bard (Halfling)
+16:27:48.410  31) Irsen                     Level 50 Druid (Human)
+16:27:48.411  32) Fanal                     Level 50 Rogue (Orc)
+16:27:48.411  33) Poromople                 Level 50 Invoker (Gnome)
+16:27:48.411  34) Coruduwat                 Level 43 Elementalist (Duergar)
+16:27:48.413  35) Luso                      Level 41 Paladin (Human)
+16:27:48.414  36) Ssassur                   Level 44 Wizard (Yuan-Ti)
+16:27:48.414  37) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+16:27:48.415  38) Gorkl                     Level 29 Warrior (Ogre)
+16:27:48.416  39) Gapa                      Level 28 Battlechanter (Orc)
+16:27:48.417  40) Tazfap                    Level  1 Warrior (Drow Elf)
+16:27:48.417  41) Igunnokio                 Level 16 Ranger (Moon Elf)
+16:27:48.418  42) Tihep                     Level  6 Rogue (Drow Elf)
+16:27:48.419  43) Dobokin                   Level  1 Paladin (Half-Orc)
+16:27:48.419  44) Tamad                     Level  7 Paladin (Human)
+16:27:48.420  45) Pilferos                  Level  6 Rogue (Human)
+16:27:48.421  46) Tubor                     Level  1 Warrior (Ogre)
+16:27:48.421  47) Zorrax                    Level 13 Warrior (Troll)
+16:27:48.422  48) Muwede                    Level  1 Illusionist (Drow Elf)
+16:27:48.423  49) Woso                      Level 16 Druid (Half-Orc)
+16:27:48.423  50) Anisa                     Level 15 Blackguard (Half-Orc)
+16:27:48.424  51) Vodbadadva                Level 18 Rogue (Duergar)
+16:27:48.424  52) Lahla                     Level  1 Bard (Half-Orc)
+16:27:48.425  53) Lewo                      Level  8 Bard (Half-Orc)
+16:27:48.425  54) Dedad                     Level 11 Warrior (Drow Elf)
+16:27:48.426  55) Pige                      Level  1 Blackguard (Human)
+16:27:48.427  56) Bowo                      Level  1 Ranger (Half-Orc)
+16:27:48.427  57) Susu                      Level  7 Warrior (Ogre)
+16:27:48.428  58) Ohu                       Level 18 Warrior (Troll)
+16:27:48.429  59) Docuh                     Level  8 Warrior (Ogre)
+16:27:48.429  60) Simeramma                 Level 13 Ranger (Moon Elf)
+16:27:48.430  61) Efera                     Level  5 Necromancer (Drow Elf)
+16:27:48.431  62) Sehe                      Level 50 Rogue (Human)
+16:27:48.431  63) Haxu                      Level 12 Shaman (Troll)
+16:27:48.433  64) Lolele                    Level 20 Warrior (Halfling)
+16:27:48.433  65) Ssississa                 Level 17 Invoker (Yuan-Ti)
+16:27:48.434  66) Rifu                      Level 18 Hexblade (Half-Orc)
+16:27:48.435  67) Ginxa                     Level 14 Rogue (Half-Orc)
+16:27:48.435  68) Dogga                     Level 12 Warrior (Ogre)
+16:27:48.436  69) Ibo                       Level 12 Warrior (Barbarian)
+16:27:48.437  70) Cometa                    Level 11 Hexblade (Half-Orc)
+16:27:48.437  71) Amamal                    Level 18 Paladin (Moon Elf)
+16:27:48.438  72) Samile                    Level 14 Invoker (Drow Elf)
+16:27:48.439  73) Xulu                      Level 17 Shaman (Troll)
+16:27:48.439  74) Enyema                    Level 10 Invoker (Drow Elf)
+16:27:48.440  75) Nino                      Level  8 Shaman (Half-Orc)
+16:27:48.441  76) Upraeleolno               Level  1 Ranger (Moon Elf)
+16:27:48.441  77) Atesa                     Level 17 Necromancer (Drow Elf)
+16:27:48.442  78) Zic                       Level 12 Warrior (Barbarian)
+16:27:48.443  79) Eyata                     Level 12 Warrior (Drow Elf)
+16:27:48.443  80) Wowidomble                Level  3 Illusionist (Gnome)
+16:27:48.444  81) Hatra                     Level 10 Shaman (Half-Orc)
+16:27:48.445  82) Gobra                     Level 35 Shaman (Half-Orc)
+16:27:48.445  83) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+16:27:48.446  84) Legil                     Level  1 Invoker (Halfling)
+16:27:48.447  85) Onre                      Level  5 Rogue (Human)
+16:27:48.448  86) Krainor                   Level 17 Paladin (Human)
+16:27:48.449  87) Pipippaple                Level 50 Ranger (Gnome)
+16:27:48.449  88) Sijita                    Level 12 Necromancer (Drow Elf)
+16:27:48.450  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+16:27:48.451  90) Sewothe                   Level 20 Rogue (Drow Elf)
+16:27:48.451  91) Ixap                      Level 41 Hexblade (Half-Orc)
+16:27:48.453 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+16:27:48.453 Type the # or name of a character above to login or choose an action below.
+16:27:48.454 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+16:27:48.454 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+16:27:48.455 (E)nter description    | (D)elete character | (C)hange password
+16:27:48.456 (M)odify email address | (Q)uit
+16:27:48.456 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+16:27:48.768 Your choice: 
+16:27:53.384 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+16:27:53.384                            Wizards
+16:27:53.384 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+16:27:53.385 The new Wizard class has arrived, with Illusionist as the first subclass. For
+16:27:53.386 more details on this update, please see the news link below.
+
+16:27:53.387 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+16:27:53.387 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+16:27:53.387 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+16:27:53.388 - http://www.torilmud.com/news/arcane-companions/
+
+16:27:53.388 Resources
+
+16:27:53.388 Discord    : https://discord.gg/t7edjzM
+16:27:53.389 Web Client : http://www.torilmud.com/login
+16:27:53.389 News       : http://news.torilmud.com/
+16:27:53.389 Issues     : https://github.com/torilmud/issues
+
+16:27:53.471 Retrieving rented items from storage...
+
+16:27:53.472         Welcome to TorilMUD
+
+16:27:53.472                
+
+16:27:53.477 The Upstairs of the Wayward House Inn
+16:27:53.478    Like most of the building the upstairs is made of maple, a rich wood
+16:27:53.479 that gives the inn a warm feel.  The boards have been well carved and
+16:27:53.480 fit closely together, only admitting light through the shuttered
+16:27:53.481 windows.  This floor consists of several rooms available for rent.
+16:27:53.482 Each room has its own lock on the door to ensure privacy.
+16:27:53.482 Exits: - Down  [Error: mud 'The Upstairs of the Wayward House Inn' doesn't match mapper 'The Viperstongue Reception' at
+16:27:53.482  '7018']          [7018] 
+16:27:53.483 A steel longsword lies on the ground. 
+16:27:53.483 An elaborately decorated key lies here. 
+16:27:53.483 Sylvana  (Half-Elf) stands here.
+16:27:53.484 Jhalessa Shorncrown stands here tidying up.
+
+Log session ending at 16:27:53 on Tuesday, 9 December 2025.

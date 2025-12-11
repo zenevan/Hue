@@ -1,0 +1,560 @@
+Log session starting at 05:41:00 on Tuesday, 9 December 2025.
+
+05:41:00.159 < 1062h/792H 175v/175V P: std > 
+05:41:00.159 [Spellqueue cleared.]
+05:41:00.276 You will now see the mini-map when moving.
+
+05:41:00.527 < 1062h/792H 175v/175V P: std > You will now see the new prompt.
+05:41:00.777 < 1061h/792H 175v/175V P: std >Prompt option newline enabled.
+
+05:41:00.861 < 1061h/792H 175v/175V P: std >     
+
+05:41:01.106 Smartprompt toggled on.
+
+05:41:01.108 < 1061h/792H 175v/175V P: std >     
+
+05:41:01.378 There are no sub-classes currently available to your class.
+
+05:41:01.379 < 1060h/792H 175v/175V P: std >     
+
+05:41:01.622           Character attributes for Tonga
+
+05:41:01.623 Level: 50   Race: Ogre   Class: Warrior     
+05:41:01.623 [Creating self.Tonga]
+05:41:01.645 Size: Large
+05:41:01.646 STR:  96  AGI:  95  DEX:  97  CON: 100
+05:41:01.646 POW:  70  INT:  70  WIS:  70  CHA:  70
+05:41:01.646 Armor Class: 100  (100 to -100)  Agility Bonus: -2
+05:41:01.646 Magic Resistance: 0 percent
+05:41:01.647 Hitroll: 4   Damroll: 9
+05:41:01.647 Alignment: Lawful Evil
+05:41:01.647 Saving Throws: PAR[0]  ROD[0]  PET[0]  BRE[0]  SPE[0]
+05:41:01.648    Wimpy: not set
+05:41:01.648 Load carried: What load?
+05:41:01.648 Damage Resistance:
+05:41:01.648 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+05:41:01.649 Spells:    0% Fire  :    0% Cold  :    0% Elect :    0% Acid  :    0% 
+05:41:01.650 Sonic :    0% Poison:    0% Pos   :    0% Neg   :    0% Psi   :    0% 
+05:41:01.651 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+05:41:01.652 Force :    0% 
+
+05:41:01.652 < 1060h/792H 175v/175V P: std >     
+
+05:41:01.869           Score information for Tonga
+
+05:41:01.870 Level: 50   Race: Ogre   Class: Warrior     
+05:41:01.872 Hit points: 1059(792)  Moves: 175(175)
+05:41:01.872 Experience Progress: 5138 % 
+05:41:01.872 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+05:41:01.873 Coins in bank: 7113 platinum  14231 gold  7656 silver     4 copper
+05:41:01.874 Prestige: 10632   Acheron Kill Count: 0
+05:41:01.874 Name status: Approved
+05:41:01.875 Citizen of:   Faang
+05:41:01.875 Outcast from: Griffon's Nest
+05:41:01.875 Playing time: 19 days / 14 hours / 17 minutes
+05:41:01.876 Title: 
+05:41:01.876 Status:  Standing.
+05:41:01.876 Detecting:       Heat
+
+05:41:01.876 < 1059h/792H 175v/175V P: std >     
+
+05:41:02.115 You aren't wearing anything!
+
+05:41:02.139 < 1059h/792H 175v/175V P: std >     
+
+05:41:02.373 < 1059h/792H 175v/175V P: std >     
+05:41:02.613 < 1058h/792H 175v/175V P: std >     
+
+05:41:02.860 You are 0 XP (0.00%) away from your next level.
+
+05:41:02.861 < 1058h/792H 175v/175V P: std >     
+
+05:41:03.111 You haven't consented to anyone.
+
+05:41:03.112 Tonga is consenting you.
+
+05:41:03.112 < 1057h/792H 175v/175V P: std >     
+
+05:41:03.357 Prompt option newline disabled.
+
+05:41:03.531 < 1057h/792H 175v/175V P: std >Smartprompt toggled off.
+05:41:03.782 < 1057h/792H 175v/175V P: std >The Upstairs of the Wayward House Inn
+05:41:03.531 < 1057h/792H 175v/175V P: std >Smartprompt toggled off.
+05:41:04.033 < 1056h/792H 175v/175V P: std >Prompt option newline enabled.
+
+05:41:04.118 < 1056h/792H 175v/175V P: std >     
+05:41:04.162 [Setting statname to unset]
+05:41:04.167 [Setting rescuetype to basic]
+05:41:04.171 [Setting warbh to false]
+05:41:04.176 [Setting warkc to false]
+05:41:04.180 [All train triggers disabled]
+------------ 
+
+05:41:05.124 You are hungry.
+05:41:05.124 You are thirsty.
+
+05:41:05.124 < 1054h/792H 175v/175V P: std >     
+05:41:05.786                
+
+05:41:05.878 Wayward House Inn
+05:41:05.879    This elegant wood building has been constructed on the stone
+05:41:05.880 foundation of the Inn of Wayward Sages.  Charring can still be seen on
+05:41:05.881 the stone from when the original building burned down.  Originally an
+05:41:05.882 inn with less then reputable clientele the inn has become more classy
+05:41:05.883 with a well stocked wine cellar.  A number of tables and chairs lie
+05:41:05.884 about the room casually and a long oak counter fills one end of the
+05:41:05.885 room.
+05:41:05.885 Exits: - North - Up     [48603] 
+05:41:05.894 Danikibble  (Gnome) stands in mid-air here.
+05:41:05.895 Finaise  (Moon Elf) stands here.
+05:41:05.895 Grxx Krush Skul Einherjar Riders of Faerun (RP) (Troll) stands here.
+05:41:05.897 Nonale  (Halfling) stands here.
+05:41:05.897 Teyolalil  (Gnome) stands here.
+05:41:05.898 A showy merchant sits here looking smug. (x3)
+05:41:05.899 A dapper noble is here socializing. (x3)
+05:41:05.900 Ynndchiarhlizz - The Nexus (Illithid) sits resting.
+05:41:05.901 Havorr Merendil stands behind the counter ready to serve.
+
+05:41:05.901 < 1053h/792H 174v/175V P: std >     
+
+05:41:12.024 [Issue speedwalk to smBank at 84203]
+05:41:12.107 [Path: .nesw]
+------------ 
+05:41:12.312                
+
+05:41:12.403 Ghostwalk
+05:41:12.403    The Ghostwalk is a wide cobbled stone street running from one side
+05:41:12.404 of the old city to the other bisecting it.  Flagstone side walks run in
+05:41:12.405 front of the stone homes and shops found here, most dating back
+05:41:12.406 centuries.  Many buildings have balconies overlooking the street that
+05:41:12.407 shelter the sidewalk below from rain and snow.  To the south is the
+05:41:12.408 Wayward House Inn.
+05:41:12.408 Exits: - North - East  - South - West                  [48602] 
+05:41:12.409 A long sharp piece of bone has fallen here. 
+05:41:12.410 An elven dignitary has ventured to Silverymoon.
+
+05:41:12.410 < 1042h/792H 174v/175V P: std >     
+05:41:12.562                
+
+05:41:12.655 At Moonway and Ghostwalk
+05:41:12.655    Running from western Helmer's Wall to eastern Helmer's Wall
+05:41:12.656 Ghostwalk runs the length of old Silverymoon.  A wide street it is
+05:41:12.657 paved in cobbled stones, ruts run along each side of the street where
+05:41:12.658 wagons have left their mark over the years.  Raised flagstone sidewalks
+05:41:12.659 line the street keeping pedestrians out of traffic's way.  Duskwood
+05:41:12.660 trees in near by parks and garden can be seen rising to sixty feet in
+05:41:12.661 the air with their straight black barked trunks.  To the north and south
+05:41:12.662 runs Moonway.
+05:41:12.662 Exits: - North - East  - South - West                  [48577] 
+05:41:12.663 A stone fountain bubbles here. 
+05:41:12.663 A half-elven girl is here looking about.
+05:41:12.663 A small lizard crawls here keeping to the shadows.
+05:41:12.664 A halfling girl stands here trying to keep out from under foot.
+05:41:12.665 A half-elven boy runs down the street.
+05:41:12.665 Gwen Silversong stands here singing.
+
+05:41:12.666 < 1042h/792H 173v/175V P: std >     
+05:41:12.814                
+
+05:41:12.902 Moonway
+05:41:12.902    Moonway bisects old Silverymoon runs across the Moonbridge and cuts
+05:41:12.903 across the south bank of the city.  Its paved with cobbled stones and
+05:41:12.904 is wide enough for two wagons to pass each other.  Sidewalks paved with
+05:41:12.905 flagstones run up and down both sides of the street.  Here in the
+05:41:12.906 commercial hub of Silverymoon merchants and craftsmen are frequently
+05:41:12.907 found making their way purposefully down the street.  To the west is
+05:41:12.907 the Bank of Silverymoon.  To the east lies a park.
+05:41:12.908 Exits: - North - East  - South - West                  [48578] 
+05:41:12.909 An off-duty guard is out on the town.
+05:41:12.909 A purple martin flies swiftly here.
+
+05:41:12.910 < 1041h/792H 172v/175V P: std >     
+05:41:13.063                
+
+05:41:13.151 The Bank of Silverymoon
+05:41:13.152    This large marble building is built in classical style, enormous
+05:41:13.153 fluted columns hold up the high stone ceiling creating a vast foyer
+05:41:13.154 where citizen's of Silverymoon and visiting merchants can gather to
+05:41:13.155 conduct financial transactions.  The bank will store coins for patrons
+05:41:13.156 and convert it to different denominations, for a fee.  Integral to
+05:41:13.157 Silverymoon's economy the building has been carefully warded to protect
+05:41:13.158 the building and its contents.
+05:41:13.158 Exits: - East          [84203] 
+05:41:13.158 A large wooden counter is here, with a sign posted on it. 
+05:41:13.159 Rerole  (Halfling) stands here.
+05:41:13.160 Aureliel stands here overseeing the bank.
+
+05:41:13.160 < 1041h/792H 171v/175V P: std >     
+05:41:13.313 You do not see or have the haversack.
+
+05:41:13.395 < 1040h/792H 171v/175V P: std >     
+05:41:13.561 Your account contains:
+05:41:13.561     7113 platinum, 14231 gold, 7656 silver, 4 copper coins.
+
+05:41:13.642 < 1040h/792H 172v/175V P: std >     
+
+05:41:13.813           Score information for Tonga
+
+05:41:13.814 Level: 50   Race: Ogre   Class: Warrior     
+05:41:13.815 Hit points: 1039(792)  Moves: 172(175)
+05:41:13.816 Experience Progress: 5138 % 
+05:41:13.816 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+05:41:13.906 Coins in bank: 7113 platinum  14231 gold  7656 silver     4 copper
+05:41:13.907 Prestige: 10632   Acheron Kill Count: 0
+05:41:13.907 Name status: Approved
+05:41:13.907 Citizen of:   Faang
+05:41:13.907 Outcast from: Griffon's Nest
+05:41:13.908 Playing time: 19 days / 14 hours / 17 minutes
+05:41:13.908 Title: 
+05:41:13.908 Status:  Standing.
+05:41:13.909 Detecting:       Heat
+
+05:41:13.909 < 1039h/792H 172v/175V P: std >     
+05:41:22.086 Your account contains:
+05:41:22.087     0 platinum, 14231 gold, 7656 silver, 4 copper coins.
+
+05:41:22.169 < 1027h/792H 175v/175V P: std >     
+
+05:41:26.464 [Issue speedwalk to smInn at 48603]
+05:41:26.465 [Path: .enws]
+------------ 
+05:41:26.594                
+
+05:41:26.677 Moonway
+05:41:26.677    Moonway bisects old Silverymoon runs across the Moonbridge and cuts
+05:41:26.678 across the south bank of the city.  Its paved with cobbled stones and
+05:41:26.679 is wide enough for two wagons to pass each other.  Sidewalks paved with
+05:41:26.680 flagstones run up and down both sides of the street.  Here in the
+05:41:26.681 commercial hub of Silverymoon merchants and craftsmen are frequently
+05:41:26.682 found making their way purposefully down the street.  To the west is
+05:41:26.683 the Bank of Silverymoon.  To the east lies a park.
+05:41:26.683 Exits: - North - East  - South - West                  [48578] 
+05:41:26.684 An off-duty guard is out on the town.
+05:41:26.685 A purple martin flies swiftly here.
+
+05:41:26.685 < 1022h/792H 174v/175V P: std >     
+05:41:26.843                
+
+05:41:26.940 At Moonway and Ghostwalk
+05:41:26.941    Running from western Helmer's Wall to eastern Helmer's Wall
+05:41:26.942 Ghostwalk runs the length of old Silverymoon.  A wide street it is
+05:41:26.942 paved in cobbled stones, ruts run along each side of the street where
+05:41:26.944 wagons have left their mark over the years.  Raised flagstone sidewalks
+05:41:26.945 line the street keeping pedestrians out of traffic's way.  Duskwood
+05:41:26.947 trees in near by parks and garden can be seen rising to sixty feet in
+05:41:26.949 the air with their straight black barked trunks.  To the north and south
+05:41:26.950 runs Moonway.
+05:41:26.950 Exits: - North - East  - South - West                  [48577] 
+05:41:26.951 A stone fountain bubbles here. 
+05:41:26.951 A half-elven girl is here looking about.
+05:41:26.951 A small lizard crawls here keeping to the shadows.
+05:41:26.952 A halfling girl stands here trying to keep out from under foot.
+05:41:26.953 A half-elven boy runs down the street.
+05:41:26.953 Gwen Silversong stands here singing.
+
+05:41:26.954 < 1022h/792H 173v/175V P: std >     
+05:41:27.094                
+
+05:41:27.190 Ghostwalk
+05:41:27.190    The Ghostwalk is a wide cobbled stone street running from one side
+05:41:27.191 of the old city to the other bisecting it.  Flagstone side walks run in
+05:41:27.192 front of the stone homes and shops found here, most dating back
+05:41:27.193 centuries.  Many buildings have balconies overlooking the street that
+05:41:27.194 shelter the sidewalk below from rain and snow.  To the south is the
+05:41:27.195 Wayward House Inn.
+05:41:27.195 Exits: - North - East  - South - West                  [48602] 
+05:41:27.196 A long sharp piece of bone has fallen here. 
+05:41:27.197 An elven dignitary has ventured to Silverymoon.
+
+05:41:27.197 < 1022h/792H 172v/175V P: std >     
+05:41:27.344                
+
+05:41:27.441 Wayward House Inn
+05:41:27.442    This elegant wood building has been constructed on the stone
+05:41:27.443 foundation of the Inn of Wayward Sages.  Charring can still be seen on
+05:41:27.444 the stone from when the original building burned down.  Originally an
+05:41:27.444 inn with less then reputable clientele the inn has become more classy
+05:41:27.445 with a well stocked wine cellar.  A number of tables and chairs lie
+05:41:27.447 about the room casually and a long oak counter fills one end of the
+05:41:27.448 room.
+05:41:27.448 Exits: - North - Up     [48603] 
+05:41:27.448 Danikibble  (Gnome) stands in mid-air here.
+05:41:27.449 Finaise  (Moon Elf) stands here.
+05:41:27.449 Grxx Krush Skul Einherjar Riders of Faerun (RP) (Troll) stands here.
+05:41:27.450 Nonale  (Halfling) stands here.
+05:41:27.450 Teyolalil  (Gnome) stands here.
+05:41:27.452 A showy merchant sits here looking smug. (x3)
+05:41:27.453 A dapper noble is here socializing. (x3)
+05:41:27.453 Ynndchiarhlizz - The Nexus (Illithid) sits resting.
+05:41:27.454 Havorr Merendil stands behind the counter ready to serve.
+
+05:41:27.455 < 1022h/792H 171v/175V P: std >     
+
+05:41:33.438 Danikibble looks at you.
+
+05:41:33.438 < 1015h/792H 175v/175V P: std >     
+05:41:36.605 Pardon?
+
+05:41:36.688 < 1011h/792H 175v/175V P: std >     
+05:41:37.861  Listing of the Staff
+05:41:37.861 -=-=-=-=-=-=-=-=-=-=-
+05:41:37.861 <None>
+
+05:41:37.861 There are 0 visible staff member(s) on.
+
+05:41:37.862  Listing of the Mortals!
+05:41:37.862 -=-=-=-=-=-=-=-=-=-=-=-=-
+05:41:37.862 [50 Bar] Kegor  (Human)
+05:41:37.863 [50 Pal] Gerupar  (Half-Orc)
+05:41:37.867 [50 Wiz] Danikibble  (Gnome)
+05:41:37.871 [50 Pal] Riloesa  (Moon Elf)
+05:41:37.875 [50 Bar] Rerole  (Halfling)
+05:41:37.876 [ 1 Bar] Katumi  (Half-Elf)
+05:41:37.877 [50 War] Tonga  (Ogre) (RP)
+05:41:37.878 [50 War] Grxx Krush Skul Einherjar Riders of Faerun (Troll) (RP)
+05:41:37.879 [50 Wiz] Nonale  (Halfling)
+05:41:37.883 [50 Sor] Teyolalil  (Gnome)
+05:41:37.887 [50 Hex] Finaise  (Moon Elf)
+05:41:37.891 [50 Wiz] Raunppoble - Crew of the Valkurian Blades (Halfling) (AFK)
+05:41:37.895 [48 Hex] Kunathe  (Moon Elf)
+05:41:37.899 [50 Cle] Mizes - Fuzzybottom of the Valkurian Blades (Yuan-Ti)
+05:41:37.904 [50 Ran] Sylvana  (Half-Elf)
+05:41:37.907 [50 Psi] Ynndchiarhlizz - The Nexus (Illithid)
+
+05:41:37.908 There are 16 mortal(s) on.
+
+05:41:37.908 Total players online: 17.
+05:41:37.908 Record number of players on this boot:  32.
+
+05:41:37.948 < 1009h/792H 175v/175V P: std >     
+05:41:42.122 You tell Ynndchiarhlizz 'hole riloesa'
+
+05:41:42.216 < 1004h/792H 175v/175V P: std >     
+
+05:41:42.472 The area darkens and the air shimmers slightly as a wormhole opens before Ynndchiarhlizz.
+
+05:41:42.474 < 1004h/792H 175v/175V P: std >     
+05:41:43.866 You enter something and reappear elsewhere...
+05:41:43.868                
+
+05:41:43.950 The Gentle Moon - Common Area (Shadowed)
+05:41:43.951    The inn has seen better days, once polished hard wood now looks
+05:41:43.952 bedraggled.  The walls are beginning to warp from the moist air, and
+05:41:43.953 small gaps admit marine air.  An old bar rest in the center of the room
+05:41:43.954 surrounded by tables.  People still come here to eat, and sometimes
+05:41:43.955 lodge.  Some come for the friendly atmosphere, some come to try to catch
+05:41:43.955 a glimpse of the fabled ghost said to haunt the premises.
+05:41:43.956 Exits: - North - East   [48603] 
+05:41:43.956 A gaping hole in the ground leads into darkness. 
+05:41:43.957 Mizes - Fuzzybottom of the Valkurian Blades (Yuan-Ti) stands in mid-air here.
+05:41:43.958 Riloesa  (Moon Elf) stands here.
+05:41:43.960 A tradesperson rests here with a drink in hand. (x3)
+05:41:43.960 A scantily-dressed server moves about the room looking awkward.
+05:41:43.961 The innkeeper stands behind the counter renting out rooms.
+
+05:41:43.962 < 1002h/792H 175v/175V P: std >     
+
+05:41:45.367 [Searching... Match found: Westgate : The Gentle Moon - Common Area : 327]
+
+05:41:48.391 You gain access to Afu's storage cache.  
+05:41:48.392 In order to use your own cache again, you must first close this cache by entering: 'storage access close'.
+
+05:41:48.474 < 997h/792H 175v/175V P: std >     
+05:41:53.129 You don't have the silk.
+
+05:41:53.209 < 991h/792H 175v/175V P: std >     
+05:41:54.378 You are carrying:
+05:41:54.379 Nothing.
+
+05:41:54.458 < 990h/792H 175v/175V P: std >     
+05:41:58.390 You retrieve a fine silk haversack stitched with platinum thread from Afu's storage cache.
+05:41:58.392 Autosaving...
+
+05:41:58.440 < 985h/792H 175v/175V P: std >     
+05:41:58.634 It is 10am, on the Day of the Deception
+05:41:58.635 The 30th Day of the Month of Mirtul (the Melting), Year 1301.
+05:41:58.635 Time elapsed since boot-up: 77:11:50
+05:41:58.635 Current time is: Tue Dec  9 06:04:29 2025
+
+05:41:58.723 < 985h/792H 175v/175V P: std >     
+05:42:01.150 Ok.
+05:42:01.150 You put some coins into a fine silk haversack stitched with platinum thread.
+
+05:42:01.231 < 982h/792H 175v/175V P: std >     
+05:42:05.400 You store a fine silk haversack stitched with platinum thread in Afu's storage cache.
+05:42:05.402 Autosaving...
+
+05:42:05.448 < 977h/792H 175v/175V P: std >     
+05:42:05.642 It is 11am, on the Day of the Deception
+05:42:05.643 The 30th Day of the Month of Mirtul (the Melting), Year 1301.
+05:42:05.644 Time elapsed since boot-up: 77:11:57
+05:42:05.644 Current time is: Tue Dec  9 06:04:36 2025
+
+05:42:05.732 < 977h/792H 175v/175V P: std >     
+05:42:08.399 Pardon?
+
+05:42:08.479 < 974h/792H 175v/175V P: std >     
+
+05:42:10.400           Score information for Tonga
+
+05:42:10.400 Level: 50   Race: Ogre   Class: Warrior     
+05:42:10.402 Hit points: 972(792)  Moves: 175(175)
+05:42:10.402 Experience Progress: 5138 % 
+05:42:10.403 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+05:42:10.484 Coins in bank:    0 platinum  14231 gold  7656 silver     4 copper
+05:42:10.485 Prestige: 10632   Acheron Kill Count: 0
+05:42:10.486 Name status: Approved
+05:42:10.486 Citizen of:   Faang
+05:42:10.486 Outcast from: Griffon's Nest
+05:42:10.487 Playing time: 19 days / 14 hours / 18 minutes
+05:42:10.487 Title: 
+05:42:10.487 Status:  Standing.
+05:42:10.487 Detecting:       Heat
+
+05:42:10.488 < 972h/792H 175v/175V P: std >     
+05:42:13.087 The innkeeper tells you 'It will cost you nothing to rent.'
+05:42:13.098 The innkeeper stores your stuff in the safe, and shows you to your room.
+
+05:42:13.099 Characters:
+05:42:13.099 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+05:42:13.099   1) Afu                       Level 50 Warrior (Troll)
+05:42:13.100   2) Deabnue                   Level 50 Invoker (Human)
+05:42:13.101   3) Gizep                     Level 50 Enchanter (Drow Elf)
+05:42:13.101   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+05:42:13.102   5) Newple                    Level 50 Rogue (Halfling)
+05:42:13.103   6) Mattah                    Level 50 Necromancer (Human)
+05:42:13.103   7) Rafi                      Level 50 Blackguard (Human)
+05:42:13.104   8) Digun                     Level 50 Warrior (Shield Dwarf)
+05:42:13.105   9) Risor                     Level 50 Rogue (Human)
+05:42:13.106  10) Islala                    Level 50 Bard (Moon Elf)
+05:42:13.107  11) Minolai                   Level 50 Ranger (Moon Elf)
+05:42:13.107  12) Poppibble                 Level 50 Ranger (Halfling)
+05:42:13.108  13) Simasel                   Level 50 Cleric (Moon Elf)
+05:42:13.108  14) Giru                      Level 50 Hexblade (Orc)
+05:42:13.109  15) Xaniver                   Level 50 Ranger (Half-Orc)
+05:42:13.110  16) Waf                       Level 49 Shaman (Barbarian)
+05:42:13.111  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+05:42:13.111  18) Gomble                    Level 50 Paladin (Halfling)
+05:42:13.112  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+05:42:13.113  20) Siho                      Level 50 Paladin (Half-Orc)
+05:42:13.113  21) Nidipizil                 Level 50 Paladin (Gnome)
+05:42:13.114  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+05:42:13.115  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+05:42:13.116  24) Naleni                    Level 50 Warrior (Moon Elf)
+05:42:13.117  25) Gukonata                  Level 50 Blackguard (Duergar)
+05:42:13.118  26) Uspi                      Level 50 Blackguard (Half-Orc)
+05:42:13.119  27) Tonga                     Level 50 Warrior (Ogre)
+05:42:13.119  28) Popebople                 Level 48 Enchanter (Gnome)
+05:42:13.120  29) Bago                      Level 50 Shaman (Ogre)
+05:42:13.121  30) Loyol                     Level 50 Bard (Halfling)
+05:42:13.121  31) Irsen                     Level 50 Druid (Human)
+05:42:13.122  32) Fanal                     Level 50 Rogue (Orc)
+05:42:13.122  33) Poromople                 Level 49 Invoker (Gnome)
+05:42:13.123  34) Coruduwat                 Level 43 Elementalist (Duergar)
+05:42:13.124  35) Luso                      Level 41 Paladin (Human)
+05:42:13.125  36) Ssassur                   Level 44 Illusionist (Yuan-Ti)
+05:42:13.125  37) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+05:42:13.126  38) Gorkl                     Level 29 Warrior (Ogre)
+05:42:13.126  39) Gapa                      Level 28 Battlechanter (Orc)
+05:42:13.127  40) Tazfap                    Level  1 Warrior (Drow Elf)
+05:42:13.128  41) Igunnokio                 Level 16 Ranger (Moon Elf)
+05:42:13.129  42) Tihep                     Level  6 Rogue (Drow Elf)
+05:42:13.129  43) Dobokin                   Level  1 Paladin (Half-Orc)
+05:42:13.130  44) Tamad                     Level  7 Paladin (Human)
+05:42:13.131  45) Pilferos                  Level  6 Rogue (Human)
+05:42:13.132  46) Tubor                     Level  1 Warrior (Ogre)
+05:42:13.132  47) Zorrax                    Level 13 Warrior (Troll)
+05:42:13.133  48) Muwede                    Level  1 Illusionist (Drow Elf)
+05:42:13.134  49) Woso                      Level 16 Druid (Half-Orc)
+05:42:13.134  50) Anisa                     Level 15 Blackguard (Half-Orc)
+05:42:13.135  51) Vodbadadva                Level 18 Rogue (Duergar)
+05:42:13.136  52) Lahla                     Level  1 Bard (Half-Orc)
+05:42:13.137  53) Lewo                      Level  8 Bard (Half-Orc)
+05:42:13.138  54) Dedad                     Level 11 Warrior (Drow Elf)
+05:42:13.138  55) Pige                      Level  1 Blackguard (Human)
+05:42:13.139  56) Bowo                      Level  1 Ranger (Half-Orc)
+05:42:13.140  57) Susu                      Level  7 Warrior (Ogre)
+05:42:13.141  58) Ohu                       Level 18 Warrior (Troll)
+05:42:13.141  59) Docuh                     Level  8 Warrior (Ogre)
+05:42:13.142  60) Simeramma                 Level 13 Ranger (Moon Elf)
+05:42:13.143  61) Efera                     Level  5 Necromancer (Drow Elf)
+05:42:13.144  62) Sehe                      Level 50 Rogue (Human)
+05:42:13.144  63) Haxu                      Level 12 Shaman (Troll)
+05:42:13.145  64) Lolele                    Level 20 Warrior (Halfling)
+05:42:13.145  65) Ssississa                 Level 17 Invoker (Yuan-Ti)
+05:42:13.146  66) Rifu                      Level 18 Hexblade (Half-Orc)
+05:42:13.147  67) Ginxa                     Level 14 Rogue (Half-Orc)
+05:42:13.147  68) Dogga                     Level 12 Warrior (Ogre)
+05:42:13.148  69) Ibo                       Level 12 Warrior (Barbarian)
+05:42:13.149  70) Cometa                    Level 11 Hexblade (Half-Orc)
+05:42:13.150  71) Amamal                    Level 18 Paladin (Moon Elf)
+05:42:13.150  72) Samile                    Level 14 Invoker (Drow Elf)
+05:42:13.151  73) Xulu                      Level 17 Shaman (Troll)
+05:42:13.152  74) Enyema                    Level 10 Invoker (Drow Elf)
+05:42:13.152  75) Nino                      Level  8 Shaman (Half-Orc)
+05:42:13.153  76) Upraeleolno               Level  1 Ranger (Moon Elf)
+05:42:13.154  77) Atesa                     Level 17 Necromancer (Drow Elf)
+05:42:13.155  78) Zic                       Level 12 Warrior (Barbarian)
+05:42:13.155  79) Eyata                     Level 12 Warrior (Drow Elf)
+05:42:13.156  80) Wowidomble                Level  3 Illusionist (Gnome)
+05:42:13.157  81) Hatra                     Level 10 Shaman (Half-Orc)
+05:42:13.158  82) Gobra                     Level 35 Shaman (Half-Orc)
+05:42:13.159  83) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+05:42:13.160  84) Legil                     Level  1 Invoker (Halfling)
+05:42:13.160  85) Onre                      Level  5 Rogue (Human)
+05:42:13.161  86) Krainor                   Level 17 Paladin (Human)
+05:42:13.162  87) Pipippaple                Level 50 Ranger (Gnome)
+05:42:13.162  88) Sijita                    Level 12 Necromancer (Drow Elf)
+05:42:13.163  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+05:42:13.164  90) Sewothe                   Level 20 Rogue (Drow Elf)
+05:42:13.165  91) Ixap                      Level 41 Hexblade (Half-Orc)
+05:42:13.165 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+05:42:13.166 Type the # or name of a character above to login or choose an action below.
+05:42:13.167 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+05:42:13.167 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+05:42:13.168 (E)nter description    | (D)elete character | (C)hange password
+05:42:13.169 (M)odify email address | (Q)uit
+05:42:13.169 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+05:42:13.472 Your choice: 
+05:42:21.608 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+05:42:21.608                            Wizards
+05:42:21.609 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+05:42:21.609 The new Wizard class has arrived, with Illusionist as the first subclass. For
+05:42:21.610 more details on this update, please see the news link below.
+
+05:42:21.611 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+05:42:21.611 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+05:42:21.612 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+05:42:21.612 - http://www.torilmud.com/news/arcane-companions/
+
+05:42:21.612 Resources
+
+05:42:21.612 Discord    : https://discord.gg/t7edjzM
+05:42:21.613 Web Client : http://www.torilmud.com/login
+05:42:21.613 News       : http://news.torilmud.com/
+05:42:21.613 Issues     : https://github.com/torilmud/issues
+
+05:42:21.688 Retrieving rented items from storage...
+
+05:42:21.689         Welcome to TorilMUD
+
+05:42:21.690                
+
+05:42:21.694 The Gentle Moon - Common Area (Shadowed)
+05:42:21.695    The inn has seen better days, once polished hard wood now looks
+05:42:21.695 bedraggled.  The walls are beginning to warp from the moist air, and
+05:42:21.696 small gaps admit marine air.  An old bar rest in the center of the room
+05:42:21.697 surrounded by tables.  People still come here to eat, and sometimes
+05:42:21.698 lodge.  Some come for the friendly atmosphere, some come to try to catch
+05:42:21.699 a glimpse of the fabled ghost said to haunt the premises.
+05:42:21.700 Exits: - North - East   [327] 
+05:42:21.700 A gaping hole in the ground leads into darkness. 
+05:42:21.701 Mizes - Fuzzybottom of the Valkurian Blades (Yuan-Ti) stands in mid-air here.
+05:42:21.702 Riloesa  (Moon Elf) stands here.
+05:42:21.703 A tradesperson rests here with a drink in hand. (x3)
+05:42:21.704 A scantily-dressed server moves about the room looking awkward.
+05:42:21.704 The innkeeper stands behind the counter renting out rooms.
+
+Log session ending at 05:42:21 on Tuesday, 9 December 2025.

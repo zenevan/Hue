@@ -1,0 +1,496 @@
+Log session starting at 23:35:14 on Tuesday, 9 December 2025.
+
+23:35:14.636 < 661h/352H 166v/166V P: std >     
+23:35:14.636 [Spellqueue cleared.]
+23:35:14.851 You will now see the classic prompt.
+
+23:35:14.891 < 661h/352H 166v/166V |tsw +|sbite +| >
+23:35:15.101 < P: std > 
+23:35:15.101  Prompt Command Usage:
+23:35:15.102   prompt                             - Display this help
+23:35:15.102   prompt layout                      - List available layouts
+23:35:15.103   prompt layout <layout>             - Set your layout
+23:35:15.104   prompt fields                      - List available fields
+23:35:15.104   prompt add <field>                 - Add a field to your current layout
+23:35:15.105   prompt remove <field>              - Remove a field from your current layout
+23:35:15.106   prompt options                     - Show a list of prompt option flags
+23:35:15.108   prompt options <flag>              - Toggle a prompt option
+23:35:15.108   prompt power <power> <slot>        - Add a power to a prompt slot
+23:35:15.109   prompt power auto                  - Set the default suggested power prompts
+23:35:15.110   prompt power clear <power, all>    - Clear a power from the prompt
+23:35:15.111   prompt color                       - List available prompt power colors
+23:35:15.112   prompt color <power, slot> <color> - Set the ready power color for a specific power or slot
+23:35:15.114   prompt color <type> <color>        - Set color for: <ready, cooldown, special, default, combo>
+23:35:15.116   prompt color <type> <clear>        - Clear color for <ready, cooldown, special, default, combo> 
+23:35:15.118   prompt color reset                 - Reset all prompt colors to default
+23:35:15.119   prompt help                        - Display this help
+
+23:35:15.191 To use the prompt command, first toggle on NEWPROMPT.
+
+23:35:15.192 < 660h/352H 166v/166V |tsw +|sbite +| >
+23:35:15.351 < P: std > 
+23:35:15.438 Smartprompt toggled on.
+
+23:35:15.439 < 660h/352H 166v/166V |tsw +|sbite +| >
+23:35:15.601 < P: std > 
+23:35:15.684 There are no sub-classes currently available to your class.
+
+23:35:15.687 < 659h/352H 166v/166V |tsw +|sbite +| >
+23:35:15.851 < P: std > 
+
+23:35:15.931           Character attributes for Yazassa
+
+23:35:15.931 Level: 50   Race: Yuan-Ti   Class: Cleric      
+23:35:16.079 Size: Medium
+23:35:16.079 STR:  95  AGI: 100  DEX:  85  CON:  78
+23:35:16.079 POW:  70  INT:  71  WIS: 100  CHA:  70
+23:35:16.080 Armor Class: 60  (100 to -100)  Agility Bonus: -25
+23:35:16.080 Magic Resistance: 0 percent
+23:35:16.081 Hitroll: 5   Damroll: 4
+23:35:16.081 Alignment: Chaotic Evil
+23:35:16.081 Saving Throws: PAR[0]  ROD[0]  PET[0]  BRE[0]  SPE[0]
+23:35:16.082    Wimpy: not set
+23:35:16.082 Load carried: What load?
+23:35:16.082 Damage Resistance:
+23:35:16.082 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+23:35:16.083 Spells:    0% Fire  :    0% Cold  :    0% Elect :    0% Acid  :    0% 
+23:35:16.084 Sonic :    0% Poison:    0% Pos   :    0% Neg   :    0% Psi   :    0% 
+23:35:16.085 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+23:35:16.086 Force :    0% 
+
+23:35:16.086 < 659h/352H 166v/166V |tsw +|sbite +| >
+23:35:16.109 < P: std > 
+
+23:35:16.178           Score information for Yazassa
+
+23:35:16.179 Level: 50   Race: Yuan-Ti   Class: Cleric      
+23:35:16.183 Hit points: 658(352)   PSP's: 389(389)   Moves: 166(166)
+23:35:16.184 Experience Progress: 115 % 
+23:35:16.184 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+23:35:16.186 Coins in bank: 1915 platinum     3 gold     1 silver     6 copper
+23:35:16.186 Prestige: 5818   Acheron Kill Count: 0
+23:35:16.187 Name status: Pending
+23:35:16.187 Citizen of:   Hyssk
+23:35:16.187 Outcast from: Griffon's Nest
+23:35:16.187 Playing time: 2 days / 9 hours / 12 minutes
+23:35:16.188 Title: 
+23:35:16.188 Status:  Standing.
+23:35:16.188 Detecting:       Heat
+
+23:35:16.188 Active Spells:
+23:35:16.189 --------------
+23:35:16.189 barkskin
+
+23:35:16.189 < 658h/352H 166v/166V |tsw +|sbite +| >
+23:35:16.355 < P: std > 
+23:35:16.444 You aren't wearing anything!
+
+23:35:16.489 < 658h/352H 166v/166V |tsw +|sbite +| >
+23:35:16.603 < P: std > 
+23:35:16.695 < 657h/352H 166v/166V |tsw +|sbite +| >
+23:35:16.854 < P: std > 
+23:35:16.941 You have no followers.
+
+23:35:16.942 < 657h/352H 166v/166V |tsw +|sbite +| >
+23:35:17.104 < P: std > 
+23:35:17.190 < 656h/352H 166v/166V |tsw +|sbite +| >
+23:35:17.353 < P: std > 
+23:35:17.434 You are 0 XP (0.00%) away from your next level.
+
+23:35:17.436 < 656h/352H 166v/166V |tsw +|sbite +| >
+23:35:17.602 < P: std > 
+23:35:17.685 You haven't consented to anyone.
+
+23:35:17.687 Yazassa is consenting you.
+
+23:35:17.687 < 655h/352H 166v/166V |tsw +|sbite +| >
+23:35:17.853 < P: std > 
+23:35:17.947 You will now see the new prompt.
+
+23:35:17.948 < 655h/352H 166v/166V P: std >     
+23:35:18.105 Smartprompt toggled off.
+
+23:35:18.196 < 654h/352H 166v/166V P: std >     
+23:35:18.356 The Upstairs of the Wayward House Inn
+23:35:18.444 < 654h/352H 166v/166V P: std >     
+23:35:18.605 Prompt option newline disabled.
+23:35:18.638 [Setting statname to unset]
+23:35:18.644 [All train triggers disabled]
+
+23:35:18.855 < 654h/352H 166v/166V P: std >Prompt option newline enabled.
+23:35:18.939 < 653h/352H 166v/166V P: std >     
+
+23:35:19.056 [Searching... Match found: Silverymoon, Gem of the North : The Upstairs of the Wayward House Inn : 48604]
+23:35:20.609                
+
+23:35:20.703 Wayward House Inn
+23:35:20.703    This elegant wood building has been constructed on the stone
+23:35:20.704 foundation of the Inn of Wayward Sages.  Charring can still be seen on
+23:35:20.704 the stone from when the original building burned down.  Originally an
+23:35:20.706 inn with less then reputable clientele the inn has become more classy
+23:35:20.707 with a well stocked wine cellar.  A number of tables and chairs lie
+23:35:20.708 about the room casually and a long oak counter fills one end of the
+23:35:20.709 room.
+23:35:20.709 Exits: - North - Up     [48603] 
+23:35:20.710 Tabmur  (Orc) stands here.
+23:35:20.710 Riloesa  (Moon Elf) stands here.
+23:35:20.710 Pilple  (Halfling) stands here.
+23:35:20.711 Grxx Krush Skul Einherjar Riders of Faerun (RP) (Troll) stands here.
+23:35:20.712 Danikibble  (AFK) (Gnome) stands here.
+23:35:20.712 Teyolalil  (Gnome) stands here.
+23:35:20.712 Fokle Fuzzybottom (RP) (Halfling) stands here.
+23:35:20.713 Ynndchiarhlizz - The Nexus (Illithid) sits resting.
+23:35:20.714 Havorr Merendil stands behind the counter ready to serve.
+23:35:20.715 A showy merchant sits here looking smug. (x3)
+23:35:20.716 A dapper noble is here socializing. (x3)
+
+23:35:20.717 < 650h/352H 165v/166V P: std >     
+23:35:28.117 You tell Ynndchiarhlizz 'hole vt'
+
+23:35:28.201 < 639h/352H 166v/166V P: std >     
+
+23:35:28.476 The area darkens and the air shimmers slightly as a wormhole opens before Ynndchiarhlizz.
+
+23:35:28.478 < 638h/352H 166v/166V P: std >     
+
+23:35:30.456 The area is filled with renewing notes of magic from Tabmur.
+
+23:35:30.457 < 636h/352H 166v/166V P: std >     
+23:35:30.871 You enter something and reappear elsewhere...
+23:35:30.872                
+
+23:35:30.970 The Viperstongue Tavern
+23:35:30.971    The ground floor of this ruined building has been converted into a
+23:35:30.971 sprawling, seedy tavern.  In the center of the stone floor there rests a
+23:35:30.974 dilapidated circular wooden bar, around which is placed a variety of
+23:35:30.974 splintered old stools.  Scattered throughout the bare stone room are
+23:35:30.975 several wobbly wooden tables, all spaced far apart for maximum privacy. 
+23:35:30.976 A motley collection of thoroughly seedy patrons occupy the tavern, from
+23:35:30.977 pirates to bounty hunters and every other sort of assorted scum.  This
+23:35:30.978 outpost seems to serve as a base and meeting place for some of the most
+23:35:30.979 villainous criminals of the southern coast.  Several dim lanterns
+23:35:30.980 provide a dim, flickering illumination here, ideal for conducting shady
+23:35:30.981 business in private.   Dreary music coming from a makeshift stage to the
+23:35:30.982 north accompanies the raucous laughter of the tavern patrons, who seem
+23:35:30.983 to be constantly on the verge of a wide-scale brawl.
+23:35:30.984 Exits: - North - East  - South - West                  [48603] 
+23:35:30.985 A gaping hole in the ground leads into darkness. 
+23:35:30.986 A scruffy mercenary stands guard here.
+23:35:30.986 A handsome smuggler sprawls across a chair here, laughing drunkenly.
+23:35:30.987 A Thayvian bounty hunter stands in the corner, fingering his dagger.
+23:35:30.989 A vicious mercenary sits here, chugging a bottle of ale. (x2)
+23:35:30.990 A drow assassin sits here, looking around suspiciously.
+23:35:30.991 A half-orc bartender stands behind the bar serving drinks.
+23:35:30.991 Krelg Blackshield stands here, practicing a swordstroke.
+
+23:35:30.992 < 635h/352H 166v/166V P: std >     
+23:35:32.125                
+
+23:35:32.212 A Dark Stairwell
+23:35:32.212    A flight of ancient stone stairs pass through this crumbling, shady
+23:35:32.213 room.  Blocks of stone missing from the walls occasionally allow thin
+23:35:32.214 shaft of daylight to lance through into this otherwise gloomy little
+23:35:32.214 stairwell.  The stone steps themselves are cracked and even missing in
+23:35:32.216 many places, and a few steps have been replaced with wooden boards.  A
+23:35:32.216 pool of dried blood lays in one corner of the stairwell, indicating some
+23:35:32.217 sort of gruesomeness has occurred here, which is not surprising,
+23:35:32.218 considering the clientele.  The stairs ascend to the second story, and
+23:35:32.219 cursing and raucous laughter can be heard coming from below.
+23:35:32.220 Exits: - North - East  - West  - Up    - Down                          [48603] 
+23:35:32.221 The flea board of Viperstongue Outpost hangs here, covered in blood. 
+23:35:32.222 A well distinguished auctioneer stands here ready to sell your items.
+
+23:35:32.223 < 633h/352H 165v/166V P: std >     
+
+23:35:32.373 [Searching... Exits matched room#: 7017 : A Dark Stairwell]
+23:35:36.379 Auction list
+
+23:35:36.379 item#)    item id                                item description            bid      bidinc        top bidder time 
+23:35:36.379 status seller
+23:35:36.382 ====== ========== =============================================== ============== =========== ================= ====
+23:35:36.382 ======= ======
+23:35:36.385     1)     111016               a set of adamantite chain sleeves            100          10             Gogol  N/A  
+23:35:36.385 BUYER Lilithelle
+23:35:36.388     2)     111025                  the medallion of the hive king             10           1         Teyolalil  N/A  
+23:35:36.388 BUYER Lilithelle
+23:35:36.391     3)     111031                             a ring of ironguard          2,100         100              Selo  N/A  
+23:35:36.391 BUYER Lilithelle
+23:35:36.393     4)     111033        a laminated harp strung with sirine hair            200          20             Resge  N/A  
+23:35:36.393 BUYER Lilithelle
+23:35:36.396     5)     111037    a boneshell balalaika strung with elven hair          1,100         100             Onack  N/A  
+23:35:36.396 BUYER Lilithelle
+23:35:36.399     6)     111040         a four-headed battleaxe of abyssal doom             10           1         You (100)  2 m   
+23:35:36.399 OPEN Lilithelle
+23:35:36.402     7)     111041             a circlet of negative planar energy            100          10         You (100)  2 m   
+23:35:36.402 OPEN Lilithelle
+23:35:36.405     8)     111042                a pair of alligator skin sleeves             10           1         You (100)  2 m   
+23:35:36.405 OPEN Lilithelle
+23:35:36.407     9)     111043                          a belt of human skulls            100           1         You (100)  2 m   
+23:35:36.407 OPEN Lilithelle
+23:35:36.410    10)     111044                            a black silken cloak             10           1         You (100)  2 m   
+23:35:36.410 OPEN Lilithelle
+23:35:36.413    11)     111045 the black hooded cloak of the Isha warrior caste          1,000         100       You (1,000)  2 m   
+23:35:36.413 OPEN Lilithelle
+23:35:36.417    12)     111046                              a red velvet pouch             10           1        No Bid Yet  2 m   
+23:35:36.417 OPEN Lilithelle
+23:35:36.419    13)     111047     a blessed scimitar etched with elvish runes             25           5         You (100)  2 m   
+23:35:36.419 OPEN Lilithelle
+23:35:36.422    14)     111048        a silver shield etched with elvish runes             25           5         You (100)  2 m   
+23:35:36.422 OPEN Lilithelle
+23:35:36.425    15)     111049           a supple pair of vampirehide leggings            100          10         You (100)  2 m   
+23:35:36.425 OPEN Lilithelle
+23:35:36.428    16)     111050                            a diamondine earring            100          10         You (100)  2 m   
+23:35:36.428 OPEN Lilithelle
+23:35:36.430    17)     111051                        a ring of ethereal armor            100          10         You (100)  2 m   
+23:35:36.430 OPEN Lilithelle
+23:35:36.433    18)     111052                         a razor-edged ear guard            100          10         You (100)  2 m   
+23:35:36.433 OPEN Lilithelle
+23:35:36.436    19)     111053                     a thick bracer of solid ice            100          10         You (100)  2 m   
+23:35:36.436 OPEN Lilithelle
+23:35:36.439    20)     111054            a belt of flame enshrouded amethysts            100          10         You (100)  2 m   
+23:35:36.439 OPEN Lilithelle
+
+23:35:36.470 < 626h/352H 166v/166V P: std >     
+23:35:38.881 You are carrying:
+23:35:38.882 Nothing.
+
+23:35:38.962 < 623h/352H 166v/166V P: std >     
+
+23:35:40.383           Score information for Yazassa
+
+23:35:40.384 Level: 50   Race: Yuan-Ti   Class: Cleric      
+23:35:40.388 Hit points: 620(352)   PSP's: 389(389)   Moves: 166(166)
+23:35:40.388 Experience Progress: 115 % 
+23:35:40.389 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+23:35:40.473 Coins in bank: 1915 platinum     3 gold     1 silver     6 copper
+23:35:40.475 Prestige: 5818   Acheron Kill Count: 0
+23:35:40.476 Name status: Pending
+23:35:40.476 Citizen of:   Hyssk
+23:35:40.476 Outcast from: Griffon's Nest
+23:35:40.476 Playing time: 2 days / 9 hours / 12 minutes
+23:35:40.477 Title: 
+23:35:40.477 Status:  Standing.
+23:35:40.477 Detecting:       Heat
+
+23:35:40.477 Active Spells:
+23:35:40.478 --------------
+23:35:40.478 barkskin
+
+23:35:40.478 < 620h/352H 166v/166V P: std >     
+
+23:35:59.272 You are hungry.
+23:35:59.272 You are thirsty.
+
+23:35:59.273 < 591h/352H 166v/166V P: std >     
+23:36:28.195 You are carrying:
+23:36:28.195 Nothing.
+
+23:36:28.280 < 560h/352H 166v/166V P: std >     
+
+23:36:31.449           Score information for Yazassa
+
+23:36:31.450 Level: 50   Race: Yuan-Ti   Class: Cleric      
+23:36:31.454 Hit points: 556(352)   PSP's: 389(389)   Moves: 166(166)
+23:36:31.455 Experience Progress: 115 % 
+23:36:31.455 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+23:36:31.538 Coins in bank: 1915 platinum     3 gold     1 silver     6 copper
+23:36:31.540 Prestige: 5818   Acheron Kill Count: 0
+23:36:31.540 Name status: Pending
+23:36:31.540 Citizen of:   Hyssk
+23:36:31.540 Outcast from: Griffon's Nest
+23:36:31.541 Playing time: 2 days / 9 hours / 13 minutes
+23:36:31.541 Title: 
+23:36:31.541 Status:  Standing.
+23:36:31.541 Detecting:       Heat
+
+23:36:31.542 Active Spells:
+23:36:31.542 --------------
+23:36:31.542 barkskin
+
+23:36:31.542 < 556h/352H 166v/166V P: std >     
+
+23:36:35.955           Score information for Yazassa
+
+23:36:35.956 Level: 50   Race: Yuan-Ti   Class: Cleric      
+23:36:35.960 Hit points: 551(352)   PSP's: 389(389)   Moves: 166(166)
+23:36:35.961 Experience Progress: 115 % 
+23:36:35.961 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+23:36:36.044 Coins in bank: 1915 platinum     3 gold     1 silver     6 copper
+23:36:36.045 Prestige: 5818   Acheron Kill Count: 0
+23:36:36.046 Name status: Pending
+23:36:36.046 Citizen of:   Hyssk
+23:36:36.046 Outcast from: Griffon's Nest
+23:36:36.047 Playing time: 2 days / 9 hours / 13 minutes
+23:36:36.047 Title: 
+23:36:36.047 Status:  Standing.
+23:36:36.047 Detecting:       Heat
+
+23:36:36.048 Active Spells:
+23:36:36.048 --------------
+23:36:36.048 barkskin
+
+23:36:36.048 < 551h/352H 166v/166V P: std >     
+23:36:40.211  Listing of the Staff
+23:36:40.212 -=-=-=-=-=-=-=-=-=-=-
+23:36:40.212 [ FORGER CODER  ] Shevarash -The Black Archer, Vengeful Hunter of Drow
+
+23:36:40.213 There are 1 visible staff member(s) on.
+
+23:36:40.214  Listing of the Mortals!
+23:36:40.214 -=-=-=-=-=-=-=-=-=-=-=-=-
+23:36:40.215 [50 Cle] Yazassa  (Yuan-Ti) (@Loki)
+23:36:40.219 [50 Hex] Jazar  (Barbarian) (@Jasix)
+23:36:40.223 [50 Pal] Gerupar  (Half-Orc) (@Azzy)
+23:36:40.227 [50 Dru] Lilithelle - Valkyrie - Shadows of Imphras (Moon Elf) (@Lilithelle)
+23:36:40.229 [50 Wiz] Tolfanywil  (Gnome) (AFK) (@Brynna)
+23:36:40.233 [50 Pal] Riloesa  (Moon Elf) (@Stlmyth)
+23:36:40.236 [50 War] Agrow  (Troll) (@Kanenan)
+23:36:40.237 [48 Ctr] Tabmur  (Orc) (@Anthonymo)
+23:36:40.241 [50 Sor] Teyolalil  (Gnome) (@Lykria)
+23:36:40.245 [50 Psi] Nyyrazzilyss - Head Jailer of the Valkurian Blades (Illithid) (AFK) (@Nyyrazzilyss)
+23:36:40.247 [50 Enc] Fokle Fuzzybottom (Halfling) (RP) (@Hibbidy)
+23:36:40.252 [50 Ran] Sylvana  (Half-Elf) (@Salvana)
+23:36:40.254 [50 War] Grxx Krush Skul Einherjar Riders of Faerun (Troll) (RP) (@Turxx)
+23:36:40.255 [50 Sor] Pilple  (Halfling) (@Hamwich)
+23:36:40.258 [50 Bar] Kegor  (Human) (@Kegor)
+23:36:40.259 [50 Psi] Ynndchiarhlizz - The Nexus (Illithid) (@Krimic)
+23:36:40.260 [ 1 Bar] Katumi  (Half-Elf) (@Helper)
+
+23:36:40.260 There are 17 mortal(s) on.
+
+23:36:40.261 Total players online: 18.
+23:36:40.261 Record number of players on this boot:  20.
+
+23:36:40.298 < 546h/352H 166v/166V P: std >     
+23:36:45.217                
+
+23:36:45.311 The Viperstongue Tavern
+23:36:45.312    The ground floor of this ruined building has been converted into a
+23:36:45.313 sprawling, seedy tavern.  In the center of the stone floor there rests a
+23:36:45.314 dilapidated circular wooden bar, around which is placed a variety of
+23:36:45.314 splintered old stools.  Scattered throughout the bare stone room are
+23:36:45.315 several wobbly wooden tables, all spaced far apart for maximum privacy. 
+23:36:45.316 A motley collection of thoroughly seedy patrons occupy the tavern, from
+23:36:45.317 pirates to bounty hunters and every other sort of assorted scum.  This
+23:36:45.318 outpost seems to serve as a base and meeting place for some of the most
+23:36:45.319 villainous criminals of the southern coast.  Several dim lanterns
+23:36:45.320 provide a dim, flickering illumination here, ideal for conducting shady
+23:36:45.321 business in private.   Dreary music coming from a makeshift stage to the
+23:36:45.322 north accompanies the raucous laughter of the tavern patrons, who seem
+23:36:45.324 to be constantly on the verge of a wide-scale brawl.
+23:36:45.324 Exits: - North - East  - South - West                  [7008] 
+23:36:45.325 A scruffy mercenary stands guard here.
+23:36:45.326 A handsome smuggler sprawls across a chair here, laughing drunkenly.
+23:36:45.327 A Thayvian bounty hunter stands in the corner, fingering his dagger.
+23:36:45.329 A vicious mercenary sits here, chugging a bottle of ale. (x2)
+23:36:45.329 A drow assassin sits here, looking around suspiciously.
+23:36:45.330 A half-orc bartender stands behind the bar serving drinks.
+23:36:45.330 Krelg Blackshield stands here, practicing a swordstroke.
+
+23:36:45.332 < 540h/352H 165v/166V P: std >     
+23:36:45.968                
+
+23:36:46.061 The Viperstongue Reception
+23:36:46.061    This room, actually little more than an oversized niche in the tavern's
+23:36:46.062 wall, houses a short scratched-up wooden counter, and a three-legged
+23:36:46.064 stool.  Numerous cobwebs occupy the thin space between the counter and
+23:36:46.065 the crumbling stone wall, infested with dozens of tiny black and red
+23:36:46.066 spiders.  Bloodstains and foul smelling chunks of vomit mar the stone
+23:36:46.067 floor's surface, and a small wooden torch bracketed to the wall casts a
+23:36:46.068 sickly green light across the counter.
+23:36:46.068 Exits: - North         [7018] 
+23:36:46.069 A large bulletin board is mounted here. 
+23:36:46.069 Kegor  (Human) stands here.
+23:36:46.069 A disgusting hag sits behind the counter here, picking a scab.
+
+23:36:46.070 < 539h/352H 164v/166V P: std >     
+23:36:47.664 The hag tells you 'It will cost you nothing to rent.'
+23:36:47.680 The hag stores your stuff in the safe, and shows you to your room.
+
+23:36:47.681 Characters:
+23:36:47.681 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:36:47.720   1) Rufa                      Level 16 Warrior (Troll)
+23:36:47.721   2) Sedesee                   Level 18 Necromancer (Drow Elf)
+23:36:47.722   3) Zaba                      Level  1 Shaman (Ogre)
+23:36:47.723   4) Pukadito                  Level  1 Cleric (Duergar)
+23:36:47.723   5) Fibba                     Level  1 Battlechanter (Orc)
+23:36:47.724   6) Zissato                   Level  1 Sorcerer (Yuan-Ti)
+23:36:47.725   7) Sesesa                    Level  1 Invoker (Drow Elf)
+23:36:47.725   8) Cillicissin               Level  1 Psionicist (Illithid)
+23:36:47.726   9) Sulonwuka                 Level  1 Hexblade (Duergar)
+23:36:47.727  10) Tusso                     Level  1 Elementalist (Yuan-Ti)
+23:36:47.728  11) Milore                    Level 19 Rogue (Human)
+23:36:47.728  12) Unamimo                   Level  1 Ranger (Moon Elf)
+23:36:47.729  13) Cameshu                   Level  1 Druid (Moon Elf)
+23:36:47.730  14) Lirayu                    Level  1 Enchanter (Moon Elf)
+23:36:47.730  15) Tahane                    Level  1 Wizard (Moon Elf)
+23:36:47.731  16) Bonya                     Level  1 Wizard (Human)
+23:36:47.732  17) Belele                    Level  1 Paladin (Halfling)
+23:36:47.732  18) Oneba                     Level  1 Blackguard (Drow Elf)
+23:36:47.733  19) Elbama                    Level  1 Bard (Moon Elf)
+23:36:47.734  20) Noleamca                  Level  1 Paladin (Moon Elf)
+23:36:47.734  21) Tiku                      Level  1 Battlechanter (Orc)
+23:36:47.735  22) Hivo                      Level  5 Blackguard (Half-Orc)
+23:36:47.736  23) Dapo                      Level 16 Hexblade (Orc)
+23:36:47.736  24) Bitule                    Level  1 Ranger (Halfling)
+23:36:47.737  25) Moge                      Level  1 Shaman (Orc)
+23:36:47.738  26) Ssamo                     Level  7 Cleric (Yuan-Ti)
+23:36:47.738  27) Inapa                     Level  1 Ranger (Half-Orc)
+23:36:47.739  28) Cudu                      Level  1 Shaman (Troll)
+23:36:47.740  29) Hufu                      Level 19 Warrior (Troll)
+23:36:47.740  30) Elsesa                    Level  1 Warrior (Drow Elf)
+23:36:47.741  31) Zanga                     Level 19 Warrior (Ogre)
+23:36:47.741  32) Sibbi                     Level 19 Hexblade (Orc)
+23:36:47.742  33) Rupi                      Level  1 Paladin (Shield Dwarf)
+23:36:47.743  34) Asli                      Level 19 Rogue (Human)
+23:36:47.743  35) Ageka                     Level  8 Rogue (Half-Orc)
+23:36:47.744  36) Juja                      Level 15 Warrior (Orc)
+23:36:47.744  37) Puwa                      Level  7 Shaman (Troll)
+23:36:47.745  38) Kazgabope                 Level 50 Blackguard (Duergar)
+23:36:47.745  39) Renelay                   Level  1 Bard (Half-Elf)
+23:36:47.746  40) Yuneme                    Level  1 Bard (Human)
+23:36:47.747  41) Atase                     Level  1 Bard (Human)
+23:36:47.747  42) Nefe                      Level 18 Rogue (Human)
+23:36:47.748  43) Rassa                     Level  1 Sorcerer (Human)
+23:36:47.748  44) Medo                      Level  5 Elementalist (Human)
+23:36:47.749  45) Tafla                     Level 19 Bard (Half-Orc)
+23:36:47.750  46) Biha                      Level 50 Rogue (Human)
+23:36:47.750  47) Suhu                      Level 50 Warrior (Troll)
+23:36:47.751  48) Newotee                   Level 32 Hexblade (Drow Elf)
+23:36:47.752  49) Tararotuta                Level  1 Wizard (Duergar)
+23:36:47.752  50) Bobaroru                  Level  9 Elementalist (Duergar)
+23:36:47.754  51) Yazassa                   Level 50 Cleric (Yuan-Ti)
+23:36:47.754  52) Meliya                    Level  1 Paladin (Moon Elf)
+23:36:47.755  53) Giwa                      Level 39 Battlechanter (Orc)
+23:36:47.756  54) Mivo                      Level 46 Shaman (Orc)
+23:36:47.756  55) Farda                     Level  8 Bard (Shield Dwarf)
+23:36:47.757  56) Elbana                    Level  1 Paladin (Half-Orc)
+23:36:47.758  57) Pagmixa                   Level  1 Sorcerer (Drow Elf)
+23:36:47.759  58) Nusu                      Level 50 Warrior (Ogre)
+23:36:47.759  59) Eqasebee                  Level  1 Enchanter (Drow Elf)
+23:36:47.760  60) Firumokag                 Level 15 Warrior (Duergar)
+23:36:47.761  61) Bopinbolil                Level 38 Enchanter (Gnome)
+23:36:47.761  62) Wonpopolidle              Level 17 Paladin (Gnome)
+23:36:47.762 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:36:47.762 Type the # or name of a character above to login or choose an action below.
+23:36:47.763 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:36:47.763 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+23:36:47.764 (E)nter description    | (D)elete character | (C)hange password
+23:36:47.765 (M)odify email address | (Q)uit
+23:36:47.765 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:36:47.766 Account email: zenevan420@gmail.com
+23:36:47.766 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+23:36:48.081 Your choice: 
+23:36:49.221 "disconnectevent"
+23:36:49.221 [DisconnectEvent was just called]
+23:36:49.222 [Sending reconnect in 30 seconds]    
+23:36:49.222 [ ALERT ] - Socket got disconnected.
+23:36:49.222             Reason: The remote host closed the connection
+23:36:49.222 [ INFO ]  - Connection time: 00:01:56.549
+23:36:49.222                 
+------------ 
+23:36:56.513 [Saved CharData table]
+------------ 
+23:36:57.076 [Saved map: C:/Users/zenev/.config/mudlet/profiles/Torilmud/toril.map]
+------------ 

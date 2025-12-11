@@ -1,0 +1,272 @@
+Log session starting at 14:51:44 on Tuesday, 9 December 2025.
+
+14:51:44.506 < 344h/344H 160v/160V P: std >     
+14:51:44.506 [Spellqueue cleared.]
+14:51:44.705 You will no longer see the mini-map when moving.
+
+14:51:44.748 < 344h/344H 160v/160V P: std >     
+14:51:44.954 You will now see the classic prompt.
+
+14:51:45.205 < 344h/344H 160v/160V P: std > 
+14:51:45.206  Prompt Command Usage:
+14:51:45.206   prompt                             - Display this help
+14:51:45.207   prompt layout                      - List available layouts
+14:51:45.208   prompt layout <layout>             - Set your layout
+14:51:45.208   prompt fields                      - List available fields
+14:51:45.209   prompt add <field>                 - Add a field to your current layout
+14:51:45.210   prompt remove <field>              - Remove a field from your current layout
+14:51:45.212   prompt options                     - Show a list of prompt option flags
+14:51:45.212   prompt options <flag>              - Toggle a prompt option
+14:51:45.213   prompt power <power> <slot>        - Add a power to a prompt slot
+14:51:45.214   prompt power auto                  - Set the default suggested power prompts
+14:51:45.215   prompt power clear <power, all>    - Clear a power from the prompt
+14:51:45.216   prompt color                       - List available prompt power colors
+14:51:45.217   prompt color <power, slot> <color> - Set the ready power color for a specific power or slot
+14:51:45.218   prompt color <type> <color>        - Set color for: <ready, cooldown, special, default, combo>
+14:51:45.220   prompt color <type> <clear>        - Clear color for <ready, cooldown, special, default, combo> 
+14:51:45.222   prompt color reset                 - Reset all prompt colors to default
+14:51:45.223   prompt help                        - Display this help
+
+14:51:45.283 To use the prompt command, first toggle on NEWPROMPT.
+
+14:51:45.455 < 344h/344H 160v/160V P: std > 
+14:51:45.533 Smartprompt toggled on.
+
+14:51:45.707 < 344h/344H 160v/160V P: std > 
+14:51:45.794 There are no sub-classes currently available to your class.
+
+14:51:45.957 < 344h/344H 160v/160V P: std > 
+
+14:51:46.049           Character attributes for Irsen
+
+14:51:46.049 Level: 50   Race: Human   Class: Druid       
+14:51:46.089 Size: Medium
+14:51:46.089 STR:  90  AGI:  90  DEX:  70  CON:  90
+14:51:46.090 POW:  70  INT:  90  WIS: 100  CHA:  72
+14:51:46.090 Armor Class: 100  (100 to -100)  Agility Bonus: -10
+14:51:46.090 Magic Resistance: 0 percent
+14:51:46.091 Hitroll: 3   Damroll: 4
+14:51:46.091 Alignment: True Neutral
+14:51:46.091 Saving Throws: PAR[0]  ROD[0]  PET[0]  BRE[0]  SPE[0]
+14:51:46.092    Wimpy: not set
+14:51:46.092 Load carried: What load?
+14:51:46.092 Damage Resistance:
+14:51:46.092 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+14:51:46.093 Spells:    0% Fire  :    0% Cold  :    0% Elect :    0% Acid  :    0% 
+14:51:46.094 Sonic :    0% Poison:    0% Pos   :    0% Neg   :    0% Psi   :    0% 
+14:51:46.095 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+14:51:46.095 Force :    0% 
+
+14:51:46.207 < 344h/344H 160v/160V P: std > 
+
+14:51:46.292           Score information for Irsen
+
+14:51:46.292 Level: 50   Race: Human   Class: Druid       
+14:51:46.294 Hit points: 344(344)  Moves: 160(160)
+14:51:46.294 Experience Progress: 0 % 
+14:51:46.294 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+14:51:46.295 Coins in bank:  391 platinum  1580 gold     6 silver     3 copper
+14:51:46.296 Prestige: 5420   Acheron Kill Count: 0
+14:51:46.296 Name status: Approved
+14:51:46.297 Citizen of:   Waterdeep
+14:51:46.297 Outcast from: Leuthilspar
+14:51:46.297 Playing time: 17 days / 17 hours / 55 minutes
+14:51:46.297 Title: 
+14:51:46.298 Status:  Standing.
+14:51:46.298 Enchantments:    Waterbreath
+
+14:51:46.298 Active Powers:
+14:51:46.298 --------------
+14:51:46.298 Water Breathing
+
+14:51:46.456 < 344h/344H 160v/160V P: std > 
+14:51:46.544 You aren't wearing anything!
+
+14:51:46.713 < 344h/344H 160v/160V P: std > 
+
+14:51:46.959 < 344h/344H 160v/160V P: std > 
+
+14:51:47.211 < 344h/344H 160v/160V P: std > 
+14:51:47.288 You are 40,624,942 XP (99.82%) away from your next level.
+
+14:51:47.457 < 344h/344H 160v/160V P: std > 
+14:51:47.535 You haven't consented to anyone.
+
+14:51:47.536 Irsen is consenting you.
+
+14:51:47.708 < 344h/344H 160v/160V P: std > 
+14:51:47.801 You will now see the mini-map when moving.
+
+14:51:47.958 < 344h/344H 160v/160V P: std > 
+14:51:48.050 You will now see the new prompt.
+
+14:51:48.050 < 344h/344H 160v/160V P: std >     
+14:51:48.208 Smartprompt toggled off.
+
+14:51:48.298 < 344h/344H 160v/160V P: std >     
+14:51:48.458 The Crow's Nest of the Spirit Raven
+14:51:48.298 < 344h/344H 160v/160V P: std >     
+14:51:48.509 [Setting statname to unset]
+14:51:48.516 [All train triggers disabled]
+14:51:48.546 < 344h/344H 160v/160V P: std >     
+14:51:48.709 Prompt option newline disabled.
+
+14:51:48.962 < 344h/344H 160v/160V P: std >You are carrying:
+14:51:48.963 a goodberry 
+
+
+14:51:49.060 [Searching... Match found: The Spirit Raven : The Crow's Nest of the Spirit Raven : 85877]
+14:51:49.212 < 344h/344H 160v/160V P: std >Prompt option newline enabled.
+
+14:51:49.292 < 344h/344H 160v/160V P: std >     
+14:51:54.470 You start setting up camp...
+
+14:51:54.471 You will be logged out in 15 seconds.
+
+14:51:54.561 < 344h/344H 160v/160V P: std >     
+
+14:52:04.822 You will be logged out in 5 seconds.
+
+14:52:04.823 < 344h/344H 160v/160V P: std >     
+
+14:52:09.577 You are hungry.
+14:52:09.577 You are thirsty.
+
+14:52:09.578 < 344h/344H 160v/160V P: std >     
+14:52:09.739 You complete setting up your camp and settle in.
+
+14:52:09.740 Characters:
+14:52:09.740 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+14:52:09.786   1) Afu                       Level 50 Warrior (Troll)
+14:52:09.787   2) Deabnue                   Level 50 Invoker (Human)
+14:52:09.787   3) Gizep                     Level 50 Enchanter (Drow Elf)
+14:52:09.788   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+14:52:09.789   5) Newple                    Level 50 Rogue (Halfling)
+14:52:09.789   6) Mattah                    Level 50 Necromancer (Human)
+14:52:09.790   7) Rafi                      Level 50 Blackguard (Human)
+14:52:09.791   8) Digun                     Level 50 Warrior (Shield Dwarf)
+14:52:09.792   9) Risor                     Level 50 Rogue (Human)
+14:52:09.792  10) Islala                    Level 50 Bard (Moon Elf)
+14:52:09.792  11) Minolai                   Level 50 Ranger (Moon Elf)
+14:52:09.793  12) Poppibble                 Level 50 Ranger (Halfling)
+14:52:09.794  13) Simasel                   Level 50 Cleric (Moon Elf)
+14:52:09.794  14) Giru                      Level 50 Hexblade (Orc)
+14:52:09.795  15) Xaniver                   Level 50 Ranger (Half-Orc)
+14:52:09.796  16) Waf                       Level 49 Shaman (Barbarian)
+14:52:09.796  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+14:52:09.797  18) Gomble                    Level 50 Paladin (Halfling)
+14:52:09.798  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+14:52:09.798  20) Siho                      Level 50 Paladin (Half-Orc)
+14:52:09.799  21) Nidipizil                 Level 50 Paladin (Gnome)
+14:52:09.800  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+14:52:09.800  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+14:52:09.802  24) Naleni                    Level 50 Warrior (Moon Elf)
+14:52:09.802  25) Gukonata                  Level 50 Blackguard (Duergar)
+14:52:09.803  26) Uspi                      Level 50 Blackguard (Half-Orc)
+14:52:09.804  27) Tonga                     Level 50 Warrior (Ogre)
+14:52:09.804  28) Popebople                 Level 48 Enchanter (Gnome)
+14:52:09.805  29) Bago                      Level 50 Shaman (Ogre)
+14:52:09.806  30) Loyol                     Level 50 Bard (Halfling)
+14:52:09.806  31) Irsen                     Level 50 Druid (Human)
+14:52:09.807  32) Fanal                     Level 50 Rogue (Orc)
+14:52:09.808  33) Poromople                 Level 50 Invoker (Gnome)
+14:52:09.808  34) Coruduwat                 Level 43 Elementalist (Duergar)
+14:52:09.809  35) Luso                      Level 41 Paladin (Human)
+14:52:09.810  36) Ssassur                   Level 44 Wizard (Yuan-Ti)
+14:52:09.810  37) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+14:52:09.811  38) Gorkl                     Level 29 Warrior (Ogre)
+14:52:09.812  39) Gapa                      Level 28 Battlechanter (Orc)
+14:52:09.812  40) Tazfap                    Level  1 Warrior (Drow Elf)
+14:52:09.813  41) Igunnokio                 Level 16 Ranger (Moon Elf)
+14:52:09.813  42) Tihep                     Level  6 Rogue (Drow Elf)
+14:52:09.814  43) Dobokin                   Level  1 Paladin (Half-Orc)
+14:52:09.815  44) Tamad                     Level  7 Paladin (Human)
+14:52:09.815  45) Pilferos                  Level  6 Rogue (Human)
+14:52:09.816  46) Tubor                     Level  1 Warrior (Ogre)
+14:52:09.816  47) Zorrax                    Level 13 Warrior (Troll)
+14:52:09.817  48) Muwede                    Level  1 Illusionist (Drow Elf)
+14:52:09.818  49) Woso                      Level 16 Druid (Half-Orc)
+14:52:09.819  50) Anisa                     Level 15 Blackguard (Half-Orc)
+14:52:09.819  51) Vodbadadva                Level 18 Rogue (Duergar)
+14:52:09.820  52) Lahla                     Level  1 Bard (Half-Orc)
+14:52:09.820  53) Lewo                      Level  8 Bard (Half-Orc)
+14:52:09.822  54) Dedad                     Level 11 Warrior (Drow Elf)
+14:52:09.822  55) Pige                      Level  1 Blackguard (Human)
+14:52:09.823  56) Bowo                      Level  1 Ranger (Half-Orc)
+14:52:09.824  57) Susu                      Level  7 Warrior (Ogre)
+14:52:09.824  58) Ohu                       Level 18 Warrior (Troll)
+14:52:09.825  59) Docuh                     Level  8 Warrior (Ogre)
+14:52:09.826  60) Simeramma                 Level 13 Ranger (Moon Elf)
+14:52:09.826  61) Efera                     Level  5 Necromancer (Drow Elf)
+14:52:09.827  62) Sehe                      Level 50 Rogue (Human)
+14:52:09.828  63) Haxu                      Level 12 Shaman (Troll)
+14:52:09.828  64) Lolele                    Level 20 Warrior (Halfling)
+14:52:09.829  65) Ssississa                 Level 17 Invoker (Yuan-Ti)
+14:52:09.830  66) Rifu                      Level 18 Hexblade (Half-Orc)
+14:52:09.830  67) Ginxa                     Level 14 Rogue (Half-Orc)
+14:52:09.831  68) Dogga                     Level 12 Warrior (Ogre)
+14:52:09.832  69) Ibo                       Level 12 Warrior (Barbarian)
+14:52:09.832  70) Cometa                    Level 11 Hexblade (Half-Orc)
+14:52:09.833  71) Amamal                    Level 18 Paladin (Moon Elf)
+14:52:09.833  72) Samile                    Level 14 Invoker (Drow Elf)
+14:52:09.834  73) Xulu                      Level 17 Shaman (Troll)
+14:52:09.835  74) Enyema                    Level 10 Invoker (Drow Elf)
+14:52:09.835  75) Nino                      Level  8 Shaman (Half-Orc)
+14:52:09.836  76) Upraeleolno               Level  1 Ranger (Moon Elf)
+14:52:09.837  77) Atesa                     Level 17 Necromancer (Drow Elf)
+14:52:09.838  78) Zic                       Level 12 Warrior (Barbarian)
+14:52:09.838  79) Eyata                     Level 12 Warrior (Drow Elf)
+14:52:09.839  80) Wowidomble                Level  3 Illusionist (Gnome)
+14:52:09.840  81) Hatra                     Level 10 Shaman (Half-Orc)
+14:52:09.840  82) Gobra                     Level 35 Shaman (Half-Orc)
+14:52:09.842  83) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+14:52:09.842  84) Legil                     Level  1 Invoker (Halfling)
+14:52:09.843  85) Onre                      Level  5 Rogue (Human)
+14:52:09.844  86) Krainor                   Level 17 Paladin (Human)
+14:52:09.844  87) Pipippaple                Level 50 Ranger (Gnome)
+14:52:09.845  88) Sijita                    Level 12 Necromancer (Drow Elf)
+14:52:09.846  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+14:52:09.847  90) Sewothe                   Level 20 Rogue (Drow Elf)
+14:52:09.847  91) Ixap                      Level 41 Hexblade (Half-Orc)
+14:52:09.848 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+14:52:09.848 Type the # or name of a character above to login or choose an action below.
+14:52:09.849 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+14:52:09.850 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+14:52:09.851 (E)nter description    | (D)elete character | (C)hange password
+14:52:09.851 (M)odify email address | (Q)uit
+14:52:09.851 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+14:52:10.159 Your choice: 
+14:52:59.816 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+14:52:59.817                            Wizards
+14:52:59.817 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+14:52:59.818 The new Wizard class has arrived, with Illusionist as the first subclass. For
+14:52:59.819 more details on this update, please see the news link below.
+
+14:52:59.819 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+14:52:59.821 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+14:52:59.821 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+14:52:59.821 - http://www.torilmud.com/news/arcane-companions/
+
+14:52:59.822 Resources
+
+14:52:59.822 Discord    : https://discord.gg/t7edjzM
+14:52:59.822 Web Client : http://www.torilmud.com/login
+14:52:59.822 News       : http://news.torilmud.com/
+14:52:59.823 Issues     : https://github.com/torilmud/issues
+
+14:52:59.904 You break camp and get ready to move on...
+
+14:52:59.905         Welcome to TorilMUD
+
+14:52:59.905                
+
+14:52:59.909 The Crow's Nest of the Spirit Raven
+14:52:59.909 Exits: -D              [85877] 
+14:52:59.911 A seven dragons tabbard lies here. 
+14:52:59.911 Tabmur  (Orc) stands here.
+14:52:59.912 Riloesa  (Moon Elf) stands here.
+14:52:59.912 A lookout is posted here, scanning the seas.
+
+Log session ending at 14:52:59 on Tuesday, 9 December 2025.

@@ -1,0 +1,641 @@
+Log session starting at 00:12:59 on Friday, 5 December 2025.
+
+00:12:59.722 < 475h/352H 166v/166V P: std >     
+00:12:59.722 [Spellqueue cleared.]
+00:12:59.886 You will no longer see the mini-map when moving.
+
+00:12:59.934 < 475h/352H 166v/166V P: std >     
+00:13:00.136 You will now see the classic prompt.
+
+00:13:00.177 < 475h/352H 166v/166V |tsw +|sbite +| >
+00:13:00.387 < P: std > 
+00:13:00.387  Prompt Command Usage:
+00:13:00.388   prompt                             - Display this help
+00:13:00.388   prompt layout                      - List available layouts
+00:13:00.389   prompt layout <layout>             - Set your layout
+00:13:00.390   prompt fields                      - List available fields
+00:13:00.391   prompt add <field>                 - Add a field to your current layout
+00:13:00.392   prompt remove <field>              - Remove a field from your current layout
+00:13:00.393   prompt options                     - Show a list of prompt option flags
+00:13:00.394   prompt options <flag>              - Toggle a prompt option
+00:13:00.395   prompt power <power> <slot>        - Add a power to a prompt slot
+00:13:00.396   prompt power auto                  - Set the default suggested power prompts
+00:13:00.398   prompt power clear <power, all>    - Clear a power from the prompt
+00:13:00.398   prompt color                       - List available prompt power colors
+00:13:00.399   prompt color <power, slot> <color> - Set the ready power color for a specific power or slot
+00:13:00.401   prompt color <type> <color>        - Set color for: <ready, cooldown, special, default, combo>
+00:13:00.403   prompt color <type> <clear>        - Clear color for <ready, cooldown, special, default, combo> 
+00:13:00.404   prompt color reset                 - Reset all prompt colors to default
+00:13:00.405   prompt help                        - Display this help
+
+00:13:00.472 To use the prompt command, first toggle on NEWPROMPT.
+
+00:13:00.473 < 475h/352H 166v/166V |tsw +|sbite +| >
+00:13:00.635 < P: std > 
+00:13:00.720 Smartprompt toggled on.
+
+00:13:00.721 < 475h/352H 166v/166V |tsw +|sbite +| >
+00:13:00.889 < P: std > 
+00:13:00.967 There are no sub-classes currently available to your class.
+
+00:13:00.969 < 474h/352H 166v/166V |tsw +|sbite +| >
+00:13:01.140 < P: std > 
+
+00:13:01.233           Character attributes for Yazassa
+
+00:13:01.233 Level: 50   Race: Yuan-Ti   Class: Cleric      
+00:13:01.270 Size: Medium
+00:13:01.270 STR:  95  AGI: 100  DEX:  85  CON:  78
+00:13:01.271 POW:  70  INT:  71  WIS: 100  CHA:  70
+00:13:01.271 Armor Class: 80  (100 to -100)  Agility Bonus: -25
+00:13:01.271 Magic Resistance: 0 percent
+00:13:01.272 Hitroll: 5   Damroll: 4
+00:13:01.272 Alignment: Chaotic Evil
+00:13:01.272 Saving Throws: PAR[0]  ROD[0]  PET[0]  BRE[0]  SPE[0]
+00:13:01.273    Wimpy: not set
+00:13:01.273 Load carried: What load?
+00:13:01.273 Damage Resistance:
+00:13:01.273 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+00:13:01.274 Spells:    0% Fire  :    0% Cold  :    0% Elect :    0% Acid  :    0% 
+00:13:01.275 Sonic :    0% Poison:    0% Pos   :    0% Neg   :    0% Psi   :    0% 
+00:13:01.276 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+00:13:01.277 Force :    0% 
+
+00:13:01.277 < 474h/352H 166v/166V |tsw +|sbite +| >
+00:13:01.397 < P: std > 
+
+00:13:01.484           Score information for Yazassa
+
+00:13:01.485 Level: 50   Race: Yuan-Ti   Class: Cleric      
+00:13:01.489 Hit points: 474(352)   PSP's: 389(389)   Moves: 166(166)
+00:13:01.490 Experience Progress: 102 % 
+00:13:01.490 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+00:13:01.491 Coins in bank: 1926 platinum     0 gold     8 silver     0 copper
+00:13:01.492 Prestige: 5805   Acheron Kill Count: 0
+00:13:01.492 Name status: Pending
+00:13:01.492 Citizen of:   Hyssk
+00:13:01.492 Outcast from: Griffon's Nest
+00:13:01.493 Playing time: 2 days / 5 hours / 41 minutes
+00:13:01.493 Title: 
+00:13:01.493 Status:  Standing.
+00:13:01.493 Detecting:       Heat
+
+00:13:01.494 Active Powers:
+00:13:01.494 --------------
+00:13:01.494 Armor
+
+00:13:01.494 < 474h/352H 166v/166V |tsw +|sbite +| >
+00:13:01.639 < P: std > 
+00:13:01.729 You aren't wearing anything!
+
+00:13:01.780 < 474h/352H 166v/166V |tsw +|sbite +| >
+00:13:01.890 < P: std > 
+00:13:01.984 < 474h/352H 166v/166V |tsw +|sbite +| >
+00:13:02.140 < P: std > 
+00:13:02.225 < 474h/352H 166v/166V |tsw +|sbite +| >
+00:13:02.390 < P: std > 
+00:13:02.471 You are 0 XP (0.00%) away from your next level.
+
+00:13:02.472 < 474h/352H 166v/166V |tsw +|sbite +| >
+00:13:02.639 < P: std > 
+00:13:02.716 You haven't consented to anyone.
+
+00:13:02.716 Yazassa is consenting you.
+
+00:13:02.717 < 473h/352H 166v/166V |tsw +|sbite +| >
+00:13:02.890 < P: std > 
+00:13:02.976 You will now see the mini-map when moving.
+
+00:13:02.977 < 473h/352H 166v/166V |tsw +|sbite +| >
+00:13:03.141 < P: std > 
+00:13:03.223 You will now see the new prompt.
+
+00:13:03.224 < 473h/352H 166v/166V P: std >     
+00:13:03.392 Smartprompt toggled off.
+
+00:13:03.471 < 473h/352H 166v/166V P: std >     
+00:13:03.643 The Upstairs of the Wayward House Inn
+00:13:03.471 < 473h/352H 166v/166V P: std >     
+00:13:03.724 [Setting statname to unset]
+00:13:03.732 [All train triggers disabled]
+00:13:03.745 < 473h/352H 166v/166V P: std >     
+00:13:03.890 Prompt option newline disabled.
+
+00:13:04.165 < 473h/352H 166v/166V P: std >
+00:13:04.166 You gain access to Suhu's storage cache.  
+00:13:04.166 In order to use your own cache again, you must first close this cache by entering: 'storage access close'.
+
+
+00:13:04.253 [Searching... Match found: Silverymoon, Gem of the North : The Upstairs of the Wayward House Inn : 48604]
+00:13:04.393 < 473h/352H 166v/166V P: std >Prompt option newline enabled.
+00:13:04.479 < 472h/352H 166v/166V P: std >     
+00:13:07.401 You are hungry.
+00:13:07.401 You are thirsty.
+00:13:07.402 You retrieve a stout dragonhide pack from Suhu's storage cache.
+00:13:07.403 Autosaving...
+
+00:13:07.450 < 471h/352H 166v/166V P: std >     
+00:13:07.647 It is 6am, on the Day of the Bull
+00:13:07.647 The 22nd Day of the Month of Mithrian (the Wanting), Year 1300.
+00:13:07.648 Time elapsed since boot-up: 1:41:27
+00:13:07.649 Current time is: Fri Dec  5 00:35:42 2025
+
+00:13:07.739 < 471h/352H 166v/166V P: std >     
+00:13:08.399                
+
+00:13:08.487 Wayward House Inn
+00:13:08.487    This elegant wood building has been constructed on the stone
+00:13:08.488 foundation of the Inn of Wayward Sages.  Charring can still be seen on
+00:13:08.489 the stone from when the original building burned down.  Originally an
+00:13:08.490 inn with less then reputable clientele the inn has become more classy
+00:13:08.491 with a well stocked wine cellar.  A number of tables and chairs lie
+00:13:08.492 about the room casually and a long oak counter fills one end of the
+00:13:08.493 room.
+00:13:08.493 Exits: - North - Up     [48603] 
+00:13:08.494 Ixehixxih  (Illithid) stands here.
+00:13:08.494 Pilple  (Halfling) stands in mid-air here.
+00:13:08.494 Teyolalil  (Gnome) stands here.
+00:13:08.494 Ynndchiarhlizz - The Nexus (Illithid) sits resting.
+00:13:08.496 Havorr Merendil stands behind the counter ready to serve.
+00:13:08.497 A showy merchant sits here looking smug. (x3)
+00:13:08.498 A dapper noble is here socializing. (x3)
+
+00:13:08.499 < 470h/352H 165v/166V P: std >     
+00:13:10.148 You spent 27 platinum, and 3 gold coins to repair all of your items.
+
+00:13:10.241 < 469h/352H 166v/166V P: std >     
+
+00:13:11.745 Havorr polishes the bar while waiting for the next order.
+
+00:13:11.746 < 468h/352H 166v/166V P: std >     
+00:13:16.656                
+
+00:13:16.741 The Upstairs of the Wayward House Inn
+00:13:16.742    Like most of the building the upstairs is made of maple, a rich wood
+00:13:16.743 that gives the inn a warm feel.  The boards have been well carved and
+00:13:16.744 fit closely together, only admitting light through the shuttered
+00:13:16.745 windows.  This floor consists of several rooms available for rent.
+00:13:16.746 Each room has its own lock on the door to ensure privacy.
+00:13:16.746 Exits: - Down          [48604] 
+00:13:16.747 Sylvana  (Half-Elf) stands here.
+00:13:16.747 Jhalessa Shorncrown stands here tidying up.
+
+00:13:16.748 < 465h/352H 165v/166V P: std >     
+00:13:17.907 You aren't wearing anything!
+
+00:13:18.001 < 464h/352H 165v/166V P: std >     
+
+00:13:19.410           Score information for Yazassa
+
+00:13:19.410 Level: 50   Race: Yuan-Ti   Class: Cleric      
+00:13:19.415 Hit points: 463(352)   PSP's: 389(389)   Moves: 166(166)
+00:13:19.416 Experience Progress: 102 % 
+00:13:19.416 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+00:13:19.492 Coins in bank: 1898 platinum     7 gold     8 silver     0 copper
+00:13:19.493 Prestige: 5805   Acheron Kill Count: 0
+00:13:19.493 Name status: Pending
+00:13:19.494 Citizen of:   Hyssk
+00:13:19.494 Outcast from: Griffon's Nest
+00:13:19.494 Playing time: 2 days / 5 hours / 41 minutes
+00:13:19.495 Title: 
+00:13:19.495 Status:  Standing.
+00:13:19.495 Detecting:       Heat
+
+00:13:19.495 Active Powers:
+00:13:19.495 --------------
+00:13:19.495 Armor
+
+00:13:19.496 < 463h/352H 166v/166V P: std >     
+
+00:13:25.942 You gain access to Suhu's storage cache.  
+00:13:25.943 In order to use your own cache again, you must first close this cache by entering: 'storage access close'.
+
+00:13:26.027 < 459h/352H 166v/166V P: std >     
+00:13:28.928 You store a stout dragonhide pack in Suhu's storage cache.
+00:13:28.929 Autosaving...
+
+00:13:28.968 < 457h/352H 166v/166V P: std >     
+00:13:29.174 It is 6am, on the Day of the Bull
+00:13:29.175 The 22nd Day of the Month of Mithrian (the Wanting), Year 1300.
+00:13:29.176 Time elapsed since boot-up: 1:41:48
+00:13:29.176 Current time is: Fri Dec  5 00:36:03 2025
+
+00:13:29.266 < 457h/352H 166v/166V P: std >     
+00:13:30.177                
+
+00:13:30.261 Wayward House Inn
+00:13:30.261    This elegant wood building has been constructed on the stone
+00:13:30.262 foundation of the Inn of Wayward Sages.  Charring can still be seen on
+00:13:30.263 the stone from when the original building burned down.  Originally an
+00:13:30.264 inn with less then reputable clientele the inn has become more classy
+00:13:30.265 with a well stocked wine cellar.  A number of tables and chairs lie
+00:13:30.265 about the room casually and a long oak counter fills one end of the
+00:13:30.266 room.
+00:13:30.266 Exits: - North - Up     [48603] 
+00:13:30.267 Ixehixxih  (Illithid) stands here.
+00:13:30.267 Pilple  (Halfling) stands in mid-air here.
+00:13:30.268 Teyolalil  (Gnome) stands here.
+00:13:30.268 Ynndchiarhlizz - The Nexus (Illithid) sits resting.
+00:13:30.269 Havorr Merendil stands behind the counter ready to serve.
+00:13:30.270 A showy merchant sits here looking smug. (x3)
+00:13:30.272 A dapper noble is here socializing. (x3)
+
+00:13:30.272 < 456h/352H 165v/166V P: std >     
+
+00:13:31.006 Havorr polishes the bar while waiting for the next order.
+
+00:13:31.007 < 456h/352H 165v/166V P: std >     
+00:13:34.093 You tell Ynndchiarhlizz 'hole vt'
+
+00:13:34.183 < 454h/352H 166v/166V P: std >     
+
+00:13:34.277 The area darkens and the air shimmers slightly as a wormhole opens before Ynndchiarhlizz.
+
+00:13:34.279 < 454h/352H 166v/166V P: std >     
+00:13:35.684 You enter something and reappear elsewhere...
+00:13:35.684                
+
+00:13:35.773 The Viperstongue Tavern
+00:13:35.773    The ground floor of this ruined building has been converted into a
+00:13:35.774 sprawling, seedy tavern.  In the center of the stone floor there rests a
+00:13:35.776 dilapidated circular wooden bar, around which is placed a variety of
+00:13:35.777 splintered old stools.  Scattered throughout the bare stone room are
+00:13:35.778 several wobbly wooden tables, all spaced far apart for maximum privacy. 
+00:13:35.779 A motley collection of thoroughly seedy patrons occupy the tavern, from
+00:13:35.780 pirates to bounty hunters and every other sort of assorted scum.  This
+00:13:35.781 outpost seems to serve as a base and meeting place for some of the most
+00:13:35.782 villainous criminals of the southern coast.  Several dim lanterns
+00:13:35.783 provide a dim, flickering illumination here, ideal for conducting shady
+00:13:35.784 business in private.   Dreary music coming from a makeshift stage to the
+00:13:35.785 north accompanies the raucous laughter of the tavern patrons, who seem
+00:13:35.786 to be constantly on the verge of a wide-scale brawl.
+00:13:35.786 Exits: - North - East  - South - West                  [48603] 
+00:13:35.787 A gaping hole in the ground leads into darkness. 
+00:13:35.787 A handsome smuggler sprawls across a chair here, laughing drunkenly.
+00:13:35.788 A Thayvian bounty hunter stands in the corner, fingering his dagger.
+00:13:35.790 A vicious mercenary sits here, chugging a bottle of ale. (x2)
+00:13:35.791 A drow assassin sits here, looking around suspiciously.
+00:13:35.792 A half-orc bartender stands behind the bar serving drinks.
+00:13:35.792 Krelg Blackshield stands here, practicing a swordstroke.
+
+00:13:35.793 < 454h/352H 166v/166V P: std >     
+00:13:36.499                
+
+00:13:36.595 A Dark Stairwell
+00:13:36.595    A flight of ancient stone stairs pass through this crumbling, shady
+00:13:36.596 room.  Blocks of stone missing from the walls occasionally allow thin
+00:13:36.596 shaft of daylight to lance through into this otherwise gloomy little
+00:13:36.597 stairwell.  The stone steps themselves are cracked and even missing in
+00:13:36.598 many places, and a few steps have been replaced with wooden boards.  A
+00:13:36.599 pool of dried blood lays in one corner of the stairwell, indicating some
+00:13:36.600 sort of gruesomeness has occurred here, which is not surprising,
+00:13:36.601 considering the clientele.  The stairs ascend to the second story, and
+00:13:36.602 cursing and raucous laughter can be heard coming from below.
+00:13:36.603 Exits: - North - East  - West  - Up    - Down                          [48603] 
+00:13:36.604 The flea board of Viperstongue Outpost hangs here, covered in blood. 
+00:13:36.604 A well distinguished auctioneer stands here ready to sell your items.
+
+00:13:36.607 < 453h/352H 165v/166V P: std >     
+
+00:13:37.184 [Searching... Exits matched room#: 7017 : A Dark Stairwell]
+00:13:39.617 Auction list
+
+00:13:39.618 item#)    item id                                item description            bid      bidinc        top bidder time 
+00:13:39.618 status seller
+00:13:39.620 ====== ========== =============================================== ============== =========== ================= ====
+00:13:39.620 ======= ======
+00:13:39.623     2)     111025                  the medallion of the hive king             10           1         Teyolalil 13 d   
+00:13:39.623 OPEN Lilithelle
+00:13:39.626     3)     111026                    a helm of Clangeddin's might            210          10         You (500) 13 d   
+00:13:39.626 OPEN Lilithelle
+00:13:39.629     4)     111027 a star-metal chainmail hood of boundless thought            500          50         Kazgabope 13 d   
+00:13:39.629 OPEN Lilithelle
+00:13:39.632     5)     111028                  a chalice of glorious sanctity            500          50         You (500) 13 d   
+00:13:39.632 OPEN Lilithelle
+00:13:39.635     6)     111029                      a suit of supple chainmail          1,005           5       You (1,100) 13 d   
+00:13:39.635 OPEN Lilithelle
+00:13:39.637     7)     111030      a small oaken drum wrapped with dragonhide             50           5         You (100) 13 d   
+00:13:39.637 OPEN Lilithelle
+00:13:39.640     8)     111031                             a ring of ironguard          2,100         100              Selo 13 d   
+00:13:39.640 OPEN Lilithelle
+00:13:39.642     9)     111032                             a staff of radiance            100          10         Kazgabope 13 d   
+00:13:39.642 OPEN Lilithelle
+00:13:39.646    10)     111033        a laminated harp strung with sirine hair            200          20             Resge 13 d   
+00:13:39.646 OPEN Lilithelle
+00:13:39.649    11)     111034             some lavish shoes with arcane runes            505           5           Gerupar 13 d   
+00:13:39.649 OPEN Lilithelle
+00:13:39.651    12)     111035     some adamantine greaves inlayed with rubies             25           5           Gerupar 13 d   
+00:13:39.651 OPEN Lilithelle
+00:13:39.654    13)     111036                                 an opal earring             25           5         Kazgabope 13 d   
+00:13:39.654 OPEN Lilithelle
+00:13:39.657    14)     111037    a boneshell balalaika strung with elven hair          1,100         100             Onack 13 d   
+00:13:39.657 OPEN Lilithelle
+00:13:39.659    15)     111038               a silvery suit of elven chainmail          1,000         100         Kazgabope 13 d   
+00:13:39.659 OPEN Lilithelle
+00:13:39.662    16)     111039     a huge adamantium mace enshrouded with mist             10           1             Gudug 13 d   
+00:13:39.662 OPEN Lilithelle
+
+00:13:39.706 < 451h/352H 166v/166V P: std >     
+
+00:13:45.200 Your magic armor fades away.
+
+00:13:45.201 < 448h/352H 166v/166V P: std >     
+00:13:45.363 You start chanting... [Casting: AUCTION LIST O ()]
+
+00:13:45.450 < 448h/352H 166v/166V P: std >     
+
+00:13:46.694 Casting: Armor *
+
+00:13:46.694 < 448h/352H 166v/166V P: std >     
+
+00:13:47.707 Casting: Armor 
+
+00:13:47.708 < 447h/352H 166v/166V P: std >     
+
+00:13:48.205 You cast the spell 'Armor'.
+00:13:48.205 Bands of magic armor wrap around you!
+
+00:13:48.206 < 447h/352H 166v/166V P: std >     
+00:13:50.119 You aren't wearing anything!
+
+00:13:50.197 < 446h/352H 166v/166V P: std >     
+
+00:13:53.620           Score information for Yazassa
+
+00:13:53.621 Level: 50   Race: Yuan-Ti   Class: Cleric      
+00:13:53.626 Hit points: 444(352)   PSP's: 389(389)   Moves: 166(166)
+00:13:53.627 Experience Progress: 102 % 
+00:13:53.627 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+00:13:53.710 Coins in bank: 1898 platinum     7 gold     8 silver     0 copper
+00:13:53.711 Prestige: 5805   Acheron Kill Count: 0
+00:13:53.712 Name status: Pending
+00:13:53.712 Citizen of:   Hyssk
+00:13:53.712 Outcast from: Griffon's Nest
+00:13:53.712 Playing time: 2 days / 5 hours / 42 minutes
+00:13:53.713 Title: 
+00:13:53.713 Status:  Standing.
+00:13:53.713 Detecting:       Heat
+
+00:13:53.713 Active Powers:
+00:13:53.713 --------------
+00:13:53.713 Armor
+
+00:13:53.714 < 444h/352H 166v/166V P: std >     
+00:13:57.881 Auction list
+
+00:13:57.881 item#)    item id                                item description            bid      bidinc        top bidder time 
+00:13:57.881 status seller
+00:13:57.884 ====== ========== =============================================== ============== =========== ================= ====
+00:13:57.884 ======= ======
+00:13:57.886     2)     111025                  the medallion of the hive king             10           1         Teyolalil 13 d   
+00:13:57.886 OPEN Lilithelle
+00:13:57.889     3)     111026                    a helm of Clangeddin's might            210          10         You (500) 13 d   
+00:13:57.889 OPEN Lilithelle
+00:13:57.892     4)     111027 a star-metal chainmail hood of boundless thought            500          50         Kazgabope 13 d   
+00:13:57.892 OPEN Lilithelle
+00:13:57.894     5)     111028                  a chalice of glorious sanctity            500          50         You (500) 13 d   
+00:13:57.894 OPEN Lilithelle
+00:13:57.898     6)     111029                      a suit of supple chainmail          1,005           5       You (1,100) 13 d   
+00:13:57.898 OPEN Lilithelle
+00:13:57.901     7)     111030      a small oaken drum wrapped with dragonhide             50           5         You (100) 13 d   
+00:13:57.901 OPEN Lilithelle
+00:13:57.904     8)     111031                             a ring of ironguard          2,100         100              Selo 13 d   
+00:13:57.904 OPEN Lilithelle
+00:13:57.906     9)     111032                             a staff of radiance            100          10         Kazgabope 13 d   
+00:13:57.906 OPEN Lilithelle
+00:13:57.909    10)     111033        a laminated harp strung with sirine hair            200          20             Resge 13 d   
+00:13:57.909 OPEN Lilithelle
+00:13:57.912    11)     111034             some lavish shoes with arcane runes            505           5           Gerupar 13 d   
+00:13:57.912 OPEN Lilithelle
+00:13:57.915    12)     111035     some adamantine greaves inlayed with rubies             25           5           Gerupar 13 d   
+00:13:57.915 OPEN Lilithelle
+00:13:57.917    13)     111036                                 an opal earring             25           5         Kazgabope 13 d   
+00:13:57.917 OPEN Lilithelle
+00:13:57.920    14)     111037    a boneshell balalaika strung with elven hair          1,100         100             Onack 13 d   
+00:13:57.920 OPEN Lilithelle
+00:13:57.923    15)     111038               a silvery suit of elven chainmail          1,000         100         Kazgabope 13 d   
+00:13:57.923 OPEN Lilithelle
+00:13:57.926    16)     111039     a huge adamantium mace enshrouded with mist             10           1             Gudug 13 d   
+00:13:57.926 OPEN Lilithelle
+
+00:13:57.970 < 442h/352H 166v/166V P: std >     
+00:14:13.960 Auction list
+
+00:14:13.961 item#)    item id                                item description            bid      bidinc        top bidder time 
+00:14:13.961 status seller
+00:14:13.964 ====== ========== =============================================== ============== =========== ================= ====
+00:14:13.964 ======= ======
+00:14:13.967     1)     111016               a set of adamantite chain sleeves            100          10             Gogol  N/A  
+00:14:13.967 BUYER Lilithelle
+00:14:13.969     2)     111025                  the medallion of the hive king             10           1         Teyolalil 13 d   
+00:14:13.969 OPEN Lilithelle
+00:14:13.972     3)     111026                    a helm of Clangeddin's might            210          10         You (500) 13 d   
+00:14:13.972 OPEN Lilithelle
+00:14:13.974     4)     111027 a star-metal chainmail hood of boundless thought            500          50         Kazgabope 13 d   
+00:14:13.974 OPEN Lilithelle
+00:14:13.977     5)     111028                  a chalice of glorious sanctity            500          50         You (500) 13 d   
+00:14:13.977 OPEN Lilithelle
+00:14:13.980     6)     111029                      a suit of supple chainmail          1,005           5       You (1,100) 13 d   
+00:14:13.980 OPEN Lilithelle
+00:14:13.983     7)     111030      a small oaken drum wrapped with dragonhide             50           5         You (100) 13 d   
+00:14:13.983 OPEN Lilithelle
+00:14:13.986     8)     111031                             a ring of ironguard          2,100         100              Selo 13 d   
+00:14:13.986 OPEN Lilithelle
+00:14:13.989     9)     111032                             a staff of radiance            100          10         Kazgabope 13 d   
+00:14:13.989 OPEN Lilithelle
+00:14:13.992    10)     111033        a laminated harp strung with sirine hair            200          20             Resge 13 d   
+00:14:13.992 OPEN Lilithelle
+00:14:13.994    11)     111034             some lavish shoes with arcane runes            505           5           Gerupar 13 d   
+00:14:13.994 OPEN Lilithelle
+00:14:13.997    12)     111035     some adamantine greaves inlayed with rubies             25           5           Gerupar 13 d   
+00:14:13.997 OPEN Lilithelle
+00:14:14.000    13)     111036                                 an opal earring             25           5         Kazgabope 13 d   
+00:14:14.000 OPEN Lilithelle
+00:14:14.003    14)     111037    a boneshell balalaika strung with elven hair          1,100         100             Onack 13 d   
+00:14:14.003 OPEN Lilithelle
+00:14:14.006    15)     111038               a silvery suit of elven chainmail          1,000         100         Kazgabope 13 d   
+00:14:14.006 OPEN Lilithelle
+00:14:14.009    16)     111039     a huge adamantium mace enshrouded with mist             10           1             Gudug 13 d   
+00:14:14.009 OPEN Lilithelle
+
+00:14:14.129 < 435h/352H 166v/166V P: std >     
+00:14:15.650                
+
+00:14:15.849 The Viperstongue Tavern
+00:14:15.850    The ground floor of this ruined building has been converted into a
+00:14:15.851 sprawling, seedy tavern.  In the center of the stone floor there rests a
+00:14:15.852 dilapidated circular wooden bar, around which is placed a variety of
+00:14:15.853 splintered old stools.  Scattered throughout the bare stone room are
+00:14:15.854 several wobbly wooden tables, all spaced far apart for maximum privacy. 
+00:14:15.854 A motley collection of thoroughly seedy patrons occupy the tavern, from
+00:14:15.856 pirates to bounty hunters and every other sort of assorted scum.  This
+00:14:15.857 outpost seems to serve as a base and meeting place for some of the most
+00:14:15.858 villainous criminals of the southern coast.  Several dim lanterns
+00:14:15.859 provide a dim, flickering illumination here, ideal for conducting shady
+00:14:15.860 business in private.   Dreary music coming from a makeshift stage to the
+00:14:15.861 north accompanies the raucous laughter of the tavern patrons, who seem
+00:14:15.862 to be constantly on the verge of a wide-scale brawl.
+00:14:15.863 Exits: - North - East  - South - West                  [7008] 
+00:14:15.864 A gaping hole in the ground leads into darkness. 
+00:14:15.864 A handsome smuggler sprawls across a chair here, laughing drunkenly.
+00:14:15.866 A Thayvian bounty hunter stands in the corner, fingering his dagger.
+00:14:15.867 A vicious mercenary sits here, chugging a bottle of ale. (x2)
+00:14:15.868 A drow assassin sits here, looking around suspiciously.
+00:14:15.868 A half-orc bartender stands behind the bar serving drinks.
+00:14:15.869 Krelg Blackshield stands here, practicing a swordstroke.
+
+00:14:15.870 < 434h/352H 165v/166V P: std >     
+00:14:19.184 You enter something and reappear elsewhere...
+00:14:19.185                
+
+00:14:19.360 Wayward House Inn (Shadowed)
+00:14:19.361    This elegant wood building has been constructed on the stone
+00:14:19.362 foundation of the Inn of Wayward Sages.  Charring can still be seen on
+00:14:19.363 the stone from when the original building burned down.  Originally an
+00:14:19.364 inn with less then reputable clientele the inn has become more classy
+00:14:19.365 with a well stocked wine cellar.  A number of tables and chairs lie
+00:14:19.366 about the room casually and a long oak counter fills one end of the
+00:14:19.366 room.
+00:14:19.366 Exits: - North - Up     [7008] 
+00:14:19.367 A gaping hole in the ground leads into darkness. 
+00:14:19.367 Ixehixxih  (Illithid) stands here.
+00:14:19.368 Pilple  (Halfling) stands in mid-air here.
+00:14:19.368 Teyolalil  (Gnome) stands here.
+00:14:19.369 Ynndchiarhlizz - The Nexus (Illithid) sits resting.
+00:14:19.369 Havorr Merendil stands behind the counter ready to serve.
+00:14:19.371 A showy merchant sits here looking smug. (x3)
+00:14:19.372 A dapper noble is here socializing. (x3)
+
+00:14:19.373 < 432h/352H 166v/166V P: std >     
+00:14:19.952                
+
+00:14:20.118 The Upstairs of the Wayward House Inn
+00:14:20.119    Like most of the building the upstairs is made of maple, a rich wood
+00:14:20.120 that gives the inn a warm feel.  The boards have been well carved and
+00:14:20.121 fit closely together, only admitting light through the shuttered
+00:14:20.122 windows.  This floor consists of several rooms available for rent.
+00:14:20.123 Each room has its own lock on the door to ensure privacy.
+00:14:20.123 Exits: - Down          [7008] 
+00:14:20.124 Sylvana  (Half-Elf) stands here.
+00:14:20.124 Jhalessa Shorncrown stands here tidying up.
+
+00:14:20.125 < 432h/352H 165v/166V P: std >     
+
+00:14:20.685 [Searching... Match found: Silverymoon, Gem of the North : The Upstairs of the Wayward House Inn : 48604]
+00:14:20.738 You are carrying:
+00:14:20.738 Nothing.
+
+00:14:20.949 < 432h/352H 165v/166V P: std >     
+00:14:22.621 Jhalessa Shorncrown tells you 'It will cost you nothing to rent.'
+00:14:22.632 Jhalessa Shorncrown stores your stuff in the safe, and shows you to your room.
+
+00:14:22.633 Characters:
+00:14:22.633 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+00:14:22.688   1) Rufa                      Level 16 Warrior (Troll)
+00:14:22.689   2) Sedesee                   Level 18 Necromancer (Drow Elf)
+00:14:22.690   3) Zaba                      Level  1 Shaman (Ogre)
+00:14:22.691   4) Pukadito                  Level  1 Cleric (Duergar)
+00:14:22.691   5) Fibba                     Level  1 Battlechanter (Orc)
+00:14:22.692   6) Zissato                   Level  1 Sorcerer (Yuan-Ti)
+00:14:22.693   7) Sesesa                    Level  1 Invoker (Drow Elf)
+00:14:22.694   8) Cillicissin               Level  1 Psionicist (Illithid)
+00:14:22.694   9) Sulonwuka                 Level  1 Hexblade (Duergar)
+00:14:22.696  10) Tusso                     Level  1 Elementalist (Yuan-Ti)
+00:14:22.697  11) Milore                    Level 19 Rogue (Human)
+00:14:22.698  12) Unamimo                   Level  1 Ranger (Moon Elf)
+00:14:22.698  13) Cameshu                   Level  1 Druid (Moon Elf)
+00:14:22.699  14) Lirayu                    Level  1 Enchanter (Moon Elf)
+00:14:22.700  15) Tahane                    Level  1 Wizard (Moon Elf)
+00:14:22.700  16) Bonya                     Level  1 Wizard (Human)
+00:14:22.701  17) Belele                    Level  1 Paladin (Halfling)
+00:14:22.702  18) Oneba                     Level  1 Blackguard (Drow Elf)
+00:14:22.702  19) Elbama                    Level  1 Bard (Moon Elf)
+00:14:22.703  20) Noleamca                  Level  1 Paladin (Moon Elf)
+00:14:22.704  21) Tiku                      Level  1 Battlechanter (Orc)
+00:14:22.704  22) Hivo                      Level  5 Blackguard (Half-Orc)
+00:14:22.705  23) Dapo                      Level 16 Hexblade (Orc)
+00:14:22.706  24) Bitule                    Level  1 Ranger (Halfling)
+00:14:22.706  25) Moge                      Level  1 Shaman (Orc)
+00:14:22.707  26) Ssamo                     Level  7 Cleric (Yuan-Ti)
+00:14:22.707  27) Inapa                     Level  1 Ranger (Half-Orc)
+00:14:22.708  28) Cudu                      Level  1 Shaman (Troll)
+00:14:22.708  29) Hufu                      Level 19 Warrior (Troll)
+00:14:22.709  30) Elsesa                    Level  1 Warrior (Drow Elf)
+00:14:22.710  31) Zanga                     Level 19 Warrior (Ogre)
+00:14:22.710  32) Sibbi                     Level 19 Hexblade (Orc)
+00:14:22.711  33) Rupi                      Level  1 Paladin (Shield Dwarf)
+00:14:22.712  34) Asli                      Level 19 Rogue (Human)
+00:14:22.712  35) Ageka                     Level  8 Rogue (Half-Orc)
+00:14:22.713  36) Juja                      Level 15 Warrior (Orc)
+00:14:22.714  37) Puwa                      Level  7 Shaman (Troll)
+00:14:22.714  38) Kazgabope                 Level 50 Blackguard (Duergar)
+00:14:22.714  39) Renelay                   Level  1 Bard (Half-Elf)
+00:14:22.716  40) Yuneme                    Level  1 Bard (Human)
+00:14:22.717  41) Atase                     Level  1 Bard (Human)
+00:14:22.717  42) Nefe                      Level 18 Rogue (Human)
+00:14:22.718  43) Rassa                     Level  1 Sorcerer (Human)
+00:14:22.718  44) Medo                      Level  5 Elementalist (Human)
+00:14:22.719  45) Tafla                     Level 19 Bard (Half-Orc)
+00:14:22.720  46) Biha                      Level 50 Rogue (Human)
+00:14:22.720  47) Suhu                      Level 50 Warrior (Troll)
+00:14:22.721  48) Newotee                   Level 32 Hexblade (Drow Elf)
+00:14:22.722  49) Tararotuta                Level  1 Wizard (Duergar)
+00:14:22.722  50) Bobaroru                  Level  9 Elementalist (Duergar)
+00:14:22.723  51) Yazassa                   Level 50 Cleric (Yuan-Ti)
+00:14:22.724  52) Meliya                    Level  1 Paladin (Moon Elf)
+00:14:22.725  53) Giwa                      Level 39 Battlechanter (Orc)
+00:14:22.725  54) Mivo                      Level 46 Shaman (Orc)
+00:14:22.726  55) Farda                     Level  8 Bard (Shield Dwarf)
+00:14:22.726  56) Elbana                    Level  1 Paladin (Half-Orc)
+00:14:22.727  57) Pagmixa                   Level  1 Sorcerer (Drow Elf)
+00:14:22.727  58) Nusu                      Level 50 Warrior (Ogre)
+00:14:22.728  59) Eqasebee                  Level  1 Enchanter (Drow Elf)
+00:14:22.729  60) Firumokag                 Level 15 Warrior (Duergar)
+00:14:22.729  61) Bopinbolil                Level 38 Enchanter (Gnome)
+00:14:22.730 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+00:14:22.730 Type the # or name of a character above to login or choose an action below.
+00:14:22.731 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+00:14:22.732 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+00:14:22.733 (E)nter description    | (D)elete character | (C)hange password
+00:14:22.734 (M)odify email address | (Q)uit
+00:14:22.734 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+00:14:22.734 Account email: zenevan420@gmail.com
+00:14:22.734 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+00:14:23.049 Your choice: 
+00:14:56.880 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+00:14:56.881                            Wizards
+00:14:56.881 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+00:14:56.881 The new Wizard class has arrived, with Illusionist as the first subclass. For
+00:14:56.883 more details on this update, please see the news link below.
+
+00:14:56.883 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+00:14:56.884 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+00:14:56.884 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+00:14:56.884 - http://www.torilmud.com/news/arcane-companions/
+
+00:14:56.885 Resources
+
+00:14:56.885 Discord    : https://discord.gg/t7edjzM
+00:14:56.886 Web Client : http://www.torilmud.com/login
+00:14:56.886 News       : http://news.torilmud.com/
+00:14:56.886 Issues     : https://github.com/torilmud/issues
+
+00:14:57.172 Retrieving rented items from storage...
+
+00:14:57.173         Welcome to TorilMUD
+
+00:14:57.173                
+
+00:14:57.179 The Upstairs of the Wayward House Inn
+00:14:57.179    Like most of the building the upstairs is made of maple, a rich wood
+00:14:57.180 that gives the inn a warm feel.  The boards have been well carved and
+00:14:57.181 fit closely together, only admitting light through the shuttered
+00:14:57.182 windows.  This floor consists of several rooms available for rent.
+00:14:57.183 Each room has its own lock on the door to ensure privacy.
+00:14:57.184 Exits: - Down          [48604] 
+00:14:57.184 Sylvana  (Half-Elf) stands here.
+00:14:57.184 Jhalessa Shorncrown stands here tidying up.
+
+Log session ending at 00:14:57 on Friday, 5 December 2025.

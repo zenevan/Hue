@@ -1,0 +1,236 @@
+Log session starting at 05:36:52 on Tuesday, 9 December 2025.
+
+05:36:52.880 < 694h/448H 170v/170V |3|3|3|3|2| P: std > 
+05:36:52.880 [Spellqueue cleared.]
+05:36:53.022 You will no longer see the mini-map when moving.
+
+05:36:53.271 < 693h/448H 170v/170V |3|3|3|3|2| P: std > You will now see the new prompt.
+05:36:53.519 < 693h/448H 170v/170V |3|3|3|3|2| P: std >Prompt option newline enabled.
+
+05:36:53.606 < 693h/448H 170v/170V |3|3|3|3|2| P: std >     
+
+05:36:53.853 Smartprompt toggled on.
+
+05:36:53.854 < 692h/448H 170v/170V |3|3|3|3|2| P: std >     
+
+05:36:54.103 There are no sub-classes currently available to your class.
+
+05:36:54.104 < 692h/448H 170v/170V |3|3|3|3|2| P: std >     
+
+05:36:54.355           Character attributes for Nilmoenmaeshirei
+
+05:36:54.356 Level: 50   Race: Moon Elf   Class: Paladin     
+05:36:54.356 [Creating self.Nilmoenmaeshirei]
+05:36:54.376 Size: Medium
+05:36:54.377 STR:  93  AGI: 100  DEX:  93  CON: 100
+05:36:54.377 POW:  70  INT:  70  WIS:  70  CHA:  70
+05:36:54.377 Armor Class: 100  (100 to -100)  Agility Bonus: -25
+05:36:54.378 Magic Resistance: 0 percent
+05:36:54.378 Hitroll: 7   Damroll: 3
+05:36:54.378 Alignment: Lawful Good
+05:36:54.379 Saving Throws: PAR[0]  ROD[0]  PET[0]  BRE[0]  SPE[0]
+05:36:54.379    Wimpy: not set
+05:36:54.379 Load carried: What load?
+05:36:54.379 Damage Resistance:
+05:36:54.379 Unarmd:    0% Slash :    0% Bludgn:    0% Pierce:    0% Range :    0% 
+05:36:54.381 Spells:    0% Fire  :    0% Cold  :    0% Elect :    0% Acid  :    0% 
+05:36:54.382 Sonic :    0% Poison:    0% Pos   :    0% Neg   :    0% Psi   :    0% 
+05:36:54.383 Mental:    0% Good  :    0% Evil  :    0% Law   :    0% Chaos :    0% 
+05:36:54.384 Force :    0% 
+
+05:36:54.384 < 692h/448H 170v/170V |3|3|3|3|2| P: std >     
+
+05:36:54.603           Score information for Nilmoenmaeshirei
+
+05:36:54.604 Level: 50   Race: Moon Elf   Class: Paladin     
+05:36:54.605 Hit points: 691(448)  Moves: 170(170)
+05:36:54.606 Experience Progress: 1106 % 
+05:36:54.606 Coins carried:    0 platinum     0 gold     0 silver     0 copper
+05:36:54.607 Coins in bank:  155 platinum  9330 gold  9710 silver  9150 copper
+05:36:54.608 Prestige: 6650   Acheron Kill Count: 0
+05:36:54.608 Name status: Approved
+05:36:54.608 Citizen of:   Baldur's Gate
+05:36:54.609 Playing time: 8 days / 2 hours / 53 minutes
+05:36:54.609 Title: 
+05:36:54.609 Status:  Standing.
+05:36:54.609 Detecting:       Evil Heat
+
+05:36:54.610 < 691h/448H 170v/170V |3|3|3|3|2| P: std >     
+
+05:36:54.860 You aren't wearing anything!
+
+05:36:54.882 < 691h/448H 170v/170V |3|3|3|3|2| P: std >     
+05:36:55.118 < 690h/448H 170v/170V |3|3|3|3|2| P: std >     
+
+05:36:55.359 < 690h/448H 170v/170V |3|3|3|3|2| P: std >     
+
+05:36:55.607 You are 0 XP (0.00%) away from your next level.
+
+05:36:55.608 < 690h/448H 170v/170V |3|3|3|3|2| P: std >     
+
+05:36:55.868 You haven't consented to anyone.
+
+05:36:55.869 Nilmoenmaeshirei is consenting you.
+
+05:36:55.869 < 689h/448H 170v/170V |3|3|3|3|2| P: std >     
+
+05:36:56.114 You will now see the mini-map when moving.
+
+05:36:56.115 < 689h/448H 170v/170V |3|3|3|3|2| P: std >     
+
+05:36:56.362 Prompt option newline disabled.
+
+05:36:56.527 < 689h/448H 170v/170V |3|3|3|3|2| P: std >Smartprompt toggled off.
+05:36:56.775 < 689h/448H 170v/170V |3|3|3|3|2| P: std >The Gentle Moon - Common Area (Shadowed)
+05:36:56.527 < 689h/448H 170v/170V |3|3|3|3|2| P: std >Smartprompt toggled off.
+05:36:56.882 [Setting statname to unset]
+05:36:56.888 [Setting rescuetype to basic]
+05:36:56.892 [All train triggers disabled]
+05:36:57.026 < 688h/448H 170v/170V |3|3|3|3|2| P: std >Prompt option newline enabled.
+
+05:36:57.105 < 688h/448H 170v/170V |3|3|3|3|2| P: std >     
+
+05:36:58.957 The innkeeper tells you 'It will cost you nothing to rent.'
+05:36:58.968 The innkeeper stores your stuff in the safe, and shows you to your room.
+
+05:36:58.970 Characters:
+05:36:58.970 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+05:36:58.970   1) Afu                       Level 50 Warrior (Troll)
+05:36:58.971   2) Deabnue                   Level 50 Invoker (Human)
+05:36:58.971   3) Gizep                     Level 50 Enchanter (Drow Elf)
+05:36:58.972   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+05:36:58.973   5) Newple                    Level 50 Rogue (Halfling)
+05:36:58.974   6) Mattah                    Level 50 Necromancer (Human)
+05:36:58.974   7) Rafi                      Level 50 Blackguard (Human)
+05:36:58.975   8) Digun                     Level 50 Warrior (Shield Dwarf)
+05:36:58.976   9) Risor                     Level 50 Rogue (Human)
+05:36:58.977  10) Islala                    Level 50 Bard (Moon Elf)
+05:36:58.977  11) Minolai                   Level 50 Ranger (Moon Elf)
+05:36:58.978  12) Poppibble                 Level 50 Ranger (Halfling)
+05:36:58.979  13) Simasel                   Level 50 Cleric (Moon Elf)
+05:36:58.979  14) Giru                      Level 50 Hexblade (Orc)
+05:36:58.979  15) Xaniver                   Level 50 Ranger (Half-Orc)
+05:36:58.981  16) Waf                       Level 49 Shaman (Barbarian)
+05:36:58.982  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+05:36:58.983  18) Gomble                    Level 50 Paladin (Halfling)
+05:36:58.983  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+05:36:58.984  20) Siho                      Level 50 Paladin (Half-Orc)
+05:36:58.985  21) Nidipizil                 Level 50 Paladin (Gnome)
+05:36:58.986  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+05:36:58.986  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+05:36:58.987  24) Naleni                    Level 50 Warrior (Moon Elf)
+05:36:58.988  25) Gukonata                  Level 50 Blackguard (Duergar)
+05:36:58.989  26) Uspi                      Level 50 Blackguard (Half-Orc)
+05:36:58.990  27) Tonga                     Level 50 Warrior (Ogre)
+05:36:58.990  28) Popebople                 Level 48 Enchanter (Gnome)
+05:36:58.991  29) Bago                      Level 50 Shaman (Ogre)
+05:36:58.991  30) Loyol                     Level 50 Bard (Halfling)
+05:36:58.992  31) Irsen                     Level 50 Druid (Human)
+05:36:58.992  32) Fanal                     Level 50 Rogue (Orc)
+05:36:58.993  33) Poromople                 Level 49 Invoker (Gnome)
+05:36:58.994  34) Coruduwat                 Level 43 Elementalist (Duergar)
+05:36:58.995  35) Luso                      Level 41 Paladin (Human)
+05:36:58.995  36) Ssassur                   Level 44 Illusionist (Yuan-Ti)
+05:36:58.996  37) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+05:36:58.997  38) Gorkl                     Level 29 Warrior (Ogre)
+05:36:58.998  39) Gapa                      Level 28 Battlechanter (Orc)
+05:36:58.998  40) Tazfap                    Level  1 Warrior (Drow Elf)
+05:36:58.999  41) Igunnokio                 Level 16 Ranger (Moon Elf)
+05:36:58.999  42) Tihep                     Level  6 Rogue (Drow Elf)
+05:36:59.001  43) Dobokin                   Level  1 Paladin (Half-Orc)
+05:36:59.002  44) Tamad                     Level  7 Paladin (Human)
+05:36:59.002  45) Pilferos                  Level  6 Rogue (Human)
+05:36:59.003  46) Tubor                     Level  1 Warrior (Ogre)
+05:36:59.004  47) Zorrax                    Level 13 Warrior (Troll)
+05:36:59.004  48) Muwede                    Level  1 Illusionist (Drow Elf)
+05:36:59.005  49) Woso                      Level 16 Druid (Half-Orc)
+05:36:59.006  50) Anisa                     Level 15 Blackguard (Half-Orc)
+05:36:59.007  51) Vodbadadva                Level 18 Rogue (Duergar)
+05:36:59.007  52) Lahla                     Level  1 Bard (Half-Orc)
+05:36:59.008  53) Lewo                      Level  8 Bard (Half-Orc)
+05:36:59.009  54) Dedad                     Level 11 Warrior (Drow Elf)
+05:36:59.010  55) Pige                      Level  1 Blackguard (Human)
+05:36:59.010  56) Bowo                      Level  1 Ranger (Half-Orc)
+05:36:59.011  57) Susu                      Level  7 Warrior (Ogre)
+05:36:59.011  58) Ohu                       Level 18 Warrior (Troll)
+05:36:59.012  59) Docuh                     Level  8 Warrior (Ogre)
+05:36:59.013  60) Simeramma                 Level 13 Ranger (Moon Elf)
+05:36:59.013  61) Efera                     Level  5 Necromancer (Drow Elf)
+05:36:59.014  62) Sehe                      Level 50 Rogue (Human)
+05:36:59.015  63) Haxu                      Level 12 Shaman (Troll)
+05:36:59.015  64) Lolele                    Level 20 Warrior (Halfling)
+05:36:59.016  65) Ssississa                 Level 17 Invoker (Yuan-Ti)
+05:36:59.017  66) Rifu                      Level 18 Hexblade (Half-Orc)
+05:36:59.018  67) Ginxa                     Level 14 Rogue (Half-Orc)
+05:36:59.018  68) Dogga                     Level 12 Warrior (Ogre)
+05:36:59.019  69) Ibo                       Level 12 Warrior (Barbarian)
+05:36:59.019  70) Cometa                    Level 11 Hexblade (Half-Orc)
+05:36:59.021  71) Amamal                    Level 18 Paladin (Moon Elf)
+05:36:59.022  72) Samile                    Level 14 Invoker (Drow Elf)
+05:36:59.022  73) Xulu                      Level 17 Shaman (Troll)
+05:36:59.023  74) Enyema                    Level 10 Invoker (Drow Elf)
+05:36:59.024  75) Nino                      Level  8 Shaman (Half-Orc)
+05:36:59.025  76) Upraeleolno               Level  1 Ranger (Moon Elf)
+05:36:59.025  77) Atesa                     Level 17 Necromancer (Drow Elf)
+05:36:59.026  78) Zic                       Level 12 Warrior (Barbarian)
+05:36:59.027  79) Eyata                     Level 12 Warrior (Drow Elf)
+05:36:59.028  80) Wowidomble                Level  3 Illusionist (Gnome)
+05:36:59.028  81) Hatra                     Level 10 Shaman (Half-Orc)
+05:36:59.029  82) Gobra                     Level 35 Shaman (Half-Orc)
+05:36:59.030  83) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+05:36:59.031  84) Legil                     Level  1 Invoker (Halfling)
+05:36:59.031  85) Onre                      Level  5 Rogue (Human)
+05:36:59.032  86) Krainor                   Level 17 Paladin (Human)
+05:36:59.032  87) Pipippaple                Level 50 Ranger (Gnome)
+05:36:59.033  88) Sijita                    Level 12 Necromancer (Drow Elf)
+05:36:59.034  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+05:36:59.035  90) Sewothe                   Level 20 Rogue (Drow Elf)
+05:36:59.035  91) Ixap                      Level 41 Hexblade (Half-Orc)
+05:36:59.036 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+05:36:59.036 Type the # or name of a character above to login or choose an action below.
+05:36:59.037 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+05:36:59.038 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+05:36:59.039 (E)nter description    | (D)elete character | (C)hange password
+05:36:59.058 (M)odify email address | (Q)uit
+05:36:59.059 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+05:36:59.361 Your choice: 
+05:37:01.964 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+05:37:01.966                            Wizards
+05:37:01.966 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+05:37:01.966 The new Wizard class has arrived, with Illusionist as the first subclass. For
+05:37:01.967 more details on this update, please see the news link below.
+
+05:37:01.968 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+05:37:01.969 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+05:37:01.969 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+05:37:01.969 - http://www.torilmud.com/news/arcane-companions/
+
+05:37:01.970 Resources
+
+05:37:01.970 Discord    : https://discord.gg/t7edjzM
+05:37:01.970 Web Client : http://www.torilmud.com/login
+05:37:01.971 News       : http://news.torilmud.com/
+05:37:01.971 Issues     : https://github.com/torilmud/issues
+
+05:37:02.054 Retrieving rented items from storage...
+
+05:37:02.055         Welcome to TorilMUD
+
+05:37:02.055 The Gentle Moon - Common Area (Shadowed)
+05:37:02.056    The inn has seen better days, once polished hard wood now looks
+05:37:02.057 bedraggled.  The walls are beginning to warp from the moist air, and
+05:37:02.058 small gaps admit marine air.  An old bar rest in the center of the room
+05:37:02.059 surrounded by tables.  People still come here to eat, and sometimes
+05:37:02.059 lodge.  Some come for the friendly atmosphere, some come to try to catch
+05:37:02.060 a glimpse of the fabled ghost said to haunt the premises.
+05:37:02.061 Exits: - North - East       [Map not in sync, type @find or scan to attempt resync] 
+05:37:02.075 A gaping hole in the ground leads into darkness. 
+05:37:02.076 Mizes - Fuzzybottom of the Valkurian Blades (Yuan-Ti) stands in mid-air here.(Red Aura)
+05:37:02.078 Riloesa  (Moon Elf) stands here.
+05:37:02.079 A tradesperson rests here with a drink in hand. (x3)
+05:37:02.079 A scantily-dressed server moves about the room looking awkward.
+05:37:02.081 The innkeeper stands behind the counter renting out rooms.
+
+Log session ending at 05:37:02 on Tuesday, 9 December 2025.

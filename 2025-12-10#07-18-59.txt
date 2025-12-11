@@ -1,0 +1,222 @@
+Log session starting at 07:18:59 on Wednesday, 10 December 2025.
+07:18:59.517 [  OK  ]  - Mudlet-lua API & Geyser Layout manager loaded.
+------------ 
+------------ 
+------------ 
+07:18:59.537 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TOTHE 
+------------ WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THEAUTHORS OR 
+------------ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,TORT OR 
+------------ OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS INTHE SOFTWARE.
+------------ 
+------------ 
+07:19:08.315 [Initializing NyyLIB...]
+------------ 
+07:19:08.316 Script version: 6/27/2023 NyyLIB013dev https://github.com/Nyyrazzilyss/NyyLIB
+07:19:08.375 [Loaded charData]
+07:19:12.470 [Consumable database cached: Potions, Scrolls, Poisons]
+07:19:12.470 [Initializing chat windows...]
+07:19:12.565 [Chat containers created]
+07:19:12.569 "map loaded from @map init"
+07:19:12.569 [Creating mapper window and loading mudlet saved data]
+07:19:12.589 [ INFO ]  - Reading map. Format version: 20. File:
+07:19:12.589             "C:/Users/zenev/.config/mudlet/profiles/Torilmud/map/2025-12-10#06-46-35map.dat",
+07:19:12.589             please wait...
+07:19:12.785 [ INFO ]  - Successfully read the map file (0.20s), checking some
+07:19:12.785             consistency details...
+07:19:12.785 [ INFO ]  - Map audit starting...
+07:19:12.936 [  OK  ]  - Auditing of map completed (0.15s). Enjoy your game...
+07:19:12.936 [  OK  ]  - Map loaded successfully (0.35s).
+------------ 
+07:19:12.986 [Resetting stats counters.]
+07:19:12.986 [NyyLIB initialized.]
+07:19:13.001 [ INFO ]  - Reading map. Format version: 20. File:
+07:19:13.001             "C:/Users/zenev/.config/mudlet/profiles/Torilmud/map/2025-12-10#06-46-35map.dat",
+07:19:13.001             please wait...
+07:19:13.150 [ INFO ]  - Successfully read the map file (0.15s), checking some
+07:19:13.150             consistency details...
+07:19:13.150 [ INFO ]  - Map audit starting...
+07:19:13.301 [  OK  ]  - Auditing of map completed (0.15s). Enjoy your game...
+07:19:13.301 [  OK  ]  - Map loaded successfully (0.3s).
+07:19:13.306 [ INFO ]  - Looking up the IP address of server: torilmud.org:9999 ...
+07:19:13.320 [ INFO ]  - The IP address of torilmud.org has been found. It is: 104.236.2.214
+07:19:13.320 [ INFO ]  - Trying to connect to 104.236.2.214:9999 ...
+07:19:13.360 [ INFO ]  - A connection has been established successfully.
+07:19:13.360                 
+07:19:13.360                 
+07:19:13.360 [Autoroller disabled.]
+
+07:19:13.993                            .,:7I::,.
+07:19:13.993                            :cTKKWWWWUOWm
+07:19:13.994                        .2ZWWWWWWWWWWWWAI        ,,..
+07:19:13.994                     .:mAWWWWW: 7..   .        2W2
+07:19:13.995                     7WWWAWG                  ,WWWBEAEAmGmUoII;..
+07:19:13.996                     NWEmAG                .cWWWEEBWBANEWWWWWWWWWWO.
+07:19:13.996                     pWBANp7;;.        .7SWWWWAKAmDDDmmOUOOSGGKmOSWWm:
+07:19:13.997       7Gm        .:.mWKmKmAWWWWWWWWWWWWWWWWApSGNpSOU2DKD2U222OKAD2DEWWt
+07:19:13.998       ,2B       ;2I,IWADKBAAEBEBBEEEWBEANKGpSDmKpSODDZSAD22ZZZCOKG2UmWWWI
+07:19:13.998       .,IU:..;CKBW7.;GAApKpKAAEEAANNAAANKKKKKNNKGGDODOUKK222CCTCTmKSK0TEWW
+07:19:13.998     ,.17;oGGpmmDGD:,.IWESUpKKKNBBEEBWWWWWWAKKAEKAANANKpKKGGGSmmmpUKWo    SW.
+07:19:14.000    ,,.o7I000ZTTCDO;.:.IWBmmNGGGmEWWWZZSKEWWWBAWWWWWWWBAABBWWNO22ONWWW     ,A
+07:19:14.001   .,,,tIco00T0ZUmBO.,::UKWKNNW7  ;0T       7AWK7,..:tKWEWWD.      .UW:     ;
+07:19:14.002   ,::,c0IctCTOKNpZO2:.,,0BEEEKN             Zp        7WW:          WW
+07:19:14.003  .;7;;;ZottZKS;    GN;.,II12BWW7 WWK.       .          AW           ;W
+07:19:14.004 ..;oot7722DS,       SAI7;.;IItZWWWWWW;.                WT           I.
+07:19:14.005  .;12C2CcWW          oWp:.;:t1;;77SKWWWZG.:.           0
+07:19:14.005   ;;TUT  .G;          ;0,;;IWWWp1,   ;ICUSWpo2Ao,.;
+07:19:14.006   ;;;G:    .         .c0:7KWK72WWWWASZIt117IZU2OmmANSKK7,7.
+07:19:14.006   .1tt2              ,KcUWW.      :12DKKEABWWWWWWWWWWWWWWWWKmO,.
+07:19:14.007    Im,W1              7KDAU;0.                ...:;7tZOKNWWWWWWWWO2;
+07:19:14.008    17:;W:              ,;T2DWW:                            .:7ZGEWWWAA;.
+07:19:14.009    .W   0;                  cWW7                                  ,I2EWWpI,
+07:19:14.010     :S.                      .IEBC1.                                  .1SNWG:
+07:19:14.010       ;                        7Wt                                        7OKG
+07:19:14.011                                 KWWc.                                       :SW
+07:19:14.012                                  OSc,                                         KS
+07:19:14.013                                                                               .E
+07:19:14.015                                                                               ,E
+07:19:14.016                                                                               T
+
+07:19:14.017    |''||''|  ..|''||   '||''|.   '||' '||'      '||    ||' '||'  '|' '||''|.
+07:19:14.018       ||    .|'    ||   ||   ||   ||   ||        |||  |||   ||    |   ||   ||
+07:19:14.019       ||    ||      ||  ||''|'    ||   ||        |'|..'||   ||    |   ||    ||
+07:19:14.020       ||    '|.     ||  ||   |.   ||   ||        | '|' ||   ||    |   ||    ||
+07:19:14.022      .||.    ''|...|'  .||.  '|' .||. .||.....| .|. | .||.   '|..'   .||...|'
+
+07:19:14.023                Original Diku Base: Hans Henrik, Katja Nyboe,
+07:19:14.023              Tom Madsen, Michael Seifert, and Sebastian Hammer.
+
+07:19:14.024                 Join us on Discord: https://discord.gg/t7edjzM
+07:19:14.025 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+07:19:14.025           Enter your account name or "new" to create a new account
+07:19:14.026   Existing players: Create a new account OR login with your primary character
+07:19:14.040   to get started. You can then link all of your characters to your new account.
+07:19:14.042 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+07:19:14.345 Account name: 
+
+07:19:19.652 Entering compressed mode.
+07:19:19.964 Password: 
+
+07:19:22.853 Characters:
+07:19:22.853 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+07:19:22.902   1) Rufa                      Level 16 Warrior (Troll)
+07:19:22.903   2) Sedesee                   Level 18 Necromancer (Drow Elf)
+07:19:22.904   3) Zaba                      Level  1 Shaman (Ogre)
+07:19:22.905   4) Pukadito                  Level  1 Cleric (Duergar)
+07:19:22.905   5) Fibba                     Level  1 Battlechanter (Orc)
+07:19:22.906   6) Zissato                   Level  1 Sorcerer (Yuan-Ti)
+07:19:22.907   7) Sesesa                    Level  1 Invoker (Drow Elf)
+07:19:22.907   8) Cillicissin               Level  1 Psionicist (Illithid)
+07:19:22.908   9) Sulonwuka                 Level  1 Hexblade (Duergar)
+07:19:22.909  10) Tusso                     Level  1 Elementalist (Yuan-Ti)
+07:19:22.909  11) Milore                    Level 19 Rogue (Human)
+07:19:22.910  12) Unamimo                   Level  1 Ranger (Moon Elf)
+07:19:22.911  13) Cameshu                   Level  1 Druid (Moon Elf)
+07:19:22.911  14) Lirayu                    Level  1 Enchanter (Moon Elf)
+07:19:22.912  15) Tahane                    Level  1 Wizard (Moon Elf)
+07:19:22.912  16) Bonya                     Level  1 Wizard (Human)
+07:19:22.913  17) Belele                    Level  1 Paladin (Halfling)
+07:19:22.914  18) Oneba                     Level  1 Blackguard (Drow Elf)
+07:19:22.914  19) Elbama                    Level  1 Bard (Moon Elf)
+07:19:22.915  20) Noleamca                  Level  1 Paladin (Moon Elf)
+07:19:22.916  21) Tiku                      Level  1 Battlechanter (Orc)
+07:19:22.916  22) Hivo                      Level  5 Blackguard (Half-Orc)
+07:19:22.917  23) Dapo                      Level 16 Hexblade (Orc)
+07:19:22.918  24) Bitule                    Level  1 Ranger (Halfling)
+07:19:22.918  25) Moge                      Level  1 Shaman (Orc)
+07:19:22.919  26) Ssamo                     Level  7 Cleric (Yuan-Ti)
+07:19:22.919  27) Inapa                     Level  1 Ranger (Half-Orc)
+07:19:22.921  28) Cudu                      Level  1 Shaman (Troll)
+07:19:22.921  29) Hufu                      Level 19 Warrior (Troll)
+07:19:22.922  30) Elsesa                    Level  1 Warrior (Drow Elf)
+07:19:22.923  31) Zanga                     Level 19 Warrior (Ogre)
+07:19:22.923  32) Sibbi                     Level 19 Hexblade (Orc)
+07:19:22.924  33) Rupi                      Level  1 Paladin (Shield Dwarf)
+07:19:22.925  34) Asli                      Level 19 Rogue (Human)
+07:19:22.925  35) Ageka                     Level  8 Rogue (Half-Orc)
+07:19:22.926  36) Juja                      Level 15 Warrior (Orc)
+07:19:22.926  37) Puwa                      Level  7 Shaman (Troll)
+07:19:22.927  38) Kazgabope                 Level 50 Blackguard (Duergar)
+07:19:22.928  39) Renelay                   Level  1 Bard (Half-Elf)
+07:19:22.928  40) Yuneme                    Level  1 Bard (Human)
+07:19:22.929  41) Atase                     Level  1 Bard (Human)
+07:19:22.930  42) Nefe                      Level 18 Rogue (Human)
+07:19:22.930  43) Rassa                     Level  1 Sorcerer (Human)
+07:19:22.931  44) Medo                      Level  5 Elementalist (Human)
+07:19:22.931  45) Tafla                     Level 19 Bard (Half-Orc)
+07:19:22.932  46) Biha                      Level 50 Rogue (Human)
+07:19:22.932  47) Suhu                      Level 50 Warrior (Troll)
+07:19:22.933  48) Newotee                   Level 32 Hexblade (Drow Elf)
+07:19:22.934  49) Tararotuta                Level  1 Wizard (Duergar)
+07:19:22.934  50) Bobaroru                  Level  9 Elementalist (Duergar)
+07:19:22.935  51) Yazassa                   Level 50 Cleric (Yuan-Ti)
+07:19:22.936  52) Meliya                    Level  1 Paladin (Moon Elf)
+07:19:22.936  53) Giwa                      Level 39 Battlechanter (Orc)
+07:19:22.937  54) Mivo                      Level 46 Shaman (Orc)
+07:19:22.938  55) Farda                     Level  8 Bard (Shield Dwarf)
+07:19:22.938  56) Elbana                    Level  1 Paladin (Half-Orc)
+07:19:22.939  57) Pagmixa                   Level  1 Sorcerer (Drow Elf)
+07:19:22.939  58) Nusu                      Level 50 Warrior (Ogre)
+07:19:22.941  59) Eqasebee                  Level  1 Enchanter (Drow Elf)
+07:19:22.942  60) Firumokag                 Level 15 Warrior (Duergar)
+07:19:22.942  61) Bopinbolil                Level 38 Enchanter (Gnome)
+07:19:22.943  62) Wonpopolidle              Level 17 Paladin (Gnome)
+07:19:22.943 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+07:19:22.944 Type the # or name of a character above to login or choose an action below.
+07:19:22.945 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+07:19:22.945 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+07:19:22.946 (E)nter description    | (D)elete character | (C)hange password
+07:19:22.947 (M)odify email address | (Q)uit
+07:19:22.947 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+07:19:22.947 Account email: zenevan420@gmail.com
+07:19:22.948 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+07:19:23.258 Your choice: 
+07:19:30.542 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+07:19:30.543                            Wizards
+07:19:30.543 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+07:19:30.543 The new Wizard class has arrived, with Illusionist as the first subclass. For
+07:19:30.544 more details on this update, please see the news link below.
+
+07:19:30.545 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+07:19:30.546 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+07:19:30.546 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+07:19:30.546 - http://www.torilmud.com/news/arcane-companions/
+
+07:19:30.547 Resources
+
+07:19:30.547 Discord    : https://discord.gg/t7edjzM
+07:19:30.547 Web Client : http://www.torilmud.com/login
+07:19:30.547 News       : http://news.torilmud.com/
+07:19:30.548 Issues     : https://github.com/torilmud/issues
+
+07:19:30.634 Retrieving rented items from storage...
+
+07:19:30.635         Welcome to TorilMUD
+
+07:19:30.635                
+
+07:19:30.635           |.-.|                  
+07:19:30.636           |   |--- ---           
+07:19:30.636           |.-.|.!.|.-.|          
+07:19:30.636        ----   |   |   ----       
+07:19:30.637       |.-.+.-.+.!. .-. .-.|      
+07:19:30.637        --------   --------       
+07:19:30.637               |.@.|              
+07:19:30.638                ---               
+07:19:30.639                 (x6)
+07:19:30.640 The Viperstongue Reception
+07:19:30.640    This room, actually little more than an oversized niche in the tavern's
+07:19:30.641 wall, houses a short scratched-up wooden counter, and a three-legged
+07:19:30.642 stool.  Numerous cobwebs occupy the thin space between the counter and
+07:19:30.643 the crumbling stone wall, infested with dozens of tiny black and red
+07:19:30.644 spiders.  Bloodstains and foul smelling chunks of vomit mar the stone
+07:19:30.645 floor's surface, and a small wooden torch bracketed to the wall casts a
+07:19:30.646 sickly green light across the counter.
+07:19:30.647 Exits: - North         [7018] 
+07:19:30.653 A large bulletin board is mounted here. 
+07:19:30.654 Kegor  (Human) stands here.
+07:19:30.654 A disgusting hag sits behind the counter here, picking a scab.
+
+Log session ending at 07:19:30 on Wednesday, 10 December 2025.

@@ -1,0 +1,564 @@
+Log session starting at 23:32:41 on Tuesday, 9 December 2025.
+23:32:41.459 [  OK  ]  - Mudlet-lua API & Geyser Layout manager loaded.
+------------ 
+------------ 
+------------ 
+23:32:41.479 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TOTHE 
+------------ WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THEAUTHORS OR 
+------------ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,TORT OR 
+------------ OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS INTHE SOFTWARE.
+------------ 
+------------ 
+23:32:41.479 [Initializing NyyLIB...]
+------------ 
+23:32:41.480 Script version: 6/27/2023 NyyLIB013dev https://github.com/Nyyrazzilyss/NyyLIB
+23:32:41.525 [Loaded charData]
+23:32:44.829 [Consumable database cached: Potions, Scrolls, Poisons]
+23:32:44.829 [Initializing chat windows...]
+23:32:44.912 [Chat containers created]
+23:32:44.915 "map loaded from @map init"
+23:32:44.915 [Creating mapper window and loading mudlet saved data]
+23:32:44.935 [ INFO ]  - Reading map. Format version: 20. File:
+23:32:44.935             "C:/Users/zenev/.config/mudlet/profiles/Torilmud/map/2025-12-09#23-32-22map.dat",
+23:32:44.935             please wait...
+23:32:45.129 [ INFO ]  - Successfully read the map file (0.20s), checking some
+23:32:45.129             consistency details...
+23:32:45.129 [ INFO ]  - Map audit starting...
+23:32:45.279 [  OK  ]  - Auditing of map completed (0.15s). Enjoy your game...
+23:32:45.280 [  OK  ]  - Map loaded successfully (0.35s).
+------------ 
+23:32:45.330 [Resetting stats counters.]
+23:32:45.330 [NyyLIB initialized.]
+23:32:45.342 [ INFO ]  - Reading map. Format version: 20. File:
+23:32:45.342             "C:/Users/zenev/.config/mudlet/profiles/Torilmud/map/2025-12-09#23-32-22map.dat",
+23:32:45.342             please wait...
+23:32:45.492 [ INFO ]  - Successfully read the map file (0.15s), checking some
+23:32:45.492             consistency details...
+23:32:45.492 [ INFO ]  - Map audit starting...
+23:32:45.648 [  OK  ]  - Auditing of map completed (0.16s). Enjoy your game...
+23:32:45.648 [  OK  ]  - Map loaded successfully (0.31s).
+23:32:45.651 [ INFO ]  - Looking up the IP address of server: torilmud.org:9999 ...
+23:32:45.724 [ INFO ]  - The IP address of torilmud.org has been found. It is: 104.236.2.214
+23:32:45.724 [ INFO ]  - Trying to connect to 104.236.2.214:9999 ...
+23:32:45.764 [ INFO ]  - A connection has been established successfully.
+23:32:45.764                 
+23:32:45.764                 
+23:32:45.764 [Autoroller disabled.]
+
+23:32:46.531                            .,:7I::,.
+23:32:46.531                            :cTKKWWWWUOWm
+23:32:46.532                        .2ZWWWWWWWWWWWWAI        ,,..
+23:32:46.532                     .:mAWWWWW: 7..   .        2W2
+23:32:46.533                     7WWWAWG                  ,WWWBEAEAmGmUoII;..
+23:32:46.533                     NWEmAG                .cWWWEEBWBANEWWWWWWWWWWO.
+23:32:46.534                     pWBANp7;;.        .7SWWWWAKAmDDDmmOUOOSGGKmOSWWm:
+23:32:46.535       7Gm        .:.mWKmKmAWWWWWWWWWWWWWWWWApSGNpSOU2DKD2U222OKAD2DEWWt
+23:32:46.535       ,2B       ;2I,IWADKBAAEBEBBEEEWBEANKGpSDmKpSODDZSAD22ZZZCOKG2UmWWWI
+23:32:46.536       .,IU:..;CKBW7.;GAApKpKAAEEAANNAAANKKKKKNNKGGDODOUKK222CCTCTmKSK0TEWW
+23:32:46.536     ,.17;oGGpmmDGD:,.IWESUpKKKNBBEEBWWWWWWAKKAEKAANANKpKKGGGSmmmpUKWo    SW.
+23:32:46.538    ,,.o7I000ZTTCDO;.:.IWBmmNGGGmEWWWZZSKEWWWBAWWWWWWWBAABBWWNO22ONWWW     ,A
+23:32:46.539   .,,,tIco00T0ZUmBO.,::UKWKNNW7  ;0T       7AWK7,..:tKWEWWD.      .UW:     ;
+23:32:46.540   ,::,c0IctCTOKNpZO2:.,,0BEEEKN             Zp        7WW:          WW
+23:32:46.541  .;7;;;ZottZKS;    GN;.,II12BWW7 WWK.       .          AW           ;W
+23:32:46.542 ..;oot7722DS,       SAI7;.;IItZWWWWWW;.                WT           I.
+23:32:46.543  .;12C2CcWW          oWp:.;:t1;;77SKWWWZG.:.           0
+23:32:46.543   ;;TUT  .G;          ;0,;;IWWWp1,   ;ICUSWpo2Ao,.;
+23:32:46.544   ;;;G:    .         .c0:7KWK72WWWWASZIt117IZU2OmmANSKK7,7.
+23:32:46.544   .1tt2              ,KcUWW.      :12DKKEABWWWWWWWWWWWWWWWWKmO,.
+23:32:46.545    Im,W1              7KDAU;0.                ...:;7tZOKNWWWWWWWWO2;
+23:32:46.546    17:;W:              ,;T2DWW:                            .:7ZGEWWWAA;.
+23:32:46.547    .W   0;                  cWW7                                  ,I2EWWpI,
+23:32:46.548     :S.                      .IEBC1.                                  .1SNWG:
+23:32:46.548       ;                        7Wt                                        7OKG
+23:32:46.549                                 KWWc.                                       :SW
+23:32:46.550                                  OSc,                                         KS
+23:32:46.552                                                                               .E
+23:32:46.553                                                                               ,E
+23:32:46.554                                                                               T
+
+23:32:46.555    |''||''|  ..|''||   '||''|.   '||' '||'      '||    ||' '||'  '|' '||''|.
+23:32:46.556       ||    .|'    ||   ||   ||   ||   ||        |||  |||   ||    |   ||   ||
+23:32:46.556       ||    ||      ||  ||''|'    ||   ||        |'|..'||   ||    |   ||    ||
+23:32:46.559       ||    '|.     ||  ||   |.   ||   ||        | '|' ||   ||    |   ||    ||
+23:32:46.573      .||.    ''|...|'  .||.  '|' .||. .||.....| .|. | .||.   '|..'   .||...|'
+
+23:32:46.575                Original Diku Base: Hans Henrik, Katja Nyboe,
+23:32:46.575              Tom Madsen, Michael Seifert, and Sebastian Hammer.
+
+23:32:46.576                 Join us on Discord: https://discord.gg/t7edjzM
+23:32:46.578 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:32:46.578           Enter your account name or "new" to create a new account
+23:32:46.579   Existing players: Create a new account OR login with your primary character
+23:32:46.579   to get started. You can then link all of your characters to your new account.
+23:32:46.581 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+23:32:46.895 Account name: 
+
+23:32:48.940 Entering compressed mode.
+23:32:49.254 Password: 
+
+23:32:51.097 Characters:
+23:32:51.098 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:32:51.098   1) Afu                       Level 50 Warrior (Troll)
+23:32:51.098   2) Deabnue                   Level 50 Invoker (Human)
+23:32:51.099   3) Gizep                     Level 50 Enchanter (Drow Elf)
+23:32:51.099   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+23:32:51.100   5) Newple                    Level 50 Rogue (Halfling)
+23:32:51.101   6) Mattah                    Level 50 Necromancer (Human)
+23:32:51.101   7) Rafi                      Level 50 Blackguard (Human)
+23:32:51.102   8) Digun                     Level 50 Warrior (Shield Dwarf)
+23:32:51.103   9) Risor                     Level 50 Rogue (Human)
+23:32:51.104  10) Islala                    Level 50 Bard (Moon Elf)
+23:32:51.104  11) Minolai                   Level 50 Ranger (Moon Elf)
+23:32:51.105  12) Poppibble                 Level 50 Ranger (Halfling)
+23:32:51.105  13) Simasel                   Level 50 Cleric (Moon Elf)
+23:32:51.106  14) Giru                      Level 50 Hexblade (Orc)
+23:32:51.106  15) Xaniver                   Level 50 Ranger (Half-Orc)
+23:32:51.108  16) Waf                       Level 49 Shaman (Barbarian)
+23:32:51.109  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+23:32:51.109  18) Gomble                    Level 50 Paladin (Halfling)
+23:32:51.110  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+23:32:51.111  20) Siho                      Level 50 Paladin (Half-Orc)
+23:32:51.111  21) Nidipizil                 Level 50 Paladin (Gnome)
+23:32:51.112  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+23:32:51.113  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+23:32:51.114  24) Naleni                    Level 50 Warrior (Moon Elf)
+23:32:51.114  25) Gukonata                  Level 50 Blackguard (Duergar)
+23:32:51.115  26) Uspi                      Level 50 Blackguard (Half-Orc)
+23:32:51.116  27) Tonga                     Level 50 Warrior (Ogre)
+23:32:51.116  28) Popebople                 Level 48 Enchanter (Gnome)
+23:32:51.117  29) Bago                      Level 50 Shaman (Ogre)
+23:32:51.118  30) Loyol                     Level 50 Bard (Halfling)
+23:32:51.118  31) Irsen                     Level 50 Druid (Human)
+23:32:51.118  32) Fanal                     Level 50 Rogue (Orc)
+23:32:51.119  33) Poromople                 Level 50 Invoker (Gnome)
+23:32:51.120  34) Coruduwat                 Level 43 Elementalist (Duergar)
+23:32:51.120  35) Luso                      Level 41 Paladin (Human)
+23:32:51.121  36) Ssassur                   Level 44 Wizard (Yuan-Ti)
+23:32:51.122  37) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+23:32:51.122  38) Gorkl                     Level 29 Warrior (Ogre)
+23:32:51.123  39) Gapa                      Level 28 Battlechanter (Orc)
+23:32:51.124  40) Tazfap                    Level  1 Warrior (Drow Elf)
+23:32:51.124  41) Igunnokio                 Level 16 Ranger (Moon Elf)
+23:32:51.125  42) Tihep                     Level  6 Rogue (Drow Elf)
+23:32:51.126  43) Dobokin                   Level  1 Paladin (Half-Orc)
+23:32:51.126  44) Tamad                     Level  7 Paladin (Human)
+23:32:51.128  45) Pilferos                  Level  6 Rogue (Human)
+23:32:51.128  46) Tubor                     Level  1 Warrior (Ogre)
+23:32:51.129  47) Zorrax                    Level 13 Warrior (Troll)
+23:32:51.129  48) Muwede                    Level  1 Illusionist (Drow Elf)
+23:32:51.130  49) Woso                      Level 16 Druid (Half-Orc)
+23:32:51.131  50) Anisa                     Level 15 Blackguard (Half-Orc)
+23:32:51.132  51) Vodbadadva                Level 18 Rogue (Duergar)
+23:32:51.132  52) Lahla                     Level  1 Bard (Half-Orc)
+23:32:51.133  53) Lewo                      Level  8 Bard (Half-Orc)
+23:32:51.133  54) Dedad                     Level 11 Warrior (Drow Elf)
+23:32:51.134  55) Pige                      Level  1 Blackguard (Human)
+23:32:51.135  56) Bowo                      Level  1 Ranger (Half-Orc)
+23:32:51.135  57) Susu                      Level  7 Warrior (Ogre)
+23:32:51.136  58) Ohu                       Level 18 Warrior (Troll)
+23:32:51.137  59) Docuh                     Level  8 Warrior (Ogre)
+23:32:51.137  60) Simeramma                 Level 13 Ranger (Moon Elf)
+23:32:51.138  61) Efera                     Level  5 Necromancer (Drow Elf)
+23:32:51.138  62) Sehe                      Level 50 Rogue (Human)
+23:32:51.139  63) Haxu                      Level 12 Shaman (Troll)
+23:32:51.140  64) Lolele                    Level 20 Warrior (Halfling)
+23:32:51.140  65) Ssississa                 Level 17 Invoker (Yuan-Ti)
+23:32:51.141  66) Rifu                      Level 18 Hexblade (Half-Orc)
+23:32:51.142  67) Ginxa                     Level 14 Rogue (Half-Orc)
+23:32:51.142  68) Dogga                     Level 12 Warrior (Ogre)
+23:32:51.143  69) Ibo                       Level 12 Warrior (Barbarian)
+23:32:51.144  70) Cometa                    Level 11 Hexblade (Half-Orc)
+23:32:51.144  71) Amamal                    Level 18 Paladin (Moon Elf)
+23:32:51.145  72) Samile                    Level 14 Invoker (Drow Elf)
+23:32:51.146  73) Xulu                      Level 17 Shaman (Troll)
+23:32:51.146  74) Enyema                    Level 10 Invoker (Drow Elf)
+23:32:51.146  75) Nino                      Level  8 Shaman (Half-Orc)
+23:32:51.148  76) Upraeleolno               Level  1 Ranger (Moon Elf)
+23:32:51.149  77) Atesa                     Level 17 Necromancer (Drow Elf)
+23:32:51.150  78) Zic                       Level 12 Warrior (Barbarian)
+23:32:51.150  79) Eyata                     Level 12 Warrior (Drow Elf)
+23:32:51.151  80) Wowidomble                Level  3 Illusionist (Gnome)
+23:32:51.152  81) Hatra                     Level 10 Shaman (Half-Orc)
+23:32:51.152  82) Gobra                     Level 35 Shaman (Half-Orc)
+23:32:51.153  83) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+23:32:51.154  84) Legil                     Level  1 Invoker (Halfling)
+23:32:51.155  85) Onre                      Level  5 Rogue (Human)
+23:32:51.156  86) Krainor                   Level 17 Paladin (Human)
+23:32:51.156  87) Pipippaple                Level 50 Ranger (Gnome)
+23:32:51.157  88) Sijita                    Level 12 Necromancer (Drow Elf)
+23:32:51.158  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+23:32:51.158  90) Sewothe                   Level 20 Rogue (Drow Elf)
+23:32:51.159  91) Ixap                      Level 41 Hexblade (Half-Orc)
+23:32:51.159 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:32:51.160 Type the # or name of a character above to login or choose an action below.
+23:32:51.161 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:32:51.161 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+23:32:51.162 (E)nter description    | (D)elete character | (C)hange password
+23:32:51.163 (M)odify email address | (Q)uit
+23:32:51.163 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+23:32:51.482 Your choice: 
+23:32:53.688 What character would you like to link?  
+23:32:56.436 Please enter Yazassa's password: 
+23:33:01.060 That character already belongs to an account!
+
+23:33:01.062 Characters:
+23:33:01.062 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:33:01.102   1) Afu                       Level 50 Warrior (Troll)
+23:33:01.104   2) Deabnue                   Level 50 Invoker (Human)
+23:33:01.104   3) Gizep                     Level 50 Enchanter (Drow Elf)
+23:33:01.105   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+23:33:01.106   5) Newple                    Level 50 Rogue (Halfling)
+23:33:01.106   6) Mattah                    Level 50 Necromancer (Human)
+23:33:01.107   7) Rafi                      Level 50 Blackguard (Human)
+23:33:01.107   8) Digun                     Level 50 Warrior (Shield Dwarf)
+23:33:01.108   9) Risor                     Level 50 Rogue (Human)
+23:33:01.109  10) Islala                    Level 50 Bard (Moon Elf)
+23:33:01.109  11) Minolai                   Level 50 Ranger (Moon Elf)
+23:33:01.110  12) Poppibble                 Level 50 Ranger (Halfling)
+23:33:01.111  13) Simasel                   Level 50 Cleric (Moon Elf)
+23:33:01.111  14) Giru                      Level 50 Hexblade (Orc)
+23:33:01.112  15) Xaniver                   Level 50 Ranger (Half-Orc)
+23:33:01.113  16) Waf                       Level 49 Shaman (Barbarian)
+23:33:01.113  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+23:33:01.113  18) Gomble                    Level 50 Paladin (Halfling)
+23:33:01.115  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+23:33:01.116  20) Siho                      Level 50 Paladin (Half-Orc)
+23:33:01.116  21) Nidipizil                 Level 50 Paladin (Gnome)
+23:33:01.117  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+23:33:01.117  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+23:33:01.118  24) Naleni                    Level 50 Warrior (Moon Elf)
+23:33:01.119  25) Gukonata                  Level 50 Blackguard (Duergar)
+23:33:01.120  26) Uspi                      Level 50 Blackguard (Half-Orc)
+23:33:01.120  27) Tonga                     Level 50 Warrior (Ogre)
+23:33:01.121  28) Popebople                 Level 48 Enchanter (Gnome)
+23:33:01.122  29) Bago                      Level 50 Shaman (Ogre)
+23:33:01.122  30) Loyol                     Level 50 Bard (Halfling)
+23:33:01.123  31) Irsen                     Level 50 Druid (Human)
+23:33:01.123  32) Fanal                     Level 50 Rogue (Orc)
+23:33:01.124  33) Poromople                 Level 50 Invoker (Gnome)
+23:33:01.125  34) Coruduwat                 Level 43 Elementalist (Duergar)
+23:33:01.125  35) Luso                      Level 41 Paladin (Human)
+23:33:01.126  36) Ssassur                   Level 44 Wizard (Yuan-Ti)
+23:33:01.127  37) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+23:33:01.128  38) Gorkl                     Level 29 Warrior (Ogre)
+23:33:01.129  39) Gapa                      Level 28 Battlechanter (Orc)
+23:33:01.129  40) Tazfap                    Level  1 Warrior (Drow Elf)
+23:33:01.130  41) Igunnokio                 Level 16 Ranger (Moon Elf)
+23:33:01.131  42) Tihep                     Level  6 Rogue (Drow Elf)
+23:33:01.131  43) Dobokin                   Level  1 Paladin (Half-Orc)
+23:33:01.132  44) Tamad                     Level  7 Paladin (Human)
+23:33:01.133  45) Pilferos                  Level  6 Rogue (Human)
+23:33:01.133  46) Tubor                     Level  1 Warrior (Ogre)
+23:33:01.134  47) Zorrax                    Level 13 Warrior (Troll)
+23:33:01.135  48) Muwede                    Level  1 Illusionist (Drow Elf)
+23:33:01.135  49) Woso                      Level 16 Druid (Half-Orc)
+23:33:01.136  50) Anisa                     Level 15 Blackguard (Half-Orc)
+23:33:01.136  51) Vodbadadva                Level 18 Rogue (Duergar)
+23:33:01.137  52) Lahla                     Level  1 Bard (Half-Orc)
+23:33:01.137  53) Lewo                      Level  8 Bard (Half-Orc)
+23:33:01.138  54) Dedad                     Level 11 Warrior (Drow Elf)
+23:33:01.139  55) Pige                      Level  1 Blackguard (Human)
+23:33:01.139  56) Bowo                      Level  1 Ranger (Half-Orc)
+23:33:01.140  57) Susu                      Level  7 Warrior (Ogre)
+23:33:01.141  58) Ohu                       Level 18 Warrior (Troll)
+23:33:01.141  59) Docuh                     Level  8 Warrior (Ogre)
+23:33:01.142  60) Simeramma                 Level 13 Ranger (Moon Elf)
+23:33:01.143  61) Efera                     Level  5 Necromancer (Drow Elf)
+23:33:01.143  62) Sehe                      Level 50 Rogue (Human)
+23:33:01.144  63) Haxu                      Level 12 Shaman (Troll)
+23:33:01.145  64) Lolele                    Level 20 Warrior (Halfling)
+23:33:01.145  65) Ssississa                 Level 17 Invoker (Yuan-Ti)
+23:33:01.146  66) Rifu                      Level 18 Hexblade (Half-Orc)
+23:33:01.147  67) Ginxa                     Level 14 Rogue (Half-Orc)
+23:33:01.148  68) Dogga                     Level 12 Warrior (Ogre)
+23:33:01.148  69) Ibo                       Level 12 Warrior (Barbarian)
+23:33:01.149  70) Cometa                    Level 11 Hexblade (Half-Orc)
+23:33:01.150  71) Amamal                    Level 18 Paladin (Moon Elf)
+23:33:01.150  72) Samile                    Level 14 Invoker (Drow Elf)
+23:33:01.151  73) Xulu                      Level 17 Shaman (Troll)
+23:33:01.152  74) Enyema                    Level 10 Invoker (Drow Elf)
+23:33:01.152  75) Nino                      Level  8 Shaman (Half-Orc)
+23:33:01.153  76) Upraeleolno               Level  1 Ranger (Moon Elf)
+23:33:01.154  77) Atesa                     Level 17 Necromancer (Drow Elf)
+23:33:01.155  78) Zic                       Level 12 Warrior (Barbarian)
+23:33:01.155  79) Eyata                     Level 12 Warrior (Drow Elf)
+23:33:01.156  80) Wowidomble                Level  3 Illusionist (Gnome)
+23:33:01.156  81) Hatra                     Level 10 Shaman (Half-Orc)
+23:33:01.158  82) Gobra                     Level 35 Shaman (Half-Orc)
+23:33:01.159  83) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+23:33:01.159  84) Legil                     Level  1 Invoker (Halfling)
+23:33:01.160  85) Onre                      Level  5 Rogue (Human)
+23:33:01.161  86) Krainor                   Level 17 Paladin (Human)
+23:33:01.161  87) Pipippaple                Level 50 Ranger (Gnome)
+23:33:01.162  88) Sijita                    Level 12 Necromancer (Drow Elf)
+23:33:01.163  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+23:33:01.163  90) Sewothe                   Level 20 Rogue (Drow Elf)
+23:33:01.164  91) Ixap                      Level 41 Hexblade (Half-Orc)
+23:33:01.165 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:33:01.165 Type the # or name of a character above to login or choose an action below.
+23:33:01.166 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:33:01.166 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+23:33:01.167 (E)nter description    | (D)elete character | (C)hange password
+23:33:01.168 (M)odify email address | (Q)uit
+23:33:01.168 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+23:33:01.481 Your choice: 
+23:33:13.210 What character would you like to link?  
+23:33:16.455 Please enter Yazassa's password: 
+23:33:19.562 That character already belongs to an account!
+
+23:33:19.563 Characters:
+23:33:19.563 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:33:19.609   1) Afu                       Level 50 Warrior (Troll)
+23:33:19.610   2) Deabnue                   Level 50 Invoker (Human)
+23:33:19.611   3) Gizep                     Level 50 Enchanter (Drow Elf)
+23:33:19.611   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+23:33:19.612   5) Newple                    Level 50 Rogue (Halfling)
+23:33:19.613   6) Mattah                    Level 50 Necromancer (Human)
+23:33:19.613   7) Rafi                      Level 50 Blackguard (Human)
+23:33:19.614   8) Digun                     Level 50 Warrior (Shield Dwarf)
+23:33:19.615   9) Risor                     Level 50 Rogue (Human)
+23:33:19.615  10) Islala                    Level 50 Bard (Moon Elf)
+23:33:19.616  11) Minolai                   Level 50 Ranger (Moon Elf)
+23:33:19.616  12) Poppibble                 Level 50 Ranger (Halfling)
+23:33:19.617  13) Simasel                   Level 50 Cleric (Moon Elf)
+23:33:19.618  14) Giru                      Level 50 Hexblade (Orc)
+23:33:19.618  15) Xaniver                   Level 50 Ranger (Half-Orc)
+23:33:19.619  16) Waf                       Level 49 Shaman (Barbarian)
+23:33:19.619  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+23:33:19.620  18) Gomble                    Level 50 Paladin (Halfling)
+23:33:19.621  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+23:33:19.622  20) Siho                      Level 50 Paladin (Half-Orc)
+23:33:19.622  21) Nidipizil                 Level 50 Paladin (Gnome)
+23:33:19.623  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+23:33:19.624  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+23:33:19.624  24) Naleni                    Level 50 Warrior (Moon Elf)
+23:33:19.625  25) Gukonata                  Level 50 Blackguard (Duergar)
+23:33:19.626  26) Uspi                      Level 50 Blackguard (Half-Orc)
+23:33:19.627  27) Tonga                     Level 50 Warrior (Ogre)
+23:33:19.628  28) Popebople                 Level 48 Enchanter (Gnome)
+23:33:19.628  29) Bago                      Level 50 Shaman (Ogre)
+23:33:19.629  30) Loyol                     Level 50 Bard (Halfling)
+23:33:19.630  31) Irsen                     Level 50 Druid (Human)
+23:33:19.630  32) Fanal                     Level 50 Rogue (Orc)
+23:33:19.631  33) Poromople                 Level 50 Invoker (Gnome)
+23:33:19.632  34) Coruduwat                 Level 43 Elementalist (Duergar)
+23:33:19.632  35) Luso                      Level 41 Paladin (Human)
+23:33:19.633  36) Ssassur                   Level 44 Wizard (Yuan-Ti)
+23:33:19.634  37) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+23:33:19.634  38) Gorkl                     Level 29 Warrior (Ogre)
+23:33:19.635  39) Gapa                      Level 28 Battlechanter (Orc)
+23:33:19.636  40) Tazfap                    Level  1 Warrior (Drow Elf)
+23:33:19.636  41) Igunnokio                 Level 16 Ranger (Moon Elf)
+23:33:19.637  42) Tihep                     Level  6 Rogue (Drow Elf)
+23:33:19.637  43) Dobokin                   Level  1 Paladin (Half-Orc)
+23:33:19.638  44) Tamad                     Level  7 Paladin (Human)
+23:33:19.638  45) Pilferos                  Level  6 Rogue (Human)
+23:33:19.639  46) Tubor                     Level  1 Warrior (Ogre)
+23:33:19.640  47) Zorrax                    Level 13 Warrior (Troll)
+23:33:19.640  48) Muwede                    Level  1 Illusionist (Drow Elf)
+23:33:19.641  49) Woso                      Level 16 Druid (Half-Orc)
+23:33:19.642  50) Anisa                     Level 15 Blackguard (Half-Orc)
+23:33:19.642  51) Vodbadadva                Level 18 Rogue (Duergar)
+23:33:19.643  52) Lahla                     Level  1 Bard (Half-Orc)
+23:33:19.644  53) Lewo                      Level  8 Bard (Half-Orc)
+23:33:19.644  54) Dedad                     Level 11 Warrior (Drow Elf)
+23:33:19.645  55) Pige                      Level  1 Blackguard (Human)
+23:33:19.646  56) Bowo                      Level  1 Ranger (Half-Orc)
+23:33:19.646  57) Susu                      Level  7 Warrior (Ogre)
+23:33:19.647  58) Ohu                       Level 18 Warrior (Troll)
+23:33:19.648  59) Docuh                     Level  8 Warrior (Ogre)
+23:33:19.649  60) Simeramma                 Level 13 Ranger (Moon Elf)
+23:33:19.649  61) Efera                     Level  5 Necromancer (Drow Elf)
+23:33:19.650  62) Sehe                      Level 50 Rogue (Human)
+23:33:19.651  63) Haxu                      Level 12 Shaman (Troll)
+23:33:19.651  64) Lolele                    Level 20 Warrior (Halfling)
+23:33:19.652  65) Ssississa                 Level 17 Invoker (Yuan-Ti)
+23:33:19.653  66) Rifu                      Level 18 Hexblade (Half-Orc)
+23:33:19.653  67) Ginxa                     Level 14 Rogue (Half-Orc)
+23:33:19.654  68) Dogga                     Level 12 Warrior (Ogre)
+23:33:19.655  69) Ibo                       Level 12 Warrior (Barbarian)
+23:33:19.655  70) Cometa                    Level 11 Hexblade (Half-Orc)
+23:33:19.656  71) Amamal                    Level 18 Paladin (Moon Elf)
+23:33:19.656  72) Samile                    Level 14 Invoker (Drow Elf)
+23:33:19.657  73) Xulu                      Level 17 Shaman (Troll)
+23:33:19.657  74) Enyema                    Level 10 Invoker (Drow Elf)
+23:33:19.658  75) Nino                      Level  8 Shaman (Half-Orc)
+23:33:19.659  76) Upraeleolno               Level  1 Ranger (Moon Elf)
+23:33:19.659  77) Atesa                     Level 17 Necromancer (Drow Elf)
+23:33:19.660  78) Zic                       Level 12 Warrior (Barbarian)
+23:33:19.661  79) Eyata                     Level 12 Warrior (Drow Elf)
+23:33:19.661  80) Wowidomble                Level  3 Illusionist (Gnome)
+23:33:19.662  81) Hatra                     Level 10 Shaman (Half-Orc)
+23:33:19.663  82) Gobra                     Level 35 Shaman (Half-Orc)
+23:33:19.663  83) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+23:33:19.664  84) Legil                     Level  1 Invoker (Halfling)
+23:33:19.665  85) Onre                      Level  5 Rogue (Human)
+23:33:19.666  86) Krainor                   Level 17 Paladin (Human)
+23:33:19.666  87) Pipippaple                Level 50 Ranger (Gnome)
+23:33:19.667  88) Sijita                    Level 12 Necromancer (Drow Elf)
+23:33:19.668  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+23:33:19.669  90) Sewothe                   Level 20 Rogue (Drow Elf)
+23:33:19.670  91) Ixap                      Level 41 Hexblade (Half-Orc)
+23:33:19.670 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:33:19.670 Type the # or name of a character above to login or choose an action below.
+23:33:19.672 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:33:19.672 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+23:33:19.673 (E)nter description    | (D)elete character | (C)hange password
+23:33:19.674 (M)odify email address | (Q)uit
+23:33:19.674 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+23:33:19.986 Your choice: 
+23:33:26.970 What character would you like to reorder? 
+23:33:33.641 That character does not belong to your account.
+
+23:33:33.642 Characters:
+23:33:33.642 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:33:33.690   1) Afu                       Level 50 Warrior (Troll)
+23:33:33.691   2) Deabnue                   Level 50 Invoker (Human)
+23:33:33.692   3) Gizep                     Level 50 Enchanter (Drow Elf)
+23:33:33.693   4) Ssussaxoz                 Level 50 Cleric (Yuan-Ti)
+23:33:33.693   5) Newple                    Level 50 Rogue (Halfling)
+23:33:33.694   6) Mattah                    Level 50 Necromancer (Human)
+23:33:33.695   7) Rafi                      Level 50 Blackguard (Human)
+23:33:33.695   8) Digun                     Level 50 Warrior (Shield Dwarf)
+23:33:33.696   9) Risor                     Level 50 Rogue (Human)
+23:33:33.697  10) Islala                    Level 50 Bard (Moon Elf)
+23:33:33.697  11) Minolai                   Level 50 Ranger (Moon Elf)
+23:33:33.698  12) Poppibble                 Level 50 Ranger (Halfling)
+23:33:33.698  13) Simasel                   Level 50 Cleric (Moon Elf)
+23:33:33.699  14) Giru                      Level 50 Hexblade (Orc)
+23:33:33.700  15) Xaniver                   Level 50 Ranger (Half-Orc)
+23:33:33.700  16) Waf                       Level 49 Shaman (Barbarian)
+23:33:33.701  17) Ilinnimon                 Level 50 Psionicist (Illithid)
+23:33:33.702  18) Gomble                    Level 50 Paladin (Halfling)
+23:33:33.702  19) Nilmoenmaeshirei          Level 50 Paladin (Moon Elf)
+23:33:33.703  20) Siho                      Level 50 Paladin (Half-Orc)
+23:33:33.704  21) Nidipizil                 Level 50 Paladin (Gnome)
+23:33:33.704  22) Trodar                    Level 50 Paladin (Shield Dwarf)
+23:33:33.705  23) Dumisa                    Level 50 Blackguard (Drow Elf)
+23:33:33.705  24) Naleni                    Level 50 Warrior (Moon Elf)
+23:33:33.707  25) Gukonata                  Level 50 Blackguard (Duergar)
+23:33:33.708  26) Uspi                      Level 50 Blackguard (Half-Orc)
+23:33:33.708  27) Tonga                     Level 50 Warrior (Ogre)
+23:33:33.709  28) Popebople                 Level 48 Enchanter (Gnome)
+23:33:33.710  29) Bago                      Level 50 Shaman (Ogre)
+23:33:33.710  30) Loyol                     Level 50 Bard (Halfling)
+23:33:33.711  31) Irsen                     Level 50 Druid (Human)
+23:33:33.712  32) Fanal                     Level 50 Rogue (Orc)
+23:33:33.712  33) Poromople                 Level 50 Invoker (Gnome)
+23:33:33.713  34) Coruduwat                 Level 43 Elementalist (Duergar)
+23:33:33.714  35) Luso                      Level 41 Paladin (Human)
+23:33:33.714  36) Ssassur                   Level 44 Wizard (Yuan-Ti)
+23:33:33.715  37) Ssissussu                 Level 46 Necromancer (Yuan-Ti)
+23:33:33.716  38) Gorkl                     Level 29 Warrior (Ogre)
+23:33:33.716  39) Gapa                      Level 28 Battlechanter (Orc)
+23:33:33.717  40) Tazfap                    Level  1 Warrior (Drow Elf)
+23:33:33.717  41) Igunnokio                 Level 16 Ranger (Moon Elf)
+23:33:33.718  42) Tihep                     Level  6 Rogue (Drow Elf)
+23:33:33.719  43) Dobokin                   Level  1 Paladin (Half-Orc)
+23:33:33.719  44) Tamad                     Level  7 Paladin (Human)
+23:33:33.720  45) Pilferos                  Level  6 Rogue (Human)
+23:33:33.721  46) Tubor                     Level  1 Warrior (Ogre)
+23:33:33.721  47) Zorrax                    Level 13 Warrior (Troll)
+23:33:33.722  48) Muwede                    Level  1 Illusionist (Drow Elf)
+23:33:33.723  49) Woso                      Level 16 Druid (Half-Orc)
+23:33:33.723  50) Anisa                     Level 15 Blackguard (Half-Orc)
+23:33:33.724  51) Vodbadadva                Level 18 Rogue (Duergar)
+23:33:33.725  52) Lahla                     Level  1 Bard (Half-Orc)
+23:33:33.725  53) Lewo                      Level  8 Bard (Half-Orc)
+23:33:33.725  54) Dedad                     Level 11 Warrior (Drow Elf)
+23:33:33.727  55) Pige                      Level  1 Blackguard (Human)
+23:33:33.728  56) Bowo                      Level  1 Ranger (Half-Orc)
+23:33:33.728  57) Susu                      Level  7 Warrior (Ogre)
+23:33:33.729  58) Ohu                       Level 18 Warrior (Troll)
+23:33:33.730  59) Docuh                     Level  8 Warrior (Ogre)
+23:33:33.730  60) Simeramma                 Level 13 Ranger (Moon Elf)
+23:33:33.731  61) Efera                     Level  5 Necromancer (Drow Elf)
+23:33:33.732  62) Sehe                      Level 50 Rogue (Human)
+23:33:33.732  63) Haxu                      Level 12 Shaman (Troll)
+23:33:33.733  64) Lolele                    Level 20 Warrior (Halfling)
+23:33:33.734  65) Ssississa                 Level 17 Invoker (Yuan-Ti)
+23:33:33.734  66) Rifu                      Level 18 Hexblade (Half-Orc)
+23:33:33.735  67) Ginxa                     Level 14 Rogue (Half-Orc)
+23:33:33.736  68) Dogga                     Level 12 Warrior (Ogre)
+23:33:33.736  69) Ibo                       Level 12 Warrior (Barbarian)
+23:33:33.737  70) Cometa                    Level 11 Hexblade (Half-Orc)
+23:33:33.737  71) Amamal                    Level 18 Paladin (Moon Elf)
+23:33:33.738  72) Samile                    Level 14 Invoker (Drow Elf)
+23:33:33.739  73) Xulu                      Level 17 Shaman (Troll)
+23:33:33.739  74) Enyema                    Level 10 Invoker (Drow Elf)
+23:33:33.740  75) Nino                      Level  8 Shaman (Half-Orc)
+23:33:33.741  76) Upraeleolno               Level  1 Ranger (Moon Elf)
+23:33:33.741  77) Atesa                     Level 17 Necromancer (Drow Elf)
+23:33:33.742  78) Zic                       Level 12 Warrior (Barbarian)
+23:33:33.743  79) Eyata                     Level 12 Warrior (Drow Elf)
+23:33:33.744  80) Wowidomble                Level  3 Illusionist (Gnome)
+23:33:33.744  81) Hatra                     Level 10 Shaman (Half-Orc)
+23:33:33.745  82) Gobra                     Level 35 Shaman (Half-Orc)
+23:33:33.745  83) Mashunonoenmio            Level  1 Elementalist (Moon Elf)
+23:33:33.747  84) Legil                     Level  1 Invoker (Halfling)
+23:33:33.748  85) Onre                      Level  5 Rogue (Human)
+23:33:33.748  86) Krainor                   Level 17 Paladin (Human)
+23:33:33.749  87) Pipippaple                Level 50 Ranger (Gnome)
+23:33:33.749  88) Sijita                    Level 12 Necromancer (Drow Elf)
+23:33:33.750  89) Jiwega                    Level 12 Necromancer (Drow Elf)
+23:33:33.751  90) Sewothe                   Level 20 Rogue (Drow Elf)
+23:33:33.752  91) Ixap                      Level 41 Hexblade (Half-Orc)
+23:33:33.752 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:33:33.752 Type the # or name of a character above to login or choose an action below.
+23:33:33.754 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+23:33:33.754 (N)ew character        | (L)ink character   | (U)nlink character | (R)eorder
+23:33:33.755 (E)nter description    | (D)elete character | (C)hange password
+23:33:33.756 (M)odify email address | (Q)uit
+23:33:33.756 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+23:33:34.077 Your choice: 
+23:33:38.622 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+23:33:38.623                            Wizards
+23:33:38.623 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+23:33:38.624 The new Wizard class has arrived, with Illusionist as the first subclass. For
+23:33:38.625 more details on this update, please see the news link below.
+
+23:33:38.626 - http://www.torilmud.com/news/spellbound-the-wizard-arrives/
+23:33:38.626 - http://www.torilmud.com/news/fear-and-shadows-illusionist-spells/
+23:33:38.626 - http://www.torilmud.com/news/arcane-foundations-wizard-core-spells/
+23:33:38.627 - http://www.torilmud.com/news/arcane-companions/
+
+23:33:38.627 Resources
+
+23:33:38.628 Discord    : https://discord.gg/t7edjzM
+23:33:38.628 Web Client : http://www.torilmud.com/login
+23:33:38.628 News       : http://news.torilmud.com/
+23:33:38.629 Issues     : https://github.com/torilmud/issues
+
+23:33:38.717 Retrieving rented items from storage...
+
+23:33:38.718         Welcome to TorilMUD
+
+23:33:38.718                
+
+23:33:38.720                                   (x5)
+23:33:38.720                ---               
+23:33:38.720               |.@.|              
+23:33:38.721                ---               
+23:33:38.723                 (x6)
+23:33:38.723 The Upstairs of the Wayward House Inn
+23:33:38.723    Like most of the building the upstairs is made of maple, a rich wood
+23:33:38.724 that gives the inn a warm feel.  The boards have been well carved and
+23:33:38.725 fit closely together, only admitting light through the shuttered
+23:33:38.726 windows.  This floor consists of several rooms available for rent.
+23:33:38.727 Each room has its own lock on the door to ensure privacy.
+23:33:38.728 Exits: - Down          [48604] 
+23:33:38.732 A sword with a peculiar looking blade lies here. 
+23:33:38.732 A small silver key lies here. 
+23:33:38.733 Jazar  (Barbarian) stands here.
+23:33:38.733 Lilithelle - Valkyrie - Shadows of Imphras (Moon Elf) stands here.
+23:33:38.734 Sylvana  (Half-Elf) stands here.
+23:33:38.734 Jhalessa Shorncrown stands here tidying up.
+23:33:38.735 Lilithelle cuddles Jazar affectionately.
+
+Log session ending at 23:33:39 on Tuesday, 9 December 2025.
